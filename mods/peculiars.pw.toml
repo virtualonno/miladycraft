@@ -1,0 +1,13 @@
+name = "Peculiars"
+filename = "peculiars-1.19.2-4.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5b750d5519e790c649a333a1c9e12a92ea9ba408"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5149857
+project-id = 418551

@@ -1,0 +1,13 @@
+name = "Time Control"
+filename = "timecontrol-1.19.2-1.1.3.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "da7fdc1066a3ae330225ddbb35d52d1d3fe5631f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4559411
+project-id = 303570

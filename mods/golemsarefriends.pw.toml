@@ -1,0 +1,13 @@
+name = "Golems Are Friends Not Fodder"
+filename = "golemsarefriends-1.19.2-0.1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d1198449c71abadba91107aaffc9cf533e58c825"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4088114
+project-id = 684459

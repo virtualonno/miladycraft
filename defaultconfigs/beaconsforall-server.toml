@@ -1,0 +1,6 @@
+#Set which creatures can be affected by beacons
+#Allowed Values: NONE, TAMED, PASSIVE, ALL
+creatureType = "TAMED"
+#Add specific creatures that can be affected by beacons
+additionalCreatures = []
+

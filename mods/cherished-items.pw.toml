@@ -1,0 +1,13 @@
+name = "Cherished Items"
+filename = "CherishedItems-Forge-1.19.2-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c7f1141fbc3d466c846ab644f216936f4b9288da"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4927598
+project-id = 946452

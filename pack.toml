@@ -1,0 +1,12 @@
+name = "Miladycraft_1.5"
+version = "1.5"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "967eded3ec6971d78cd10edb82df2939852b57f36b076700dca5a71ab400f414"
+
+[versions]
+forge = "43.4.0"
+minecraft = "1.19.2"

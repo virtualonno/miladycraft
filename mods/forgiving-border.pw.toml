@@ -1,0 +1,13 @@
+name = "Forgiving Border"
+filename = "ForgivingBorder-Forge-1.19.2-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "64364067c598b22311d6c0b9d90617a391716de2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4886156
+project-id = 940985

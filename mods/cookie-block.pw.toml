@@ -1,0 +1,13 @@
+name = "Cookie Block"
+filename = "cookieblock-1.19-1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4bdbbf8d14d029a708f718064cddd9521410c9a1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3829406
+project-id = 337099

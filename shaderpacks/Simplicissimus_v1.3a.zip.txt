@@ -1,0 +1,5 @@
+#Sun May 12 14:26:05 CEST 2024
+fogIntensity=0.6
+s_secondCloudLayer=true
+sunPathRotation=0.0
+vignette_enabled=true

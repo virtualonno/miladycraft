@@ -1,0 +1,13 @@
+name = "Simple Hats"
+filename = "simplehats-forge-1.19.2-0.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0b555b77de30135638adf6c512b304a8397b0408"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5349385
+project-id = 631990

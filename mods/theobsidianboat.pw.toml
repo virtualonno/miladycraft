@@ -1,0 +1,13 @@
+name = "TheObsidianBoat"
+filename = "ObsidianBoat-1.11.0-build.20+mc1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "41f23efed3e5343f0b86812d0ebb0a20f0b5ce7f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3924928
+project-id = 510648

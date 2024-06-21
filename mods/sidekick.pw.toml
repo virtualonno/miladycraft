@@ -1,0 +1,13 @@
+name = "Sidekick"
+filename = "sidekick-forge-2.0.5+1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "531aaecef45f6726325e7e2d55f7209afcebd204"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4748865
+project-id = 430573

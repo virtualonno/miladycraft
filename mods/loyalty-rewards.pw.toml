@@ -1,0 +1,13 @@
+name = "Loyalty Rewards"
+filename = "LoyaltyRewards-1.19.2-1.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fbab5b3ef0f6e2221a126e3732f476ae20a23ddd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4844182
+project-id = 298083

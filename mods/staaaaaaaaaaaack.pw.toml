@@ -1,0 +1,13 @@
+name = "Staaaaaaaaaaaack (Stxck)"
+filename = "staaaaaaaaaaaack-forge-1.19.2-1.4-63.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a2582f9498b9b0d23c22e6384b747e05f3dc2ea7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4699506
+project-id = 866957

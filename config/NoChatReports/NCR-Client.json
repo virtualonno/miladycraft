@@ -1,0 +1,22 @@
+{
+  "demandOnServer": true,
+  "showServerSafety": false,
+  "hideRedChatIndicators": true,
+  "hideYellowChatIndicators": true,
+  "hideGrayChatIndicators": true,
+  "hideWarningToast": true,
+  "alwaysHideReportButton": true,
+  "disableTelemetry": true,
+  "showReloadButton": false,
+  "whitelistAllServers": true,
+  "verifiedIconEnabled": false,
+  "showNCRButton": false,
+  "enableMod": true,
+  "skipRealmsWarning": true,
+  "verifiedIconOffsetX": 0,
+  "verifiedIconOffsetY": 0,
+  "reconnectAwaitSeconds": 4,
+  "postDisconnectAwaitSeconds": 10,
+  "signingCheckDelaySeconds": 43200,
+  "serverSigningChecks": {}
+}

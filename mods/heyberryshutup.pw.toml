@@ -1,0 +1,13 @@
+name = "Hey Berry! SHUT UP"
+filename = "heyberryshutup-1.19-0.2.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cddeaf1ecd6b8e4525808cfce19e494a3b966233"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3877558
+project-id = 634227

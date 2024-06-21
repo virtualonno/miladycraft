@@ -1,0 +1,13 @@
+name = "What The Bucket"
+filename = "WhatTheBucket-Forge-1.19.2-7.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9c3f7aaa8dfdf8a75585afe61936177701556c21"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4426885
+project-id = 633747

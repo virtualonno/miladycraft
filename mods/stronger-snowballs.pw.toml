@@ -1,0 +1,13 @@
+name = "Stronger Snowballs"
+filename = "StrongerSnowballs-Forge-1.19.2-9.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2f2e454355860d6acb2f923709b5db6c6dc2a918"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4058525
+project-id = 377548

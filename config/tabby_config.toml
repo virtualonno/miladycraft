@@ -1,0 +1,13 @@
+#The maximum players that can be rendered, set to 0 for the max to always be the current online player count
+max_count = 0
+#Set to true for the amount of rows to adapt based off how many players there are
+adaptive = true
+#The maximum rows that can be rendered, this value is not used if adaptive is set to true
+#Range: 1 ~ 100
+max_rows = 40
+#The amount to divide the players online by to determine how many rows will be rendered when adaptive is set to true
+#Formula: x / y = maxRows
+#Where x is the value of maxCount and y is the adaptiveDivisor value
+#Range: 1 ~ 10
+adaptive_divisor = 5
+
