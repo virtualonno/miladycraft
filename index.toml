@@ -1529,3337 +1529,3337 @@ file = "kubejs/startup_scripts/tooltipsApoth.js"
 hash = "229ddd97fd9984f28a651683522b654f7fd5715f1606597a3df885fa8717e44d"
 
 [[files]]
-file = "miladycraft_1.5/config/Adorn.json5"
+file = "config/Adorn.json5"
 hash = "86158f3c7d8edbd86caabc1cda89e5c55668bf270b7791fc813b098c91a1337b"
 
 [[files]]
-file = "miladycraft_1.5/config/MouseTweaks.cfg"
+file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
 [[files]]
-file = "miladycraft_1.5/config/NoChatReports/NCR-Client.json"
+file = "config/NoChatReports/NCR-Client.json"
 hash = "d8841f30e7dee2ee018e869a1bbb9c006873aac00c5705efb0d4c81739634878"
 
 [[files]]
-file = "miladycraft_1.5/config/NoChatReports/NCR-Common.json"
+file = "config/NoChatReports/NCR-Common.json"
 hash = "bbc93e6b3cb7a917334cbbb3d1b0775a1cb3244ebc2075e4fa1fb7420e32cea7"
 
 [[files]]
-file = "miladycraft_1.5/config/NoChatReports/NCR-Encryption.json"
+file = "config/NoChatReports/NCR-Encryption.json"
 hash = "fcc9ce6334bbbe1aae73960ac52246d211e3024c0a736527415f69e4211dcdbc"
 
 [[files]]
-file = "miladycraft_1.5/config/NoChatReports/NCR-ServerWhitelist.json"
+file = "config/NoChatReports/NCR-ServerWhitelist.json"
 hash = "fdf38fd061bb38e0389ffb008eb33f454f762e504080e8adf2ed5e3911554a8c"
 
 [[files]]
-file = "miladycraft_1.5/config/NoChatReports/README.md"
+file = "config/NoChatReports/README.md"
 hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
 
 [[files]]
-file = "miladycraft_1.5/config/additionalguns-client.toml"
+file = "config/additionalguns-client.toml"
 hash = "3423916b19c652fc8f734a2d5616dd2d268b5aa0be2a987e37e1c4d7a9bd96e8"
 
 [[files]]
-file = "miladycraft_1.5/config/additionalstructures-client.toml"
+file = "config/additionalstructures-client.toml"
 hash = "5e663c4e5688dfed6ee746443e9890b0ee022a2878a8a2e96ad5a9e3caea87ed"
 
 [[files]]
-file = "miladycraft_1.5/config/alexscaves-client.toml"
+file = "config/alexscaves-client.toml"
 hash = "c23b5c3024f44c8d67e4837246c32dedd3272b3d1a450405298984ae063c7e8d"
 
 [[files]]
-file = "miladycraft_1.5/config/alexsmobs.toml"
+file = "config/alexsmobs.toml"
 hash = "fb58e4a4af1c8b77dc2365e4a2925f4baec6b80a17875886e09a2cf8fafd867c"
 
 [[files]]
-file = "miladycraft_1.5/config/allurement-client.toml"
+file = "config/allurement-client.toml"
 hash = "41c4ca4a2dc0e88d4ac245f61e81b55b4811d2529aa482e452ee1d68aa68aceb"
 
 [[files]]
-file = "miladycraft_1.5/config/apotheosis/adventure.cfg"
+file = "config/apotheosis/adventure.cfg"
 hash = "b537d70d03cd3fad32aaba99b4687acae6ab9027ccffedae32988813ee86cf4f"
 
 [[files]]
-file = "miladycraft_1.5/config/apotheosis/apotheosis.cfg"
+file = "config/apotheosis/apotheosis.cfg"
 hash = "9373941af9ada49b7cf3eef10f8bc5d476bd38b533a6cff985c6ebd8d3609a96"
 
 [[files]]
-file = "miladycraft_1.5/config/apotheosis/enchantments.cfg"
+file = "config/apotheosis/enchantments.cfg"
 hash = "09b0e0e69d9df5a30a35fd115d8a217232092adc816c68a94531a3b70582845a"
 
 [[files]]
-file = "miladycraft_1.5/config/apotheosis/garden.cfg"
+file = "config/apotheosis/garden.cfg"
 hash = "c6c29c0611865e73998da83253dc8550cd093500b0e8c9264285acde1883a4b7"
 
 [[files]]
-file = "miladycraft_1.5/config/apotheosis/names.cfg"
+file = "config/apotheosis/names.cfg"
 hash = "5f9a7deb2b19acbc0db7c588de1b465c506ae3c55b4d09bae5eb4166a7142b8f"
 
 [[files]]
-file = "miladycraft_1.5/config/apotheosis/potion.cfg"
+file = "config/apotheosis/potion.cfg"
 hash = "642c6b3e8c538120163dd7d4485249dd0f8f6737490fe06c8fe7100c3d251b48"
 
 [[files]]
-file = "miladycraft_1.5/config/apotheosis/spawner.cfg"
+file = "config/apotheosis/spawner.cfg"
 hash = "e400b3d3b36b7257b22becc33a2a81118d3bbeb4821b2f5c5e9bba539a79a53d"
 
 [[files]]
-file = "miladycraft_1.5/config/apotheosis/village.cfg"
+file = "config/apotheosis/village.cfg"
 hash = "bd5782948505490c2fb7fa7586ed957ed218468f65ae09ea1f5164615969e323"
 
 [[files]]
-file = "miladycraft_1.5/config/appleskin-client.toml"
+file = "config/appleskin-client.toml"
 hash = "d23837a5f54bd6ee56f24dfefd4e44b47e1ba460250b56106f73c2120ccc3738"
 
 [[files]]
-file = "miladycraft_1.5/config/architects_palette-common.toml"
+file = "config/architects_palette-common.toml"
 hash = "7aa83bc76d0ca4acc2bb3733aba472a56a48d38338baa56af352f1b2f7469759"
 
 [[files]]
-file = "miladycraft_1.5/config/armorpointspp-client.toml"
+file = "config/armorpointspp-client.toml"
 hash = "b8b54162a3c6aeb3a838f950632f901696d4e82a64dda0ff311dfd04c15802ab"
 
 [[files]]
-file = "miladycraft_1.5/config/atmospheric-common.toml"
+file = "config/atmospheric-common.toml"
 hash = "5b5284747e68c84d70a6b5293cc572109e602e26092d5cce27309cc06db47d93"
 
 [[files]]
-file = "miladycraft_1.5/config/autumnity-common.toml"
+file = "config/autumnity-common.toml"
 hash = "262941bbb98d9df0fcf0acb0d7f4ccb3441b061874d4f9b89a827bb4b74f4f8f"
 
 [[files]]
-file = "miladycraft_1.5/config/axesareweapons.json5"
+file = "config/axesareweapons.json5"
 hash = "ca31e5fc7b301b5a10d1ac0912e2d3a32e0cf9805fa78d8a61bc681067c08dfb"
 
 [[files]]
-file = "miladycraft_1.5/config/backpacked-client.toml"
+file = "config/backpacked-client.toml"
 hash = "ff309de219f7410827939479c1ad0c58d6cc01866d26d999811645850c3e16be"
 
 [[files]]
-file = "miladycraft_1.5/config/backpacked-common.toml"
+file = "config/backpacked-common.toml"
 hash = "5037ca2cdb2b59be4952bca85bf8dc0160d6fb7e3c4beca88e5b142f68962c68"
 
 [[files]]
-file = "miladycraft_1.5/config/badmobs-common.toml"
+file = "config/badmobs-common.toml"
 hash = "18cec2e3eee208a21b3ebb6550286b1c6a4fa898a11205e8055a34756d0a4c43"
 
 [[files]]
-file = "miladycraft_1.5/config/bcc-common.toml"
+file = "config/bcc-common.toml"
 hash = "97503de8347065cd017cc289d4f8ff4323be113bcf427fecab4839b14c35a61a"
 
 [[files]]
-file = "miladycraft_1.5/config/berry_good-common.toml"
+file = "config/berry_good-common.toml"
 hash = "063288c23cc0302177b68b487872ea9cdd3d3d5f916ddf47d1dcd393cc4a56fa"
 
 [[files]]
-file = "miladycraft_1.5/config/better_beacons/better_beacons-client.toml"
+file = "config/better_beacons/better_beacons-client.toml"
 hash = "987c060dcf9ff22fdd26a6460f2fb0523514afdbc15ab0c04dff41ff428d8211"
 
 [[files]]
-file = "miladycraft_1.5/config/better_beacons/better_beacons-common.toml"
+file = "config/better_beacons/better_beacons-common.toml"
 hash = "77e70cfe37e9105f98af843388ff8c4e1eb2b6ac75bfc73f503c125ce7db0ef5"
 
 [[files]]
-file = "miladycraft_1.5/config/better_totem_of_undying.toml"
+file = "config/better_totem_of_undying.toml"
 hash = "84ec9033039303b913c34959d1842d3f64ad9ee1578a4e08ee42a1c3fe17dc7c"
 
 [[files]]
-file = "miladycraft_1.5/config/bettercombat/client.json5"
+file = "config/bettercombat/client.json5"
 hash = "2215468d1d32577bf6296dc55009e769b4bbb0f770655542dda9db3a7d735736"
 
 [[files]]
-file = "miladycraft_1.5/config/bettercombat/fallback_compatibility.json"
+file = "config/bettercombat/fallback_compatibility.json"
 hash = "ea41124fc9bd72eccd324212e21372e969367430cedbc20662073351f00120f6"
 
 [[files]]
-file = "miladycraft_1.5/config/bettercombat/server.json5"
+file = "config/bettercombat/server.json5"
 hash = "18c786159db22e0ab059b4acabd9135edaac938cca8b121849dd0342b030882e"
 
 [[files]]
-file = "miladycraft_1.5/config/betterinvisibility-common.toml"
+file = "config/betterinvisibility-common.toml"
 hash = "989c57cc9ec56f2dc9c53c23294abf697681061bf3bd03a153a3cd5a3cb36f17"
 
 [[files]]
-file = "miladycraft_1.5/config/betternethermap-common.toml"
+file = "config/betternethermap-common.toml"
 hash = "cfad61a2768df267914d51b2e0460d98997703071f7ceb0e32e15a2a5750c37f"
 
 [[files]]
-file = "miladycraft_1.5/config/bettertitlescreen-client.toml"
+file = "config/bettertitlescreen-client.toml"
 hash = "1c2cef3efb8746ebf2c57634a8a5e1152bfbca8881a29661e01b2553a7ff654f"
 
 [[files]]
-file = "miladycraft_1.5/config/biomemusic.json"
+file = "config/biomemusic.json"
 hash = "153d19adab1437a85076b1c5648cf2d6ee0f41afda1765e0c0f49075a26cb7f2"
 
 [[files]]
-file = "miladycraft_1.5/config/blueprint-client.toml"
+file = "config/blueprint-client.toml"
 hash = "7c5a01b061e28846f34ddb47d5e112f37283215f8a11b8bd1dfc4acf9628911d"
 
 [[files]]
-file = "miladycraft_1.5/config/blueprint-common.toml"
+file = "config/blueprint-common.toml"
 hash = "468c5e98de57915c1fbc04f24934723184bfaff4d08f666ed8a8b4bdce894a25"
 
 [[files]]
-file = "miladycraft_1.5/config/bobby.toml"
+file = "config/bobby.toml"
 hash = "3be89a11a0ec9aa79e6c29657b3b7aefc93011364598964f612cfd337d11a2c9"
 
 [[files]]
-file = "miladycraft_1.5/config/bridgingmod.json"
+file = "config/bridgingmod.json"
 hash = "d032c58433dc82ffca51684e48dc2a7fa6b3e158393c6cfe5b88d4b417a5c5c8"
 
 [[files]]
-file = "miladycraft_1.5/config/buzzier_bees-common.toml"
+file = "config/buzzier_bees-common.toml"
 hash = "d5ced1e70770f0b38f9ff0ba4d394ba5ef3ba9cb3e9701808abbc26858bd3a99"
 
 [[files]]
-file = "miladycraft_1.5/config/bwncr-common.toml"
+file = "config/bwncr-common.toml"
 hash = "b758120a06d5baa142e34cca95de36088b47ac0663e2543dc9023789b59e418e"
 
 [[files]]
-file = "miladycraft_1.5/config/byg/README.txt"
+file = "config/byg/README.txt"
 hash = "716925cf1fd06d3d981aac5adbdc7a84dae30dbb64b17b0c25a8f739be01883d"
 
 [[files]]
-file = "miladycraft_1.5/config/byg/biomepedia.json5"
+file = "config/byg/biomepedia.json5"
 hash = "8fc519a8e6ca95a62903924e378efe098b3deeab6013b0fc6c84df71ff6a6866"
 
 [[files]]
-file = "miladycraft_1.5/config/byg/config_versions.json5"
+file = "config/byg/config_versions.json5"
 hash = "932b026a6dc19aa38289f2e2b93b17c65b4187db5f540a4fe7e960f3ce2ced41"
 
 [[files]]
-file = "miladycraft_1.5/config/byg/end-biomes.json5"
+file = "config/byg/end-biomes.json5"
 hash = "f47cef0096b8408e729a77645ab296474d1492d3438da92a6663f6129694b894"
 
 [[files]]
-file = "miladycraft_1.5/config/byg/growing-patterns.json5"
+file = "config/byg/growing-patterns.json5"
 hash = "814f5c8befdc35f81dd6b5438cb0a901f6ee3f3866bbbde1ebd5b675f50e65fc"
 
 [[files]]
-file = "miladycraft_1.5/config/byg/nether-biomes.json5"
+file = "config/byg/nether-biomes.json5"
 hash = "94871355353d19777b4a4364363f2bd841100bdf5d355265d4aa14a0488d79ed"
 
 [[files]]
-file = "miladycraft_1.5/config/byg/overworld/byg-overworld-biomes.json5"
+file = "config/byg/overworld/byg-overworld-biomes.json5"
 hash = "519749f319f29d4a9cd814dba0ad93e21dd9141017dca3e2eab8e7795b01c01f"
 
 [[files]]
-file = "miladycraft_1.5/config/byg/settings.json5"
+file = "config/byg/settings.json5"
 hash = "69315b2ed07954afc0c887a4b1059bc4b652f36e333ac4e859f7ce35c8270760"
 
 [[files]]
-file = "miladycraft_1.5/config/byg/trades.json5"
+file = "config/byg/trades.json5"
 hash = "7fc90f024d1ce2af850011b62eec2e4f88b964d4c091bf9ba26034fa0b52d676"
 
 [[files]]
-file = "miladycraft_1.5/config/caverns_and_chasms-client.toml"
+file = "config/caverns_and_chasms-client.toml"
 hash = "ac4fad73b20151ee9f0de09dcc137310e5dcb44b68164c1d739eb562de848992"
 
 [[files]]
-file = "miladycraft_1.5/config/caverns_and_chasms-common.toml"
+file = "config/caverns_and_chasms-common.toml"
 hash = "2697f81d15401de3729b765a4f5e80095e70710cfa4236c1e280cfaa9d1471fd"
 
 [[files]]
-file = "miladycraft_1.5/config/celesteconfig-client.toml"
+file = "config/celesteconfig-client.toml"
 hash = "b22e5d83c1d27e79b4661c5a95a0e3fffde0c54cefb3b1fd68a3a8ddc51be13f"
 
 [[files]]
-file = "miladycraft_1.5/config/cgm-client.toml"
+file = "config/cgm-client.toml"
 hash = "b7c627160f8a6e35c2ea2e4fc9705fd54bb309bf77d3a792d291490ae8f34297"
 
 [[files]]
-file = "miladycraft_1.5/config/cgm-common.toml"
+file = "config/cgm-common.toml"
 hash = "d4685f48d66d93ca44352b72ee11fea90b947db4914874d49f9dbad3c6e91d19"
 
 [[files]]
-file = "miladycraft_1.5/config/chalk-client.toml"
+file = "config/chalk-client.toml"
 hash = "ce3f311460e4198f74c6a9f8bb8ad0ddcb12f00d20760f3edff929d666815392"
 
 [[files]]
-file = "miladycraft_1.5/config/chalk-common.toml"
+file = "config/chalk-common.toml"
 hash = "d0663c6b239a5ad1f917fe6c23eaffb4647312dfe2657ff779d3f8cf9fd71a53"
 
 [[files]]
-file = "miladycraft_1.5/config/chat_heads.json5"
+file = "config/chat_heads.json5"
 hash = "53f1eec25e4b4457fce81b1349f18ca44b2dcd3a47092a609b4a0db02362f008"
 
 [[files]]
-file = "miladycraft_1.5/config/cherisheditems.json"
+file = "config/cherisheditems.json"
 hash = "6ba6a7907cf92ccf6452c67ad8884aa83c66a54dfb9423f54f5f48ecd5d94c99"
 
 [[files]]
-file = "miladycraft_1.5/config/chimes-client.toml"
+file = "config/chimes-client.toml"
 hash = "4e3265296b5c4a7ebd7766785ed609fb863dbdddae0378ea86040fac47ee0802"
 
 [[files]]
-file = "miladycraft_1.5/config/citadel-common.toml"
+file = "config/citadel-common.toml"
 hash = "3fcd8013137a86c00953d4be1e56945b84b87594be722bbf3b3be8d752e2577f"
 
 [[files]]
-file = "miladycraft_1.5/config/clayworks-common.toml"
+file = "config/clayworks-common.toml"
 hash = "aae2419f17f22f8d8989cbf8c22c61806ecbc149bcf11efddd098ec56f5466de"
 
 [[files]]
-file = "miladycraft_1.5/config/clienttweaks-common.toml"
+file = "config/clienttweaks-common.toml"
 hash = "b562dea345cd925f8c148e0da78840f6f905a35f09d679dfc48a1de1c0069981"
 
 [[files]]
-file = "miladycraft_1.5/config/cofh_core-client.toml"
+file = "config/cofh_core-client.toml"
 hash = "78865ba19df6cbf88205519433303fea4c6e23ccc6132a53fbddf0e2525a5556"
 
 [[files]]
-file = "miladycraft_1.5/config/collective.json5"
+file = "config/collective.json5"
 hash = "58702f7beac671db149f52e6700b85761a16c06fc0f5e6c137218b289eb6a6a5"
 
 [[files]]
-file = "miladycraft_1.5/config/collectorsreap-common.toml"
+file = "config/collectorsreap-common.toml"
 hash = "7d5e04c05c1dd67b4ec5d34f800f1bb06fc146c55bc5ceeff7731f885ceb0ac9"
 
 [[files]]
-file = "miladycraft_1.5/config/colouredtooltips.json"
+file = "config/colouredtooltips.json"
 hash = "b85ac697866584eee1692894bc75df528938155e066ab9590594f135abb4a0fa"
 
 [[files]]
-file = "miladycraft_1.5/config/cosmeticarmorreworked-common.toml"
+file = "config/cosmeticarmorreworked-common.toml"
 hash = "f425396688318130cf5c0f34efb9379a368db17b8d3d74f1b215be303320efb3"
 
 [[files]]
-file = "miladycraft_1.5/config/crabbersdelight-common.toml"
+file = "config/crabbersdelight-common.toml"
 hash = "e8c977482b453ce2ca90eea99a47d7cceaad9f8d24e11c95530e41770955e267"
 
 [[files]]
-file = "miladycraft_1.5/config/craftingtweaks-common.toml"
+file = "config/craftingtweaks-common.toml"
 hash = "ae9dc06911376a7e84f28e4c8afad69b22657f7aa71d4a826e742869e4bc7042"
 
 [[files]]
-file = "miladycraft_1.5/config/cull-less-leaves.json"
+file = "config/cull-less-leaves.json"
 hash = "6bc92f3695f35c601c2adfa1f51e9f616df379288f2a260fd1f4011c5bad50ee"
 
 [[files]]
-file = "miladycraft_1.5/config/decorative_blocks-common.toml"
+file = "config/decorative_blocks-common.toml"
 hash = "45935895d117bb33a0495c5c2c129a3c8c8d328b3c225fb808ba48a0b57c7108"
 
 [[files]]
-file = "miladycraft_1.5/config/defaultoptions/keybindings.txt"
+file = "config/defaultoptions/keybindings.txt"
 hash = "7ced1a5777c02a702a9ab62b1a22ea0f0254dbfd7de164a3f1e4d5a57dbc864f"
 
 [[files]]
-file = "miladycraft_1.5/config/defaultoptions/options.txt"
+file = "config/defaultoptions/options.txt"
 hash = "4665e960e3b28dfd44f0e41c2ebd8d65695a4d987fb55ec8cb77735d3d3856d5"
 
 [[files]]
-file = "miladycraft_1.5/config/delightful-common.toml"
+file = "config/delightful-common.toml"
 hash = "43283271341e370d8976cbe328fdf5f88d1e24e44f22ac50f740cb432b13e790"
 
 [[files]]
-file = "miladycraft_1.5/config/desiredservers/desiredservers.json"
+file = "config/desiredservers/desiredservers.json"
 hash = "c0be9958093639974ba461bd6e30453a42cc34b7fd969c7c8714e5d5a93b19ca"
 
 [[files]]
-file = "miladycraft_1.5/config/distinguishedpotions-client.toml"
+file = "config/distinguishedpotions-client.toml"
 hash = "db4c2d60b886fe260d66d49e32d8ac92d5e7eae10ce9e3eb6c5de5a0d29f04c0"
 
 [[files]]
-file = "miladycraft_1.5/config/dogslie.toml"
+file = "config/dogslie.toml"
 hash = "0f06d01371565eb93452f927e1b08b4286e3f0b336b0d884fa3b2b41f62ec3c5"
 
 [[files]]
-file = "miladycraft_1.5/config/domestication-innovation.toml"
+file = "config/domestication-innovation.toml"
 hash = "89812e3d7eb6af36310654932388e4f84be3bf9ea966d0782336bc31013aa62a"
 
 [[files]]
-file = "miladycraft_1.5/config/dramaticdoors-common.toml"
+file = "config/dramaticdoors-common.toml"
 hash = "c51a452cbafa031fee785504c58298c1cc29725312e7528c0c22a2854ae6853e"
 
 [[files]]
-file = "miladycraft_1.5/config/drinkit-common.toml"
+file = "config/drinkit-common.toml"
 hash = "8f67c55a98fefcc3802efe1e7e8707b9c678f787dd5e4481f8739faf795349c2"
 
 [[files]]
-file = "miladycraft_1.5/config/dustrial_decor-common.toml"
+file = "config/dustrial_decor-common.toml"
 hash = "65bee35380cc3b7c4e10b90524d1ec7a81e2591fcae3e29c0459a5f9cb871eeb"
 
 [[files]]
-file = "miladycraft_1.5/config/ecologics-common.toml"
+file = "config/ecologics-common.toml"
 hash = "adc6954cdda54a4ffd22dad703c43ec38db7ec6e5e24652d6a489816168f240b"
 
 [[files]]
-file = "miladycraft_1.5/config/effortlessbuilding-client.toml"
+file = "config/effortlessbuilding-client.toml"
 hash = "7f7dbeca8bba07d4f67c0d47631f7741ec4bfdb21a381550ec025f6ab922f230"
 
 [[files]]
-file = "miladycraft_1.5/config/effortlessbuilding-common.toml"
+file = "config/effortlessbuilding-common.toml"
 hash = "bff5afb79a22399c3920d311223e929150b5a996b9ffb9d786ae6ea56e5c2c2e"
 
 [[files]]
-file = "miladycraft_1.5/config/embeddium-mixins.properties"
+file = "config/embeddium-mixins.properties"
 hash = "66bbef3dd895941e28db52d85ef5e8a1ecda6dc26377a47ff6dc623ece2f73fa"
 
 [[files]]
-file = "miladycraft_1.5/config/embeddium-options.json"
+file = "config/embeddium-options.json"
 hash = "ea0b37015b68a1af08cd0b86bd523840bd810571d3305d90ac085b4a67f0fd0f"
 
 [[files]]
-file = "miladycraft_1.5/config/emotecraft.json"
+file = "config/emotecraft.json"
 hash = "9088757a0d30181519237d5cfe9acc33348214f21662167564dd6d229d556776"
 
 [[files]]
-file = "miladycraft_1.5/config/emotecraft_emote_map.json"
+file = "config/emotecraft_emote_map.json"
 hash = "0ce5a209870e0673c14f68d4581de2cefc67a3c37aa7071c943b711a69835775"
 
 [[files]]
-file = "miladycraft_1.5/config/enchantments.cfg"
+file = "config/enchantments.cfg"
 hash = "09b0e0e69d9df5a30a35fd115d8a217232092adc816c68a94531a3b70582845a"
 
 [[files]]
-file = "miladycraft_1.5/config/enchdesc.json"
+file = "config/enchdesc.json"
 hash = "43798e161b2b7d6788ed08aafe2b8485ce1de9741d76f5ed4423b96938a8c968"
 
 [[files]]
-file = "miladycraft_1.5/config/endergetic-common.toml"
+file = "config/endergetic-common.toml"
 hash = "bf0b9695be02081947e0702335844755ee28f8538722d181184e9557c9762b89"
 
 [[files]]
-file = "miladycraft_1.5/config/environmental-common.toml"
+file = "config/environmental-common.toml"
 hash = "3e9d908772f4595333debc77cbeaa8228922e87280c762c9343818cfe82ba902"
 
 [[files]]
-file = "miladycraft_1.5/config/etched-client.toml"
+file = "config/etched-client.toml"
 hash = "cde874f0c85fd1379f09e710c629b7c152dbc20f555ab7af16ca05f5c25fd1e4"
 
 [[files]]
-file = "miladycraft_1.5/config/everycomp-common.toml"
+file = "config/everycomp-common.toml"
 hash = "e8fb47e39698228e5174579c31e8b97aa632c37eccebe83b48ff7f428fcce947"
 
 [[files]]
-file = "miladycraft_1.5/config/everycomp-wood_types.toml"
+file = "config/everycomp-wood_types.toml"
 hash = "2361f49b21165f975ebf4d4741eab3c4a916380cb17552273bf434cc9458ba2c"
 
 [[files]]
-file = "miladycraft_1.5/config/exposure-client.toml"
+file = "config/exposure-client.toml"
 hash = "abbcb4a4370a3be6d6909a4b803ea93e7042a302af1f2c100e405743243bafaa"
 
 [[files]]
-file = "miladycraft_1.5/config/exposure-common.toml"
+file = "config/exposure-common.toml"
 hash = "4d08298abbd6bb3f2a8d93cb8d58fb06106155169f2da58c09b87687c7269308"
 
 [[files]]
-file = "miladycraft_1.5/config/fallingleaves-client.toml"
+file = "config/fallingleaves-client.toml"
 hash = "2cd017af6632239398b694fadf8191d6073cf39585549876cc682843f521ecb3"
 
 [[files]]
-file = "miladycraft_1.5/config/farmersdelight-client.toml"
+file = "config/farmersdelight-client.toml"
 hash = "11a3d38bbf4a50092b32e0bc2dc750f64a92e7fc0e1a05b1a504da6682ad2aa7"
 
 [[files]]
-file = "miladycraft_1.5/config/farmersdelight-common.toml"
+file = "config/farmersdelight-common.toml"
 hash = "23dac8e8964b311ec6361b30dfb33db572a4bf13657c545bb1b618ffe7f896f1"
 
 [[files]]
-file = "miladycraft_1.5/config/farmersrespite-common.toml"
+file = "config/farmersrespite-common.toml"
 hash = "17204a5dfbe2029a8da7229ea493c43708595eecc301e6c630d591eb36cd0391"
 
 [[files]]
-file = "miladycraft_1.5/config/fastpaintings-common.toml"
+file = "config/fastpaintings-common.toml"
 hash = "4cce6e2bd5d9440c7a6f4618dc05eeb82cc2fc293afa892a3010efe21405ac79"
 
 [[files]]
-file = "miladycraft_1.5/config/ferritecore-mixin.toml"
+file = "config/ferritecore-mixin.toml"
 hash = "fab938297f4226f9e13a5164ffdb94ae1e0e572d1fab3d5d13e4cfaa0a44f628"
 
 [[files]]
-file = "miladycraft_1.5/config/fertilization-common.toml"
+file = "config/fertilization-common.toml"
 hash = "f90d03b0a99e520d5cee7c40cc02fe8a79d79cfe3253698c47acf74fd03af5f9"
 
 [[files]]
-file = "miladycraft_1.5/config/flywheel-client.toml"
+file = "config/flywheel-client.toml"
 hash = "1ed34fa68fcd10036034b9256d938916b14f346ffead5ed3fef58299f009c157"
 
 [[files]]
-file = "miladycraft_1.5/config/fml.toml"
+file = "config/fml.toml"
 hash = "eb5434c7520284945763f461841e91da86895a70324e13218a07824f81e5ec87"
 
 [[files]]
-file = "miladycraft_1.5/config/foglooksgoodnow.toml"
+file = "config/foglooksgoodnow.toml"
 hash = "62a1404f769ee2890c34fcff6cc92620e8b5b5b1525971edac0f82140b77a0f0"
 
 [[files]]
-file = "miladycraft_1.5/config/foodeffecttooltips-client.toml"
+file = "config/foodeffecttooltips-client.toml"
 hash = "eaf7486a8c158a50e0af46595869f6a93d36d4b4e8bd528c60e5629505b8f5cc"
 
 [[files]]
-file = "miladycraft_1.5/config/forge-client.toml"
+file = "config/forge-client.toml"
 hash = "534d9fc367bb58ded17ad2820df913dee00eb6e64ef9270c3a8e491db585f548"
 
 [[files]]
-file = "miladycraft_1.5/config/forge-common.toml"
+file = "config/forge-common.toml"
 hash = "a440d2a7ce939ef3c462475555a9a188263aebdbf13db600de3f01d9d312970c"
 
 [[files]]
-file = "miladycraft_1.5/config/forge-resource-caching.toml"
+file = "config/forge-resource-caching.toml"
 hash = "acfdb749a28106463b96980100a7e542b0b2bc3f9c9464196e0765a4f1c39061"
 
 [[files]]
-file = "miladycraft_1.5/config/forgery/block_logo.ini"
+file = "config/forgery/block_logo.ini"
 hash = "1a58d3ffaaf266eb0f6f3574f15559689fa237be980a13b741834d640d9a8375"
 
 [[files]]
-file = "miladycraft_1.5/config/forgery/block_logo.png"
+file = "config/forgery/block_logo.png"
 hash = "f2938cfb35d857049425b51f59ce557dd8f329e6b76bef68ffb561f118a4def0"
 
 [[files]]
-file = "miladycraft_1.5/config/forgery/classic_block_drops.ini"
+file = "config/forgery/classic_block_drops.ini"
 hash = "45e501b8528ef8d27c2a67efd27304c81cd0503f8b0671094e6653eefd394b12"
 
 [[files]]
-file = "miladycraft_1.5/config/forgery/dimensional_tools.ini"
+file = "config/forgery/dimensional_tools.ini"
 hash = "14eb4e8cd105c580403c4e5bc6bba831c81aedcf4e6e04485c74e9d3f253689f"
 
 [[files]]
-file = "miladycraft_1.5/config/forgery/features.ini"
+file = "config/forgery/features.ini"
 hash = "4b4c3d40df20f6f0f645a9a57e87d145f67efc3e3673e2afb1f72177735c88f0"
 
 [[files]]
-file = "miladycraft_1.5/config/forgery/fscript.ini"
+file = "config/forgery/fscript.ini"
 hash = "06d742af1c186bd89bb808f7ff407865f1c08b1ebf7bb2e52ae2d042b64acd16"
 
 [[files]]
-file = "miladycraft_1.5/config/forgery/gear_components.ini"
+file = "config/forgery/gear_components.ini"
 hash = "5a9291467f9f7918687a0d138a61e396cb9299b0b4ea2e4cf4f4d6f3594f865b"
 
 [[files]]
-file = "miladycraft_1.5/config/forgery/item_despawn.ini"
+file = "config/forgery/item_despawn.ini"
 hash = "24b26ac0b8ff13889b6b3b00b2309366eb72c36014a9679a82f4cbff46c275f4"
 
 [[files]]
-file = "miladycraft_1.5/config/forgery/taggable_players.ini"
+file = "config/forgery/taggable_players.ini"
 hash = "fe069b4316f910f2f3b703cedd9930b73eed74c2ae86909f8b43a8ffd3d1af45"
 
 [[files]]
-file = "miladycraft_1.5/config/forgery/yeet_recipes.ini"
+file = "config/forgery/yeet_recipes.ini"
 hash = "939cfc95ed4a7480ac08d3f692538a348af72c6db693349c61f93f926976d1f2"
 
 [[files]]
-file = "miladycraft_1.5/config/forgeshot-client.toml"
+file = "config/forgeshot-client.toml"
 hash = "76f34422b96ae8f80eb6b549a382b778d72d7250faadb25a060c355cb15b84ed"
 
 [[files]]
-file = "miladycraft_1.5/config/herdmentality-common.toml"
+file = "config/herdmentality-common.toml"
 hash = "a3529540dbd31f87eb6e0775387ad1b3e2478954d1c32790cf777986bf0d5f90"
 
 [[files]]
-file = "miladycraft_1.5/config/heyberryshutup-common.toml"
+file = "config/heyberryshutup-common.toml"
 hash = "d5b4982bc03b7c9723cd4079481bec25afe302a83991ca94c2ce09f3f996b8a2"
 
 [[files]]
-file = "miladycraft_1.5/config/immediatelyfast.json"
+file = "config/immediatelyfast.json"
 hash = "580c20f327cb1d91dad06da21e32a78933c8e3b1c297aa002c1ded0f5acd75c7"
 
 [[files]]
-file = "miladycraft_1.5/config/immersive_armors.json"
+file = "config/immersive_armors.json"
 hash = "932b911e181924f1ded751dc51c0ce92f8943a6a92c0865ba4aa6f7e66d4fc42"
 
 [[files]]
-file = "miladycraft_1.5/config/immersive_melodies.json"
+file = "config/immersive_melodies.json"
 hash = "1b6b90893714024b91ae49026efc6a48b01003ebcd0fdd966609b6648b1b4d73"
 
 [[files]]
-file = "miladycraft_1.5/config/immersive_paintings.json"
+file = "config/immersive_paintings.json"
 hash = "512f46b7b245dd16320767e642847fddf6b9cd5a46eb26a59b42599f8e18bd85"
 
 [[files]]
-file = "miladycraft_1.5/config/infinitybuttons.toml"
+file = "config/infinitybuttons.toml"
 hash = "3fce971ec14b5fa92180827404357f0f9c25b603209fb7f1bc0d7c2f87fe9038"
 
 [[files]]
-file = "miladycraft_1.5/config/inventoryessentials-common.toml"
+file = "config/inventoryessentials-common.toml"
 hash = "d1c5320e60ac34af68166b0d833ae24a598be1c7745c11428276d9bcd989bcc6"
 
 [[files]]
-file = "miladycraft_1.5/config/irons_spellbooks-client.toml"
+file = "config/irons_spellbooks-client.toml"
 hash = "81870a4354ed6ee27e3c1469f8a5f07f65e2aa853b7d0f9d5f4616581b1dffc2"
 
 [[files]]
-file = "miladycraft_1.5/config/item_obliterator.json5"
+file = "config/item_obliterator.json5"
 hash = "6eb9aa693aa381eb73ac24154451e17fbdcc8bd7a62f5df3f29bc411e9582fb6"
 
 [[files]]
-file = "miladycraft_1.5/config/itemcollectors-common.toml"
+file = "config/itemcollectors-common.toml"
 hash = "8cda58eea62840de9e2f464b9c5425c8d1160f95382137e7b48284125abd1107"
 
 [[files]]
-file = "miladycraft_1.5/config/itemzoom-client.toml"
+file = "config/itemzoom-client.toml"
 hash = "9de9afe5329cd5314996b518cca203dbe02eb91b78a1105a6dc4d8844eec8921"
 
 [[files]]
-file = "miladycraft_1.5/config/itlt-client.toml"
+file = "config/itlt-client.toml"
 hash = "36c0b7a194dbc179449c6595695c973d0ccec2cc4f3d73a2b48ce482b9b9a5f9"
 
 [[files]]
-file = "miladycraft_1.5/config/itlt/icon.png"
+file = "config/itlt/icon.png"
 hash = "389aa442967260e961be696edc0a4be0c09f8f67cda631630bf98859243dd557"
 
 [[files]]
-file = "miladycraft_1.5/config/iwannaskate-client.toml"
+file = "config/iwannaskate-client.toml"
 hash = "972f40b1b188f3d5cbf9fe46dc77ba840db215e7e694013242e972833a2336d1"
 
 [[files]]
-file = "miladycraft_1.5/config/iwannaskate-common.toml"
+file = "config/iwannaskate-common.toml"
 hash = "2a4380e0c4727b9b163698101bb789110626c63b730e5e7ffaf1571d5c5c4d96"
 
 [[files]]
-file = "miladycraft_1.5/config/jade/hide-blocks-1902.json"
+file = "config/jade/hide-blocks-1902.json"
 hash = "6f6658b4a600c154e8bceb74fbfd887c9cb159ae389b1c87d29bd90f21ce5b0a"
 
 [[files]]
-file = "miladycraft_1.5/config/jade/hide-entities-1902.json"
+file = "config/jade/hide-entities-1902.json"
 hash = "82a022760c1ca91894bc3b1184664cf65e16ba39dc17a4aa2fc482c4fe4df581"
 
 [[files]]
-file = "miladycraft_1.5/config/jade/jade.json"
+file = "config/jade/jade.json"
 hash = "4e9dd47f0693dbde23983d4a16eddf2ab60a95562986aa6fdfebf6bda3b733d3"
 
 [[files]]
-file = "miladycraft_1.5/config/jade/plugins.json"
+file = "config/jade/plugins.json"
 hash = "8d6c0d3c0e042f83ea494a969f9657cf95996909a57a1d03038df3e1b85f7fc0"
 
 [[files]]
-file = "miladycraft_1.5/config/jade/sort-order.json"
+file = "config/jade/sort-order.json"
 hash = "6bd2c10014f60dfdac254120d9d6b6efc24cee250795be2ba31fcc99c2f6342c"
 
 [[files]]
-file = "miladycraft_1.5/config/jeed-client.toml"
+file = "config/jeed-client.toml"
 hash = "ba66d3903e6e26124c1e8f1f5c841ec73778e3d844113de781f496b197065e20"
 
 [[files]]
-file = "miladycraft_1.5/config/jei/blacklist.cfg"
+file = "config/jei/blacklist.cfg"
 hash = "233e3a1640fd85dd66c1f26f11711f1c4d80376bf2b52dbd098aa4b312e9f879"
 
 [[files]]
-file = "miladycraft_1.5/config/jei/ingredient-list-mod-sort-order.ini"
+file = "config/jei/ingredient-list-mod-sort-order.ini"
 hash = "45d8f1328930f5519c331e22eceaa2e49dfe482713d8ff9272db289718d674f8"
 
 [[files]]
-file = "miladycraft_1.5/config/jei/ingredient-list-type-sort-order.ini"
+file = "config/jei/ingredient-list-type-sort-order.ini"
 hash = "3c882649975bf1839436cd866f79c8c7ea9fd108116acfcd48e49d97c78141b1"
 
 [[files]]
-file = "miladycraft_1.5/config/jei/jei-client.ini"
+file = "config/jei/jei-client.ini"
 hash = "9ca4d28e1d6fa68df73c67229f26fee27e804dfccf6ad3e3dbe2447c446f6095"
 
 [[files]]
-file = "miladycraft_1.5/config/jei/jei-colors.ini"
+file = "config/jei/jei-colors.ini"
 hash = "c6328dcf3fb8b20a9f6ea6b61266ce289565c167353e183a105fb4915c36c072"
 
 [[files]]
-file = "miladycraft_1.5/config/jei/jei-debug.ini"
+file = "config/jei/jei-debug.ini"
 hash = "24f1a0313b8ae9b6bf450d962640312613fd0f9e9a21a26756b85a6b5ee3d46d"
 
 [[files]]
-file = "miladycraft_1.5/config/jei/jei-mod-id-format.ini"
+file = "config/jei/jei-mod-id-format.ini"
 hash = "34eb990ae2cf62220a0d1be95629bcac46e6732f1cd6f7b6fdc54bcae02916e5"
 
 [[files]]
-file = "miladycraft_1.5/config/jei/recipe-category-sort-order.ini"
+file = "config/jei/recipe-category-sort-order.ini"
 hash = "a9370b4d7cef5b80e7fbe43ea9188b9fb90d53e6713be2919c77e9ac236797d6"
 
 [[files]]
-file = "miladycraft_1.5/config/jmi-client.toml"
+file = "config/jmi-client.toml"
 hash = "bd64ccd661edd8e69c5214c586e9e32645d460576b4c456656fb6bd5c1f6c12c"
 
 [[files]]
-file = "miladycraft_1.5/config/jumpboat-common.toml"
+file = "config/jumpboat-common.toml"
 hash = "31d3925bd72c39120bf89c5b4c2222ad616063e6527efd612e3d9ee94b7b8035"
 
 [[files]]
-file = "miladycraft_1.5/config/kleeslabs-common.toml"
+file = "config/kleeslabs-common.toml"
 hash = "b630e660d677e22c694d5b87b5f2da9d8029e2a0ca9cbecbcdb6a774eae6e5c0"
 
 [[files]]
-file = "miladycraft_1.5/config/labels-client.toml"
+file = "config/labels-client.toml"
 hash = "ff4d49e8887003f08adb512551c17ad62cbc8734fe20103da590a92e5675c9e9"
 
 [[files]]
-file = "miladycraft_1.5/config/leaky.json"
+file = "config/leaky.json"
 hash = "faf058f01eade5aaf4eef8af7e025604f0a685443f958c4f51ea93294b17dc30"
 
 [[files]]
-file = "miladycraft_1.5/config/leavemybarsalone-client.toml"
+file = "config/leavemybarsalone-client.toml"
 hash = "e008a7be1fa22df29167d45460d10cd622b59fcde51b347a41992e4e7d9a3699"
 
 [[files]]
-file = "miladycraft_1.5/config/lexicon-client.toml"
+file = "config/lexicon-client.toml"
 hash = "5e663c4e5688dfed6ee746443e9890b0ee022a2878a8a2e96ad5a9e3caea87ed"
 
 [[files]]
-file = "miladycraft_1.5/config/lmft.json"
+file = "config/lmft.json"
 hash = "2a2ee19297afe3fc512f5cbe639349847f3e7a74616f282d24a179a17f4559ed"
 
 [[files]]
-file = "miladycraft_1.5/config/logbegone.toml"
+file = "config/logbegone.toml"
 hash = "3d62c0d7517c3ad52c8fb6e43c342d51993141f39086d117eb67594a395e03c2"
 
 [[files]]
-file = "miladycraft_1.5/config/lootr-client.toml"
+file = "config/lootr-client.toml"
 hash = "bdba68cc47b3722ec0b8debe793eea47dc68b453dda9605593ac66a73c6eebda"
 
 [[files]]
-file = "miladycraft_1.5/config/lootr-common.toml"
+file = "config/lootr-common.toml"
 hash = "3eecc3344b0a4987fa8cc5d78a71a65bc5bf622453a4e511e2d8c06877366e2c"
 
 [[files]]
-file = "miladycraft_1.5/config/mighty_mail.server.toml"
+file = "config/mighty_mail.server.toml"
 hash = "da010ad0061205294c7546743e13abef33ddb0b9c9250b6bdb825a39ce5e9cd6"
 
 [[files]]
-file = "miladycraft_1.5/config/modelfix-client.toml"
+file = "config/modelfix-client.toml"
 hash = "08df5fba6cecf5ede0b4aa1a0767445a1c23fec1528366e64d9fd175d9c2d602"
 
 [[files]]
-file = "miladycraft_1.5/config/modernfix-common.toml"
+file = "config/modernfix-common.toml"
 hash = "fad9aea710ec3508eab562cd8f2b5f8e2dda6ee1c5fb1fe818f90ce253017f66"
 
 [[files]]
-file = "miladycraft_1.5/config/modernfix-mixins.properties"
+file = "config/modernfix-mixins.properties"
 hash = "f669e56c689e71684479b968b0391572912a643062bc9904d2a7ffef7eee39ed"
 
 [[files]]
-file = "miladycraft_1.5/config/moreminecartsconfig.toml"
+file = "config/moreminecartsconfig.toml"
 hash = "b715742895816172fd339ab4cdc8e3014f9bc22c4337873e0bc8b725aa8c920a"
 
 [[files]]
-file = "miladycraft_1.5/config/moreoverlays.toml"
+file = "config/moreoverlays.toml"
 hash = "9f38bd4301771093649545981fd1e5eedbaa9313c0d57e836eaa8254bb5d17ca"
 
 [[files]]
-file = "miladycraft_1.5/config/mowziesmobs-client.toml"
+file = "config/mowziesmobs-client.toml"
 hash = "0f729265ef00d6271cfea12cad0a2ff3da997899d5621815cbd7d96e0c1ab58d"
 
 [[files]]
-file = "miladycraft_1.5/config/mowziesmobs-common.toml"
+file = "config/mowziesmobs-common.toml"
 hash = "76b419589453348ce0def14924e116410be71ba8b4df4b1de6f371f3f335b103"
 
 [[files]]
-file = "miladycraft_1.5/config/neapolitan-common.toml"
+file = "config/neapolitan-common.toml"
 hash = "b2c0ccb4ff25285df509af426aefcc4d3b0c639ad250e1be9b3cff0d545c134c"
 
 [[files]]
-file = "miladycraft_1.5/config/notenoughanimations.json"
+file = "config/notenoughanimations.json"
 hash = "0678df6f2e2ddbcb7f24f762378e41b62adc718e59d2119926b5fee2a0988cf8"
 
 [[files]]
-file = "miladycraft_1.5/config/oculus.properties"
+file = "config/oculus.properties"
 hash = "02a9d6528d530723ac016120ef5a134bc8b6f6d653ba6eb3c59295e849042f84"
 
 [[files]]
-file = "miladycraft_1.5/config/packmenu.cfg"
+file = "config/packmenu.cfg"
 hash = "712cc8d89db3481d6adf33b6674078637e858703417bcf6f0cc725edf9698587"
 
 [[files]]
-file = "miladycraft_1.5/config/parcool-client.toml"
+file = "config/parcool-client.toml"
 hash = "5fd728a3501414a75210201b10378cf958fe4194be16d5f9a24e18bca8dc9b79"
 
 [[files]]
-file = "miladycraft_1.5/config/passthroughsigns-common.toml"
+file = "config/passthroughsigns-common.toml"
 hash = "0907eca121b09740e627fbc88f6ef2c0fa6daa0d53f36cb9879519e7453f818a"
 
 [[files]]
-file = "miladycraft_1.5/config/patchouli-client.toml"
+file = "config/patchouli-client.toml"
 hash = "d289f4c7540e3e24bcf6bbf3f5a2aaaf87ccf58027d2213e40497fc627422068"
 
 [[files]]
-file = "miladycraft_1.5/config/paxi/resourcepack_load_order.json"
+file = "config/paxi/resourcepack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
-file = "miladycraft_1.5/config/paxi/resourcepacks/Miladycraft_resources.zip"
+file = "config/paxi/resourcepacks/Miladycraft_resources.zip"
 hash = "a411469f322872421013463c051044acba6a3e30d30d419524ab2b3800aea13a"
 
 [[files]]
-file = "miladycraft_1.5/config/performant-common.toml"
+file = "config/performant-common.toml"
 hash = "355c362de87654c698040ea84b93d229b7964d2b4586abb4bab6048691400c7c"
 
 [[files]]
-file = "miladycraft_1.5/config/personality-client.toml"
+file = "config/personality-client.toml"
 hash = "477461aac657d5c368d0a25cd5ec875961dd67305aabfc9c0da1ae7f8047a6f7"
 
 [[files]]
-file = "miladycraft_1.5/config/quark-common.toml"
+file = "config/quark-common.toml"
 hash = "cc9eeaaa149b5cf81a1653d32e1978deab216e0b8f77138b237f240001c32e95"
 
 [[files]]
-file = "miladycraft_1.5/config/recipeessentials.json"
+file = "config/recipeessentials.json"
 hash = "9160ed908dd6c4dd57d9321715f7c8a96b70c70f2ce7df0e061c41a90065dc7a"
 
 [[files]]
-file = "miladycraft_1.5/config/respiteful-common.toml"
+file = "config/respiteful-common.toml"
 hash = "a4cd339aabcfc2b2dd64eb8c8725e86323e98536191d21f7c066a874e65d7af8"
 
 [[files]]
-file = "miladycraft_1.5/config/responsive-shields.toml"
+file = "config/responsive-shields.toml"
 hash = "2d2fed825c8db4cc6abcfd1902d489e1fceccc30e69bd3d6bcae69c19f638c0a"
 
 [[files]]
-file = "miladycraft_1.5/config/rrls.toml"
+file = "config/rrls.toml"
 hash = "622e98cf832506aa24634e302984536fd06be31fe29e9621317776589f995e56"
 
 [[files]]
-file = "miladycraft_1.5/config/savage_and_ravage-client.toml"
+file = "config/savage_and_ravage-client.toml"
 hash = "e441a4d0d6f8ca65617c56691c044351fd49da819a39b251e8389d1a9be7e990"
 
 [[files]]
-file = "miladycraft_1.5/config/savage_and_ravage-common.toml"
+file = "config/savage_and_ravage-common.toml"
 hash = "72cfd6778f71753718a2f32ebf22d7c67a67460d4bca7e5df6e32536717149da"
 
 [[files]]
-file = "miladycraft_1.5/config/sawmill-common.toml"
+file = "config/sawmill-common.toml"
 hash = "b79fa27253bde6dff39c769dcfba7993fcf25a642288d204970c5ead7ddc512f"
 
 [[files]]
-file = "miladycraft_1.5/config/seasonals-common.toml"
+file = "config/seasonals-common.toml"
 hash = "28fab7d299148211917283c63678eac0a680dd710193f304ea7de92f34118459"
 
 [[files]]
-file = "miladycraft_1.5/config/serializationisbad.json"
+file = "config/serializationisbad.json"
 hash = "a7f5083dc6d5462e02ecf5237861df29e829aacaf3920388e4b9ce8036ba3834"
 
 [[files]]
-file = "miladycraft_1.5/config/sidekick.ini"
+file = "config/sidekick.ini"
 hash = "0b0f40081bbe80bd8fb6f254620376156413063c3916770d204f90a195fbcdc6"
 
 [[files]]
-file = "miladycraft_1.5/config/simple-rpc/server-entries.toml"
+file = "config/simple-rpc/server-entries.toml"
 hash = "17b07ca5f6758448c4c2effbe9cb9f7b2b534c83b1287b5b751c3bbe4f74f2d0"
 
 [[files]]
-file = "miladycraft_1.5/config/simple-rpc/simple-rpc.toml"
+file = "config/simple-rpc/simple-rpc.toml"
 hash = "892dfc0a29f653ff95b73689c99a94df932329b580b876ec11512b8b5b0e2335"
 
 [[files]]
-file = "miladycraft_1.5/config/simplehats-client.toml"
+file = "config/simplehats-client.toml"
 hash = "6defd38a42d02dac469841cf2f0f279f0af461ecfd16d68eeb9ec4f33c873c47"
 
 [[files]]
-file = "miladycraft_1.5/config/simplehats-common.toml"
+file = "config/simplehats-common.toml"
 hash = "093b1ccb9a930f5a5d06b0dd76ddf8905c9d8785a693d8d7956348357a4ffaa2"
 
 [[files]]
-file = "miladycraft_1.5/config/simplehats.json"
+file = "config/simplehats.json"
 hash = "3ce9442ea4e3b6e0a34816b52c56d4f59d5ddf9fc4c37393df0e4bab5c857462"
 
 [[files]]
-file = "miladycraft_1.5/config/simplesplashscreen.json5"
+file = "config/simplesplashscreen.json5"
 hash = "d253de7fad25f26dccd74e734b0b5b933ee5805b236ffae5d9fd288a535dc819"
 
 [[files]]
-file = "miladycraft_1.5/config/simplesplashscreen/background.png"
+file = "config/simplesplashscreen/background.png"
 hash = "23455059af0866d5961d4d68691f2248b45903ffd907c64f296148f606b32d21"
 
 [[files]]
-file = "miladycraft_1.5/config/simplesplashscreen/mojangstudios.png"
+file = "config/simplesplashscreen/mojangstudios.png"
 hash = "70a2c8e2e8e7e96ac3b2d72507ca4a8b0ad355be39979e785ca9a3b5064fe19a"
 
 [[files]]
-file = "miladycraft_1.5/config/simplesplashscreen/mojank.png"
+file = "config/simplesplashscreen/mojank.png"
 hash = "7e4897e9f11f9c44aaafdf6c5890803ff5e2908806748f89f1ac596e4e612f42"
 
 [[files]]
-file = "miladycraft_1.5/config/simplesplashscreen/progressbar.png"
+file = "config/simplesplashscreen/progressbar.png"
 hash = "0bdbbcfcd75e850611a6a87ebc0d3fefa58e6767afcbee2c7fdd3a8de2bf403b"
 
 [[files]]
-file = "miladycraft_1.5/config/simplesplashscreen/progressbar_background.png"
+file = "config/simplesplashscreen/progressbar_background.png"
 hash = "6e2fa0adee9638b3e8f36e75ad048f0abb0de2d06b591961c6b2aff943fd46f2"
 
 [[files]]
-file = "miladycraft_1.5/config/simplygraves-common.toml"
+file = "config/simplygraves-common.toml"
 hash = "58e619a6449d61876aab062d71873ab5a4b2cfbb7257ef67d9a79c7dfdc3e41e"
 
 [[files]]
-file = "miladycraft_1.5/config/sleep_tight-client.toml"
+file = "config/sleep_tight-client.toml"
 hash = "395dffecbafaf85b92b1b5a9bd222a629c1b8fe6f264564199dbe3cee98fd79e"
 
 [[files]]
-file = "miladycraft_1.5/config/sleep_tight-common.toml"
+file = "config/sleep_tight-common.toml"
 hash = "64fb9f029156d452a4bc05df0ae93de108e02ba4d736bf60b1c34291da45c54b"
 
 [[files]]
-file = "miladycraft_1.5/config/snowyspirit-client.toml"
+file = "config/snowyspirit-client.toml"
 hash = "4bda1a7c7502f04c769978d18739ca1351d0aa26c1a7ede6c07ba7abd0428d38"
 
 [[files]]
-file = "miladycraft_1.5/config/snowyspirit-common.toml"
+file = "config/snowyspirit-common.toml"
 hash = "629a0de32a4f67da0bdfbbfeca98fe7a204dcea35184b736edfced559c77a319"
 
 [[files]]
-file = "miladycraft_1.5/config/sootychimneys-common.toml"
+file = "config/sootychimneys-common.toml"
 hash = "d39d3641850b488a6b31a93c5ce1088d9184aa734272ab57e188085967881125"
 
 [[files]]
-file = "miladycraft_1.5/config/spyglass_improvements-client.toml"
+file = "config/spyglass_improvements-client.toml"
 hash = "5a734ef5c18f827eddeb3fb9c731ab3b6c790f9d767eac173554effa6ceed22c"
 
 [[files]]
-file = "miladycraft_1.5/config/staaaaaaaaaaaack-client.toml"
+file = "config/staaaaaaaaaaaack-client.toml"
 hash = "fc82402c60a55e35bd1f4bac432015ae48cef8e14d91773ae388bcad6ba30cfc"
 
 [[files]]
-file = "miladycraft_1.5/config/staaaaaaaaaaaack-common.toml"
+file = "config/staaaaaaaaaaaack-common.toml"
 hash = "837aeae27af7f9fa07f041a16d21ee070c251a87a7aa63cc0353b6e30a05fbee"
 
 [[files]]
-file = "miladycraft_1.5/config/strongersnowballs.json"
+file = "config/strongersnowballs.json"
 hash = "ce8df65427eb49712784f636b430bee1a4d441db377fd90db08cc47ea90875e9"
 
 [[files]]
-file = "miladycraft_1.5/config/stylisheffects-client.toml"
+file = "config/stylisheffects-client.toml"
 hash = "97b69c24045c5ba9eb0f14e8d42cf706140022939d18210b52e037884931dc8c"
 
 [[files]]
-file = "miladycraft_1.5/config/sugared_concrete-client.toml"
+file = "config/sugared_concrete-client.toml"
 hash = "bd85905e18994d826323dd497e5e8f1e740fa70f35e2444f6cd1736af23d0778"
 
 [[files]]
-file = "miladycraft_1.5/config/sullysmod-client.toml"
+file = "config/sullysmod-client.toml"
 hash = "fafcc436414a79c417a7928f413008cd88b2e8f3fbe6c9e0b70f06d5ce6a041d"
 
 [[files]]
-file = "miladycraft_1.5/config/supplementaries-client.toml"
+file = "config/supplementaries-client.toml"
 hash = "b617b19695a86159927e72c18b4a0ac6d469f8d91800d7ebaf489da8e8def4de"
 
 [[files]]
-file = "miladycraft_1.5/config/supplementaries-common.toml"
+file = "config/supplementaries-common.toml"
 hash = "0fee88bd720d8481761479ce37bc65de982983a2ffdef4dd59e1d5b1c09bcd0c"
 
 [[files]]
-file = "miladycraft_1.5/config/tabby_config.toml"
+file = "config/tabby_config.toml"
 hash = "8a1312b23a997f2a9f29e83b64f40c0e14c5e32575d0daebb195c08cebc36edb"
 
 [[files]]
-file = "miladycraft_1.5/config/takesapillage-common.toml"
+file = "config/takesapillage-common.toml"
 hash = "43d2d4dd938e4f286811c5358eac7813adae5e514fb4362fa30b63a1a5a02071"
 
 [[files]]
-file = "miladycraft_1.5/config/terrablender.toml"
+file = "config/terrablender.toml"
 hash = "59d79e8bc4a42e678196a7164e5841a9803f8684f1b52b9944ce554c9f353691"
 
 [[files]]
-file = "miladycraft_1.5/config/timecontrol-common.toml"
+file = "config/timecontrol-common.toml"
 hash = "e6b0de8263420c9c5e2eedb1694da28bb65beaeca3570875073e02fb54f5a190"
 
 [[files]]
-file = "miladycraft_1.5/config/tips.json"
+file = "config/tips.json"
 hash = "50937206850d3da0e99ea03101335b9cfbfefeb3accfadb6c184957abdddab7d"
 
 [[files]]
-file = "miladycraft_1.5/config/toastcontrol-common.toml"
+file = "config/toastcontrol-common.toml"
 hash = "6a1e5a0af372be8ed77ed11538daaf2d9c2d1af755fd9ef48c75c2c721b7380c"
 
 [[files]]
-file = "miladycraft_1.5/config/tr7zwDonorSettings.json"
+file = "config/tr7zwDonorSettings.json"
 hash = "accf3ae12dbb30c807b81d59a5310784aef56bb992cbd287fd6117aaf144fcff"
 
 [[files]]
-file = "miladycraft_1.5/config/trafficcraft-common.toml"
+file = "config/trafficcraft-common.toml"
 hash = "f79737e61a4b3d4b6e34f2349afcf948d431c2f4fcae5f3b684abefe39c00e09"
 
 [[files]]
-file = "miladycraft_1.5/config/trofers-common.toml"
+file = "config/trofers-common.toml"
 hash = "7d53d906614db6ea999d36cc042fbee91a9048cca738fe06f7c2fde777a4f633"
 
 [[files]]
-file = "miladycraft_1.5/config/trulytreasures-common.toml"
+file = "config/trulytreasures-common.toml"
 hash = "ed7a6bff6bf913dfe69e8b6cbb78b04b804f5914a4f3f4be3b1a6615a4638531"
 
 [[files]]
-file = "miladycraft_1.5/config/tslatentitystatus-common.toml"
+file = "config/tslatentitystatus-common.toml"
 hash = "ea8cdbd56468a97bf93f39f4b0f7a8ea093b9d167bba3b06de53ebe9fa0f0839"
 
 [[files]]
-file = "miladycraft_1.5/config/unusualprehistory-common.toml"
+file = "config/unusualprehistory-common.toml"
 hash = "9a569fcb41eeee42018a9f8cbde88e2d58744124cde6bcb18735df8d6d2f7d2d"
 
 [[files]]
-file = "miladycraft_1.5/config/upgrade_aquatic-client.toml"
+file = "config/upgrade_aquatic-client.toml"
 hash = "429127b2b8ad56b3065ee98492ad7c66d740572d6dd4689ad97c215b15c8ef0a"
 
 [[files]]
-file = "miladycraft_1.5/config/upgrade_aquatic-common.toml"
+file = "config/upgrade_aquatic-common.toml"
 hash = "3216c3396a6a3a6e0a3dbf5bf1a0f92c0dcc5ab3667bcb65a890213ab6540815"
 
 [[files]]
-file = "miladycraft_1.5/config/voicechat/translations.properties"
+file = "config/voicechat/translations.properties"
 hash = "b8215b84232be41438ffb7c7304b57b0677c9cad49b717db59900872080adf20"
 
 [[files]]
-file = "miladycraft_1.5/config/voicechat/voicechat-client.properties"
+file = "config/voicechat/voicechat-client.properties"
 hash = "65feaafa2a3e994aa07621d740f87c2debeb6c36935364df58b9d408983d64b3"
 
 [[files]]
-file = "miladycraft_1.5/config/voicechat/voicechat-volumes.properties"
+file = "config/voicechat/voicechat-volumes.properties"
 hash = "58242ef3075b166845e0081281b01113a55b9d095104a68b167e7b4bc08b87c5"
 
 [[files]]
-file = "miladycraft_1.5/config/wares-client.toml"
+file = "config/wares-client.toml"
 hash = "9cff1710ca13016e2e82c751274bc44e23e8c0cd015cd738a61b971c76372a79"
 
 [[files]]
-file = "miladycraft_1.5/config/wares-common.toml"
+file = "config/wares-common.toml"
 hash = "bc9b12d1c7cb96ef2b17c8100867933552584fd4915c02663ff9f41c0c680417"
 
 [[files]]
-file = "miladycraft_1.5/config/watut-client.toml"
+file = "config/watut-client.toml"
 hash = "f0fda3f30f0a2793e9efcddb6670455ee8dcff7e5f6df7961fe5e634a80f08f0"
 
 [[files]]
-file = "miladycraft_1.5/config/watut-common.toml"
+file = "config/watut-common.toml"
 hash = "b37272f50907bd98b1f9379ac46d079699f0b220d56fae38d34621d4e7b5953d"
 
 [[files]]
-file = "miladycraft_1.5/config/waystones-common.toml"
+file = "config/waystones-common.toml"
 hash = "c648334834764dfb1b7feb67b6073fac0703ee249c64192e27d83a6db3811541"
 
 [[files]]
-file = "miladycraft_1.5/config/welcomemessage.json5"
+file = "config/welcomemessage.json5"
 hash = "3e335b6efff20eefced41dfefc4c51f697c98ed3b2988a40292eb2e73d26f238"
 
 [[files]]
-file = "miladycraft_1.5/config/windswept-client.toml"
+file = "config/windswept-client.toml"
 hash = "aa74fdd5103d5177ace919b94a87cb9b0ba499893d40a37a6ccd157bed8ded0a"
 
 [[files]]
-file = "miladycraft_1.5/config/windswept-common.toml"
+file = "config/windswept-common.toml"
 hash = "28995f24db7dd44dc7fbc9a758c3aa3becd002c2d3bb6a0e6e18965d767a46ae"
 
 [[files]]
-file = "miladycraft_1.5/config/woodworks-common.toml"
+file = "config/woodworks-common.toml"
 hash = "002f5b1c48f734d8aa0e3758e46c054167e7d812b6229e41e6b8fcf378d3fe6f"
 
 [[files]]
-file = "miladycraft_1.5/config/xaerominimap-common.txt"
+file = "config/xaerominimap-common.txt"
 hash = "a9bbdedc031c5fb39c88c7cd6977bbadbcbf69cf70fcac5af139206ee9a38ac6"
 
 [[files]]
-file = "miladycraft_1.5/config/xaerominimap.txt"
+file = "config/xaerominimap.txt"
 hash = "768c8142d24ab6a427c2f4e974566e7f38775dc504b1359185ad296f9281ed6b"
 
 [[files]]
-file = "miladycraft_1.5/config/xaerominimap_entities.json"
+file = "config/xaerominimap_entities.json"
 hash = "01a1980b0cda4c989136609c81a301fd0b2f6f7de1d3b34cf38801c1c55243b0"
 
 [[files]]
-file = "miladycraft_1.5/config/xaeropatreon.txt"
+file = "config/xaeropatreon.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
-file = "miladycraft_1.5/config/xaeroplus.txt"
+file = "config/xaeroplus.txt"
 hash = "07f7e6b982f0d2d9645b9169672e7d323d4a9c45803e202ce9eb84cfaa643ed3"
 
 [[files]]
-file = "miladycraft_1.5/config/xaeroworldmap-common.txt"
+file = "config/xaeroworldmap-common.txt"
 hash = "ebfdd3274357ccc5a9e8f792fad9ad57a2540ccac139472028180c0a3c734e72"
 
 [[files]]
-file = "miladycraft_1.5/config/xaeroworldmap.txt"
+file = "config/xaeroworldmap.txt"
 hash = "f6bb49523feb480fccc121d15b5ea71d22e4a0aa15d4a9975158acccc4061635"
 
 [[files]]
-file = "miladycraft_1.5/defaultconfigs/artifacts-server.toml"
+file = "defaultconfigs/artifacts-server.toml"
 hash = "38b1fe0cc3ba28d7c9537d91e91e1187e35abcfd2f5630a6bd2b39243371316c"
 
 [[files]]
-file = "miladycraft_1.5/defaultconfigs/backpacked-server.toml"
+file = "defaultconfigs/backpacked-server.toml"
 hash = "5bf98f525b73cc47df7895cab76ffaccf361a532cbc86843b61f802d7a727179"
 
 [[files]]
-file = "miladycraft_1.5/defaultconfigs/beaconsforall-server.toml"
+file = "defaultconfigs/beaconsforall-server.toml"
 hash = "d524c9e80ea701e0c65414a19800b97a27f6fcf858ae8c520172be6ea83b78bb"
 
 [[files]]
-file = "miladycraft_1.5/defaultconfigs/camera-server.toml"
+file = "defaultconfigs/camera-server.toml"
 hash = "d1c17bd9c3c6f59cf82dedf51acd9adaf1dc88d60c9bf8781c529ee0aea058be"
 
 [[files]]
-file = "miladycraft_1.5/defaultconfigs/cgm-server.toml"
+file = "defaultconfigs/cgm-server.toml"
 hash = "0ef15015855b6fb8e23866753211494e6b64cab41ac731d225f3b2c12fc5ed68"
 
 [[files]]
-file = "miladycraft_1.5/defaultconfigs/cofh_core-server.toml"
+file = "defaultconfigs/cofh_core-server.toml"
 hash = "e716bc3f80b96f304bcb6e1b64299130f534cdb4c09a70aed9e37dadd9851f17"
 
 [[files]]
-file = "miladycraft_1.5/defaultconfigs/curios-server.toml"
+file = "defaultconfigs/curios-server.toml"
 hash = "0f99a5c3f9a3d6651bc154cf4b30a81c0afeace94b89baebe414943a0e112fc7"
 
 [[files]]
-file = "miladycraft_1.5/defaultconfigs/etched-server.toml"
+file = "defaultconfigs/etched-server.toml"
 hash = "e5d6bcba84332df82d098023128cc61f03e69ad07d8ee08691055e08cb971ff5"
 
 [[files]]
-file = "miladycraft_1.5/defaultconfigs/forge-server.toml"
+file = "defaultconfigs/forge-server.toml"
 hash = "b25b0f5d49e3707fd282635c6bc2fbfd29af75a9b996d564e3a5013efdbd954c"
 
 [[files]]
-file = "miladycraft_1.5/defaultconfigs/ftbessentials.snbt"
+file = "defaultconfigs/ftbessentials.snbt"
 hash = "20bbc7561eff835e7f019c49292699832f3dfabe7d9820168464b809b6250445"
 
 [[files]]
-file = "miladycraft_1.5/defaultconfigs/ftbranks/README.txt"
+file = "defaultconfigs/ftbranks/README.txt"
 hash = "6da7c97c31e7c9c4740a922882ea22668186eb39ab4e5104c6c7f8bc071cc63a"
 
 [[files]]
-file = "miladycraft_1.5/defaultconfigs/ftbranks/players.snbt"
+file = "defaultconfigs/ftbranks/players.snbt"
 hash = "05e2ebd3e27853c7ae7c6b75a974b53a2e6c395a01eceb1b9a5c2233860fc0c7"
 
 [[files]]
-file = "miladycraft_1.5/defaultconfigs/ftbranks/ranks.snbt"
+file = "defaultconfigs/ftbranks/ranks.snbt"
 hash = "90c402db0b3113a043e2b3f42e019a3676dfab77b1d8b875bbfba7aa2c2a23f9"
 
 [[files]]
-file = "miladycraft_1.5/defaultconfigs/getittogetherdrops-server.toml"
+file = "defaultconfigs/getittogetherdrops-server.toml"
 hash = "d4d5a2add32a1fe7c842e1e26522e9e83a59efea26a96d881b08b0152e1ad710"
 
 [[files]]
-file = "miladycraft_1.5/defaultconfigs/irons_rpg_tweaks-server.toml"
+file = "defaultconfigs/irons_rpg_tweaks-server.toml"
 hash = "243615aa98dd727a47a8954b6010ae8209019addabb1758cbb8a0391f62448c6"
 
 [[files]]
-file = "miladycraft_1.5/defaultconfigs/irons_spellbooks-server.toml"
+file = "defaultconfigs/irons_spellbooks-server.toml"
 hash = "ec086ae7fbb148725a01ca3d2612ea9f3efc5a6da8c1f384f21470a7d8746bd6"
 
 [[files]]
-file = "miladycraft_1.5/defaultconfigs/jei-server.toml"
+file = "defaultconfigs/jei-server.toml"
 hash = "6ecd614e209640db093512337a46cc1df2d6be5b1585d024b62742e76585ea5c"
 
 [[files]]
-file = "miladycraft_1.5/defaultconfigs/openpartiesandclaims-default-player-config.toml"
+file = "defaultconfigs/openpartiesandclaims-default-player-config.toml"
 hash = "237980cd5dfa88d12518b6911c1f910f48d8824e996242765a5af71a8b1c9d8a"
 
 [[files]]
-file = "miladycraft_1.5/defaultconfigs/openpartiesandclaims-expired-claim-config.toml"
+file = "defaultconfigs/openpartiesandclaims-expired-claim-config.toml"
 hash = "237980cd5dfa88d12518b6911c1f910f48d8824e996242765a5af71a8b1c9d8a"
 
 [[files]]
-file = "miladycraft_1.5/defaultconfigs/openpartiesandclaims-server-claim-config.toml"
+file = "defaultconfigs/openpartiesandclaims-server-claim-config.toml"
 hash = "237980cd5dfa88d12518b6911c1f910f48d8824e996242765a5af71a8b1c9d8a"
 
 [[files]]
-file = "miladycraft_1.5/defaultconfigs/openpartiesandclaims-server.toml"
+file = "defaultconfigs/openpartiesandclaims-server.toml"
 hash = "16ddfe36ce1d897e5cc0b1183aa7cc5062a7fcd112821f194d1562e57c92a4d3"
 
 [[files]]
-file = "miladycraft_1.5/defaultconfigs/openpartiesandclaims-wilderness-config.toml"
+file = "defaultconfigs/openpartiesandclaims-wilderness-config.toml"
 hash = "4ad12792d39a1339a1465f05ce6e4828f5bdcc07c8ce9c378cfc95d86eb4bf01"
 
 [[files]]
-file = "miladycraft_1.5/defaultconfigs/parcool-server.toml"
+file = "defaultconfigs/parcool-server.toml"
 hash = "97f6ac403e5383970cd18c86ac95bd2c3bb8f4a9f94714263074431eb8298cd3"
 
 [[files]]
-file = "miladycraft_1.5/defaultconfigs/simplelogin-server.toml"
+file = "defaultconfigs/simplelogin-server.toml"
 hash = "d96e34bb4c69d634940e61ee287fa29027e4d0ba98da6aa82b9bdd7b8c719498"
 
 [[files]]
-file = "miladycraft_1.5/defaultconfigs/sit-server.toml"
+file = "defaultconfigs/sit-server.toml"
 hash = "7bda877d963f2729c1f8c0c4bd728aaa6f35b19c6893d8df78f009df6f44cd7e"
 
 [[files]]
-file = "miladycraft_1.5/defaultconfigs/sullysmod-server.toml"
+file = "defaultconfigs/sullysmod-server.toml"
 hash = "54b7a7349b0af916d88be76f6f49ea272eab923f8680eff72442060cabd8896a"
 
 [[files]]
-file = "miladycraft_1.5/defaultconfigs/toms_storage-server.toml"
+file = "defaultconfigs/toms_storage-server.toml"
 hash = "ab5a91d64ac24b723fad85f2aef5b4bdad9a99044e80e2f67384823e6fbae85c"
 
 [[files]]
-file = "miladycraft_1.5/defaultconfigs/voicechat-server.toml"
+file = "defaultconfigs/voicechat-server.toml"
 hash = "30328f3c085023a9e02be8526f22914439b15e18cd1e16087de5b958c3cd23e4"
 
 [[files]]
-file = "miladycraft_1.5/emotes/Ascend.json"
+file = "emotes/Ascend.json"
 hash = "b9b78b5b2803d6ff6f5a7fbd3a1fb2cd1a16e8e31d7632622581ed8e1a792a84"
 
 [[files]]
-file = "miladycraft_1.5/emotes/Bhop.json"
+file = "emotes/Bhop.json"
 hash = "cc960c48b211a9f0b60743f7ccbc894684460ad6636867ffc66185a819e8c01f"
 
 [[files]]
-file = "miladycraft_1.5/emotes/Diamond_jojo_loop.json"
+file = "emotes/Diamond_jojo_loop.json"
 hash = "99bb94caf1b609b52c3617d51704c1eaf31c470d3188c49ba2790c58a4d19f72"
 
 [[files]]
-file = "miladycraft_1.5/emotes/Double Cross Dab.json"
+file = "emotes/Double Cross Dab.json"
 hash = "762aa95df0cee6bb1f2eea23b207244d31605daf2d88de3ed63a77542989f77d"
 
 [[files]]
-file = "miladycraft_1.5/emotes/DrLiveseyWalking.json"
+file = "emotes/DrLiveseyWalking.json"
 hash = "288f0c8cbdf32811690e4b6e66efb162162fe2f7aba929c16e56e543d4d6dad3"
 
 [[files]]
-file = "miladycraft_1.5/emotes/Drunken.json"
+file = "emotes/Drunken.json"
 hash = "65659c07fc215b55f8bb7f94e29d0b20c1922488dfe8074146e85533b30f9dd8"
 
 [[files]]
-file = "miladycraft_1.5/emotes/Family Guy Death.emotecraft"
+file = "emotes/Family Guy Death.emotecraft"
 hash = "b36d60ceea4397a4fe14c311eece5d489b8c1b8ef12d14e436a942a03a0fcc70"
 
 [[files]]
-file = "miladycraft_1.5/emotes/Floss.json"
+file = "emotes/Floss.json"
 hash = "43d81b5195c93850a4deb32d322d6e1a6bdb51bcc1c28047fee0b2d227d84fa5"
 
 [[files]]
-file = "miladycraft_1.5/emotes/Four.emotecraft"
+file = "emotes/Four.emotecraft"
 hash = "df18eb6cd01cabe3906a6185081b901f6396217b03840204ebf645624c859691"
 
 [[files]]
-file = "miladycraft_1.5/emotes/Gagnam style (bendy).json"
+file = "emotes/Gagnam style (bendy).json"
 hash = "189eb44448e45c84e9e365ee0d74cdab8946158763c9ebb2e32be1e0f4d59978"
 
 [[files]]
-file = "miladycraft_1.5/emotes/Hype.json"
+file = "emotes/Hype.json"
 hash = "47cad0899f6b7e2625565493292aca4a72ba0e0799186a8c68a05bc9fcb493bc"
 
 [[files]]
-file = "miladycraft_1.5/emotes/Jackson.json"
+file = "emotes/Jackson.json"
 hash = "fe95665d9bf6c246bb4269c9d5d4be14837eff2fc6d4bef056f4a96b306e650e"
 
 [[files]]
-file = "miladycraft_1.5/emotes/Killed.emotecraft"
+file = "emotes/Killed.emotecraft"
 hash = "62a3b6196de9b8990811fb074ded3951afe661ca2fe7e33a36966c79ee56e572"
 
 [[files]]
-file = "miladycraft_1.5/emotes/Lay on back.json"
+file = "emotes/Lay on back.json"
 hash = "612209ecc500927f16005835e79bae1f8a76f25b357a49a21887e6ba8804668a"
 
 [[files]]
-file = "miladycraft_1.5/emotes/LayHurt.json"
+file = "emotes/LayHurt.json"
 hash = "5e00e5d153d1ff17639d842bb800b66442d3d1476340a1df9f8e23b031244569"
 
 [[files]]
-file = "miladycraft_1.5/emotes/Petition.emotecraft"
+file = "emotes/Petition.emotecraft"
 hash = "b787db3166e49fa4f9a7ffea5a68bbbd54cf038ca5862771db7015e060823427"
 
 [[files]]
-file = "miladycraft_1.5/emotes/Po Pi Po.emotecraft"
+file = "emotes/Po Pi Po.emotecraft"
 hash = "352b21c5ec0257cbaf2bec05f0f47e0dda15fca11e2aff305dfaec9649dfae40"
 
 [[files]]
-file = "miladycraft_1.5/emotes/Praise the sun.json"
+file = "emotes/Praise the sun.json"
 hash = "b44ba859e0e881d83135e9652fe6fb1694494c793b03a57e515bccc4118a08b4"
 
 [[files]]
-file = "miladycraft_1.5/emotes/Proxima Creature.json"
+file = "emotes/Proxima Creature.json"
 hash = "b25d35f88451bc5fa63247e5b5cfa0dca85648c76908dc6e86ae2eb663b5aaec"
 
 [[files]]
-file = "miladycraft_1.5/emotes/ShakeitChad.json"
+file = "emotes/ShakeitChad.json"
 hash = "6a79ba954960cf9ab6a03f5229a619bed23b575f73f37c9e11ec13915803513d"
 
 [[files]]
-file = "miladycraft_1.5/emotes/Shrug.json"
+file = "emotes/Shrug.json"
 hash = "9f514bc205c580867d1da612da75333faa9d7e3a35b147f032c9db8d47cd371a"
 
 [[files]]
-file = "miladycraft_1.5/emotes/Smuggy.json"
+file = "emotes/Smuggy.json"
 hash = "f9fbe2b7a12828bee01d6cb16d0ed66d5d4c3414323c279e3c05bc2d5c091763"
 
 [[files]]
-file = "miladycraft_1.5/emotes/Step.emotecraft"
+file = "emotes/Step.emotecraft"
 hash = "9769cdbb4672e92e5007fa42f2df07f94437190b4cabe89ccb972aa9bc5a46f9"
 
 [[files]]
-file = "miladycraft_1.5/emotes/Unstoppable.json"
+file = "emotes/Unstoppable.json"
 hash = "586a0c251eb66e84fe3a86a3ee3977da4a31225041e75952f806f3c8a6051ffd"
 
 [[files]]
-file = "miladycraft_1.5/emotes/a-train.json"
+file = "emotes/a-train.json"
 hash = "e1763c3a6d60b8aa445aa6cce935a5be3bac003518fc01de6e9caf12e98c892f"
 
 [[files]]
-file = "miladycraft_1.5/emotes/arm_dance.json"
+file = "emotes/arm_dance.json"
 hash = "db83909428aee5f53f7c859615986f9a5f3763678692ee1a731fd48dd104eddd"
 
 [[files]]
-file = "miladycraft_1.5/emotes/baller.json"
+file = "emotes/baller.json"
 hash = "50442fa14323b5ef468491bd6ad69666f82f8c07eee695dfa7f2a10e1c41a855"
 
 [[files]]
-file = "miladycraft_1.5/emotes/blow kiss.json"
+file = "emotes/blow kiss.json"
 hash = "705aa014164b824acb0c20de9856d5fa1f2034756007a27a8e4a7d8bd3a2b245"
 
 [[files]]
-file = "miladycraft_1.5/emotes/bow1.json"
+file = "emotes/bow1.json"
 hash = "b4fda1c66eb925f5c7a398eec5c5d2356334b651309f4c460bdee435264f9678"
 
 [[files]]
-file = "miladycraft_1.5/emotes/bow2.json"
+file = "emotes/bow2.json"
 hash = "13f324f7bf7548f4479c4ebd06ab651250ffcfb838cfe65478e77a1cc6eafec9"
 
 [[files]]
-file = "miladycraft_1.5/emotes/charlie brown.json"
+file = "emotes/charlie brown.json"
 hash = "79648c1d9c7517f45a444a8d4b575fe1a674d129c41a878a1538e22ad19564c3"
 
 [[files]]
-file = "miladycraft_1.5/emotes/cheer.json"
+file = "emotes/cheer.json"
 hash = "8e59ddedcd5097f5fb77874f26bc8e3e3b78eacea6b283a03bc5a0b659107131"
 
 [[files]]
-file = "miladycraft_1.5/emotes/club penguin dance (rigid).emotecraft"
+file = "emotes/club penguin dance (rigid).emotecraft"
 hash = "420e3d66c48aafb2ba781457ac33aa83a88a99da74f48afe94af9241062e3a47"
 
 [[files]]
-file = "miladycraft_1.5/emotes/club penguin dance.emotecraft"
+file = "emotes/club penguin dance.emotecraft"
 hash = "e381af4b6d658bee8ca796ee1b0b09a47259425aa932310d31648fc1c9a12b71"
 
 [[files]]
-file = "miladycraft_1.5/emotes/cross.json"
+file = "emotes/cross.json"
 hash = "5b7a997c01df8cc4e6fee0447956e7553899316af632b65145a98d81877d919f"
 
 [[files]]
-file = "miladycraft_1.5/emotes/elegant_man.json"
+file = "emotes/elegant_man.json"
 hash = "2433f48a4adb5f498d833a57e65692f9cceb20f9c4ad1299a096d98ca4ffe312"
 
 [[files]]
-file = "miladycraft_1.5/emotes/giga_chad.json"
+file = "emotes/giga_chad.json"
 hash = "2c426268c0a4da1e76dd241a2a1b53c647c71e8f36c09618815cdbce3450b376"
 
 [[files]]
-file = "miladycraft_1.5/emotes/goldeneye_007.json"
+file = "emotes/goldeneye_007.json"
 hash = "79c1495973b420d39dffd058e378cf5a6c78373e3a67157dd16184ca6bbe8c05"
 
 [[files]]
-file = "miladycraft_1.5/emotes/griddy.json"
+file = "emotes/griddy.json"
 hash = "03f1faf9b3767cb8695dcbb8463ae5d584fa92cb46c6da00ed188d4e39f6ab6d"
 
 [[files]]
-file = "miladycraft_1.5/emotes/heart.json"
+file = "emotes/heart.json"
 hash = "0bdc9fa48329088c2f1aea471fce9af5e1e4a572729a438f32faf2f4e4e2792d"
 
 [[files]]
-file = "miladycraft_1.5/emotes/hearthands.json"
+file = "emotes/hearthands.json"
 hash = "6c318960c48737b55dc0cf2677a5c14e27b0907777e77e28e74dccc1c02c271f"
 
 [[files]]
-file = "miladycraft_1.5/emotes/hug.json"
+file = "emotes/hug.json"
 hash = "d1bb293d36d004fc728ed9c1cfefe238e84e77cbe8afa53f387eaae52f6b1531"
 
 [[files]]
-file = "miladycraft_1.5/emotes/hunchback.json"
+file = "emotes/hunchback.json"
 hash = "e521ed5634aa953333ac1db2d556d57b9df80b4128186b51946f6802e3ab6424"
 
 [[files]]
-file = "miladycraft_1.5/emotes/item.json"
+file = "emotes/item.json"
 hash = "1f6a20861a087420f452da13b13423856e64aea3a4494e06c98d2feaf1b0e6bd"
 
 [[files]]
-file = "miladycraft_1.5/emotes/jumping jacks.json"
+file = "emotes/jumping jacks.json"
 hash = "65714e9dc6f46da3045aa346abb4022cd81f6014c04e3a7b586f188178faa6ee"
 
 [[files]]
-file = "miladycraft_1.5/emotes/kneel.json"
+file = "emotes/kneel.json"
 hash = "1988fd4b01b84875510069b0667adbe3954cbe6793bdc0e20efa244120bdfc76"
 
 [[files]]
-file = "miladycraft_1.5/emotes/koichi_pose.json"
+file = "emotes/koichi_pose.json"
 hash = "14dffb0f52f4b8e918d17dd15d55218a1dbe7e12b0e05e47dcdc726c504d2e65"
 
 [[files]]
-file = "miladycraft_1.5/emotes/lay_down5.json"
+file = "emotes/lay_down5.json"
 hash = "c4d18b8359744e348641ac8a9bd115edd25921d3040c5ff361dcf78acf786840"
 
 [[files]]
-file = "miladycraft_1.5/emotes/lying on side.json"
+file = "emotes/lying on side.json"
 hash = "d510d1a1a0c1aaebf62ade4e42bf93e40c73113fe9f43d24b29c5014bd130e2f"
 
 [[files]]
-file = "miladycraft_1.5/emotes/lying_on_front.json"
+file = "emotes/lying_on_front.json"
 hash = "a54476494adcca8275426946c758975ea06621787ea57e0b411403c4ff71eb94"
 
 [[files]]
-file = "miladycraft_1.5/emotes/meditation_fly.json"
+file = "emotes/meditation_fly.json"
 hash = "d8f546d1ad3d567e3f93d5ae15b525c922bcde7fae1559436acd1e2b1fdd4909"
 
 [[files]]
-file = "miladycraft_1.5/emotes/naruto run.emotecraft"
+file = "emotes/naruto run.emotecraft"
 hash = "314d33634b97c7611928cf451cb9b4efe21da8e13b0e70e1df72ea28d3d14b5a"
 
 [[files]]
-file = "miladycraft_1.5/emotes/nervous.json"
+file = "emotes/nervous.json"
 hash = "7fd37c4a3120d3b76e0ec711e9c7efeca6ccae2fb33125f06c8fdd2530dbef5c"
 
 [[files]]
-file = "miladycraft_1.5/emotes/orange justice.json"
+file = "emotes/orange justice.json"
 hash = "de7e8c391130672a4372831323fcef5d3d6068507a7dfbe146a56a972582e8be"
 
 [[files]]
-file = "miladycraft_1.5/emotes/penguin.json"
+file = "emotes/penguin.json"
 hash = "0719a6d4e593ace446e2001658674424bff1965790877861939d39ee49bd360d"
 
 [[files]]
-file = "miladycraft_1.5/emotes/phone_call.json"
+file = "emotes/phone_call.json"
 hash = "249bbb714d84c0b2f082d2bfca4f1b384352cad1029e887f9cdc624e6498e5c8"
 
 [[files]]
-file = "miladycraft_1.5/emotes/pillar_man.json"
+file = "emotes/pillar_man.json"
 hash = "8ba8330fdc9593fa2288fa7863775a302ee583b7f96a9b8bfb3e2f8603a63e25"
 
 [[files]]
-file = "miladycraft_1.5/emotes/punch.json"
+file = "emotes/punch.json"
 hash = "b3447cf5314c072d1b2e4aff69f4de05a8596a567135fe7680321c1fd9c44abd"
 
 [[files]]
-file = "miladycraft_1.5/emotes/salute1.json"
+file = "emotes/salute1.json"
 hash = "9bc77b7da071bbb91b940858349aca45558c21e808f58029a740a52f92843b2d"
 
 [[files]]
-file = "miladycraft_1.5/emotes/salute2.json"
+file = "emotes/salute2.json"
 hash = "c3cc976835185b97e4dfd419bf896a9d380b7579f1fd02b062045705dd6257f4"
 
 [[files]]
-file = "miladycraft_1.5/emotes/seiza sit.json"
+file = "emotes/seiza sit.json"
 hash = "705ef1724d11d2177e3b7bb163a743c16fd5970775993b33f47241f3e39ffad1"
 
 [[files]]
-file = "miladycraft_1.5/emotes/selfie.json"
+file = "emotes/selfie.json"
 hash = "8854e458a2b2f021b394ca9c64d9c6e6f993a89bd79bc09a33525dd72830ffa0"
 
 [[files]]
-file = "miladycraft_1.5/emotes/shake.json"
+file = "emotes/shake.json"
 hash = "296e268d3b4ce80ad64e8ab69ec937e11607baa9bb6966fe0122c6586a7cf491"
 
 [[files]]
-file = "miladycraft_1.5/emotes/smoking.json"
+file = "emotes/smoking.json"
 hash = "ef897dd78fecde073905814afd6989c2489f6608e066b7c2e28e2a958d57627b"
 
 [[files]]
-file = "miladycraft_1.5/emotes/sword pose.json"
+file = "emotes/sword pose.json"
 hash = "99f744a1c04f66ba126aa76f81249ca60c39c14d353c93ce2feb3e41c6c57e7d"
 
 [[files]]
-file = "miladycraft_1.5/emotes/take the l.json"
+file = "emotes/take the l.json"
 hash = "8a41337862388ff29b436a74a8eec7828ea05afdd0efe14d3f9040a45598ff2a"
 
 [[files]]
-file = "miladycraft_1.5/emotes/think.json"
+file = "emotes/think.json"
 hash = "0069128e9eb1b69c2712bb979dad5f94d69c10f9ab2501c3f73f0331afd48e53"
 
 [[files]]
-file = "miladycraft_1.5/emotes/tpose.json"
+file = "emotes/tpose.json"
 hash = "e81cd74ece1639d5d8dd2077c39f2de0a1880ce1d2aafa0fe7b51641aa40ab94"
 
 [[files]]
-file = "miladycraft_1.5/emotes/virtual.json"
+file = "emotes/virtual.json"
 hash = "5e730aeae7d595c6b3e2aa80f1f937e72ed9d4eb385097a6b454f594de84a48c"
 
 [[files]]
-file = "miladycraft_1.5/emotes/yoinky sploinky.emotecraft"
+file = "emotes/yoinky sploinky.emotecraft"
 hash = "05933bc57359c9b7ace9a619eeb9dac1dac4eca54187e4145cc949a5ed03276f"
 
 [[files]]
-file = "miladycraft_1.5/index.toml"
+file = "index.toml"
 hash = "967eded3ec6971d78cd10edb82df2939852b57f36b076700dca5a71ab400f414"
 
 [[files]]
-file = "miladycraft_1.5/kubejs/assets/assets.zip"
+file = "kubejs/assets/assets.zip"
 hash = "3c94f0290446f5b7220443ade5d1fd7644d47a8ce00d4ff26922770c563db559"
 
 [[files]]
-file = "miladycraft_1.5/kubejs/client_scripts/JEIEvents.js"
+file = "kubejs/client_scripts/JEIEvents.js"
 hash = "984adfaade714533bfb28b493397f026b06447bae5cbdfbf00147db83f0ee22b"
 
 [[files]]
-file = "miladycraft_1.5/kubejs/client_scripts/jeiHide.js"
+file = "kubejs/client_scripts/jeiHide.js"
 hash = "964a51642a4ea2a28a7acc3dd2bad8f2b2344fcc65c37451d4a4496028dd7260"
 
 [[files]]
-file = "miladycraft_1.5/kubejs/client_scripts/loginUtilsClient.js"
+file = "kubejs/client_scripts/loginUtilsClient.js"
 hash = "32ad1f997acca809368a9c2176528346f51db81c1baff72f63958d85a9921499"
 
 [[files]]
-file = "miladycraft_1.5/kubejs/client_scripts/tooltips.js"
+file = "kubejs/client_scripts/tooltips.js"
 hash = "ef67f2d077c69aa6a1499b3e06be9856cbdba5a003ea436e0a908011e587b958"
 
 [[files]]
-file = "miladycraft_1.5/kubejs/data/data.zip"
+file = "kubejs/data/data.zip"
 hash = "5e03ef5b210d354a05bb9c459d3494cbf0fa14b59a8da53f271f20f62247f14d"
 
 [[files]]
-file = "miladycraft_1.5/kubejs/server_scripts/blockCommands.js"
+file = "kubejs/server_scripts/blockCommands.js"
 hash = "fcbaa1e57012c87ef4392a954663646bd812b41657a8fc787d6ee8168f73c427"
 
 [[files]]
-file = "miladycraft_1.5/kubejs/server_scripts/blockRightClicks.js"
+file = "kubejs/server_scripts/blockRightClicks.js"
 hash = "225f019439f8b0f1a0a16455aaccd507b008ddbdd4b1800a4ccb051f05669de0"
 
 [[files]]
-file = "miladycraft_1.5/kubejs/server_scripts/claimCheck.js"
+file = "kubejs/server_scripts/claimCheck.js"
 hash = "1f28c470bc4a559ed25b2f8c56148e155f6a5ef9f213cacb0d5406bf895e8d64"
 
 [[files]]
-file = "miladycraft_1.5/kubejs/server_scripts/curioTags.js"
+file = "kubejs/server_scripts/curioTags.js"
 hash = "0e2fd5fa8f72f94e8760b254183a3c7b65786e186c2867dfb59f5c335830ffcb"
 
 [[files]]
-file = "miladycraft_1.5/kubejs/server_scripts/customCommands.js"
+file = "kubejs/server_scripts/customCommands.js"
 hash = "84d8ab9bc39cfbdfc2903d0cd1cd3e00eb6229d74bb2eb8832612c943bc81ba6"
 
 [[files]]
-file = "miladycraft_1.5/kubejs/server_scripts/deathMessages.js"
+file = "kubejs/server_scripts/deathMessages.js"
 hash = "f94685142c8708dad2535c6df43459ddbb2673f3b973a2e46b117c91e1dd630a"
 
 [[files]]
-file = "miladycraft_1.5/kubejs/server_scripts/effectDeserter.js"
+file = "kubejs/server_scripts/effectDeserter.js"
 hash = "7ff8ef53905565b7e229190d252ab13d5fa70f71d1eaaca792cf085e92718c47"
 
 [[files]]
-file = "miladycraft_1.5/kubejs/server_scripts/effectHomebound.js"
+file = "kubejs/server_scripts/effectHomebound.js"
 hash = "2a60dcb747bfa7515bf92488fb97a8bf06827fe0de8daf7a4cb79f28c83f9115"
 
 [[files]]
-file = "miladycraft_1.5/kubejs/server_scripts/effectRemovalImmunity.js"
+file = "kubejs/server_scripts/effectRemovalImmunity.js"
 hash = "c06962c807d1f217c2e3d708a5111fc9624cd5af9ebccafbc3e1835acae0274a"
 
 [[files]]
-file = "miladycraft_1.5/kubejs/server_scripts/effectSanctuary.js"
+file = "kubejs/server_scripts/effectSanctuary.js"
 hash = "fb85e80b1243e40a5280a569296196d526d52fbece8b18a99b18a07092a2a8fa"
 
 [[files]]
-file = "miladycraft_1.5/kubejs/server_scripts/effectsPvP.js"
+file = "kubejs/server_scripts/effectsPvP.js"
 hash = "1d7bd3c4487d5bee47056ac5e8f2dee3e5455967156978bed5fadc6a5ecd43be"
 
 [[files]]
-file = "miladycraft_1.5/kubejs/server_scripts/elytraCooldown.js"
+file = "kubejs/server_scripts/elytraCooldown.js"
 hash = "d67e9e620a49a193b1f4a2ade752a1c01fddde6d4e323659d05836a67324f9e5"
 
 [[files]]
-file = "miladycraft_1.5/kubejs/server_scripts/enchantmentAndItemReplace.js"
+file = "kubejs/server_scripts/enchantmentAndItemReplace.js"
 hash = "5a3b56c4885f6083e1b98443166d4bf55a96f74cb15cd0d95add1698415e0f4a"
 
 [[files]]
-file = "miladycraft_1.5/kubejs/server_scripts/enchantmentClear.js"
+file = "kubejs/server_scripts/enchantmentClear.js"
 hash = "2e5e5921478fde326a73b205faa0a7dd38345725a6a9206d5368a94b59f559c1"
 
 [[files]]
-file = "miladycraft_1.5/kubejs/server_scripts/itemRightClicks.js"
+file = "kubejs/server_scripts/itemRightClicks.js"
 hash = "145e4767e904b56e5876f626980d8cfd26d3e12f2f016e34f456ec05a68a6cb8"
 
 [[files]]
-file = "miladycraft_1.5/kubejs/server_scripts/loginUtilsServer.js"
+file = "kubejs/server_scripts/loginUtilsServer.js"
 hash = "8eeda590dd9b7f558b1330bc54a1b284b1fc0f87c13908bd09fe55c8acb58337"
 
 [[files]]
-file = "miladycraft_1.5/kubejs/server_scripts/modifiedLoot.js"
+file = "kubejs/server_scripts/modifiedLoot.js"
 hash = "96ae0580324c508d9b2bb48943c087ea5cec4a29c4fffab0d58639d9f946732f"
 
 [[files]]
-file = "miladycraft_1.5/kubejs/server_scripts/modifyTags.js"
+file = "kubejs/server_scripts/modifyTags.js"
 hash = "cf1f26b798cefb957dd95ee502f6d9ebb0b55def3c3742b312aca0f33301d4a5"
 
 [[files]]
-file = "miladycraft_1.5/kubejs/server_scripts/playerLogin.js"
+file = "kubejs/server_scripts/playerLogin.js"
 hash = "d40ef5cd098a1d2485e7dfe62a749c73a86dfb0878462bd0f20f78b7e02a5f5f"
 
 [[files]]
-file = "miladycraft_1.5/kubejs/server_scripts/playerRespawn.js"
+file = "kubejs/server_scripts/playerRespawn.js"
 hash = "d4efdeb2267d54ee3feee578c2478d269f6f755a556a7c1abefbff70d40fc3fa"
 
 [[files]]
-file = "miladycraft_1.5/kubejs/server_scripts/potionCooldown.js"
+file = "kubejs/server_scripts/potionCooldown.js"
 hash = "d4633441ec8bdb152c9ca44b11df1355b3ebf9e3f2d1d379e198f2f50dee5c75"
 
 [[files]]
-file = "miladycraft_1.5/kubejs/server_scripts/recipes.js"
+file = "kubejs/server_scripts/recipes.js"
 hash = "e9fcc395967a0d21761444cf87d8a259a6ebd0a5c3f659a1f74e96a6e141624c"
 
 [[files]]
-file = "miladycraft_1.5/kubejs/server_scripts/recipesCustomBlocks.js"
+file = "kubejs/server_scripts/recipesCustomBlocks.js"
 hash = "795ab20a6e23aaeea3ca64e2599aa844d7ff53897346a857efbb336acd49a35d"
 
 [[files]]
-file = "miladycraft_1.5/kubejs/server_scripts/removedItems.js"
+file = "kubejs/server_scripts/removedItems.js"
 hash = "c9860e2ff527889677f2394f8c2f6fe86ad910a2027962c9645c89a40b3d2ecf"
 
 [[files]]
-file = "miladycraft_1.5/kubejs/server_scripts/removedRecipes.js"
+file = "kubejs/server_scripts/removedRecipes.js"
 hash = "490c68667b53e146fb0847b109730b071e9e8f5e2fb046a77cba7890c54c4d6e"
 
 [[files]]
-file = "miladycraft_1.5/kubejs/server_scripts/replaceSpawns.js"
+file = "kubejs/server_scripts/replaceSpawns.js"
 hash = "f463e04cdec22d64d5691653e9013544260f91d364b878ef05e902b3ec5b0a68"
 
 [[files]]
-file = "miladycraft_1.5/kubejs/server_scripts/serverannouncements.js"
+file = "kubejs/server_scripts/serverannouncements.js"
 hash = "a9e98e1c37b9541186cba42808b8feb517b08c6cbd6ed9f94cb612db3b89fe7b"
 
 [[files]]
-file = "miladycraft_1.5/kubejs/server_scripts/startup_and_silent_reload.js"
+file = "kubejs/server_scripts/startup_and_silent_reload.js"
 hash = "94cf7afc658c47fc1bc8912652976a2c862c7a7ca9deb564c8ec04f9d3c6194b"
 
 [[files]]
-file = "miladycraft_1.5/kubejs/server_scripts/structureEffect.js"
+file = "kubejs/server_scripts/structureEffect.js"
 hash = "eceeb4eb8e1271ed1e0465adaa73340e15ddb852c64f512afa92fc2a9d5e6855"
 
 [[files]]
-file = "miladycraft_1.5/kubejs/startup_scripts/apothRightClick.js"
+file = "kubejs/startup_scripts/apothRightClick.js"
 hash = "a42cdb086c2affe1f2bca2c8616edfd625b2f0d11ba01e8d988506fb8353efe4"
 
 [[files]]
-file = "miladycraft_1.5/kubejs/startup_scripts/backpackEquip.js"
+file = "kubejs/startup_scripts/backpackEquip.js"
 hash = "ff347d163931c16a08e619f8e717d27656b328a94a931882dfc7be02c13164af"
 
 [[files]]
-file = "miladycraft_1.5/kubejs/startup_scripts/blockModification.js"
+file = "kubejs/startup_scripts/blockModification.js"
 hash = "79ac38ad6da602e0dbce4dbf5e7ea3540662cfcb2a6405e5bd0fe87c6e30f314"
 
 [[files]]
-file = "miladycraft_1.5/kubejs/startup_scripts/bulletProtection.js"
+file = "kubejs/startup_scripts/bulletProtection.js"
 hash = "b69a83b62e3a8c7220cb34bcacb7f56df8379b7be64b745f558dab1508b98b8d"
 
 [[files]]
-file = "miladycraft_1.5/kubejs/startup_scripts/bulletProtection_cgm.js"
+file = "kubejs/startup_scripts/bulletProtection_cgm.js"
 hash = "c00ddd880984164e8a92161ef3ee8560e149321ab0ed1b520dfa3f5a18fba5f3"
 
 [[files]]
-file = "miladycraft_1.5/kubejs/startup_scripts/customEffects.js"
+file = "kubejs/startup_scripts/customEffects.js"
 hash = "34714aa9b01432fcce5ff16e3ffd80c6e6844cc25ce38f66a1c8a457c08cdf00"
 
 [[files]]
-file = "miladycraft_1.5/kubejs/startup_scripts/customItems.js"
+file = "kubejs/startup_scripts/customItems.js"
 hash = "e8b18a85e72af647758fb5cabce8c5954e140ea81fd4a9f2734b01b57c2d1db8"
 
 [[files]]
-file = "miladycraft_1.5/kubejs/startup_scripts/customarmor.js"
+file = "kubejs/startup_scripts/customarmor.js"
 hash = "d154bdee6e05c5aebf40bee137ca75533519017f7780e89f266085d492d057f7"
 
 [[files]]
-file = "miladycraft_1.5/kubejs/startup_scripts/customblocks.js"
+file = "kubejs/startup_scripts/customblocks.js"
 hash = "1ef57622cd08089255c514f5dffdc0a970ee1693b4982a15a071345c323bb3d0"
 
 [[files]]
-file = "miladycraft_1.5/kubejs/startup_scripts/explosionProtection.js"
+file = "kubejs/startup_scripts/explosionProtection.js"
 hash = "65e3bb88f37a92622c7e1d080ac0d7767858bd1b84460749192c5d191f3c4d54"
 
 [[files]]
-file = "miladycraft_1.5/kubejs/startup_scripts/gunDamage.js"
+file = "kubejs/startup_scripts/gunDamage.js"
 hash = "31273b22e2b703f1b146ec9d239159c5c935c0a35e2b9074313f8ed4375bec0c"
 
 [[files]]
-file = "miladycraft_1.5/kubejs/startup_scripts/miladycraft.js"
+file = "kubejs/startup_scripts/miladycraft.js"
 hash = "6cc15655cecbd32aae124a1b76038c0af33b31cc11f33491242323ae17774c70"
 
 [[files]]
-file = "miladycraft_1.5/kubejs/startup_scripts/milkImmunity.js"
+file = "kubejs/startup_scripts/milkImmunity.js"
 hash = "06b3cf6baa4f0df5b25b2201ab06f7db8a37b6765199f250331a6ea844b205db"
 
 [[files]]
-file = "miladycraft_1.5/kubejs/startup_scripts/missingMappings.js"
+file = "kubejs/startup_scripts/missingMappings.js"
 hash = "f8f47c8c0d3027da7ef9435d782b3dd383b6cb354fac64b939ba18bee06f2ce9"
 
 [[files]]
-file = "miladycraft_1.5/kubejs/startup_scripts/modifiedItems.js"
+file = "kubejs/startup_scripts/modifiedItems.js"
 hash = "049697a44f021c8c03faeb0c3cc03ff3fde4ef120dbf455acd304e2c83b8e616"
 
 [[files]]
-file = "miladycraft_1.5/kubejs/startup_scripts/petEnchantmentClear.js"
+file = "kubejs/startup_scripts/petEnchantmentClear.js"
 hash = "67be469e1bfac5ce2a4c95dc5951a68223ae70386a484d6c1e9451b1ea0dbb6e"
 
 [[files]]
-file = "miladycraft_1.5/kubejs/startup_scripts/saturationFix.js"
+file = "kubejs/startup_scripts/saturationFix.js"
 hash = "bd653e65dd79b3123c477c0ab87140d0e5c07d90e8b97fbc8d95dec7f99443c8"
 
 [[files]]
-file = "miladycraft_1.5/kubejs/startup_scripts/spawnerCleanse.js"
+file = "kubejs/startup_scripts/spawnerCleanse.js"
 hash = "267114470cbd5bca8591555e4beeea278d61983f7761556b2da7522c0250ae46"
 
 [[files]]
-file = "miladycraft_1.5/kubejs/startup_scripts/tooltipsApoth.js"
+file = "kubejs/startup_scripts/tooltipsApoth.js"
 hash = "229ddd97fd9984f28a651683522b654f7fd5715f1606597a3df885fa8717e44d"
 
 [[files]]
-file = "miladycraft_1.5/mods/CreativeCore_FORGE_v2.11.27_mc1.19.2.jar"
+file = "mods/CreativeCore_FORGE_v2.11.27_mc1.19.2.jar"
 hash = "4bd2dd4a4cbd73fc92f66529d582c611aa308e96f08de031ccbd01d4cc0f450a"
 
 [[files]]
-file = "miladycraft_1.5/mods/abnormals-delight.pw.toml"
+file = "mods/abnormals-delight.pw.toml"
 hash = "394807520bf9d024ca4ee0cd4f209f718e725c506dd975a76f324771b79203f0"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/additional-banners.pw.toml"
+file = "mods/additional-banners.pw.toml"
 hash = "ecd1f648f4748386168234e546827c0c7e45b916a5a1d4be684655e3cbfa4506"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/additional-guns.pw.toml"
+file = "mods/additional-guns.pw.toml"
 hash = "34166c2da1b033625306c1a4e262a0bd2211479beaabdc657bd8812391e5325c"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/adorn-for-forge.pw.toml"
+file = "mods/adorn-for-forge.pw.toml"
 hash = "76fbfe749cdd820d7193c12b50cd6781f0e7547ccd1bddd8c2c399cebe765e2a"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/advanced-shulkerboxes.pw.toml"
+file = "mods/advanced-shulkerboxes.pw.toml"
 hash = "e61bea7c5d8970fdfc2b7cb43413ab9aee0665aa47accc701691d5448fcf5843"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/advancement-frames.pw.toml"
+file = "mods/advancement-frames.pw.toml"
 hash = "5027e636c5597808d5dd8ee0c6b95ffe60eedc5f28f37997e3bd1d8320fc5f84"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/alexs-delight.pw.toml"
+file = "mods/alexs-delight.pw.toml"
 hash = "516e8eba75da9ad192bf8122c4edaf6bacd5fa90b4f89495e2d261d92851ba29"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/alexs-mobs.pw.toml"
+file = "mods/alexs-mobs.pw.toml"
 hash = "db28449fb57fcd2607019fa7cefb558d13df13937b44298b732d44bac0e32e96"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/alexsmobfix.pw.toml"
+file = "mods/alexsmobfix.pw.toml"
 hash = "4827564440919ffdd32d93207eb1688f4f2cab666ac1be27056e6271c7d47e09"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/allay-in-a-bottle.pw.toml"
+file = "mods/allay-in-a-bottle.pw.toml"
 hash = "c22b0ecf8a4ee51d784dcaaf98e73e4374eaebb5ee1ef470a993aabd783c6855"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/allurement.pw.toml"
+file = "mods/allurement.pw.toml"
 hash = "2c59220b3f9e2374168c615890a6f3ea0444a1f55e18e05d9d2682e3722cf4b3"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/anchor.pw.toml"
+file = "mods/anchor.pw.toml"
 hash = "599bac27654837b6d722147bf982f8b7dc96c01f4be521b4277276c1c89510a9"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/another-furniture.pw.toml"
+file = "mods/another-furniture.pw.toml"
 hash = "bfdcda0353b9923eaadc816f8168b88828c17675a35833323ea93d9faf7e0d59"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/apotheosis.pw.toml"
+file = "mods/apotheosis.pw.toml"
 hash = "16c832bfc074f3b149e6f1704af0b04b3500aa0697d92c2f2310756fc0c41c13"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/apothic-supplementaries-enchanting.pw.toml"
+file = "mods/apothic-supplementaries-enchanting.pw.toml"
 hash = "44d341d18e35ab479f0194954a8d7dbb771970c66f4b2e3a0278fbcc81db09e8"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/appleskin.pw.toml"
+file = "mods/appleskin.pw.toml"
 hash = "1be3c626f8c8e445e57444f2559dc590edafc75b6c8c18d4599703dbc614a7e8"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/architects-palette.pw.toml"
+file = "mods/architects-palette.pw.toml"
 hash = "2a60981f4a00c8a7e838efacc7d957ee99d91de3900f2e0329befed6b42e64f4"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/architectury-api.pw.toml"
+file = "mods/architectury-api.pw.toml"
 hash = "3bea0442d74ad9116aa556afd0b84b54ecfd9504af3dabd914c829728082a34c"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/armor-statues.pw.toml"
+file = "mods/armor-statues.pw.toml"
 hash = "c72fdc9cc75d0bdfb52c4968a5abc9fe3e7bd0afd857e17ef912a774a88458a2"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/armorpoints.pw.toml"
+file = "mods/armorpoints.pw.toml"
 hash = "bbaad05e054df66fcf13ce369bc6e8bc7f02b8bb188cb6400e5062234ad65e2a"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/artifacts.pw.toml"
+file = "mods/artifacts.pw.toml"
 hash = "a73afee71e2288d59eae918b593bc433485184b288a4616db1ece8cb257fb5d8"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/atmospheric.pw.toml"
+file = "mods/atmospheric.pw.toml"
 hash = "b1a192f3f280ed31922583e1b563ad3552e8a951310d76bda5ad018770c3cbda"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/attribute-tooltip-fix.pw.toml"
+file = "mods/attribute-tooltip-fix.pw.toml"
 hash = "0f42d81345b67624d49aee0e751caf0cd4e8d1b8ff8bab8c7787ad7d9874c12d"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/attributefix.pw.toml"
+file = "mods/attributefix.pw.toml"
 hash = "71ac69abb3b7e06485b7982f7ef9fef9a3e50016fbf9d4dc9536e8670360d579"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/automobility.pw.toml"
+file = "mods/automobility.pw.toml"
 hash = "6cb0bf0ca87def6e09edaaa1d55684d206b4c9e99ef513460aa984835f2c55c9"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/autoreglib.pw.toml"
+file = "mods/autoreglib.pw.toml"
 hash = "93e1dd0ac54ad216cf4ee82e5ab12a7de23d7cdfe7a27eb0b0c168a1c939db4a"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/autumnity.pw.toml"
+file = "mods/autumnity.pw.toml"
 hash = "0998e316d4a99d0befb6acd637ac1bf715bbf56f1a46ac21e88df0358792e840"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/axes-are-weapons.pw.toml"
+file = "mods/axes-are-weapons.pw.toml"
 hash = "a18403d67b9c2a9e2837b04112dbf8836fd04d41572b269b7b7100eb8ebaf961"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/backpacked.pw.toml"
+file = "mods/backpacked.pw.toml"
 hash = "56088aae8a528bbeec2cc626933ec7219206db920c2ee43af27d71b8a5c16ebf"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/bad-mobs.pw.toml"
+file = "mods/bad-mobs.pw.toml"
 hash = "9e9c73bdf284108852ccfef81ad0b4597f342c2104cc7bcdb409ecc0bfc3beaf"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/bad-wither-no-cookie-reloaded.pw.toml"
+file = "mods/bad-wither-no-cookie-reloaded.pw.toml"
 hash = "46a52103b23051669421d42a5ce5355180bd1668dc78de38fec3180b784c7a94"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/balm.pw.toml"
+file = "mods/balm.pw.toml"
 hash = "7b33ce740230efe79e8214a5204694e13b5af7d61e6f40bbffa097a637fd2789"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/beacons-for-all.pw.toml"
+file = "mods/beacons-for-all.pw.toml"
 hash = "89ab58f35dda8aeeeb3e4372d17e416d0de37db1bdd78128197a769990955bc0"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/beautify-decorate.pw.toml"
+file = "mods/beautify-decorate.pw.toml"
 hash = "82136d9bdf4dd29733e97483f376fc1a2871dc498346732a0ade61b43b4f01e1"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/bedspreads.pw.toml"
+file = "mods/bedspreads.pw.toml"
 hash = "48045fb4eb7ac952fc71923ecb5ccb2b98752b713ed6165a068769b48e3c1947"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/bee-fix.pw.toml"
+file = "mods/bee-fix.pw.toml"
 hash = "8db4b0c6264670aa3073834a121203f460f3b9166d657ab62d78f824b88c3578"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/berry-good.pw.toml"
+file = "mods/berry-good.pw.toml"
 hash = "cc8fc16f7fee78d6d92a1613520140b2b504dffff51d01aea21295fbc94d9080"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/better-advancements.pw.toml"
+file = "mods/better-advancements.pw.toml"
 hash = "a43d88ce55ed76f2185424c49b26863c433659ce18be70c8de5dfda4a7c2000c"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/better-combat-by-daedelus.pw.toml"
+file = "mods/better-combat-by-daedelus.pw.toml"
 hash = "a88250ec382bd3aa224e11b803500a56d84b2c103f56834ef7ecb6eab938c24f"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/better-compatibility-checker.pw.toml"
+file = "mods/better-compatibility-checker.pw.toml"
 hash = "d6e632815eec579cf9763057f706a5a4eae2dd9237601e63b4c32bc57ac90338"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/better-invisibility.pw.toml"
+file = "mods/better-invisibility.pw.toml"
 hash = "4fcf549c468ec35555219c62d7907dca43a5ff7630801e6a154bf841807f2e67"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/better-lily-pads.pw.toml"
+file = "mods/better-lily-pads.pw.toml"
 hash = "5ded7ed94bb21f6e74dee23ea8d655bf449c4afa8b3ef0ecf864d215bf656c83"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/better-nether-map-port.pw.toml"
+file = "mods/better-nether-map-port.pw.toml"
 hash = "6650c56c676b4947ac37e34d7cf1085667bfdba7e18e67f248f299db658ac518"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/better-title-screen.pw.toml"
+file = "mods/better-title-screen.pw.toml"
 hash = "7252c7248306976591bce525943b2e1d614a9c453c556b91ba22f33228f82133"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/better-totem-of-undying.pw.toml"
+file = "mods/better-totem-of-undying.pw.toml"
 hash = "32e0603ac549293afe51689f1814c9c85268d945f08f32c378ea1e2b5efcfb8a"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/biome-music.pw.toml"
+file = "mods/biome-music.pw.toml"
 hash = "65fec95b6004e5b98c19b4eb1be6f3d6031d39b195dcbcd60c4537169a2f2c30"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/blahaj-reforged.pw.toml"
+file = "mods/blahaj-reforged.pw.toml"
 hash = "cdb2eb283c81a1b6102f31dc8f862fe1cdb119cdf16076dffcf76d7178088906"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/block-limit-fix.pw.toml"
+file = "mods/block-limit-fix.pw.toml"
 hash = "e5657b0aed4ec8e7161cc7fd6a95e73a0cd9a5a73c937c54313a6f484c7ad9ce"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/blueprint.pw.toml"
+file = "mods/blueprint.pw.toml"
 hash = "079bdd15fe839b3937ae6f75e421c9d72e170374497055858d7265100a50fd48"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/boat-break-fix.pw.toml"
+file = "mods/boat-break-fix.pw.toml"
 hash = "f60a63c3251ebf33f6636e5fd773f281d3f09b3a273e346b1d2547cc0c67559b"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/boatload.pw.toml"
+file = "mods/boatload.pw.toml"
 hash = "ec2c604b2ee6b27810c4b856fe2e00afeafa4a2e65c776539e8996892a9d919c"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/bobby-reforged.pw.toml"
+file = "mods/bobby-reforged.pw.toml"
 hash = "c55800f5208cc27493ee76b08a72b91de13c77ec1237ce0e584aa9576b2f29bf"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/bookshelf.pw.toml"
+file = "mods/bookshelf.pw.toml"
 hash = "3094a52897889217e37bf772fa43727fc4a7f81d0dc9a5e25be933630192bcbb"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/bossbar-stack.pw.toml"
+file = "mods/bossbar-stack.pw.toml"
 hash = "2c8d16543aa7bfd52eb56fa2473c338c821d58b652f52fa6e97009affa03938b"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/brewin-and-chewin.pw.toml"
+file = "mods/brewin-and-chewin.pw.toml"
 hash = "4b77a0ebc231a20fd3e2a9c7eca190353dbe00cdc13230e695edb2f5749278b7"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/bridging-mod.pw.toml"
+file = "mods/bridging-mod.pw.toml"
 hash = "f05017db68927c5a17b99e5c8e36db1dedf1e7b2dc167d7ee503dc87e584ab24"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/buzzier-bees.pw.toml"
+file = "mods/buzzier-bees.pw.toml"
 hash = "32620e1840e795720406f70ce61a79c9220540a2161772c84bcae6d16e44bfec"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/caelus.pw.toml"
+file = "mods/caelus.pw.toml"
 hash = "ae8cbf0fe7b220e110932056e448ca4464b689f4d4cf8e2e435fb1acba86908f"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/cake-chomps.pw.toml"
+file = "mods/cake-chomps.pw.toml"
 hash = "99463a993a3fcd9819290b09bec3b3447234262ea2bc52f9a47d77ed2f99c537"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/camera-mod.pw.toml"
+file = "mods/camera-mod.pw.toml"
 hash = "159c21eef614918d633e7bfde134323ae868c1d9cc82f34da4fb3a576de0c7a9"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/capable-cauldrons.pw.toml"
+file = "mods/capable-cauldrons.pw.toml"
 hash = "507095c8331cb7d49fac485c51ca88a67a6c4df7456d090cc12000b404c45a8a"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/capable-composters.pw.toml"
+file = "mods/capable-composters.pw.toml"
 hash = "b71ad7dc65c94c7c7d645aa4dedbaa56499d75e91ef82b8c87e665b523077e46"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/carpeted-stairs.pw.toml"
+file = "mods/carpeted-stairs.pw.toml"
 hash = "f551da58dbe0e32fc8b24e9ca9a3cfffa5b431d2eee2ac760cc8a2368b811180"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/casinocraft.pw.toml"
+file = "mods/casinocraft.pw.toml"
 hash = "9da5d197005747176096d348991e6d2c559eff5fb4d8dccdf38da379bbb7024c"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/caverns-and-chasms.pw.toml"
+file = "mods/caverns-and-chasms.pw.toml"
 hash = "294d2a14cfe0e486071b8cc36781bf64612baf64fb1d4eb553286489f7ae49de"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/cerbons-better-beacons.pw.toml"
+file = "mods/cerbons-better-beacons.pw.toml"
 hash = "1e9213e8fb605c245436306e47f297db03235f678755d0f762460723d31e0ea0"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/chalk.pw.toml"
+file = "mods/chalk.pw.toml"
 hash = "461ecc0a1afc0e22dfec0cc1c0570dd3d29e0d6c07300691abec7b70bd078536"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/chat-heads.pw.toml"
+file = "mods/chat-heads.pw.toml"
 hash = "45bc4a2307ffe3dba376507ed39099fdd244ee1cab7ec1966dedeec1098a0d0c"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/cherished-items.pw.toml"
+file = "mods/cherished-items.pw.toml"
 hash = "ddfa50fe4a532cbae6a9e7db6c633e514bd8d8364ab8eaf89ed31ec2ac412d20"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/chimes.pw.toml"
+file = "mods/chimes.pw.toml"
 hash = "bbdee349403e675a5475e77ae5149707d32719e8f33cdc0993cdc4d76b5dfaa2"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/citadel-2.1.4-1.19.2_connectionfixed.jar"
+file = "mods/citadel-2.1.4-1.19.2_connectionfixed.jar"
 hash = "a983cd30047d328f7f5009c5540583ecfeb051c7bd33c6ab1af380cb9db0aaa4"
 
 [[files]]
-file = "miladycraft_1.5/mods/clayworks.pw.toml"
+file = "mods/clayworks.pw.toml"
 hash = "96dc621ee2b0ebfe8e847a50934b72f5de054e936910a33d83eb766ad79de797"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/client-crafting.pw.toml"
+file = "mods/client-crafting.pw.toml"
 hash = "b731ccdb95f095b367127231e59001d9452f0ec6bbef592579184b7f7e78d9f5"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/client-tweaks.pw.toml"
+file = "mods/client-tweaks.pw.toml"
 hash = "3c1816dd39da0e3dee175f8a14ce42a7cfb3b85b5557f42a3e54987bd8f1089a"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/cloth-config.pw.toml"
+file = "mods/cloth-config.pw.toml"
 hash = "620351b6440c5a97a7ea574f4bba4f1f83b84ce2f908fe31a116406e35fa6c57"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/clumps.pw.toml"
+file = "mods/clumps.pw.toml"
 hash = "5880c81df1af395ec3762eff4e98c78f7b75e62db67e1d191a1772d79aabc073"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/cobclear.pw.toml"
+file = "mods/cobclear.pw.toml"
 hash = "5cea69219301cb0c067391ad4f6527ea8c841e61c0ae56ceef39ca223c31c8d4"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/cofh-core.pw.toml"
+file = "mods/cofh-core.pw.toml"
 hash = "09796a48f3857c1f41280849c100baff40631035f64e79d494b2a0538a7676fb"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/collective.pw.toml"
+file = "mods/collective.pw.toml"
 hash = "840b1b823f16f5e702b3c84bcc54ab7c9dae51131f63bf53dc2c5f61c4d8acc2"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/collectors-reap.pw.toml"
+file = "mods/collectors-reap.pw.toml"
 hash = "e00d4b61ba330167f475f80c8e4fc998c1c81561038ef884fbb32fb19fbd53a1"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/coloured-tooltips.pw.toml"
+file = "mods/coloured-tooltips.pw.toml"
 hash = "0fa90805ece23fbf11210145d5e4dfea4dc07c4eed0ca415a8eb50f48c7f4ee7"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/comforts.pw.toml"
+file = "mods/comforts.pw.toml"
 hash = "4fcf5557f323b235051c77e36fb105392e3d8428fccf098fb9d0021c5a705f93"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/configured.pw.toml"
+file = "mods/configured.pw.toml"
 hash = "38abb00776d34d4c650c59ef4a75a6562c96f914cbe17f09f176a682f23fd883"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/connected-glass.pw.toml"
+file = "mods/connected-glass.pw.toml"
 hash = "c078bd1fcccd73f28c0affd0b3fc1b62a9403ac625492c6261b2afaaae3e9526"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/connectivity.pw.toml"
+file = "mods/connectivity.pw.toml"
 hash = "d2493cda0721ddca80f37aff224e0291256176c6b940a06268fdd3eef45b92a1"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/controlling.pw.toml"
+file = "mods/controlling.pw.toml"
 hash = "a94bec93c6e2f350d4bfd94d6f557fca51ef4358aa4a714e87816243537a6623"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/cookie-block.pw.toml"
+file = "mods/cookie-block.pw.toml"
 hash = "633bd1da3fb3ed6bc8d5180c533321125e74c6ae0b6fddd88f3f96b3d4cc4b97"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/corgilib.pw.toml"
+file = "mods/corgilib.pw.toml"
 hash = "97575aefd081117027b3ac2c24bf7a56b927b41c9f724d91b0eb42442236b4f6"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/coroutil.pw.toml"
+file = "mods/coroutil.pw.toml"
 hash = "b8e2a988b143955d7ea3c6514e1d70f5d616bf50e3ac9f2c5f7493daa5e4629c"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/cosmetic-armor-reworked.pw.toml"
+file = "mods/cosmetic-armor-reworked.pw.toml"
 hash = "c98b92c96eb546872a0d203969ddba29a17f6ab0e57ff93081d81a138562e8b7"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/crabbers-delight.pw.toml"
+file = "mods/crabbers-delight.pw.toml"
 hash = "4183f0be96d724837f882935cc1a6f0ee7d49170452e2cfa7fbf98a899c70814"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/crafting-slots.pw.toml"
+file = "mods/crafting-slots.pw.toml"
 hash = "a277bcda57bc217141b36b2929434e9dd828aa3862997bf5f32c0a780cc7d583"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/crafting-tweaks.pw.toml"
+file = "mods/crafting-tweaks.pw.toml"
 hash = "a54cb1c1e62e5ed9770ba33628f348b84d6ddc36635294c59024e3538d8a4781"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/culllessleaves-reforged.pw.toml"
+file = "mods/culllessleaves-reforged.pw.toml"
 hash = "964b25f2399fc4c4ed62a1a1f5ad9d6efa84e5ff1c01243c42b66cfbb74c2127"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/cultural-delights.pw.toml"
+file = "mods/cultural-delights.pw.toml"
 hash = "00b2fabbd6e04cc30d094fa3664bcb91feb0b9def08d731aedd86ed8ee264960"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/cupboard.pw.toml"
+file = "mods/cupboard.pw.toml"
 hash = "a91da14e84c3e8d4f225cad1cb2932cd026fb74fb5ffe85f714ba2d6cfafb447"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/curios.pw.toml"
+file = "mods/curios.pw.toml"
 hash = "4de1820ba124b4c7e86396baf68401fc7355c0c78fd861ccbed0971aced2a711"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/custom-fov.pw.toml"
+file = "mods/custom-fov.pw.toml"
 hash = "9bf1a46c498dd632250438d5b830d0ac64abc425ee61784c91354ab4c41abe7e"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/data-trader.pw.toml"
+file = "mods/data-trader.pw.toml"
 hash = "216c1a38d91623295fecf57fbbe1bebd4e797876db91c1e9a923a512feac30cc"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/decorative-blocks.pw.toml"
+file = "mods/decorative-blocks.pw.toml"
 hash = "b33441b07f85bd9d3a7757020afcc01b80a44cc376b29475ed246b0f97ec7d11"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/default-options.pw.toml"
+file = "mods/default-options.pw.toml"
 hash = "3c3db423d76d506a075a7b55a33b7bed658141002de9edc337ed496b1620d857"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/delightful.pw.toml"
+file = "mods/delightful.pw.toml"
 hash = "a755d072163628ead956fa2bc96b6e6d7902f4d0a3a08cf6a71d0f6ff77c091f"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/desired-servers.pw.toml"
+file = "mods/desired-servers.pw.toml"
 hash = "22ed54b0fa491eebc5bcefce200e387c3266104eab0a9e9cc55dae0bc2069064"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/dimensional-sync-fixes.pw.toml"
+file = "mods/dimensional-sync-fixes.pw.toml"
 hash = "067d750adce90168cd5336f50c9ec6e76f82bb7cc5f03c4335e1c9ae9fe55296"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/dimensional-worldborder-continuation.pw.toml"
+file = "mods/dimensional-worldborder-continuation.pw.toml"
 hash = "bfa5e8c3edf44553d2f380093658a940bbfce118b13f17701ec985b492ecd575"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/ding.pw.toml"
+file = "mods/ding.pw.toml"
 hash = "c62b24b5987a1d3fc4e3d527100a7d2adebca99e9fd2f3b014f7d1db35580cb8"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/disguiseheads.pw.toml"
+file = "mods/disguiseheads.pw.toml"
 hash = "44d1ab0253bb853ebf5c672e2f68c9a7ace1189dc8cc4b51dc7b1cce046f1f90"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/distinguished-potions.pw.toml"
+file = "mods/distinguished-potions.pw.toml"
 hash = "f304ddd977d5228f47a42af9df10e1df30c950d4260e7dcde1921009a7499e37"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/domestication-innovation.pw.toml"
+file = "mods/domestication-innovation.pw.toml"
 hash = "119876b8e10ab75446efdb1eec68f13851e04454c889cba40a54e9b9a2cf613b"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/dramatic-doors.pw.toml"
+file = "mods/dramatic-doors.pw.toml"
 hash = "4a5bd572dd76586f0eb156be748a677b5da6b5910e20c14f27c07eadee9af935"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/drink-beer-refill.pw.toml"
+file = "mods/drink-beer-refill.pw.toml"
 hash = "35184f14e0bf2b1f1db1425e5f62899afc08b2bd7863496cffd696fed72073aa"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/drink-it-forge.pw.toml"
+file = "mods/drink-it-forge.pw.toml"
 hash = "ab49c76c09ef5b37b49e83eaf8a31a7a919e14ff2025f08f467ddf6ec87f4602"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/durability-tooltip.pw.toml"
+file = "mods/durability-tooltip.pw.toml"
 hash = "f96e5aee3d49d72d73da0b840e09fc3ca559a01f4c67c704a6efe23168c3ccea"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/dustrial-decor.pw.toml"
+file = "mods/dustrial-decor.pw.toml"
 hash = "bb9d2f8bb5218c127f6164cac65011286d29577dde7c734521e25704feeb58e1"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/dyed.pw.toml"
+file = "mods/dyed.pw.toml"
 hash = "4d8fddcf2afb290e8ff961adabc62a3480569c3522ed578616522d6cfe84eac3"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/ears.pw.toml"
+file = "mods/ears.pw.toml"
 hash = "f3b7dbee54a0265d942a1c9b1ef9f638be688a500b5728959f931a17c9837506"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/embeddium.pw.toml"
+file = "mods/embeddium.pw.toml"
 hash = "5e88f76a7cc2a6980b131fcdb3593471331412c3cf09a8408cc82272e895c1ed"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/emotecraft-forge.pw.toml"
+file = "mods/emotecraft-forge.pw.toml"
 hash = "a1545830bdefcfcd23c46f007f219bdb259152b45b42f504245be53c3573f3a0"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/enchantment-descriptions.pw.toml"
+file = "mods/enchantment-descriptions.pw.toml"
 hash = "32919ba2d15d55cec37bc8759064e1983e9a917c3ccfe25c4ad880cbf0a7026b"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/ender-trigon.pw.toml"
+file = "mods/ender-trigon.pw.toml"
 hash = "58f1d986055695cc94eda91412dc509c47d7b68e5acbce9743a5d0f0609c0b65"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/endergetic.pw.toml"
+file = "mods/endergetic.pw.toml"
 hash = "b9d9032d02b3d5777ce9e4e7ef064b188626778fdc7f2e6027e43e6c68d38150"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/ends-delight.pw.toml"
+file = "mods/ends-delight.pw.toml"
 hash = "e1181ed68fea5443f8c64452180aa1e96736155434d1cba3f485d6c800e6ba97"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/entity-collision-fps-fix.pw.toml"
+file = "mods/entity-collision-fps-fix.pw.toml"
 hash = "f2bdada853b7968d2106949fcc1327dd0f445149a75c7e523f9d07c05d6d9fc0"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/environmental.pw.toml"
+file = "mods/environmental.pw.toml"
 hash = "527e595e794e670d9c7bfefb05027d56c9f83250ff04bbc4697f3780da0cdae5"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/equipment-compare.pw.toml"
+file = "mods/equipment-compare.pw.toml"
 hash = "02630d53f5aba3980c32df918f68aa3d02e5e245937293c6c235d6a0056184f0"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/etched.pw.toml"
+file = "mods/etched.pw.toml"
 hash = "2492053472e5201326fa4f35536758fa7152317a3549039e37d8b5544664365d"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/every-compat.pw.toml"
+file = "mods/every-compat.pw.toml"
 hash = "e9d6fa02d9b312fb800706377d2dec874230c670239cbb439130989c8d8f36db"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/exposure.pw.toml"
+file = "mods/exposure.pw.toml"
 hash = "3ce5eb67c6e2536bf060baf3e86e1a3f32ad7456bfbc74f65e7f3aac14fd3a4d"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/falling-leaves-forge.pw.toml"
+file = "mods/falling-leaves-forge.pw.toml"
 hash = "2e10cbcb9efb978e79cd53cfbd2a1f9901d7db1dfbdc80bf575005fdadf82a94"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/farmers-delight.pw.toml"
+file = "mods/farmers-delight.pw.toml"
 hash = "2f0d30f69784a97558a03cec6e647be036bda30602dde06b82df78cd4ef464ee"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/farmers-respite.pw.toml"
+file = "mods/farmers-respite.pw.toml"
 hash = "51436656f2fbac1996b8b0db1313674727e70dd14ed8e102a4ea8905c82b4860"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/fast-paintings.pw.toml"
+file = "mods/fast-paintings.pw.toml"
 hash = "8d418b1a8c4b2e329f373d4cd57cf86c8c7493a422f6ffc80ef22051b41f05da"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/ferritecore.pw.toml"
+file = "mods/ferritecore.pw.toml"
 hash = "0c820f51223c9f36609b2ab9c2cfe84c9f8920baee03d27535470e41330b9a76"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/fertilization.pw.toml"
+file = "mods/fertilization.pw.toml"
 hash = "b5e7a8a66b1f383039124861260ca93508e7240f27e7e3e1e2129d706759cc74"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/fix-gpu-memory-leak.pw.toml"
+file = "mods/fix-gpu-memory-leak.pw.toml"
 hash = "807971d207f593d747063f389dd3809b8b82c2aa1e572e87180ab694e67e44de"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/flame-sweeping-potato-edition.pw.toml"
+file = "mods/flame-sweeping-potato-edition.pw.toml"
 hash = "465e9a0b65ee826c41fe0b2622053ecb5ee92ed3c8f91aa9169b207704fe5096"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/flickerfix.pw.toml"
+file = "mods/flickerfix.pw.toml"
 hash = "07dea3aea9856bfcdbd53d18a6ef44b4a8c41893e934e7d72777d859b5e05280"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/fog-looks-good-now.pw.toml"
+file = "mods/fog-looks-good-now.pw.toml"
 hash = "6891e8006d7ecfe1a1a5818638f40ece62b9810a670ee924812885f038fdd216"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/food-effect-tooltips-forge.pw.toml"
+file = "mods/food-effect-tooltips-forge.pw.toml"
 hash = "21c67f7919d0752e6113cfe4375c250e5112d310a02d9f58814f39f21ee2b731"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/forgery.pw.toml"
+file = "mods/forgery.pw.toml"
 hash = "db14b625397c5476cdc79c3cb6f29ccaf910d381f7255d8935af71c9c008bbb1"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/forgeshot.pw.toml"
+file = "mods/forgeshot.pw.toml"
 hash = "1d7d717e8f4fda09088a4231f1d0e58dcac988c84aa61d7e8438131e93e1e43d"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/forgiving-border.pw.toml"
+file = "mods/forgiving-border.pw.toml"
 hash = "0f8c556f9b912c1964bb1f04cc49dba76021aac0af8c391fca134109ae2fd75a"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/framework.pw.toml"
+file = "mods/framework.pw.toml"
 hash = "6a75531ac880801549171a165149a721c05aa50256fe4b860672c3f7bd61861e"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/ftb-essentials.pw.toml"
+file = "mods/ftb-essentials.pw.toml"
 hash = "adfb1f8e1b8a358f69a750045fe4e21180b3350d48dc07295d80502265fb68c3"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/ftb-library-forge.pw.toml"
+file = "mods/ftb-library-forge.pw.toml"
 hash = "879813604dd833f793d6d362c6b8a13ce35bf41da13d921b1e4e6c67813ceace"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/fusion-connected-textures.pw.toml"
+file = "mods/fusion-connected-textures.pw.toml"
 hash = "3420eb4eb9829f9c64af64ed21e8e2133951525d711f404ecf3dcdc07e0f9fcc"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/gardens-of-the-dead.pw.toml"
+file = "mods/gardens-of-the-dead.pw.toml"
 hash = "b75f9a43537004b3ad8d72bab9c46317d4146d9b3355f28f593225442b4f5eac"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/gateways-to-eternity.pw.toml"
+file = "mods/gateways-to-eternity.pw.toml"
 hash = "6ed129a5bb4b5cb3cab6f732617c1f3ace6b4d33d92b0f964726ba33324eadab"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/geckolib.pw.toml"
+file = "mods/geckolib.pw.toml"
 hash = "ab7bb11199e592a43542ec0ca68c0536b91b5045e070a77525ae1593ca722b90"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/glassential.pw.toml"
+file = "mods/glassential.pw.toml"
 hash = "02b5aa26ad7f4ed277aadfe61a65ffb19393cb4c805fb2cd1ec7d1eed8781584"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/goated.pw.toml"
+file = "mods/goated.pw.toml"
 hash = "a2b6df8297c23d31ea1ba359a8e04830d11105b7dc6edf8b151ce9c7a8efb160"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/golemsarefriends.pw.toml"
+file = "mods/golemsarefriends.pw.toml"
 hash = "15a97ba9f04a205eb6e740226c8ec704813eb827ab770ad6a2ace131a7012e6d"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/herd-mentality.pw.toml"
+file = "mods/herd-mentality.pw.toml"
 hash = "c02c36da2ef7daa420a91bb29c660b3ab4ffb050da28a53a1ad0f1c100deea23"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/heyberryshutup.pw.toml"
+file = "mods/heyberryshutup.pw.toml"
 hash = "2c5df725795ac811bc24402887b82638901fe993af21c6d8df1f21e5d856ec81"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/i-wanna-skate.pw.toml"
+file = "mods/i-wanna-skate.pw.toml"
 hash = "4e85a9b2730825f974d880c2678c99eb6fd28de60bd9c70e002494446d5e7a87"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/iceberg.pw.toml"
+file = "mods/iceberg.pw.toml"
 hash = "a6948aa62e696ca98923b6e97750f0321284a4810ba06ba6c726ce598af31321"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/immediatelyfast.pw.toml"
+file = "mods/immediatelyfast.pw.toml"
 hash = "d850bb878170f1aa6a93f30ba856b822a3eaea8c04d0ea777804bab931a13029"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/immersive-aircraft.pw.toml"
+file = "mods/immersive-aircraft.pw.toml"
 hash = "3dff5414a354ca61976dd73c0207bc853ce6b56ab123a94f78841e146015b241"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/immersive-armors.pw.toml"
+file = "mods/immersive-armors.pw.toml"
 hash = "1b0461837c4f084af8b00bbb1d4642440c406018caddc300a3da29dd3cea4493"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/immersive-melodies.pw.toml"
+file = "mods/immersive-melodies.pw.toml"
 hash = "1a4c16bdab9c4599df9e2e53e1d896be758c9d97dd66940c734e537e04f60bca"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/immersive-paintings.pw.toml"
+file = "mods/immersive-paintings.pw.toml"
 hash = "a14c2e0b3cb355ba01fe6c646d21a5473ffdf7761a11fe54a59b60ac1633e2cd"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/incubation.pw.toml"
+file = "mods/incubation.pw.toml"
 hash = "89b713b99d91c115f56140d5372867d4daca26f4d8ff9fb1e03b51c18a5ca550"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/infected-cassettes.pw.toml"
+file = "mods/infected-cassettes.pw.toml"
 hash = "155783be946f6f11cdd4db4a57065e0348c75600f6d8d36f496bd8df2fba0977"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/infinitybuttons.pw.toml"
+file = "mods/infinitybuttons.pw.toml"
 hash = "0d452a5905972d3630cd21b35c960f618d42fa884fdffede6a2bc1058a7f3790"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/inventory-essentials.pw.toml"
+file = "mods/inventory-essentials.pw.toml"
 hash = "f2867509698d96d317f31b90f59ab4a119d1beb76f5d12a6a072cd7a2a64b19d"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/irons-rpg-tweaks.pw.toml"
+file = "mods/irons-rpg-tweaks.pw.toml"
 hash = "341e0743d733d55bfe73bf24cbdc774cda53aeac2e000ca24351d0c7641e3b8a"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/irons-spells-n-spellbooks.pw.toml"
+file = "mods/irons-spells-n-spellbooks.pw.toml"
 hash = "10bfebf88442fab7267189c3b76c5d8315d13ff7093d5a1ab3505f67e74ea931"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/it-takes-a-pillage.pw.toml"
+file = "mods/it-takes-a-pillage.pw.toml"
 hash = "fdb8c310c88b0b525682fd2442e45f3cfc4bf007bab0900b185e7a3074cc30ef"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/item-collectors.pw.toml"
+file = "mods/item-collectors.pw.toml"
 hash = "a5f7971595fccc0ceebf15bcb1eae072d222d126c7b1e988e95a5cc2cdd329c2"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/item-obliterator.pw.toml"
+file = "mods/item-obliterator.pw.toml"
 hash = "a72633473a4c53ab7c74417cc5fcddea9da48d9c458ce4ea27e51663dba0d53e"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/itemfig.pw.toml"
+file = "mods/itemfig.pw.toml"
 hash = "a7efb81f60cf03ae22848734df1e473ea6f91c20dd85d9f0008e41a221c73785"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/itemzoom.pw.toml"
+file = "mods/itemzoom.pw.toml"
 hash = "14887193368411d01e9d810aaa545e7199b2c3b746dd6f561f7a337dbd9964bc"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/its-the-little-things.pw.toml"
+file = "mods/its-the-little-things.pw.toml"
 hash = "ac314ae082c7886cfcf37754bd52a6794dd6e2fe153a946c83a1c64f84ec4651"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/jade-addons.pw.toml"
+file = "mods/jade-addons.pw.toml"
 hash = "2db057973d45d5b76ab789648a86517abeb62b359fed8092cf2216dd0f3c91dc"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/jade.pw.toml"
+file = "mods/jade.pw.toml"
 hash = "2857b1737b8debe4430c17f7f4fe75901710d9ddf5dc946777c6e8f219d595ed"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/japanese-vibes.pw.toml"
+file = "mods/japanese-vibes.pw.toml"
 hash = "a79e5ff85bf70226ffefae655b35410fd365b2dd9cca9c98c3f0958a4f6d550a"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/jei.pw.toml"
+file = "mods/jei.pw.toml"
 hash = "e0581e9e0997c120db5f3e08b760e4258220284dbfbeb94a237ee6bbab4b277e"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/jepp.pw.toml"
+file = "mods/jepp.pw.toml"
 hash = "a9bdff5f75492d573830b3f580c1bba22ecb32e4cbf62f093cc5fdffd932c597"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/jumpy-boats.pw.toml"
+file = "mods/jumpy-boats.pw.toml"
 hash = "77e957c27970b54ffd72af06b3173f0fb29bee3cc72ca170ce217c36936e4458"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/just-enough-beacons-reforged.pw.toml"
+file = "mods/just-enough-beacons-reforged.pw.toml"
 hash = "450346918c7ef187d5f891419ad5676a9f5bfbc483c8bbd796abe3a5f3ad9f95"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/just-enough-effect-descriptions-jeed.pw.toml"
+file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
 hash = "1e4ffbb45a1fe86c795797d191ddc7888fb36e7974a7b3e364b4552182291992"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/just-enough-resources-jer.pw.toml"
+file = "mods/just-enough-resources-jer.pw.toml"
 hash = "a8fe4aa0797f168eaea200788d58958e5c9a4b2830623471b8f338073e8d649e"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/kleeslabs.pw.toml"
+file = "mods/kleeslabs.pw.toml"
 hash = "c6e2a0c7fb38e49759444332fa4540e64a67f3aa84f527b44a2d38ded9e5f67f"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/kotlin-for-forge.pw.toml"
+file = "mods/kotlin-for-forge.pw.toml"
 hash = "8fd61b13a6da4b7f5cdf69ab6241c296b3019846a1635a2cbb427fbbb21635b2"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/kubejs.pw.toml"
+file = "mods/kubejs.pw.toml"
 hash = "f9a0baff44b25f6462f60b23876c677ba4c4c093fe2e7dd2793c9be55672e75d"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/labels.pw.toml"
+file = "mods/labels.pw.toml"
 hash = "55f6d18a638294915969c0cfe9cfad1662c714b80674fd84550968ddfa498410"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/lava-clear-view.pw.toml"
+file = "mods/lava-clear-view.pw.toml"
 hash = "d5db733d91804f84dc9cfbade4e52d4e03e1f5881a65adf4be4d471d5bf376a9"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/lazy-dfu-forge.pw.toml"
+file = "mods/lazy-dfu-forge.pw.toml"
 hash = "4197e21b90ffc991b42fb07a8e2c55824ba30f66185688a1e63ddbbecd10937e"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/leave-my-bars-alone.pw.toml"
+file = "mods/leave-my-bars-alone.pw.toml"
 hash = "18c83961428729d4cd6b90ed1f822c89c55b963df3ad85d076800287091524f1"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/let-sleeping-dogs-lie.pw.toml"
+file = "mods/let-sleeping-dogs-lie.pw.toml"
 hash = "3adf99f76199e09d20ae11866fbb6a6afa05b2f99acf793735e309e392f0b86e"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/lexicon.pw.toml"
+file = "mods/lexicon.pw.toml"
 hash = "635c7c9fab181e6c9d31f6ecfdacb9597564aaf24a058da553e84d7d623464f0"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/libx.pw.toml"
+file = "mods/libx.pw.toml"
 hash = "fb537f8737c8ee73a27c661ada6636b972a9a580dfd989bd1eabbec50b97a901"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/lmft.pw.toml"
+file = "mods/lmft.pw.toml"
 hash = "d21ebdd8d0c381c2dcea3817308c6ffc7e033b1beb6e27b8ed0ba539b4fac861"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/log-begone.pw.toml"
+file = "mods/log-begone.pw.toml"
 hash = "4213fbf3c69dda9733f205d6a0d8d130cccb10f4271cd6a469bf3c99fa358c89"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/longer-chat-history.pw.toml"
+file = "mods/longer-chat-history.pw.toml"
 hash = "f40a31499c29f1db4c965f8c2d7e2c70c8c4e1fe44580be462f5db37a8e75fd1"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/lootjs.pw.toml"
+file = "mods/lootjs.pw.toml"
 hash = "8e76039d3e0c46b46765ca3bdcfda44e944a27890c69ece525a05b89a70eea19"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/lootr-forge-1.19-0.4.26.69.jar"
+file = "mods/lootr-forge-1.19-0.4.26.69.jar"
 hash = "2dedaa1724663f86d35ab27885268fe1cfa6d120aafab249e57b85cd2bdca285"
 
 [[files]]
-file = "miladycraft_1.5/mods/loyalty-rewards.pw.toml"
+file = "mods/loyalty-rewards.pw.toml"
 hash = "2e9f82fbad2a657f36030b567961959b0e23876adf71204c690656ba90e7e07e"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/lucky77.pw.toml"
+file = "mods/lucky77.pw.toml"
 hash = "05e7171c8a0738ea97cf8d9b847fc7923e63e8f13ef8c20c5bda46b39f7cb5a5"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/mannequins.pw.toml"
+file = "mods/mannequins.pw.toml"
 hash = "bef058a966770dd52f20692c3d7cf681d02522715a136d53dd100439588d9cb5"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/max-health-fix.pw.toml"
+file = "mods/max-health-fix.pw.toml"
 hash = "1a68e6d0ffd704bb3c7cdde74568b841cd110b82c39d3beebc63886156f3da7b"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/mcmouser.pw.toml"
+file = "mods/mcmouser.pw.toml"
 hash = "f622f5241f847ada7f1a0656df1e88820d51567812e364a817f659fcbbf4332f"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/mighty-mail.pw.toml"
+file = "mods/mighty-mail.pw.toml"
 hash = "a8d361c26d196e6f6bda0005a189bfe4eed50338462e662ab26764f64c89905a"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/miners-delight-plus.pw.toml"
+file = "mods/miners-delight-plus.pw.toml"
 hash = "44f80848edfe4b42c507c91573b10ef72629fda300ba14edf30fc77e5d326743"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/mmmmmmmmmmmm.pw.toml"
+file = "mods/mmmmmmmmmmmm.pw.toml"
 hash = "89032b1a50d49407a905ae0af9f65e5248357a7c19cf454a9a0f8ed6478ac365"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/model-gap-fix.pw.toml"
+file = "mods/model-gap-fix.pw.toml"
 hash = "9ebfa0f30ebd694ec8b0e8e8c90611ce4bff95bb86ad09afe4392e42ed5dd2d6"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/modernfix.pw.toml"
+file = "mods/modernfix.pw.toml"
 hash = "22884187b6e8fd7766ce57d8511fb8e63f9210cbb5a16334588b59c431a83a84"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/more-minecarts.pw.toml"
+file = "mods/more-minecarts.pw.toml"
 hash = "a6a0ba6205d7b957dca0b506c2e2c707cec49e5edf2b6003526ec07d9b39a4f2"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/more-overlays-updated.pw.toml"
+file = "mods/more-overlays-updated.pw.toml"
 hash = "97f349cd764e09990ff2306f93783a240ff73ace828a0f83945881ee52d9f29f"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/morejs.pw.toml"
+file = "mods/morejs.pw.toml"
 hash = "d6b5e3c31b7260eca0cc1d7e6074f26a6ff00d38d508901c1e7851d771c950b3"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/mouse-tweaks.pw.toml"
+file = "mods/mouse-tweaks.pw.toml"
 hash = "6c5e1d646bee1575bd994996b4428e0fe16c6a0bfc0fbab5c6fa0c8c35547863"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/moyai-1.19.2-2.1.1-custom_build.jar"
+file = "mods/moyai-1.19.2-2.1.1-custom_build.jar"
 hash = "f6e3c31ea322528b580555d3050ce000720e5e52680a0622edcfa3743554c2cb"
 
 [[files]]
-file = "miladycraft_1.5/mods/mrcrayfishs-gun-mod.pw.toml"
+file = "mods/mrcrayfishs-gun-mod.pw.toml"
 hash = "9d25723296009a6495d0d9a75ee2bfc54e62dd43ea9ee113b391c629954637e8"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/music-maker-mod.pw.toml"
+file = "mods/music-maker-mod.pw.toml"
 hash = "1107357f27bb0b33921d00b2d85b3457e11978e19991c29f965a9d4f24a874a0"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/my-nethers-delight.pw.toml"
+file = "mods/my-nethers-delight.pw.toml"
 hash = "6adae20d4133f800c1e257e0ace7c65d2978fac59ba5530259694658c28b9186"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/name-pain.pw.toml"
+file = "mods/name-pain.pw.toml"
 hash = "45458f66764d4da3ee2a42bf901129b9d8ed4dcbc72ef66ced275289c3de6de5"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/nanny.pw.toml"
+file = "mods/nanny.pw.toml"
 hash = "a778d274873c2e1c7a3e2d63041367479d670a689aed5c5c132a03f4b0bf03bf"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/neapolitan.pw.toml"
+file = "mods/neapolitan.pw.toml"
 hash = "92b4a9b24698ab7087bbb69ade86f8bbe77f6f402996669a6542a5b1c643fcb9"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/necronomicon.pw.toml"
+file = "mods/necronomicon.pw.toml"
 hash = "909e0c021f6d58d6f6a4d5cc37e6db88a37bb18287eb6120fc8b047fd234fb9f"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/ninezeros-gun-expansion.pw.toml"
+file = "mods/ninezeros-gun-expansion.pw.toml"
 hash = "7da9874510bdf41ba350368c4f7d387b8d71201b286151358291397b652629a0"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/no-chat-reports.pw.toml"
+file = "mods/no-chat-reports.pw.toml"
 hash = "ebe4f9026b88b5e526c15cfb5a00f78b3c7538970df343803fbcdf36ede37534"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/no-telemetry.pw.toml"
+file = "mods/no-telemetry.pw.toml"
 hash = "6105c544e8f5e340d189056416de7abed26fb32b21c91426eea704e432ced60b"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/nonconflictkeys.pw.toml"
+file = "mods/nonconflictkeys.pw.toml"
 hash = "73ee72f79f1a08282a46b90023cdb973b6940222339e22222cc5c207880adb5c"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/not-enough-animations.pw.toml"
+file = "mods/not-enough-animations.pw.toml"
 hash = "1e4d649f87b3ea1c1406cb6429bc73de379e66f45e1578b90c3a14b16979d21e"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/notenoughrecipebook.pw.toml"
+file = "mods/notenoughrecipebook.pw.toml"
 hash = "415e8b90eda716cd0de348bc03e4479d0896905bc5ea0c595e174eaf52c496d6"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/observable.pw.toml"
+file = "mods/observable.pw.toml"
 hash = "7bc26cb7026d2ad04304e3802cbdd274be75c646cdccbdb469a5ed7d63f25547"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/oculus-particle-fix.pw.toml"
+file = "mods/oculus-particle-fix.pw.toml"
 hash = "75543d5eb480ff0adda8a58ac8d6c20c4ae942208a05705088f07bc279d5e367"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/oculus.pw.toml"
+file = "mods/oculus.pw.toml"
 hash = "ad5ea7db099e46fb75851c3ec91393256006c78e55eb4615ca7c764f1668e2e8"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/oh-the-biomes-youll-go.pw.toml"
+file = "mods/oh-the-biomes-youll-go.pw.toml"
 hash = "66fcbdd0beadfbfe224172207dcdd182e1b1f5e61a74af414f458b3a79619336"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/opack2reload.pw.toml"
+file = "mods/opack2reload.pw.toml"
 hash = "abcc70c1cf05e350dd71b0f9a52c6350aa2f90f976d0df867d8bff867740709c"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/open-parties-and-claims.pw.toml"
+file = "mods/open-parties-and-claims.pw.toml"
 hash = "d57d78f11bc535450b9ec603e5d68054d1312f7c0db8c63678cf0eeab6740140"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/opulence.pw.toml"
+file = "mods/opulence.pw.toml"
 hash = "25e54620c3ac129b9a4cc201d4d7308c1068b12a3ff8bf7db2ee1e96c34d4741"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/packmenu.pw.toml"
+file = "mods/packmenu.pw.toml"
 hash = "7b172d722a53635abb8c59898f97355936268c1a1b02c3c9a056bf99b9918449"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/parcool.pw.toml"
+file = "mods/parcool.pw.toml"
 hash = "0d2c18923f784e3c52970cc0fbac15d0051db5eac588a2bc43f4aa3e5a50ec40"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/particle-mimicry.pw.toml"
+file = "mods/particle-mimicry.pw.toml"
 hash = "b8289eda3b364984616b03a3025bce47ecef2a7b70c8bdb1393311aa5ccf7ae0"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/passthrough-signs.pw.toml"
+file = "mods/passthrough-signs.pw.toml"
 hash = "fbae23d039f27eba2c1c458c8ff20fbfea662234a0039f8bc18bb56b6c86e538"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/patchouli.pw.toml"
+file = "mods/patchouli.pw.toml"
 hash = "e0cbe5dbdbece52f9471e318cabec09569b95c35ed72e568b015e2d9c5d3c9dc"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/path-under-gates.pw.toml"
+file = "mods/path-under-gates.pw.toml"
 hash = "9f8c61df836d9079c0e78027dd0eeb542bc84d4f7a3eb7bc93914851148fb70d"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/paxi.pw.toml"
+file = "mods/paxi.pw.toml"
 hash = "f54d3a9236721fbc2c527765dde21251fedb0d9b042ec7b44e98f725a702f3a9"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/peculiars.pw.toml"
+file = "mods/peculiars.pw.toml"
 hash = "a7b6b747351394afecd40e6ca4652af3406b783efde433a269769238ae65907a"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/personality.pw.toml"
+file = "mods/personality.pw.toml"
 hash = "34eaa62a613a766bd8369cc85683bb679014cbcb5852bccbb94ea8bcd993b5e4"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/placebo.pw.toml"
+file = "mods/placebo.pw.toml"
 hash = "eb6b168caf4f8b9f3e501e97caaa61d207ab83d6328ce2f4960c4003eca73e90"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/playeranimator.pw.toml"
+file = "mods/playeranimator.pw.toml"
 hash = "0a2eb7f0b4f837c580350b1105001f43a272ac15868d845cca544d5a5380494f"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/pollen.pw.toml"
+file = "mods/pollen.pw.toml"
 hash = "ae6d9d8911efa59aaa1cddfc8fae86fd7937bb898784c14c17e3dd60ed4b7283"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/portfolio.pw.toml"
+file = "mods/portfolio.pw.toml"
 hash = "c4d0e60181f78c1ff58b5645e91210ffdcdebf024fe72898d3bd83851d9d1060"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/proper-ping.pw.toml"
+file = "mods/proper-ping.pw.toml"
 hash = "d08a4537ea84934b5ed822c5fa1ae7f16e50328ae97e526270bffed9b48a81f4"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/puzzles-lib.pw.toml"
+file = "mods/puzzles-lib.pw.toml"
 hash = "4792b5508f6583035d60a5d681d1f05bb52acef432fb47f132bcfb1b53d518f6"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/quark.pw.toml"
+file = "mods/quark.pw.toml"
 hash = "d06f9962b29db69d2e8fb32940cf29471eb6230043dc5fb9d341af36148a09c3"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/raised.pw.toml"
+file = "mods/raised.pw.toml"
 hash = "f2caf39d7797e5fcdbbbed7db657c8eb1d52c19a23064258e7ef743f6aceb204"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/rebind-narrator.pw.toml"
+file = "mods/rebind-narrator.pw.toml"
 hash = "e87e1681c59a88f9f6bc4c022f3ddadbece3a2557d01e7615d97e9da989c9f83"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/recipe-essentials-forge-fabric.pw.toml"
+file = "mods/recipe-essentials-forge-fabric.pw.toml"
 hash = "61f9e2e5e343e9aa861da1fba4115d90f87f770b79f8b88b91e8c8f1b074bcbb"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/redeco.pw.toml"
+file = "mods/redeco.pw.toml"
 hash = "2fcfaea6e5532a09ad32114ea214553f63d71d41e016c4bb8cbdd151a8334394"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/resource-pack-overrides.pw.toml"
+file = "mods/resource-pack-overrides.pw.toml"
 hash = "c3b6836fe023b1b554b3b04cb456b627364722f93789e05674f532514a71adc8"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/respiteful.pw.toml"
+file = "mods/respiteful.pw.toml"
 hash = "4b6b00f67477b87bcb3c3c44400dbb6f32c2bd4d3b0a37b7b796e6115d8b2c47"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/responsive-shields.pw.toml"
+file = "mods/responsive-shields.pw.toml"
 hash = "912f2f0e3f9e165267911c7b1e7988b619db9d11d5c37b33f8c2f5e41e93d5e8"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/rhino.pw.toml"
+file = "mods/rhino.pw.toml"
 hash = "aec4286f0e205df1d35997fe6f73e8daf5130768e1cbe39c1c73a2339f020b39"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/rrls.pw.toml"
+file = "mods/rrls.pw.toml"
 hash = "83eda896132f7ff69ab57e156fe00f913bea3a4fcb739791878516468a116bc0"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/savage_and_ravage-1.19.2-5.0.5-custom_build.jar"
+file = "mods/savage_and_ravage-1.19.2-5.0.5-custom_build.jar"
 hash = "d7a3788f5acbe9911e2d16df18508b7ce34ce336fadb54e43be65738ecc2b0b8"
 
 [[files]]
-file = "miladycraft_1.5/mods/sawmill.pw.toml"
+file = "mods/sawmill.pw.toml"
 hash = "42c68d9cc82ac17371e684845521e4f7c79be702ad525e60d285cd524ebb23d5"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/searchlight-forge.pw.toml"
+file = "mods/searchlight-forge.pw.toml"
 hash = "e9c6ad6b7d375500b801b3fe15082642dac8e245d2a0b2d96cc7c3b0d9ddcffd"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/seasonals.pw.toml"
+file = "mods/seasonals.pw.toml"
 hash = "0203b4d9cbb5601d8b9a967aeefc3f4ec344e8fdabb8fc8b959c2ce7ead9aab2"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/selene.pw.toml"
+file = "mods/selene.pw.toml"
 hash = "5ca3e837c2e605c07120ab4ae53c67a6693a79f256c87a5939d09b20a437b5c9"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/serializationisbad.pw.toml"
+file = "mods/serializationisbad.pw.toml"
 hash = "3ecec65e3a2ff50bfe96ba232533ac8117c3644903d0a01d5783c8f0f4baad45"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/serverpingerfixer.pw.toml"
+file = "mods/serverpingerfixer.pw.toml"
 hash = "3010cae7a704bb73538bfb6a8350f9f39978113446eb3b0a28583cd7d777c73a"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/sheep-armor.pw.toml"
+file = "mods/sheep-armor.pw.toml"
 hash = "9d6515933722dca0ac568d31319e6eb2d79137cb3ac75443639d2c8b5bc756ff"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/shoulder-surfing-reloaded.pw.toml"
+file = "mods/shoulder-surfing-reloaded.pw.toml"
 hash = "cc47debb35b2faa53cd44825e333185253fccb05b7abe60d7139d7b7fdc200cd"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/shulkerboxtooltip.pw.toml"
+file = "mods/shulkerboxtooltip.pw.toml"
 hash = "ddf17863e1e33022604591c48ac037eb0d6d5d92222e823240d9270b61f51f89"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/shutup-experimental-settings.pw.toml"
+file = "mods/shutup-experimental-settings.pw.toml"
 hash = "97fecd322567a954ea537e61feb6e0f848f307790d2e8a155af427c5910a4a4d"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/sidekick.pw.toml"
+file = "mods/sidekick.pw.toml"
 hash = "6758b28182f58e457b79d7584b9c05b8926b030ff15d36056929e0d5083105a0"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/simple-discord-rpc.pw.toml"
+file = "mods/simple-discord-rpc.pw.toml"
 hash = "5027cf73eefaf79eabd0764392b0215eceee53d66e54f2bf6dac961c59499cd7"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/simple-login.pw.toml"
+file = "mods/simple-login.pw.toml"
 hash = "d6b9297babae8147a453f51084a6d2c620d0220482ebc701bb2b78e40de9af4c"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/simple-netherite-horse-armor.pw.toml"
+file = "mods/simple-netherite-horse-armor.pw.toml"
 hash = "db99fd24f7f691af511dfd75be32a66b494ad346ae891db22765ec89c14951eb"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/simple-splash-screen.pw.toml"
+file = "mods/simple-splash-screen.pw.toml"
 hash = "5157d1bbf677834b2e191ca7ecb1bc87f273b1eddcc638ae09bd05bf07915eb1"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/simplehats.pw.toml"
+file = "mods/simplehats.pw.toml"
 hash = "9d2c5f1b13c0043189b7487518c5ea39dc6ebd8ea5f83ab9b3c2ef0e82267de8"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/simply-graves.pw.toml"
+file = "mods/simply-graves.pw.toml"
 hash = "45a2e63bc60d68c62933a793961f574b41482daa1cfd17746efae17fb808252a"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/sit.pw.toml"
+file = "mods/sit.pw.toml"
 hash = "094d9828ac94c8a01c0c66fe0818e1ba7062664f5335448d8994339945fedf2e"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/smarter-farmers-farmers-replant.pw.toml"
+file = "mods/smarter-farmers-farmers-replant.pw.toml"
 hash = "794575492ef1688e59d36e4ebd1c82007816641337467943beb10255e7d21c51"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/snowy-spirit.pw.toml"
+file = "mods/snowy-spirit.pw.toml"
 hash = "9d94475e6a91314dbda456bb4fea41b29fcb4e2ae4ee6960406b105200853082"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/sooty-chimneys.pw.toml"
+file = "mods/sooty-chimneys.pw.toml"
 hash = "628ee0a8edb4eddb488833a20093a2f9f88ee956d381ec7862835b0c2e3c6b20"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/spark.pw.toml"
+file = "mods/spark.pw.toml"
 hash = "555c2ed7500d7deb9f0dbfbc6a597bfa76ae2a22ccdbe7ab3632cde4278169b4"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/spyglass-improvements.pw.toml"
+file = "mods/spyglass-improvements.pw.toml"
 hash = "c9ef1f1fcfcdceca16f7694b021e233d10f4dce29f800ba74bcf1f0fec256b4f"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/staaaaaaaaaaaack.pw.toml"
+file = "mods/staaaaaaaaaaaack.pw.toml"
 hash = "60544ef214e74db64207fb4e6661ec2a583d3de599f33d25a921d52171957cd9"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/stronger-snowballs.pw.toml"
+file = "mods/stronger-snowballs.pw.toml"
 hash = "de61bb0b939f5600ebb0ee6d5d7910950695e55950cf45a1d2fae7d9e8f69469"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/stylish-effects.pw.toml"
+file = "mods/stylish-effects.pw.toml"
 hash = "1488ba615e19545da03265aa234d3f9cb0a1b09d06bbb4dfc8b901f7585fbb8f"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/sugared-concrete-powder.pw.toml"
+file = "mods/sugared-concrete-powder.pw.toml"
 hash = "400e850a5dc08f43cffd35e41d8658744882c2ac1b72d707111ff12cabefbb77"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/suggestion-provider-fix.pw.toml"
+file = "mods/suggestion-provider-fix.pw.toml"
 hash = "814fa456173af8a17f00a0b81a74e04656a27248c092ef6a8bf322fb56be0147"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/suggestion-tweaker.pw.toml"
+file = "mods/suggestion-tweaker.pw.toml"
 hash = "91d2234e0a816a98b25418382c9592f5efd0f6b357a5f8b757f90d7663db39ef"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/sullys-mod.pw.toml"
+file = "mods/sullys-mod.pw.toml"
 hash = "5080f2cfeaf087d691091fd595a5ef8b673f751a590830cdc8c0480b33879374"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/summoningrituals.pw.toml"
+file = "mods/summoningrituals.pw.toml"
 hash = "ffe1584819224d5465e00ca675df0c88e7611e36ecbd6c5a36877799cf412ce9"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/sun-and-moon-celestial-configuration.pw.toml"
+file = "mods/sun-and-moon-celestial-configuration.pw.toml"
 hash = "93bdb7e8020a1d8f8e76e6f32557d83824c0beb0947c411973ec019f56f323c1"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/supermartijn642s-config-lib.pw.toml"
+file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "1f20786408ae526f5df6a6cde7c04c4dd4afc2d87d5bc24a109687622f9db356"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/supermartijn642s-core-lib.pw.toml"
+file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "cc6cd0beee356fd5e017743fae54cfe89d20f9a86073b704b8c103d1a3ba89ac"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/supplementaries-squared.pw.toml"
+file = "mods/supplementaries-squared.pw.toml"
 hash = "e5193ed1544359284f88c9882d32d918ebf237015a03daadfbbb8d1fe71e22ab"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/supplementaries.pw.toml"
+file = "mods/supplementaries.pw.toml"
 hash = "c8fe1aa2391ea5a0ed155de631d6cf9b46c90b2a2541a4afb3497a3285d537d7"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/tabby-reforged.pw.toml"
+file = "mods/tabby-reforged.pw.toml"
 hash = "e9748e210952711e178d77bd7af9a76e80030d115709fc5c7590efaa6d09e549"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/table-top-craft.pw.toml"
+file = "mods/table-top-craft.pw.toml"
 hash = "71e9c194c3935ed9c003cbe80434f022e138ec4e15377901cd9b85e3a55df8ca"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/terrablender.pw.toml"
+file = "mods/terrablender.pw.toml"
 hash = "df03692ea55f854de0cfcb021bd960643a6a8f09c03c30456eac10232384a41a"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/texels-paintings.pw.toml"
+file = "mods/texels-paintings.pw.toml"
 hash = "5b258d5044c79884c878387f797248a5e63bc7b0f1ae35500641a2318ee123ea"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/textrues-embeddium-options.pw.toml"
+file = "mods/textrues-embeddium-options.pw.toml"
 hash = "5b41c25289361f7791a080ef812c7cab6d9f63ab57b63b0d3ec6694bb78d18dc"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/theobsidianboat.pw.toml"
+file = "mods/theobsidianboat.pw.toml"
 hash = "92b25cd2a2334a0d5e7fe738c111daac3d48bfb0e1b6ddc1a76f5ab2d67d983e"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/time-control.pw.toml"
+file = "mods/time-control.pw.toml"
 hash = "27f1978f33e3942676bc2ec1bf3f5ee5151821f7cf61aae0048404eab01f7177"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/tips.pw.toml"
+file = "mods/tips.pw.toml"
 hash = "304722782c3984ce5c9a8c679fb6998c02e0e8f3025f31c717d1d6ef594533ea"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/toast-control.pw.toml"
+file = "mods/toast-control.pw.toml"
 hash = "8ff48d18f2fbe8df674dcd79aabcece27808667c270401b06ac10c97d7552990"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/toms-storage.pw.toml"
+file = "mods/toms-storage.pw.toml"
 hash = "176b9a9774021afbbb5443cec245787e5c77895713d16360f17cfb01aac6d09f"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/trade-cycling.pw.toml"
+file = "mods/trade-cycling.pw.toml"
 hash = "929b40bb5054412a8130245eb94f214322e0310e962937b31710798551f0d1b4"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/trafficcraft.pw.toml"
+file = "mods/trafficcraft.pw.toml"
 hash = "420123567947f3693d5261d2b414f20f7069645d6472440edf9ce98ba599e69a"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/trashslot.pw.toml"
+file = "mods/trashslot.pw.toml"
 hash = "9dd680e7e847c90451529fc930fa1da0e3c5e0e557ac1d7338e9a9d03266718b"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/trofers.pw.toml"
+file = "mods/trofers.pw.toml"
 hash = "10edc20d356385ad686653ad530c8ecae2c0b15776bab30e1d0d9ba3bb1133e4"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/tslatentitystatus-tes.pw.toml"
+file = "mods/tslatentitystatus-tes.pw.toml"
 hash = "450872eeba1f644ac626142ddd7c04f6ce4d768605d28175ab93e2053e4f4033"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/universal-bone-meal-forge.pw.toml"
+file = "mods/universal-bone-meal-forge.pw.toml"
 hash = "dde205665711c195efaf2ef7820885940adeb94c922964331430d7410bcf7f90"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/upgrade-aquatic.pw.toml"
+file = "mods/upgrade-aquatic.pw.toml"
 hash = "76d67686a7cbe1849420042bee7e2a346e073bed173f8f1f57ae6717e5bdea29"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/vanity-colossal-weapons.pw.toml"
+file = "mods/vanity-colossal-weapons.pw.toml"
 hash = "8ab8b91736c97ab5cc15013af162ddeaaf1b100024c8a984e23adbec271b590e"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/vanity.pw.toml"
+file = "mods/vanity.pw.toml"
 hash = "22b89cf6499edc0eece56bb61aad96cbef49290a25dd96ffa2b6f1d17f12a0db"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/verdantvibes.pw.toml"
+file = "mods/verdantvibes.pw.toml"
 hash = "b22208733b3f88fda09ba5368d59a1c53917bf56611c66bffa9d9dbb25bdfdea"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/vertical-slabs-compat.pw.toml"
+file = "mods/vertical-slabs-compat.pw.toml"
 hash = "0933c751ef107dc173728e8456eca8a03f088e7ccce28233707a37acda8ede5c"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/voicechat-forge-1.19.2-2.5.15.jar"
+file = "mods/voicechat-forge-1.19.2-2.5.15.jar"
 hash = "390baa99ee351a521b5d0663f1401b9f0ce78c28c8dc659c45e76c0fea9281a4"
 
 [[files]]
-file = "miladycraft_1.5/mods/wares.pw.toml"
+file = "mods/wares.pw.toml"
 hash = "06e36e839fc28dc3185736883546b927d2ddbc7f17dba2c679a01bcab7585b7b"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/waterframes.pw.toml"
+file = "mods/waterframes.pw.toml"
 hash = "7266006c40297393179114e43cd0975131228297061d46dc2c1f89c7ec2ec4bc"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/watermedia.pw.toml"
+file = "mods/watermedia.pw.toml"
 hash = "c5281dd134c913b5acb19de510a2ad1905600969e6c4ab6cc2e3b147db635e4a"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/waxable-coral.pw.toml"
+file = "mods/waxable-coral.pw.toml"
 hash = "e1c3a5cf541c0601f1d12593ac0cd1eb56aad3593709b4bcc0a4b9372090d357"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/waystones.pw.toml"
+file = "mods/waystones.pw.toml"
 hash = "0136dbc530293d8074c4a128fd468acd6d0047e01ba717db9fce876e551cd6b0"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/weaponworks.pw.toml"
+file = "mods/weaponworks.pw.toml"
 hash = "3599198e4309f2edf948c34aff9ab8a2e8d5a87b8a1246389964e02ff6a5d983"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/what-are-they-up-to.pw.toml"
+file = "mods/what-are-they-up-to.pw.toml"
 hash = "c37965ff8d013b31bc7e227aae37b5949e4e1126280aca4b23271b42d9d601b3"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/what-the-bucket.pw.toml"
+file = "mods/what-the-bucket.pw.toml"
 hash = "6ca26e55c3a06763430395215fdcb17b13e57c5391383304b27b7805f5fc1660"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/windsweptmod.pw.toml"
+file = "mods/windsweptmod.pw.toml"
 hash = "ad2ffafd347ee12be77e0afaa35a9d89b1b66835e816f6307d5f109a2f5c432a"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/woodworks.pw.toml"
+file = "mods/woodworks.pw.toml"
 hash = "7443120ba0ed3fcb7a3393e8116e3719b09c26ad2fd9c269151519349362703d"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/xaeroplus.pw.toml"
+file = "mods/xaeroplus.pw.toml"
 hash = "93ff8a1ea011eb5eb13dd8aa73dfd36c10222d90da7fcc037262975632ea66fe"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/xaeros-minimap.pw.toml"
+file = "mods/xaeros-minimap.pw.toml"
 hash = "71a58baa4d8314fc779ac6a01c68e056338cffd22ce17e2afe5d281584344465"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/xaeros-world-map.pw.toml"
+file = "mods/xaeros-world-map.pw.toml"
 hash = "dbef631742d9edecc1f7eead38c9e24ec0adbcba36723d489bca21cc6fbe5f9e"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/xercapaint-1.19.2-1.0.1.jar"
+file = "mods/xercapaint-1.19.2-1.0.1.jar"
 hash = "c924841435b37f1e6ef86458915716360a6c708e65196fd343a9f69fdb8e52ec"
 
 [[files]]
-file = "miladycraft_1.5/mods/yeetusexperimentus.pw.toml"
+file = "mods/yeetusexperimentus.pw.toml"
 hash = "233f79cd76dc6d14c59a4cfbdc6660805c3f858e057061c1ca08df8cad73c56b"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/mods/yungs-api.pw.toml"
+file = "mods/yungs-api.pw.toml"
 hash = "8fe58cbf1d128af0e210ee74dd21883a6c35ac0023c9605ae9646a29c03efd8a"
 metafile = true
 
 [[files]]
-file = "miladycraft_1.5/pack.toml"
+file = "pack.toml"
 hash = "de40a809f0476b5ad00b7844b316e3c2d906f777f97a2eb6177892e4c29b5a9e"
 
 [[files]]
-file = "miladycraft_1.5/packmenu/resources.zip"
+file = "packmenu/resources.zip"
 hash = "43770b4ad0c9dcc103d27946e3f94c2647c00cded43573ef6fd882b00e929936"
 
 [[files]]
-file = "miladycraft_1.5/shaderpacks/ComplementaryReimagined_r5.2.1 + EuphoriaPatches_1.3.1.zip"
+file = "shaderpacks/ComplementaryReimagined_r5.2.1 + EuphoriaPatches_1.3.1.zip"
 hash = "f91afdeb8a05d72e53bbdd6e4295503d18246aef111d2340efd7db1ae60128d4"
 
 [[files]]
-file = "miladycraft_1.5/shaderpacks/ComplementaryUnbound_r5.2.1 + EuphoriaPatches_1.3.1.zip"
+file = "shaderpacks/ComplementaryUnbound_r5.2.1 + EuphoriaPatches_1.3.1.zip"
 hash = "e4c11f4ae2a583f95fc0f2bcd40cf85cb559e39638d6a0b0174180ffda6abae6"
 
 [[files]]
-file = "miladycraft_1.5/shaderpacks/Sildur's Vibrant Shaders v1.52 Lite.zip"
+file = "shaderpacks/Sildur's Vibrant Shaders v1.52 Lite.zip"
 hash = "1d49d456b2dad25cfd3a85943992bb0a20ed39ef9a4430a6de5a0fe094ca9a49"
 
 [[files]]
-file = "miladycraft_1.5/shaderpacks/Simplicissimus_v1.3a.zip"
+file = "shaderpacks/Simplicissimus_v1.3a.zip"
 hash = "43efc54c9306702d0de5560e63316857e9c6fa110808791e8a548c3404e4fdfc"
 
 [[files]]
-file = "miladycraft_1.5/shaderpacks/Simplicissimus_v1.3a.zip.txt"
+file = "shaderpacks/Simplicissimus_v1.3a.zip.txt"
 hash = "60841b1ecbc519a3f36bde758995fd988612bf21e64980ff313e4fec37236cfb"
 
 [[files]]
