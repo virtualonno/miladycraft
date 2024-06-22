@@ -1529,6 +1529,10 @@ file = "kubejs/startup_scripts/tooltipsApoth.js"
 hash = "8997040ea62744c9abef1db7c738e6ce4c0cb526391c3487844d41a138473518"
 
 [[files]]
+file = "mods/BeeFix-1.19-1.0.7.jar"
+hash = "db68b582eb5503002984bd6959d8794fb5371bb312d41194d487f0fd660991fa"
+
+[[files]]
 file = "mods/CreativeCore_FORGE_v2.11.27_mc1.19.2.jar"
 hash = "4bd2dd4a4cbd73fc92f66529d582c611aa308e96f08de031ccbd01d4cc0f450a"
 
@@ -1827,6 +1831,10 @@ hash = "32620e1840e795720406f70ce61a79c9220540a2161772c84bcae6d16e44bfec"
 metafile = true
 
 [[files]]
+file = "mods/bwncr-forge-1.19.2-3.14.1.jar"
+hash = "ae5e09f7855800f415b85006643dc577c8c7df64bcc32075549357faa4fc9804"
+
+[[files]]
 file = "mods/caelus.pw.toml"
 hash = "ae8cbf0fe7b220e110932056e448ca4464b689f4d4cf8e2e435fb1acba86908f"
 metafile = true
@@ -2059,6 +2067,10 @@ metafile = true
 file = "mods/desired-servers.pw.toml"
 hash = "22ed54b0fa491eebc5bcefce200e387c3266104eab0a9e9cc55dae0bc2069064"
 metafile = true
+
+[[files]]
+file = "mods/desiredservers-forge-1.19.2-1.1.1.jar"
+hash = "e07933f9bfee6f488061a0eb84902644eabf8059722626d6588fa58435ed7512"
 
 [[files]]
 file = "mods/dimensional-sync-fixes.pw.toml"
@@ -2396,6 +2408,10 @@ hash = "a72633473a4c53ab7c74417cc5fcddea9da48d9c458ce4ea27e51663dba0d53e"
 metafile = true
 
 [[files]]
+file = "mods/itemfig-1.19.2-0.2.7.jar"
+hash = "606aef22f9201fa86f637eca8d1fc5414d9f77774e4be258a002c3747f494bda"
+
+[[files]]
 file = "mods/itemfig.pw.toml"
 hash = "a7efb81f60cf03ae22848734df1e473ea6f91c20dd85d9f0008e41a221c73785"
 metafile = true
@@ -2585,6 +2601,10 @@ hash = "22884187b6e8fd7766ce57d8511fb8e63f9210cbb5a16334588b59c431a83a84"
 metafile = true
 
 [[files]]
+file = "mods/moonsweaponry-1.4.1-1.19.2.jar"
+hash = "dc9b9c9d6b7a5698f79abf779e00b20a624cfea8a194d50d7bcd456395dc7934"
+
+[[files]]
 file = "mods/more-minecarts.pw.toml"
 hash = "a6a0ba6205d7b957dca0b506c2e2c707cec49e5edf2b6003526ec07d9b39a4f2"
 metafile = true
@@ -2598,6 +2618,10 @@ metafile = true
 file = "mods/morejs.pw.toml"
 hash = "d6b5e3c31b7260eca0cc1d7e6074f26a6ff00d38d508901c1e7851d771c950b3"
 metafile = true
+
+[[files]]
+file = "mods/moreoverlays-1.21.10-mc1.19.2.jar"
+hash = "883baa4556da1c138d590cad6857d8b77095fbb51a97fb93ecd7e5583852f2c9"
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
@@ -2667,6 +2691,10 @@ metafile = true
 file = "mods/not-enough-animations.pw.toml"
 hash = "1e4d649f87b3ea1c1406cb6429bc73de379e66f45e1578b90c3a14b16979d21e"
 metafile = true
+
+[[files]]
+file = "mods/notenoughanimations-forge-1.7.4-mc1.19.2.jar"
+hash = "dd470490f09280c8f7a2043cca6f3a812c8e6778b56da1cb58f338792236cb42"
 
 [[files]]
 file = "mods/notenoughrecipebook.pw.toml"
@@ -3111,6 +3139,10 @@ metafile = true
 file = "mods/vanity.pw.toml"
 hash = "22b89cf6499edc0eece56bb61aad96cbef49290a25dd96ffa2b6f1d17f12a0db"
 metafile = true
+
+[[files]]
+file = "mods/verdantvibes-1.0.1-1.19.2.jar"
+hash = "7f5ae50988a2e92d03db0824be72a8dc86d2b2d4bde54ccb1a83d38adc88df6b"
 
 [[files]]
 file = "mods/verdantvibes.pw.toml"
