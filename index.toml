@@ -1529,6 +1529,10 @@ file = "kubejs/startup_scripts/tooltipsApoth.js"
 hash = "8997040ea62744c9abef1db7c738e6ce4c0cb526391c3487844d41a138473518"
 
 [[files]]
+file = "mods/Apothic_Supplementaries-Enchanting-0.1.2.jar"
+hash = "46f4a141e12f177679fb3aa5db1a5538ea8411617e99e9a731011ed5e95f17c3"
+
+[[files]]
 file = "mods/BeeFix-1.19-1.0.7.jar"
 hash = "db68b582eb5503002984bd6959d8794fb5371bb312d41194d487f0fd660991fa"
 
@@ -1608,11 +1612,6 @@ metafile = true
 [[files]]
 file = "mods/apotheosis.pw.toml"
 hash = "16c832bfc074f3b149e6f1704af0b04b3500aa0697d92c2f2310756fc0c41c13"
-metafile = true
-
-[[files]]
-file = "mods/apothic-supplementaries-enchanting.pw.toml"
-hash = "44d341d18e35ab479f0194954a8d7dbb771970c66f4b2e3a0278fbcc81db09e8"
 metafile = true
 
 [[files]]
