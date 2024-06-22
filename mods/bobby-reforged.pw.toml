@@ -1,0 +1,13 @@
+name = "Bobby Reforged"
+filename = "bobby-1.19.2_v5.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a572ca55395ee42191afcee5b7a4e65197dfd2e5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4650224
+project-id = 883502

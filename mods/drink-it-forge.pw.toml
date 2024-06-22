@@ -1,0 +1,13 @@
+name = "Drink It![Forge]"
+filename = "DrinkIt-Forge-1.19.2-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e8767f3ce1d7e72d1da75ea0545e3e0f6278d1df"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4343970
+project-id = 592140

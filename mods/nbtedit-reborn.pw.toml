@@ -1,0 +1,13 @@
+name = "In-game NBTEdit Reborn"
+filename = "nbtedit-forge-5.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6c8be647edacc0ed99865e5d9c8f2f199ddc349a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5052251
+project-id = 678133

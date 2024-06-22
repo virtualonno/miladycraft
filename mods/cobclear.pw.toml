@@ -1,0 +1,13 @@
+name = "CobClear"
+filename = "CobClear-Forge-1.19.2-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "02550459e6120acc46dab785f2c194561bd9133c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4937917
+project-id = 947748

@@ -1,0 +1,13 @@
+name = "Sugared Concrete Powder"
+filename = "SugaredConcrete-Forge-1.19.2-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "61998b5331778651969f0854e25e7a7fa6013810"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5012581
+project-id = 958754

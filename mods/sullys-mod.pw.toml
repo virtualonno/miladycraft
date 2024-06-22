@@ -1,0 +1,13 @@
+name = "Sullys Mod"
+filename = "sullysmod-2.4.2-beta.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "741a5030d2b7acaa1e0f24b27c4c0433eeefe850"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4775845
+project-id = 386534

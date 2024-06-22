@@ -1,0 +1,13 @@
+name = "Data Trader"
+filename = "DataTrader-1.19.1-1.2.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dcc46d6721d4e8837a6f7cf0c394b1af2bc60363"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4417037
+project-id = 650573

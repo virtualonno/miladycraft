@@ -1,0 +1,13 @@
+name = "Lava Clear View (Forge)"
+filename = "LavaClearView-1.19.2-forge-5.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "099dc07baa1f8f48e6ca544c683e57c80fa2bf88"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3940274
+project-id = 375272

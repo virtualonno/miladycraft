@@ -1,0 +1,13 @@
+name = "Japanese Vibes"
+filename = "japanese_vibes-1.19.2-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6d4a710f9713f2ced911893ef211bc018889c08e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4741983
+project-id = 633438

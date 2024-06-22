@@ -1,0 +1,13 @@
+name = "Coloured Tooltips"
+filename = "ColouredTooltips-Forge-1.19.2-18.1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a573ed5bca6e85481ff21a706dca66d68a379e4e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3943024
+project-id = 285684

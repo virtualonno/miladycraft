@@ -1,0 +1,13 @@
+name = "Allay in a Bottle"
+filename = "Allay-In-A-Bottle-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dd2908ae126c7c678fc6e7ae21501ba5b5cc21bd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4226676
+project-id = 759620
