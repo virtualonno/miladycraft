@@ -1549,12 +1549,22 @@ file = "mods/Xaeros_Minimap_24.2.0_Forge_1.19.1.jar"
 hash = "e982e3347670dbfa0087afa64d00ef873591bce4d63b912631c5b1fd9e97d49a"
 
 [[files]]
+file = "mods/blueprint.pw.toml"
+hash = "f30dc5b64b12df077cabf15d38ad1480f5459a8025de2d7ee71232d1dcaf383a"
+metafile = true
+
+[[files]]
 file = "mods/citadel-2.1.4-1.19.2_connectionfixed.jar"
 hash = "a983cd30047d328f7f5009c5540583ecfeb051c7bd33c6ab1af380cb9db0aaa4"
 
 [[files]]
 file = "mods/lootr-forge-1.19-0.4.26.69.jar"
 hash = "2dedaa1724663f86d35ab27885268fe1cfa6d120aafab249e57b85cd2bdca285"
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "b05ae9442445c67b00ba24f09e2489e12f963274b8dbe41bbfead61a5c9660dc"
+metafile = true
 
 [[files]]
 file = "mods/moyai-1.19.2-2.1.1-custom_build.jar"
