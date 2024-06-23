@@ -314,11 +314,11 @@ hash = "45935895d117bb33a0495c5c2c129a3c8c8d328b3c225fb808ba48a0b57c7108"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "f7bb002606ce3b7c0dc9eb400a8ef914be60ab7e52a51b6934788825dfe3f9db"
+hash = "9c613b9a33223fb02971fdf679241095dc5329f0861c813475f8858b5c031280"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "4665e960e3b28dfd44f0e41c2ebd8d65695a4d987fb55ec8cb77735d3d3856d5"
+hash = "c076ac0cf3698572dffc453ded21f2ea778206cba49c88e61f20bb9dea849ccc"
 
 [[files]]
 file = "config/delightful-common.toml"
@@ -742,7 +742,7 @@ hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
 file = "config/paxi/resourcepacks/Miladycraft_resources.zip"
-hash = "a9a5523a48dc784058f58356eb280986db417ecd8346dfde693a86272f46cf51"
+hash = "ab7ab0470e4a62d78ea7cf9972873e9686b4e2d941f9ffe1983ac263b01203a1"
 
 [[files]]
 file = "config/performant-common.toml"
@@ -3212,7 +3212,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "3ecf57647a8bb275c9c34ebb941a6986114c1b958da25ea68819bf8f35d71043"
+hash = "d716c13df66bfeccf0874b480f219dec73daa7821023f0dc61ae1bc66d65a38d"
 
 [[files]]
 file = "packmenu/resources.zip"
