@@ -1627,11 +1627,6 @@ hash = "16c832bfc074f3b149e6f1704af0b04b3500aa0697d92c2f2310756fc0c41c13"
 metafile = true
 
 [[files]]
-file = "mods/apothic-supplementaries-enchanting.pw.toml"
-hash = "44d341d18e35ab479f0194954a8d7dbb771970c66f4b2e3a0278fbcc81db09e8"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "1be3c626f8c8e445e57444f2559dc590edafc75b6c8c18d4599703dbc614a7e8"
 metafile = true
@@ -2070,11 +2065,6 @@ hash = "a755d072163628ead956fa2bc96b6e6d7902f4d0a3a08cf6a71d0f6ff77c091f"
 metafile = true
 
 [[files]]
-file = "mods/desired-servers.pw.toml"
-hash = "22ed54b0fa491eebc5bcefce200e387c3266104eab0a9e9cc55dae0bc2069064"
-metafile = true
-
-[[files]]
 file = "mods/desiredservers-forge-1.19.2-1.1.1.jar"
 hash = "e07933f9bfee6f488061a0eb84902644eabf8059722626d6588fa58435ed7512"
 
@@ -2418,11 +2408,6 @@ file = "mods/itemfig-1.19.2-0.2.7.jar"
 hash = "606aef22f9201fa86f637eca8d1fc5414d9f77774e4be258a002c3747f494bda"
 
 [[files]]
-file = "mods/itemfig.pw.toml"
-hash = "a7efb81f60cf03ae22848734df1e473ea6f91c20dd85d9f0008e41a221c73785"
-metafile = true
-
-[[files]]
 file = "mods/itemzoom.pw.toml"
 hash = "14887193368411d01e9d810aaa545e7199b2c3b746dd6f561f7a337dbd9964bc"
 metafile = true
@@ -2611,11 +2596,6 @@ hash = "a6a0ba6205d7b957dca0b506c2e2c707cec49e5edf2b6003526ec07d9b39a4f2"
 metafile = true
 
 [[files]]
-file = "mods/more-overlays-updated.pw.toml"
-hash = "97f349cd764e09990ff2306f93783a240ff73ace828a0f83945881ee52d9f29f"
-metafile = true
-
-[[files]]
 file = "mods/morejs.pw.toml"
 hash = "d6b5e3c31b7260eca0cc1d7e6074f26a6ff00d38d508901c1e7851d771c950b3"
 metafile = true
@@ -2691,11 +2671,6 @@ metafile = true
 [[files]]
 file = "mods/nonconflictkeys.pw.toml"
 hash = "73ee72f79f1a08282a46b90023cdb973b6940222339e22222cc5c207880adb5c"
-metafile = true
-
-[[files]]
-file = "mods/not-enough-animations.pw.toml"
-hash = "1e4d649f87b3ea1c1406cb6429bc73de379e66f45e1578b90c3a14b16979d21e"
 metafile = true
 
 [[files]]
@@ -3156,11 +3131,6 @@ file = "mods/verdantvibes-1.0.1-1.19.2.jar"
 hash = "7f5ae50988a2e92d03db0824be72a8dc86d2b2d4bde54ccb1a83d38adc88df6b"
 
 [[files]]
-file = "mods/verdantvibes.pw.toml"
-hash = "b22208733b3f88fda09ba5368d59a1c53917bf56611c66bffa9d9dbb25bdfdea"
-metafile = true
-
-[[files]]
 file = "mods/vertical-slabs-compat.pw.toml"
 hash = "0933c751ef107dc173728e8456eca8a03f088e7ccce28233707a37acda8ede5c"
 metafile = true
@@ -3192,11 +3162,6 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "0136dbc530293d8074c4a128fd468acd6d0047e01ba717db9fce876e551cd6b0"
-metafile = true
-
-[[files]]
-file = "mods/weaponworks.pw.toml"
-hash = "3599198e4309f2edf948c34aff9ab8a2e8d5a87b8a1246389964e02ff6a5d983"
 metafile = true
 
 [[files]]
