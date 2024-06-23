@@ -84,7 +84,7 @@ allowServerListing:true
 chatPreview:1
 onlyShowSecureChat:false
 soundCategory_master:0.30463576
-soundCategory_music:0.0
+soundCategory_music:0.15140845
 soundCategory_record:1.0
 soundCategory_weather:0.40140846
 soundCategory_block:0.806338
