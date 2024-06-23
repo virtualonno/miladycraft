@@ -1,11 +1,11 @@
-name = "Miladycraft_1.5"
-version = "1.5"
+name = "Miladycraft"
+version = "1.5.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "975b0fc12d9457851a36650e754153a189418dde8f0dbfa4acad057b466822fa"
+hash = "015638023403c46caadb20e63b7ddd5a81adf98d1ef93e8827709c1c9b442ead"
 
 [versions]
 forge = "43.4.0"

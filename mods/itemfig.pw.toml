@@ -3,11 +3,11 @@ filename = "itemfig-1.19.2-0.2.7.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/vgvGqW1E/versions/1McJAzoL/itemfig-1.19.2-0.2.7.jar"
 hash-format = "sha1"
 hash = "8b95aaea898ff6efce3279906a3732e02d23d352"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 5057204
-project-id = 966312
+[update.modrinth]
+mod-id = "vgvGqW1E"
+version = "1McJAzoL"

@@ -1,8 +1,8 @@
 // credit to Liopyu from KubeJS Discord
 
-const $MinecraftForge = Java.loadClass('net.minecraftforge.common.MinecraftForge')
-const $EventPriority = Java.loadClass('net.minecraftforge.eventbus.api.EventPriority')
-//const $KubeJS = Java.loadClass('dev.latvian.mods.kubejs.KubeJS')
+let $MinecraftForge = Java.loadClass('net.minecraftforge.common.MinecraftForge')
+let $EventPriority = Java.loadClass('net.minecraftforge.eventbus.api.EventPriority')
+let $KubeJS = Java.loadClass('dev.latvian.mods.kubejs.KubeJS')
 if ($KubeJS.startupScriptManager.firstLoad) {
   $MinecraftForge.EVENT_BUS.addListener($EventPriority.LOW, false, Java.loadClass('net.minecraftforge.event.entity.player.ItemTooltipEvent'), event => global.tooltips(event))
 }

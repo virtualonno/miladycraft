@@ -3,11 +3,11 @@ filename = "moonsweaponry-1.4.1-1.19.2.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/rl1xUJYc/versions/t1GGDTSG/moonsweaponry-1.4.1-1.19.2.jar"
 hash-format = "sha1"
 hash = "73e4a6f1bf7428a9187e8ce7c28f65a3ac6ba3ce"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 5059344
-project-id = 846682
+[update.modrinth]
+mod-id = "rl1xUJYc"
+version = "t1GGDTSG"

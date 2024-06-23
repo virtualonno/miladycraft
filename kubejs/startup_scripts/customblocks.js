@@ -5,7 +5,7 @@ const $Material = Java.loadClass('net.minecraft.world.level.material.Material')
 const $SoundType = Java.loadClass('net.minecraft.world.level.block.SoundType')
 const $BlockItem = Java.loadClass('net.minecraft.world.item.BlockItem')
 const $IProperties = Java.loadClass('net.minecraft.world.item.Item$Properties')
-const $KubeJS = Java.loadClass('dev.latvian.mods.kubejs.KubeJS')
+let $KubeJS = Java.loadClass('dev.latvian.mods.kubejs.KubeJS')
 
 
 let customBlocks = {}
