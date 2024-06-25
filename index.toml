@@ -1447,6 +1447,7 @@ hash = "f95d90f49f6cebec922e36caf63449051a84c6aa414e24e7f90efacc73a199da"
 [[files]]
 file = "knownkeys.txt"
 hash = "018bba37d909e59719cf7641ba997b24cc28627d6aa7298fd4a528e004e09fcc"
+preserve = true
 
 [[files]]
 file = "kubejs/README.txt"
@@ -3203,6 +3204,7 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "9f3b970cabdfea3d52242117a789fbb5a52648a5887ffc0612acb696ea918a48"
+preserve = true
 
 [[files]]
 file = "packmenu/resources.zip"
