@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "CNAME"
-hash = "29070e67059c6a119fa64c324da2d89ce9223ddaa7accff1dbacb537912ccd65"
-
-[[files]]
 file = "config/Adorn.json5"
 hash = "86158f3c7d8edbd86caabc1cda89e5c55668bf270b7791fc813b098c91a1337b"
 
@@ -2149,11 +2145,6 @@ hash = "f3b7dbee54a0265d942a1c9b1ef9f638be688a500b5728959f931a17c9837506"
 metafile = true
 
 [[files]]
-file = "mods/easy-shulker-boxes.pw.toml"
-hash = "610d5ecb5336fcff0fd1af83a98127841c9ac03a66bd7dca1fd9f9a4a3cb7be7"
-metafile = true
-
-[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "5e88f76a7cc2a6980b131fcdb3593471331412c3cf09a8408cc82272e895c1ed"
 metafile = true
@@ -2815,11 +2806,6 @@ metafile = true
 [[files]]
 file = "mods/raised.pw.toml"
 hash = "f2caf39d7797e5fcdbbbed7db657c8eb1d52c19a23064258e7ef743f6aceb204"
-metafile = true
-
-[[files]]
-file = "mods/re-skin.pw.toml"
-hash = "7f322ad7931e41ef1465e1930791fd0d53bc2a508d76b7f66931c06ff1e02f60"
 metafile = true
 
 [[files]]
