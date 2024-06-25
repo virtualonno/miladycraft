@@ -2935,6 +2935,11 @@ hash = "5157d1bbf677834b2e191ca7ecb1bc87f273b1eddcc638ae09bd05bf07915eb1"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "53b970b4755f0fa00f00f8a6bb3b81e303deeeff2831f933c5818ab57feb4ee8"
+metafile = true
+
+[[files]]
 file = "mods/simplehats.pw.toml"
 hash = "9d2c5f1b13c0043189b7487518c5ea39dc6ebd8ea5f83ab9b3c2ef0e82267de8"
 metafile = true
@@ -3195,6 +3200,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "71a58baa4d8314fc779ac6a01c68e056338cffd22ce17e2afe5d281584344465"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "dbef631742d9edecc1f7eead38c9e24ec0adbcba36723d489bca21cc6fbe5f9e"
 metafile = true
 
 [[files]]
