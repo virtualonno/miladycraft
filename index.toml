@@ -1570,10 +1570,6 @@ file = "mods/XaerosWorldMap_1.38.8_Forge_1.19.1.jar"
 hash = "27dbf59e4fdaf242470e367ec0c110cf79c5c11849138d422847556d040726be"
 
 [[files]]
-file = "mods/Xaeros_Minimap_24.2.0_Forge_1.19.1.jar"
-hash = "e982e3347670dbfa0087afa64d00ef873591bce4d63b912631c5b1fd9e97d49a"
-
-[[files]]
 file = "mods/abnormals-delight.pw.toml"
 hash = "394807520bf9d024ca4ee0cd4f209f718e725c506dd975a76f324771b79203f0"
 metafile = true
@@ -1591,6 +1587,11 @@ metafile = true
 [[files]]
 file = "mods/adorn-for-forge.pw.toml"
 hash = "76fbfe749cdd820d7193c12b50cd6781f0e7547ccd1bddd8c2c399cebe765e2a"
+metafile = true
+
+[[files]]
+file = "mods/advanced-shulkerboxes.pw.toml"
+hash = "e61bea7c5d8970fdfc2b7cb43413ab9aee0665aa47accc701691d5448fcf5843"
 metafile = true
 
 [[files]]
@@ -3189,6 +3190,11 @@ metafile = true
 [[files]]
 file = "mods/xaeroplus.pw.toml"
 hash = "93ff8a1ea011eb5eb13dd8aa73dfd36c10222d90da7fcc037262975632ea66fe"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "71a58baa4d8314fc779ac6a01c68e056338cffd22ce17e2afe5d281584344465"
 metafile = true
 
 [[files]]
