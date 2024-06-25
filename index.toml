@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "CNAME"
+hash = "29070e67059c6a119fa64c324da2d89ce9223ddaa7accff1dbacb537912ccd65"
+
+[[files]]
 file = "config/Adorn.json5"
 hash = "86158f3c7d8edbd86caabc1cda89e5c55668bf270b7791fc813b098c91a1337b"
 
@@ -1473,14 +1477,6 @@ file = "kubejs/client_scripts/tooltips.js"
 hash = "ef67f2d077c69aa6a1499b3e06be9856cbdba5a003ea436e0a908011e587b958"
 
 [[files]]
-file = "kubejs/config/client.properties"
-hash = "bfa911988d6fe625a77251590ee84bd545435ee612f071edfc0b49e385eea56f"
-
-[[files]]
-file = "kubejs/config/common.properties"
-hash = "e96303ff34ec7a1cd0264afdd52da994d18c21683ab58d98aebf58b69f05250a"
-
-[[files]]
 file = "kubejs/data/data.zip"
 hash = "5e03ef5b210d354a05bb9c459d3494cbf0fa14b59a8da53f271f20f62247f14d"
 
@@ -1563,6 +1559,14 @@ hash = "db68b582eb5503002984bd6959d8794fb5371bb312d41194d487f0fd660991fa"
 [[files]]
 file = "mods/CreativeCore_FORGE_v2.11.27_mc1.19.2.jar"
 hash = "4bd2dd4a4cbd73fc92f66529d582c611aa308e96f08de031ccbd01d4cc0f450a"
+
+[[files]]
+file = "mods/EasyShulkerBoxes-v4.4.1-1.19.2-Forge.jar"
+hash = "43aad9042eff4934850b28244df44e539f808e3fa15a41f1304e3c5e7f317e05"
+
+[[files]]
+file = "mods/ReSkin-2.6.1-universal.jar"
+hash = "ee4f25ead996289503649070ed8e63a3452b0e927fe9f03c9e8d823f439ebba4"
 
 [[files]]
 file = "mods/XaerosWorldMap_1.38.8_Forge_1.19.1.jar"
