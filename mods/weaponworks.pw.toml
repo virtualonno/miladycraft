@@ -1,0 +1,13 @@
+name = "Weaponworks"
+filename = "moonsweaponry-1.4.1-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "73e4a6f1bf7428a9187e8ce7c28f65a3ac6ba3ce"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5059344
+project-id = 846682

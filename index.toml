@@ -1546,28 +1546,8 @@ file = "kubejs/startup_scripts/tooltipsApoth.js"
 hash = "4b98b3fefc4eefe6b291dbd908c2a1c4ca588ac479f42b86b202ef275947434b"
 
 [[files]]
-file = "mods/Apothic_Supplementaries-Enchanting-0.1.2.jar"
-hash = "46f4a141e12f177679fb3aa5db1a5538ea8411617e99e9a731011ed5e95f17c3"
-
-[[files]]
-file = "mods/BeeFix-1.19-1.0.7.jar"
-hash = "db68b582eb5503002984bd6959d8794fb5371bb312d41194d487f0fd660991fa"
-
-[[files]]
 file = "mods/CreativeCore_FORGE_v2.11.27_mc1.19.2.jar"
 hash = "4bd2dd4a4cbd73fc92f66529d582c611aa308e96f08de031ccbd01d4cc0f450a"
-
-[[files]]
-file = "mods/EasyShulkerBoxes-v4.4.1-1.19.2-Forge.jar"
-hash = "43aad9042eff4934850b28244df44e539f808e3fa15a41f1304e3c5e7f317e05"
-
-[[files]]
-file = "mods/ReSkin-2.6.1-universal.jar"
-hash = "ee4f25ead996289503649070ed8e63a3452b0e927fe9f03c9e8d823f439ebba4"
-
-[[files]]
-file = "mods/XaerosWorldMap_1.38.8_Forge_1.19.1.jar"
-hash = "27dbf59e4fdaf242470e367ec0c110cf79c5c11849138d422847556d040726be"
 
 [[files]]
 file = "mods/abnormals-delight.pw.toml"
@@ -1637,6 +1617,11 @@ metafile = true
 [[files]]
 file = "mods/apotheosis.pw.toml"
 hash = "16c832bfc074f3b149e6f1704af0b04b3500aa0697d92c2f2310756fc0c41c13"
+metafile = true
+
+[[files]]
+file = "mods/apothic-supplementaries-enchanting.pw.toml"
+hash = "44d341d18e35ab479f0194954a8d7dbb771970c66f4b2e3a0278fbcc81db09e8"
 metafile = true
 
 [[files]]
@@ -1715,6 +1700,11 @@ hash = "9e9c73bdf284108852ccfef81ad0b4597f342c2104cc7bcdb409ecc0bfc3beaf"
 metafile = true
 
 [[files]]
+file = "mods/bad-wither-no-cookie-reloaded.pw.toml"
+hash = "46a52103b23051669421d42a5ce5355180bd1668dc78de38fec3180b784c7a94"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "7b33ce740230efe79e8214a5204694e13b5af7d61e6f40bbffa097a637fd2789"
 metafile = true
@@ -1732,6 +1722,11 @@ metafile = true
 [[files]]
 file = "mods/bedspreads.pw.toml"
 hash = "48045fb4eb7ac952fc71923ecb5ccb2b98752b713ed6165a068769b48e3c1947"
+metafile = true
+
+[[files]]
+file = "mods/bee-fix.pw.toml"
+hash = "8db4b0c6264670aa3073834a121203f460f3b9166d657ab62d78f824b88c3578"
 metafile = true
 
 [[files]]
@@ -1843,10 +1838,6 @@ metafile = true
 file = "mods/buzzier-bees.pw.toml"
 hash = "32620e1840e795720406f70ce61a79c9220540a2161772c84bcae6d16e44bfec"
 metafile = true
-
-[[files]]
-file = "mods/bwncr-forge-1.19.2-3.14.1.jar"
-hash = "ae5e09f7855800f415b85006643dc577c8c7df64bcc32075549357faa4fc9804"
 
 [[files]]
 file = "mods/caelus.pw.toml"
@@ -2078,8 +2069,9 @@ hash = "a755d072163628ead956fa2bc96b6e6d7902f4d0a3a08cf6a71d0f6ff77c091f"
 metafile = true
 
 [[files]]
-file = "mods/desiredservers-forge-1.19.2-1.1.1.jar"
-hash = "e07933f9bfee6f488061a0eb84902644eabf8059722626d6588fa58435ed7512"
+file = "mods/desired-servers.pw.toml"
+hash = "22ed54b0fa491eebc5bcefce200e387c3266104eab0a9e9cc55dae0bc2069064"
+metafile = true
 
 [[files]]
 file = "mods/dimensional-sync-fixes.pw.toml"
@@ -2144,6 +2136,11 @@ metafile = true
 [[files]]
 file = "mods/ears.pw.toml"
 hash = "f3b7dbee54a0265d942a1c9b1ef9f638be688a500b5728959f931a17c9837506"
+metafile = true
+
+[[files]]
+file = "mods/easy-shulker-boxes.pw.toml"
+hash = "610d5ecb5336fcff0fd1af83a98127841c9ac03a66bd7dca1fd9f9a4a3cb7be7"
 metafile = true
 
 [[files]]
@@ -2422,8 +2419,9 @@ hash = "a72633473a4c53ab7c74417cc5fcddea9da48d9c458ce4ea27e51663dba0d53e"
 metafile = true
 
 [[files]]
-file = "mods/itemfig-1.19.2-0.2.7.jar"
-hash = "606aef22f9201fa86f637eca8d1fc5414d9f77774e4be258a002c3747f494bda"
+file = "mods/itemfig.pw.toml"
+hash = "a7efb81f60cf03ae22848734df1e473ea6f91c20dd85d9f0008e41a221c73785"
+metafile = true
 
 [[files]]
 file = "mods/itemzoom.pw.toml"
@@ -2551,8 +2549,9 @@ hash = "8e76039d3e0c46b46765ca3bdcfda44e944a27890c69ece525a05b89a70eea19"
 metafile = true
 
 [[files]]
-file = "mods/lootr-forge-1.19-0.4.26.69.jar"
-hash = "2dedaa1724663f86d35ab27885268fe1cfa6d120aafab249e57b85cd2bdca285"
+file = "mods/lootr.pw.toml"
+hash = "8aea5cb3f20c40711a36a9a25cc58b3ff5315eea9ff3995bd522acab40a18511"
+metafile = true
 
 [[files]]
 file = "mods/loyalty-rewards.pw.toml"
@@ -2605,22 +2604,19 @@ hash = "22884187b6e8fd7766ce57d8511fb8e63f9210cbb5a16334588b59c431a83a84"
 metafile = true
 
 [[files]]
-file = "mods/moonsweaponry-1.4.1-1.19.2.jar"
-hash = "dc9b9c9d6b7a5698f79abf779e00b20a624cfea8a194d50d7bcd456395dc7934"
-
-[[files]]
 file = "mods/more-minecarts.pw.toml"
 hash = "a6a0ba6205d7b957dca0b506c2e2c707cec49e5edf2b6003526ec07d9b39a4f2"
+metafile = true
+
+[[files]]
+file = "mods/more-overlays-updated.pw.toml"
+hash = "97f349cd764e09990ff2306f93783a240ff73ace828a0f83945881ee52d9f29f"
 metafile = true
 
 [[files]]
 file = "mods/morejs.pw.toml"
 hash = "d6b5e3c31b7260eca0cc1d7e6074f26a6ff00d38d508901c1e7851d771c950b3"
 metafile = true
-
-[[files]]
-file = "mods/moreoverlays-1.21.10-mc1.19.2.jar"
-hash = "883baa4556da1c138d590cad6857d8b77095fbb51a97fb93ecd7e5583852f2c9"
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
@@ -2692,8 +2688,9 @@ hash = "73ee72f79f1a08282a46b90023cdb973b6940222339e22222cc5c207880adb5c"
 metafile = true
 
 [[files]]
-file = "mods/notenoughanimations-forge-1.7.4-mc1.19.2.jar"
-hash = "dd470490f09280c8f7a2043cca6f3a812c8e6778b56da1cb58f338792236cb42"
+file = "mods/not-enough-animations.pw.toml"
+hash = "1e4d649f87b3ea1c1406cb6429bc73de379e66f45e1578b90c3a14b16979d21e"
+metafile = true
 
 [[files]]
 file = "mods/notenoughrecipebook.pw.toml"
@@ -2808,6 +2805,11 @@ metafile = true
 [[files]]
 file = "mods/raised.pw.toml"
 hash = "f2caf39d7797e5fcdbbbed7db657c8eb1d52c19a23064258e7ef743f6aceb204"
+metafile = true
+
+[[files]]
+file = "mods/re-skin.pw.toml"
+hash = "7f322ad7931e41ef1465e1930791fd0d53bc2a508d76b7f66931c06ff1e02f60"
 metafile = true
 
 [[files]]
@@ -3135,17 +3137,14 @@ hash = "22b89cf6499edc0eece56bb61aad96cbef49290a25dd96ffa2b6f1d17f12a0db"
 metafile = true
 
 [[files]]
-file = "mods/verdantvibes-1.0.1-1.19.2.jar"
-hash = "7f5ae50988a2e92d03db0824be72a8dc86d2b2d4bde54ccb1a83d38adc88df6b"
+file = "mods/verdantvibes.pw.toml"
+hash = "b22208733b3f88fda09ba5368d59a1c53917bf56611c66bffa9d9dbb25bdfdea"
+metafile = true
 
 [[files]]
 file = "mods/vertical-slabs-compat.pw.toml"
 hash = "0933c751ef107dc173728e8456eca8a03f088e7ccce28233707a37acda8ede5c"
 metafile = true
-
-[[files]]
-file = "mods/voicechat-forge-1.19.2-2.5.15.jar"
-hash = "390baa99ee351a521b5d0663f1401b9f0ce78c28c8dc659c45e76c0fea9281a4"
 
 [[files]]
 file = "mods/wares.pw.toml"
@@ -3170,6 +3169,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "0136dbc530293d8074c4a128fd468acd6d0047e01ba717db9fce876e551cd6b0"
+metafile = true
+
+[[files]]
+file = "mods/weaponworks.pw.toml"
+hash = "3599198e4309f2edf948c34aff9ab8a2e8d5a87b8a1246389964e02ff6a5d983"
 metafile = true
 
 [[files]]
