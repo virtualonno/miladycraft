@@ -1,0 +1,13 @@
+name = "Iron Ender Chests"
+filename = "iron_ender_chests-1.19.2-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c6fc7930516439151bf5c89a6c5ffb7b58a9c972"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4616825
+project-id = 881026

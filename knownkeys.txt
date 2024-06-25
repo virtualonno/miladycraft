@@ -378,3 +378,6 @@ key.parcool.Enable
 key.nbtedit.shortcut
 gui.xaero_pac_key_open_menu
 key.namepain.showCulled
+key.toggleVisualItemContents
+key.toggleSelectedItemTooltips
+key.toggleCarriedItemTooltips

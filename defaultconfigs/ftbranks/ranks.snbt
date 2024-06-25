@@ -3,8 +3,7 @@
 		name: "Member"
 		power: 1
 		condition: "always_active"
-		ftbranks.name_format: "<{name}>"
-		command.skin: false
+		ftbranks.name_format: "{name}"
 		command.tpa: false
 		command.tpahere: false
 		command.trashcan: false
@@ -53,20 +52,20 @@
 		command.flan.sellBlocks: false
 		command.flan.teleport: false
 		command.flan.unlockDrops: false
-		command.spawnpoint: false	
+		command.spawnpoint: false
 		command.restore.args: false
 		command.ts: false
 	}
 	vip: {
 		name: "VIP"
 		power: 50
-		ftbranks.name_format: "<&bVIP {name}&r>"
+		ftbranks.name_format: "&bVIP {name}"
 	}
 	admin: {
 		name: "Admin"
 		power: 1000
 		condition: "op"
-		ftbranks.name_format: "<&2{name}&r>"
+		ftbranks.name_format: "&2{name}"
 		command.tpa: true
 		command.tpahere: true
 		command.trashcan: true
