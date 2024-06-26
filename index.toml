@@ -979,10 +979,12 @@ hash = "b8215b84232be41438ffb7c7304b57b0677c9cad49b717db59900872080adf20"
 [[files]]
 file = "config/voicechat/voicechat-client.properties"
 hash = "65feaafa2a3e994aa07621d740f87c2debeb6c36935364df58b9d408983d64b3"
+preserve = true
 
 [[files]]
 file = "config/voicechat/voicechat-volumes.properties"
 hash = "58242ef3075b166845e0081281b01113a55b9d095104a68b167e7b4bc08b87c5"
+preserve = true
 
 [[files]]
 file = "config/wares-client.toml"
