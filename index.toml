@@ -42,7 +42,7 @@ hash = "c23b5c3024f44c8d67e4837246c32dedd3272b3d1a450405298984ae063c7e8d"
 
 [[files]]
 file = "config/alexsmobs.toml"
-hash = "fb58e4a4af1c8b77dc2365e4a2925f4baec6b80a17875886e09a2cf8fafd867c"
+hash = "a1bf7fd968fdb0ee6f671fe8d7999e64330cd3f5263e228aab085a457b77736c"
 
 [[files]]
 file = "config/allurement-client.toml"
@@ -114,7 +114,7 @@ hash = "5037ca2cdb2b59be4952bca85bf8dc0160d6fb7e3c4beca88e5b142f68962c68"
 
 [[files]]
 file = "config/badmobs-common.toml"
-hash = "18cec2e3eee208a21b3ebb6550286b1c6a4fa898a11205e8055a34756d0a4c43"
+hash = "53ce80b00d621ac833a1af8894105379ddf260ab158e6bc5ce4448ed49f9bcb4"
 
 [[files]]
 file = "config/bcc-common.toml"
@@ -147,6 +147,14 @@ hash = "ea41124fc9bd72eccd324212e21372e969367430cedbc20662073351f00120f6"
 [[files]]
 file = "config/bettercombat/server.json5"
 hash = "18c786159db22e0ab059b4acabd9135edaac938cca8b121849dd0342b030882e"
+
+[[files]]
+file = "config/betterdays-client.toml"
+hash = "23c83d21ba514f9dd1aed6a7d4641c1fe0ed48c5a46ce6f802182cce616626f4"
+
+[[files]]
+file = "config/betterdays-common.toml"
+hash = "257165902eb753b051e563d529e8f9c82abfe8a09196a9efbdc25e8fe5b8c6b9"
 
 [[files]]
 file = "config/betterinvisibility-common.toml"
@@ -894,7 +902,7 @@ hash = "fc82402c60a55e35bd1f4bac432015ae48cef8e14d91773ae388bcad6ba30cfc"
 
 [[files]]
 file = "config/staaaaaaaaaaaack-common.toml"
-hash = "837aeae27af7f9fa07f041a16d21ee070c251a87a7aa63cc0353b6e30a05fbee"
+hash = "fffac228822e2a56363702ecf48ef5dbb7bde9b93295e7748dbb06041949ef50"
 
 [[files]]
 file = "config/strongersnowballs.json"
@@ -1772,6 +1780,11 @@ metafile = true
 [[files]]
 file = "mods/better-totem-of-undying.pw.toml"
 hash = "32e0603ac549293afe51689f1814c9c85268d945f08f32c378ea1e2b5efcfb8a"
+metafile = true
+
+[[files]]
+file = "mods/betterdays.pw.toml"
+hash = "83957cb79d4e5ed318b7e6c0bef8f9117f5b2f6b6cb01bbf6ae06697407c2a92"
 metafile = true
 
 [[files]]
@@ -3068,11 +3081,6 @@ metafile = true
 [[files]]
 file = "mods/theobsidianboat.pw.toml"
 hash = "92b25cd2a2334a0d5e7fe738c111daac3d48bfb0e1b6ddc1a76f5ab2d67d983e"
-metafile = true
-
-[[files]]
-file = "mods/time-control.pw.toml"
-hash = "27f1978f33e3942676bc2ec1bf3f5ee5151821f7cf61aae0048404eab01f7177"
 metafile = true
 
 [[files]]
