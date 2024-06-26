@@ -722,7 +722,7 @@ hash = "02a9d6528d530723ac016120ef5a134bc8b6f6d653ba6eb3c59295e849042f84"
 
 [[files]]
 file = "config/packmenu.cfg"
-hash = "fc67d0d4dc4ab5f6cc815e4e23b71980e54451cd91f5d3779e8fd2e3b7e877cc"
+hash = "712cc8d89db3481d6adf33b6674078637e858703417bcf6f0cc725edf9698587"
 
 [[files]]
 file = "config/parcool-client.toml"
@@ -3224,44 +3224,8 @@ hash = "9f3b970cabdfea3d52242117a789fbb5a52648a5887ffc0612acb696ea918a48"
 preserve = true
 
 [[files]]
-file = "packmenu/buttons/guide.json"
-hash = "60035ac9dc97f99400e2eee2b2a91598e40a30b656c785aba225c6458563ad54"
-
-[[files]]
-file = "packmenu/buttons/mods.json"
-hash = "01bcf173a80772c6cc2a80ec9727d8e019bc9229bb778dca4b04d09ba88b7e6b"
-
-[[files]]
-file = "packmenu/buttons/multiplayer.json"
-hash = "e1ae3e0c986cd28e777cdcc59135cc54423a0bb8f253c361f0f4d8d8d946b2ce"
-
-[[files]]
-file = "packmenu/buttons/options.json"
-hash = "b7917f8fa3fe2fe66355d415bf2fab6284bf31923d92f7fc4a6d9c8abb7346e9"
-
-[[files]]
-file = "packmenu/buttons/quit.json"
-hash = "e4acd7f4086fb748d70cf099f0776349dbaf7a7000b5e639cf786932f4300381"
-
-[[files]]
-file = "packmenu/buttons/singleplayer.json"
-hash = "de47792809583e07ae8b3f24b0cf2d906f8e03813f33a234744dfdf34c1d41d1"
-
-[[files]]
-file = "packmenu/lang/en_us.json"
-hash = "99e04c93e361350f6fd49618bb049219e7a54ef20c5a1113a74ead353c44f313"
-
-[[files]]
-file = "packmenu/texts/supporters.txt"
-hash = "a930d6ba2229ffdaf7768a063165cf8d3b5ca7bb5e6ef5e65b0ddc49be237833"
-
-[[files]]
-file = "packmenu/textures/gui/guidebutton.png"
-hash = "c56a73e7e11f8ef59c19f6f4d120e86589c6f3c8e45953405335637c581f6a7a"
-
-[[files]]
-file = "packmenu/textures/gui/widgets.png"
-hash = "caaefbe599aca9f2c93b122ea08c013664ea178056faec5da86f6eb034bb6a62"
+file = "packmenu/resources.zip"
+hash = "be8701baa140ddf59d7bf66f61172144e55147eb6f89d94d6bb3e3569801f807"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.2.1 + EuphoriaPatches_1.3.1.zip"
