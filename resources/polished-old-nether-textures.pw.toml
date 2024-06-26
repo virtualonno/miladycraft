@@ -1,0 +1,13 @@
+name = "Polished Old Nether Textures"
+filename = "Polished Old Nether Textures.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c3e75b06b1ffb7002ea89c428c0dab77bbb77420"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5209189
+project-id = 835606

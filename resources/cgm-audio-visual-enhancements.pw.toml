@@ -1,0 +1,13 @@
+name = "CGM Audio/Visual Enhancements"
+filename = "CGM_AVE_v1.3.1_1.19.2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "19a03553ff0cfc4023d18e66c80c3638e5efae32"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5288675
+project-id = 850118

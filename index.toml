@@ -3225,6 +3225,21 @@ hash = "8fe58cbf1d128af0e210ee74dd21883a6c35ac0023c9605ae9646a29c03efd8a"
 metafile = true
 
 [[files]]
+file = "mods_og/citadel.pw.toml"
+hash = "36b059a08858d8a67c051da3ef5dbaf71787482156521c37c8284a36230e6bcd"
+metafile = true
+
+[[files]]
+file = "mods_og/moyai.pw.toml"
+hash = "71c7cf0ece2bd58b72dd45cae490fab2b997c9f08460797bc04a1b6c20db9be1"
+metafile = true
+
+[[files]]
+file = "mods_og/savage-and-ravage.pw.toml"
+hash = "0c4f398645a0fdbe74cd7204efafe1348c448170dab1e007e1d00d8a832e63f5"
+metafile = true
+
+[[files]]
 file = "options.txt"
 hash = "9f3b970cabdfea3d52242117a789fbb5a52648a5887ffc0612acb696ea918a48"
 preserve = true
@@ -3232,6 +3247,36 @@ preserve = true
 [[files]]
 file = "packmenu/resources.zip"
 hash = "be8701baa140ddf59d7bf66f61172144e55147eb6f89d94d6bb3e3569801f807"
+
+[[files]]
+file = "resources/balanced-music.pw.toml"
+hash = "87b84c1342639d14cb0d89ad1aa7ba932aa5c766c5adde3d073ab8c565f7b435"
+metafile = true
+
+[[files]]
+file = "resources/cgm-audio-visual-enhancements.pw.toml"
+hash = "13bc2ced74d21cfabb2e46276bae18e4f48051df1015a1b8a8927fd95fd07970"
+metafile = true
+
+[[files]]
+file = "resources/gui-retextures.pw.toml"
+hash = "a3dd7cb3db1efb7657920bffb656d620af2e466750563d8fb6395fed4a69cd0e"
+metafile = true
+
+[[files]]
+file = "resources/parcool-refurbishment.pw.toml"
+hash = "02cdf5c6c5a6e781f8fcf8dabd2abc31f5f0d86d18ed6e96a652dcf2a8971b67"
+metafile = true
+
+[[files]]
+file = "resources/polished-old-nether-textures.pw.toml"
+hash = "310a6adaae28470d66c7fb5e260cb5c451dc27d99b553bcbd713c282aebcf94b"
+metafile = true
+
+[[files]]
+file = "resources/stormilla.pw.toml"
+hash = "120926b429db3b1a22391e9e44916bfbdd7d7633d542c2f00a50d60b81a6a738"
+metafile = true
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.2.1 + EuphoriaPatches_1.3.1.zip"

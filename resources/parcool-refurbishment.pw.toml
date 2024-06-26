@@ -1,0 +1,13 @@
+name = "| Parcool Refurbishment |"
+filename = "Parcool Refurbishment V1.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "962f777b43c0295fb02d92388ed622c31dcc09e9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5274667
+project-id = 1005894
