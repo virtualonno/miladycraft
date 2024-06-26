@@ -150,7 +150,7 @@ hash = "18c786159db22e0ab059b4acabd9135edaac938cca8b121849dd0342b030882e"
 
 [[files]]
 file = "config/betterdays-client.toml"
-hash = "23c83d21ba514f9dd1aed6a7d4641c1fe0ed48c5a46ce6f802182cce616626f4"
+hash = "e432cca037fd6abb164b2bf05edddc539bfaae4947f940c1537df9df02926dd1"
 
 [[files]]
 file = "config/betterdays-common.toml"
@@ -935,10 +935,6 @@ hash = "43d2d4dd938e4f286811c5358eac7813adae5e514fb4362fa30b63a1a5a02071"
 [[files]]
 file = "config/terrablender.toml"
 hash = "59d79e8bc4a42e678196a7164e5841a9803f8684f1b52b9944ce554c9f353691"
-
-[[files]]
-file = "config/timecontrol-common.toml"
-hash = "e6b0de8263420c9c5e2eedb1694da28bb65beaeca3570875073e02fb54f5a190"
 
 [[files]]
 file = "config/tips.json"
