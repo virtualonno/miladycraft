@@ -806,7 +806,7 @@ hash = "28fab7d299148211917283c63678eac0a680dd710193f304ea7de92f34118459"
 
 [[files]]
 file = "config/serializationisbad.json"
-hash = "a7f5083dc6d5462e02ecf5237861df29e829aacaf3920388e4b9ce8036ba3834"
+hash = "53784981469d3944fb0a26e4739882907e3304f0885eda5a56b0ba7d36622b81"
 
 [[files]]
 file = "config/shouldersurfing-client.toml"
