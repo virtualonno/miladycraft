@@ -1,13 +1,13 @@
 name = "Emotecraft (Forge)"
-filename = "emotecraft-for-MC1.19.2-2.2.7-b.build.48-forge.jar"
+filename = "emotecraft-for-MC1.19.2-2.2.7-b.build.50-forge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e6f0bc38871bc167b79f510bbe5f4fa98b40d918"
+hash = "320ac872a8d33bc90d74ff06dee3ae96ae21a698"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4455301
+file-id = 4632464
 project-id = 403422
