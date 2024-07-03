@@ -1560,10 +1560,6 @@ file = "mods/BeeFix-1.19-1.0.7.jar"
 hash = "db68b582eb5503002984bd6959d8794fb5371bb312d41194d487f0fd660991fa"
 
 [[files]]
-file = "mods/CreativeCore_FORGE_v2.11.27_mc1.19.2.jar"
-hash = "4bd2dd4a4cbd73fc92f66529d582c611aa308e96f08de031ccbd01d4cc0f450a"
-
-[[files]]
 file = "mods/abnormals-delight.pw.toml"
 hash = "394807520bf9d024ca4ee0cd4f209f718e725c506dd975a76f324771b79203f0"
 metafile = true
@@ -3095,11 +3091,6 @@ hash = "8ff48d18f2fbe8df674dcd79aabcece27808667c270401b06ac10c97d7552990"
 metafile = true
 
 [[files]]
-file = "mods/toms-storage.pw.toml"
-hash = "176b9a9774021afbbb5443cec245787e5c77895713d16360f17cfb01aac6d09f"
-metafile = true
-
-[[files]]
 file = "mods/trade-cycling.pw.toml"
 hash = "929b40bb5054412a8130245eb94f214322e0310e962937b31710798551f0d1b4"
 metafile = true
@@ -3157,16 +3148,6 @@ metafile = true
 [[files]]
 file = "mods/wares.pw.toml"
 hash = "06e36e839fc28dc3185736883546b927d2ddbc7f17dba2c679a01bcab7585b7b"
-metafile = true
-
-[[files]]
-file = "mods/waterframes.pw.toml"
-hash = "7266006c40297393179114e43cd0975131228297061d46dc2c1f89c7ec2ec4bc"
-metafile = true
-
-[[files]]
-file = "mods/watermedia.pw.toml"
-hash = "d3c77ec5c9474a605df10b1b4ea446a16dd82bcc7311752c6815a75dfec6224b"
 metafile = true
 
 [[files]]
