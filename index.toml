@@ -753,6 +753,14 @@ file = "config/paxi/resourcepacks/Miladycraft_resources.zip"
 hash = "01bb7c734e3091eec44a962bb3fc2b54552804f1941fdd3a26bf8e05ef29382c"
 
 [[files]]
+file = "config/paxi/resourcepacks/Remilia_Ball_resources.zip"
+hash = "d93a5f7503644265e14551004941e0bc8ffea1d0a84440f919bc750ce848be9f"
+
+[[files]]
+file = "config/paxi/resourcepacks/resourcepack_load_order.json"
+hash = "d37a42b279982c68b4369978e89bb1cc0adb2c817570463d74653433f6875f1f"
+
+[[files]]
 file = "config/performant-common.toml"
 hash = "355c362de87654c698040ea84b93d229b7964d2b4586abb4bab6048691400c7c"
 
