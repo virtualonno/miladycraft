@@ -2756,11 +2756,6 @@ hash = "b8289eda3b364984616b03a3025bce47ecef2a7b70c8bdb1393311aa5ccf7ae0"
 metafile = true
 
 [[files]]
-file = "mods/passthrough-signs.pw.toml"
-hash = "fbae23d039f27eba2c1c458c8ff20fbfea662234a0039f8bc18bb56b6c86e538"
-metafile = true
-
-[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "e0cbe5dbdbece52f9471e318cabec09569b95c35ed72e568b015e2d9c5d3c9dc"
 metafile = true
