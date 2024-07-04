@@ -750,11 +750,7 @@ hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
 file = "config/paxi/resourcepacks/Miladycraft_resources.zip"
-hash = "01bb7c734e3091eec44a962bb3fc2b54552804f1941fdd3a26bf8e05ef29382c"
-
-[[files]]
-file = "config/paxi/resourcepacks/Remilia_Ball_resources.zip"
-hash = "d93a5f7503644265e14551004941e0bc8ffea1d0a84440f919bc750ce848be9f"
+hash = "100d21db26f14e89ecdf207c420ab4cec7efd9e72a17a2c5f85e2aad468280c2"
 
 [[files]]
 file = "config/paxi/resourcepacks/resourcepack_load_order.json"
@@ -1904,7 +1900,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "45bc4a2307ffe3dba376507ed39099fdd244ee1cab7ec1966dedeec1098a0d0c"
+hash = "68b40f7eaa1eaf8cbc0753477f2ec84ba7a59f67f66b47362cefcd3e21804fdb"
 metafile = true
 
 [[files]]
@@ -2053,7 +2049,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "4de1820ba124b4c7e86396baf68401fc7355c0c78fd861ccbed0971aced2a711"
+hash = "5f25fc7780b589577a825f8e5f3063eda67c6057052f76054bd7620901a67ea6"
 metafile = true
 
 [[files]]
@@ -2208,7 +2204,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "e9d6fa02d9b312fb800706377d2dec874230c670239cbb439130989c8d8f36db"
+hash = "91c7e72ed4c13c180e8382f8d446fa4e0171c9c3ecb14a0b56abc46db7dc0eb8"
 metafile = true
 
 [[files]]
@@ -2378,7 +2374,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-melodies.pw.toml"
-hash = "1a4c16bdab9c4599df9e2e53e1d896be758c9d97dd66940c734e537e04f60bca"
+hash = "e7ff55d0ece553753dd2d8aa23d1da2d1fa4f584b72585cb1f1354c1e0f36791"
 metafile = true
 
 [[files]]
@@ -2404,6 +2400,11 @@ metafile = true
 [[files]]
 file = "mods/inventory-essentials.pw.toml"
 hash = "f2867509698d96d317f31b90f59ab4a119d1beb76f5d12a6a072cd7a2a64b19d"
+metafile = true
+
+[[files]]
+file = "mods/iron-chests.pw.toml"
+hash = "755a8345636199e68830426bb03873a2395517d719c82dfb9a349d09fe970ea9"
 metafile = true
 
 [[files]]
@@ -2785,6 +2786,11 @@ hash = "34eaa62a613a766bd8369cc85683bb679014cbcb5852bccbb94ea8bcd993b5e4"
 metafile = true
 
 [[files]]
+file = "mods/pipez.pw.toml"
+hash = "28ed3256ab3035b004b346724b7bb6e01bbde8f9056810afdc447173abfc4838"
+metafile = true
+
+[[files]]
 file = "mods/placebo.pw.toml"
 hash = "eb6b168caf4f8b9f3e501e97caaa61d207ab83d6328ce2f4960c4003eca73e90"
 metafile = true
@@ -2955,7 +2961,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "146df1244be895d312f283ae27292926c10ec3bef9c4b4bdf5f357429109b9d3"
+hash = "cddc756c2cdf869105bea42f889a92e18b15019b33df841e88b90f2283bb64bb"
 metafile = true
 
 [[files]]
@@ -3260,6 +3266,11 @@ metafile = true
 [[files]]
 file = "resources/parcool-refurbishment.pw.toml"
 hash = "02cdf5c6c5a6e781f8fcf8dabd2abc31f5f0d86d18ed6e96a652dcf2a8971b67"
+metafile = true
+
+[[files]]
+file = "resources/pipez-recreated.pw.toml"
+hash = "b4740a5da318472e2f1f4f74fa4933aee864c75784554b11eddb0ad7b8268627"
 metafile = true
 
 [[files]]
