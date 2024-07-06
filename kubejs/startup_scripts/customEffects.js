@@ -1,4 +1,4 @@
-//const $EntityDamageSource = Java.loadClass(`net.minecraft.world.damagesource.EntityDamageSource`);
+let $DamageSource = Java.loadClass(`net.minecraft.world.damagesource.DamageSource`);
 
 
  
@@ -38,8 +38,21 @@ StartupEvents.registry('mob_effect', event => {
         .modifyAttribute('minecraft:generic.attack_damage', 'a9987386-5d18-4b4f-80e5-b7ab59cde738', -0.5, "multiply_total")
         //.modifyAttribute('apotheosis:arrow_damage', 'f3beb4f1-a4a1-4f2b-b7f1-5ef0ecb1dceb', -0.5, "multiply_total")
         .harmful();
+    
+    event.create('fated_death')
+    .color(0xffffff)
+    .effectTick((entity) => global.fatedDeathEffect(entity))
+    .harmful();
 
 })
+
+let fatedDeathSource = new $DamageSource('fated_death')
+
+global.fatedDeathEffect = (entity) => {
+
+   if (entity.level.clientSide) return;
+   entity.attack(fatedDeathSource, 9999);
+}
 
 
 // VIRAL PUBLIC LICENSE

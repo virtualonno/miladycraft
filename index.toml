@@ -1465,7 +1465,7 @@ hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
 [[files]]
 file = "kubejs/assets/assets.zip"
-hash = "3c94f0290446f5b7220443ade5d1fd7644d47a8ce00d4ff26922770c563db559"
+hash = "f009739233a236dd30e44b71a83fd2aff7737446460fb72b98c19aadcd9993f3"
 
 [[files]]
 file = "kubejs/client_scripts/JEIEvents.js"
@@ -1485,7 +1485,7 @@ hash = "ef67f2d077c69aa6a1499b3e06be9856cbdba5a003ea436e0a908011e587b958"
 
 [[files]]
 file = "kubejs/data/data.zip"
-hash = "5e03ef5b210d354a05bb9c459d3494cbf0fa14b59a8da53f271f20f62247f14d"
+hash = "17199bcbf4b043dae08b3ebac06c5bd2c6c5376b0f2af9bb9dbfd567509dbc36"
 
 [[files]]
 file = "kubejs/startup_scripts/apothRightClick.js"
@@ -1509,7 +1509,7 @@ hash = "c00ddd880984164e8a92161ef3ee8560e149321ab0ed1b520dfa3f5a18fba5f3"
 
 [[files]]
 file = "kubejs/startup_scripts/customEffects.js"
-hash = "34714aa9b01432fcce5ff16e3ffd80c6e6844cc25ce38f66a1c8a457c08cdf00"
+hash = "98550ce40ddb6ca3b114a31fd54c8286cc7a0d7f308f4dd193177c3c8a8cf976"
 
 [[files]]
 file = "kubejs/startup_scripts/customItems.js"
@@ -1538,10 +1538,6 @@ hash = "6cc15655cecbd32aae124a1b76038c0af33b31cc11f33491242323ae17774c70"
 [[files]]
 file = "kubejs/startup_scripts/milkImmunity.js"
 hash = "06b3cf6baa4f0df5b25b2201ab06f7db8a37b6765199f250331a6ea844b205db"
-
-[[files]]
-file = "kubejs/startup_scripts/missingMappings.js"
-hash = "f8f47c8c0d3027da7ef9435d782b3dd383b6cb354fac64b939ba18bee06f2ce9"
 
 [[files]]
 file = "kubejs/startup_scripts/petEnchantmentClear.js"
@@ -2419,7 +2415,7 @@ metafile = true
 
 [[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
-hash = "10bfebf88442fab7267189c3b76c5d8315d13ff7093d5a1ab3505f67e74ea931"
+hash = "18a4c33ffc48aa2693a0250762a7d1e31e2ec5d6b9f16c31a775880fe3c73057"
 metafile = true
 
 [[files]]
@@ -2798,6 +2794,11 @@ metafile = true
 [[files]]
 file = "mods/pollen.pw.toml"
 hash = "ae6d9d8911efa59aaa1cddfc8fae86fd7937bb898784c14c17e3dd60ed4b7283"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "54354cd6d8be8506d56a928a311ac3ee7f88c46fcf9afe95c4a279ff519cad36"
 metafile = true
 
 [[files]]
@@ -3196,7 +3197,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "93ff8a1ea011eb5eb13dd8aa73dfd36c10222d90da7fcc037262975632ea66fe"
+hash = "1eaa510ab163bfcf532c9c86607bd0c676e3cba914d8900286c4c40549869563"
 metafile = true
 
 [[files]]
