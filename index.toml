@@ -2827,11 +2827,6 @@ hash = "f2caf39d7797e5fcdbbbed7db657c8eb1d52c19a23064258e7ef743f6aceb204"
 metafile = true
 
 [[files]]
-file = "mods/re-skin.pw.toml"
-hash = "7f322ad7931e41ef1465e1930791fd0d53bc2a508d76b7f66931c06ff1e02f60"
-metafile = true
-
-[[files]]
 file = "mods/rebind-narrator.pw.toml"
 hash = "e87e1681c59a88f9f6bc4c022f3ddadbece3a2557d01e7615d97e9da989c9f83"
 metafile = true
@@ -2893,11 +2888,6 @@ metafile = true
 [[files]]
 file = "mods/seasonals.pw.toml"
 hash = "0203b4d9cbb5601d8b9a967aeefc3f4ec344e8fdabb8fc8b959c2ce7ead9aab2"
-metafile = true
-
-[[files]]
-file = "mods/sekclib.pw.toml"
-hash = "0319d0c6881bc92adc329da1849a200f296cbc4adeae1dd15bf8aa007d2515ff"
 metafile = true
 
 [[files]]
