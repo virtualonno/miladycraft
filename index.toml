@@ -885,14 +885,6 @@ file = "config/snowyspirit-common.toml"
 hash = "629a0de32a4f67da0bdfbbfeca98fe7a204dcea35184b736edfced559c77a319"
 
 [[files]]
-file = "config/sodium-extra-options.json"
-hash = "7c45fd9f38483b97656114b1c9bca864f2da250df742dbe71da535a183177956"
-
-[[files]]
-file = "config/sodium-extra.properties"
-hash = "4c871bb1daba8be13048e294b1fa92b28f26e3227ab6bb4112eaf83eb93a5362"
-
-[[files]]
 file = "config/sootychimneys-common.toml"
 hash = "d39d3641850b488a6b31a93c5ce1088d9184aa734272ab57e188085967881125"
 
@@ -2864,11 +2856,6 @@ metafile = true
 [[files]]
 file = "mods/rrls.pw.toml"
 hash = "83eda896132f7ff69ab57e156fe00f913bea3a4fcb739791878516468a116bc0"
-metafile = true
-
-[[files]]
-file = "mods/rubidium-extra.pw.toml"
-hash = "29e5b37522eee968368d1a638b3c2aab49c8e04306d80386a2e186403d744572"
 metafile = true
 
 [[files]]
