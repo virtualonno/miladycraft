@@ -890,7 +890,7 @@ hash = "7c45fd9f38483b97656114b1c9bca864f2da250df742dbe71da535a183177956"
 
 [[files]]
 file = "config/sodium-extra.properties"
-hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
+hash = "127d38ab59a40c452cede9172595fe26934bd50920a5ce65e1b076bf5c1addfc"
 
 [[files]]
 file = "config/sootychimneys-common.toml"
