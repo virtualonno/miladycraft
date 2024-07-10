@@ -1768,7 +1768,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterdays.pw.toml"
-hash = "db4de5db092cf1896b9e19cd5872a2ca0a797f7e41cc172ab6c104c33c3cb771"
+hash = "d142df1db719158fbd3125c1cf0c4c1eaa4fba8d73765c79eff866bac60abaae"
 metafile = true
 
 [[files]]
@@ -1888,7 +1888,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "68b40f7eaa1eaf8cbc0753477f2ec84ba7a59f67f66b47362cefcd3e21804fdb"
+hash = "16ed2b40714f90df2f9e72da4b9303a51e2caecaf363a0120795c61fbc82b2ba"
 metafile = true
 
 [[files]]
@@ -2167,7 +2167,7 @@ metafile = true
 
 [[files]]
 file = "mods/ends-delight.pw.toml"
-hash = "e1181ed68fea5443f8c64452180aa1e96736155434d1cba3f485d6c800e6ba97"
+hash = "8e2bc73a1bc8dfde0a9b6305536e189c9c7ba4d1142e42d293139de11fb676ba"
 metafile = true
 
 [[files]]
@@ -2769,11 +2769,6 @@ hash = "34eaa62a613a766bd8369cc85683bb679014cbcb5852bccbb94ea8bcd993b5e4"
 metafile = true
 
 [[files]]
-file = "mods/pipez.pw.toml"
-hash = "28ed3256ab3035b004b346724b7bb6e01bbde8f9056810afdc447173abfc4838"
-metafile = true
-
-[[files]]
 file = "mods/placebo.pw.toml"
 hash = "eb6b168caf4f8b9f3e501e97caaa61d207ab83d6328ce2f4960c4003eca73e90"
 metafile = true
@@ -2934,7 +2929,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "cddc756c2cdf869105bea42f889a92e18b15019b33df841e88b90f2283bb64bb"
+hash = "8ead8c45d35a0018613dc675c7e11700ff777aa7c289c3d8f868de51dee01553"
 metafile = true
 
 [[files]]
@@ -3174,7 +3169,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "1eaa510ab163bfcf532c9c86607bd0c676e3cba914d8900286c4c40549869563"
+hash = "58e6181f67bea2e53b93339f2187f97d3cbca078b5f3c0cb863b3f30c413914a"
 metafile = true
 
 [[files]]
