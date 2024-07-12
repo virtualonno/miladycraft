@@ -4,7 +4,7 @@
 	#Range: 1 ~ 20
 	"Set Health" = 1
 	#When Totem of Undying is used it removes all previous effects you had. If set to false, it will keep all the effects you had before using the totem. DEFAULT: TRUE
-	"Remove All Effects" = true
+	"Remove All Effects" = false
 
 	["Minecraft Default Totem Features".Effects]
 		#If false Totem of Undying will not give you fire resistance effect. DEFAULT: TRUE

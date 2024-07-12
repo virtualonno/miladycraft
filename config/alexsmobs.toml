@@ -1,7 +1,7 @@
 
 [general]
 	#Whether all players should get an Animal Dictionary when joining the world for the first time.
-	giveBookOnStartup = true
+	giveBookOnStartup = false
 	#Lava Opacity for the Lava Vision Potion.
 	#Range: 0.01 ~ 1.0
 	lavaVisionOpacity = 0.65
@@ -27,9 +27,9 @@
 	#Whether bone serpents are neutral or hostile.
 	neutralBoneSerpents = false
 	#Whether mimicubes spawns should be restricted solely to the end city structure or to whatever biome is specified in their respective biome config.
-	mimicubeSpawnInEndCity = true
+	mimicubeSpawnInEndCity = false
 	#Whether mimicream can be used to duplicate items.
-	mimicreamRepair = true
+	mimicreamRepair = false
 	#Blacklist for items that mimicream cannot make a copy of. Ex: "minecraft:stone_sword", "alexsmobs:blood_sprayer"
 	mimicreamBlacklist = ["alexsmobs:blood_sprayer", "alexsmobs:hemolymph_blaster"]
 	#Whether wild raccoons steal food from chests.
@@ -67,16 +67,16 @@
 	cachalotVolume = 3.0
 	#Percent chance for fungus to grow per each leaf a leafcutter ant returns to the colony.
 	#Range: 0.0 ~ 1.0
-	leafcutterAntFungusGrowChance = 0.3
+	leafcutterAntFungusGrowChance = 0.0
 	#How many feedings of leaves does a leafcutter colony need in order to regain a worker ant, if below half the max members.
 	#Range: 2 ~ 100000
-	leafcutterAntRepopulateFeedings = 25
+	leafcutterAntRepopulateFeedings = 100000
 	#Max number of ant entities allowed inside a leafcutter anthill.
 	#Range: 2 ~ 100000
-	leafcutterAntColonySize = 10
+	leafcutterAntColonySize = 2
 	#Percent chance for leafcutter ants to break leaves blocks when harvesting. Set to zero so that they can not break any blocks.
 	#Range: 0.0 ~ 1.0
-	leafcutterAntBreakLeavesChance = 0.2
+	leafcutterAntBreakLeavesChance = 0.0
 	#Makes eagles teleport back to their owner if they get stuck during controlled flight. Useful for when playing with the Optifine mod, since this mod is the fault of many issues with the falconry system.
 	falconryTeleportsBack = false
 	#Makes Tarantula Hawks fireproof, perfect if you also want these guys to spawn in the nether.
