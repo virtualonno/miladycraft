@@ -686,7 +686,7 @@ hash = "43283271341e370d8976cbe328fdf5f88d1e24e44f22ac50f740cb432b13e790"
 
 [[files]]
 file = "config/desiredservers/desiredservers.json"
-hash = "4f9b6476f46f38462d157cb8506ec251dccc6a0d4412c83c95037731d41e1a83"
+hash = "c0be9958093639974ba461bd6e30453a42cc34b7fd969c7c8714e5d5a93b19ca"
 
 [[files]]
 file = "config/distinguishedpotions-client.toml"
