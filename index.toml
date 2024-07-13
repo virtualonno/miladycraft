@@ -1098,7 +1098,7 @@ hash = "5a917dceadc497949f2d716b27535d3c08ea8083fe6664af9b6781f604d9aca3"
 
 [[files]]
 file = "config/paxi/resourcepacks/Miladycraft_resources.zip"
-hash = "100d21db26f14e89ecdf207c420ab4cec7efd9e72a17a2c5f85e2aad468280c2"
+hash = "a6e655e8a4490b116ca9ec05731645ee7e314cb33c141690985bc3bc9b936a45"
 
 [[files]]
 file = "config/personality-client.toml"
