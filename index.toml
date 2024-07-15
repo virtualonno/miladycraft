@@ -1918,16 +1918,6 @@ hash = "5027e636c5597808d5dd8ee0c6b95ffe60eedc5f28f37997e3bd1d8320fc5f84"
 metafile = true
 
 [[files]]
-file = "mods/alexs-delight.pw.toml"
-hash = "516e8eba75da9ad192bf8122c4edaf6bacd5fa90b4f89495e2d261d92851ba29"
-metafile = true
-
-[[files]]
-file = "mods/alexsmobfix.pw.toml"
-hash = "4827564440919ffdd32d93207eb1688f4f2cab666ac1be27056e6271c7d47e09"
-metafile = true
-
-[[files]]
 file = "mods/allay-in-a-bottle.pw.toml"
 hash = "c22b0ecf8a4ee51d784dcaaf98e73e4374eaebb5ee1ef470a993aabd783c6855"
 metafile = true
