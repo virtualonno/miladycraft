@@ -1923,11 +1923,6 @@ hash = "516e8eba75da9ad192bf8122c4edaf6bacd5fa90b4f89495e2d261d92851ba29"
 metafile = true
 
 [[files]]
-file = "mods/alexs-mobs.pw.toml"
-hash = "db28449fb57fcd2607019fa7cefb558d13df13937b44298b732d44bac0e32e96"
-metafile = true
-
-[[files]]
 file = "mods/alexsmobfix.pw.toml"
 hash = "4827564440919ffdd32d93207eb1688f4f2cab666ac1be27056e6271c7d47e09"
 metafile = true
