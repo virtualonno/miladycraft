@@ -2184,7 +2184,7 @@ metafile = true
 
 [[files]]
 file = "mods/camera-mod.pw.toml"
-hash = "291b892286c3cc34bcded23d41dfd0edfb50b3087420474b11c56fb65669e400"
+hash = "c222caa6a554742e99113f297a8a60e7ecac553568bf30b10b23f3bdeddcefab"
 metafile = true
 
 [[files]]
@@ -2782,13 +2782,8 @@ hash = "2857b1737b8debe4430c17f7f4fe75901710d9ddf5dc946777c6e8f219d595ed"
 metafile = true
 
 [[files]]
-file = "mods/japanese-vibes.pw.toml"
-hash = "a79e5ff85bf70226ffefae655b35410fd365b2dd9cca9c98c3f0958a4f6d550a"
-metafile = true
-
-[[files]]
 file = "mods/jei.pw.toml"
-hash = "e091341bf6ba7eed6700d6997c364bd5293ecbfefe37fea9a84bb725f59318b0"
+hash = "cfbd6fe899bc2d9b06df9d5c56fe63a44a7e80944c43cbddcb2bd28df223afe4"
 metafile = true
 
 [[files]]
@@ -3505,7 +3500,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "58e6181f67bea2e53b93339f2187f97d3cbca078b5f3c0cb863b3f30c413914a"
+hash = "6d1371fa620ae413ae0e57471ccc234da29e2fd785acf561f543b29306bc9c9d"
 metafile = true
 
 [[files]]
