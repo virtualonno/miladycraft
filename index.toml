@@ -1097,6 +1097,10 @@ file = "config/paxi/resourcepack_load_order.json"
 hash = "5a917dceadc497949f2d716b27535d3c08ea8083fe6664af9b6781f604d9aca3"
 
 [[files]]
+file = "config/paxi/resourcepacks/Miladycraft_resources.zip"
+hash = "a6e655e8a4490b116ca9ec05731645ee7e314cb33c141690985bc3bc9b936a45"
+
+[[files]]
 file = "config/personality-client.toml"
 hash = "477461aac657d5c368d0a25cd5ec875961dd67305aabfc9c0da1ae7f8047a6f7"
 
