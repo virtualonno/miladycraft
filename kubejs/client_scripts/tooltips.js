@@ -1,17 +1,7 @@
 ItemEvents.tooltip(event => {
 
 	console.log('Firing Miladycraft custom tooltip event')
-	
-	event.addAdvanced('cgm:basic_bullet', (item, advanced, text) => {
-		text.add(1, Text.of('Partially ignores armor on Players').gray())		
-	})
-	event.addAdvanced('cgm:advanced_bullet', (item, advanced, text) => {
-		text.add(1, Text.of('Partially ignores armor on Players').gray())		
-	})
-	event.addAdvanced('cgm:shell', (item, advanced, text) => {
-		text.add(1, Text.of('Partially ignores armor on Players').gray())		
-	})
-	
+		
 	event.addAdvanced('minecraft:netherite_hoe', (item, advanced, text) => {
 		text.add(1, Text.of('Able to mine Spawners').gray())		
 	})		

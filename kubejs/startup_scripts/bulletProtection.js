@@ -1,4 +1,4 @@
-let bulletImmuneEntities = [
+let bulletImmuneEntities = new Set([
    'minecraft:item_frame',
    'minecraft:glow_item_frame',
    'camera:image_frame',
@@ -6,33 +6,28 @@ let bulletImmuneEntities = [
    'quark:dyed_item_frame',
    'xercapaint:easel',
    'xercapaint:canvas',
-   //'zetter:custom_painting_entity',
-   //'zetter:easel_entity',
    'immersive_paintings:painting',
    'immersive_paintings:glow_painting',
    'immersive_paintings:graffiti',
    'immersive_paintings:glow_graffiti',
-   'exposure:photograph'
-]
+   'exposure:photograph',
+   'simplehats:hatdisplay'
+])
 
 
-ForgeEvents.onEvent('com.mrcrayfish.guns.event.GunProjectileHitEvent', event => {
+
+ForgeEvents.onEvent('com.tacz.guns.api.event.common.EntityHurtByGunEvent', event => {
+//ForgeEvents.onEvent('net.minecraftforge.event.entity.ProjectileImpactEvent', event => {
 	global.bulletProtection(event)
 })
 
 global.bulletProtection = event => {
-   if(!event.projectile.server){return}
-   if(event.getRayTrace().type == 'ENTITY'){
-      let hitEntity = event.getRayTrace().getEntity().type
-      if(!bulletImmuneEntities.some( entity =>{
-         return entity == hitEntity
-      }))return
 
-   //console.log('blocked!')
-   event.setCanceled(true)
-   //console.log(`projectile is ${event.projectile.uuid}`)
-   event.projectile.server.runCommandSilent(`/kill ${event.projectile.uuid}`)
+   if(bulletImmuneEntities.has(`${event.getHurtEntity().getType()}`)){
+      event.setHurtEntity(null)
    }
+   else{return}
+
 }
 
 

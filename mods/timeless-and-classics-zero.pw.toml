@@ -1,0 +1,13 @@
+name = "[TaCZ] Timeless and Classics Zero"
+filename = "tacz-1.19.2-1.0.2-release.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8d311bba126a8800d5be6071f5360f7047bb5d76"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5529111
+project-id = 1028108

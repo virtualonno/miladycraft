@@ -29,7 +29,8 @@
     "trafficcraft:diamond_road_construction_tool",
     "trafficcraft:netherite_road_construction_tool",
     "byg:pendorite_horse_armor",
-    "byg:ametrine_horse_armor"
+    "byg:ametrine_horse_armor",
+    "minecraft:spawner"
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.

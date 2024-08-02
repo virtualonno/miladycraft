@@ -674,7 +674,7 @@ hash = "45935895d117bb33a0495c5c2c129a3c8c8d328b3c225fb808ba48a0b57c7108"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "3292e838613436512848f8c1f2f5cb1a5d365611d2c0b73cf874b712217ed805"
+hash = "7f31a153f55dcb89a81752e48e080193d181ddc236f9537df5ea7f99a22ceb88"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -914,7 +914,7 @@ hash = "81870a4354ed6ee27e3c1469f8a5f07f65e2aa853b7d0f9d5f4616581b1dffc2"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "6eb9aa693aa381eb73ac24154451e17fbdcc8bd7a62f5df3f29bc411e9582fb6"
+hash = "243b990ae434cab97815b9599f3f1226065cdee71dcaf0bcc0e4801eae8d17a9"
 
 [[files]]
 file = "config/itemcollectors-common.toml"
@@ -1097,10 +1097,6 @@ file = "config/paxi/resourcepack_load_order.json"
 hash = "5a917dceadc497949f2d716b27535d3c08ea8083fe6664af9b6781f604d9aca3"
 
 [[files]]
-file = "config/paxi/resourcepacks/Miladycraft_resources.zip"
-hash = "a6e655e8a4490b116ca9ec05731645ee7e314cb33c141690985bc3bc9b936a45"
-
-[[files]]
 file = "config/personality-client.toml"
 hash = "477461aac657d5c368d0a25cd5ec875961dd67305aabfc9c0da1ae7f8047a6f7"
 
@@ -1265,6 +1261,14 @@ file = "config/supplementaries-common.toml"
 hash = "0fee88bd720d8481761479ce37bc65de982983a2ffdef4dd59e1d5b1c09bcd0c"
 
 [[files]]
+file = "config/tacz-client.toml"
+hash = "00d20fa9eeed6e5e5a333ea5af9c705903143e4636cbe6a834d8288233452e88"
+
+[[files]]
+file = "config/tacz-common.toml"
+hash = "7980147f5e3e076f6baa02a0717c9acc486c9c2bb5e967a346f1575288b68ec2"
+
+[[files]]
 file = "config/takesapillage-common.toml"
 hash = "43d2d4dd938e4f286811c5358eac7813adae5e514fb4362fa30b63a1a5a02071"
 
@@ -1344,7 +1348,7 @@ hash = "b37272f50907bd98b1f9379ac46d079699f0b220d56fae38d34621d4e7b5953d"
 
 [[files]]
 file = "config/waystones-common.toml"
-hash = "c648334834764dfb1b7feb67b6073fac0703ee249c64192e27d83a6db3811541"
+hash = "aa800e90a9196a2c3a0fff99e694521cbaeda3b78e7e7daba354158835737b18"
 
 [[files]]
 file = "config/windswept-client.toml"
@@ -1809,7 +1813,7 @@ hash = "32ad1f997acca809368a9c2176528346f51db81c1baff72f63958d85a9921499"
 
 [[files]]
 file = "kubejs/client_scripts/tooltips.js"
-hash = "ef67f2d077c69aa6a1499b3e06be9856cbdba5a003ea436e0a908011e587b958"
+hash = "9ee064a8f8dcc1e866601bd2e81040e2509f8d809b3c41cdee81c59fe79d72cf"
 
 [[files]]
 file = "kubejs/data/data.zip"
@@ -1829,11 +1833,7 @@ hash = "79ac38ad6da602e0dbce4dbf5e7ea3540662cfcb2a6405e5bd0fe87c6e30f314"
 
 [[files]]
 file = "kubejs/startup_scripts/bulletProtection.js"
-hash = "b69a83b62e3a8c7220cb34bcacb7f56df8379b7be64b745f558dab1508b98b8d"
-
-[[files]]
-file = "kubejs/startup_scripts/bulletProtection_cgm.js"
-hash = "c00ddd880984164e8a92161ef3ee8560e149321ab0ed1b520dfa3f5a18fba5f3"
+hash = "fdbff91c7d90e29cd68241798cc0f84a0bd638e4986399613d7203645ed50f4d"
 
 [[files]]
 file = "kubejs/startup_scripts/customEffects.js"
@@ -1854,10 +1854,6 @@ hash = "722db4fb99ff13aa07f1e31817caf6e2fb14a9c79a77eb5b52fbcfde991f3236"
 [[files]]
 file = "kubejs/startup_scripts/explosionProtection.js"
 hash = "65e3bb88f37a92622c7e1d080ac0d7767858bd1b84460749192c5d191f3c4d54"
-
-[[files]]
-file = "kubejs/startup_scripts/gunDamage.js"
-hash = "31273b22e2b703f1b146ec9d239159c5c935c0a35e2b9074313f8ed4375bec0c"
 
 [[files]]
 file = "kubejs/startup_scripts/miladycraft.js"
@@ -1895,11 +1891,6 @@ metafile = true
 [[files]]
 file = "mods/additional-banners.pw.toml"
 hash = "ecd1f648f4748386168234e546827c0c7e45b916a5a1d4be684655e3cbfa4506"
-metafile = true
-
-[[files]]
-file = "mods/additional-guns.pw.toml"
-hash = "34166c2da1b033625306c1a4e262a0bd2211479beaabdc657bd8812391e5325c"
 metafile = true
 
 [[files]]
@@ -2224,7 +2215,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "16ed2b40714f90df2f9e72da4b9303a51e2caecaf363a0120795c61fbc82b2ba"
+hash = "857b7beb99a473aadfd12c0ff059c76360462b248b5082f3c9208f7883e1c23b"
 metafile = true
 
 [[files]]
@@ -2353,7 +2344,7 @@ metafile = true
 
 [[files]]
 file = "mods/craterlib.pw.toml"
-hash = "17dcc1e3ff579d2eed3d8a5dc44d4ad86f5bf9802094974970f0c74f81baaa79"
+hash = "c8fd56eb2e19c67ba23f78d9128522071ac4052d5014bbce8c9d6449af553b55"
 metafile = true
 
 [[files]]
@@ -2478,7 +2469,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "5e88f76a7cc2a6980b131fcdb3593471331412c3cf09a8408cc82272e895c1ed"
+hash = "aac9d498124912bb65ca3d564732118072bb27fec5fbbfa5ea1884cd5a8f6de2"
 metafile = true
 
 [[files]]
@@ -2503,7 +2494,7 @@ metafile = true
 
 [[files]]
 file = "mods/ends-delight.pw.toml"
-hash = "8e2bc73a1bc8dfde0a9b6305536e189c9c7ba4d1142e42d293139de11fb676ba"
+hash = "9c132bddcef5bc9af1b790ba9ee75936b4c47396659ec9f2b997cd80360924fd"
 metafile = true
 
 [[files]]
@@ -2528,7 +2519,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "91c7e72ed4c13c180e8382f8d446fa4e0171c9c3ecb14a0b56abc46db7dc0eb8"
+hash = "e5cd92271dfa2e531614def4ea57e247085de26b8046ae58ed919f470bbc022b"
 metafile = true
 
 [[files]]
@@ -2743,7 +2734,7 @@ metafile = true
 
 [[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
-hash = "18a4c33ffc48aa2693a0250762a7d1e31e2ec5d6b9f16c31a775880fe3c73057"
+hash = "9d5913b3f9628bc77d61e82e7f22981058279d73331e7cfc638bc03826e44511"
 metafile = true
 
 [[files]]
@@ -2783,7 +2774,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "cfbd6fe899bc2d9b06df9d5c56fe63a44a7e80944c43cbddcb2bd28df223afe4"
+hash = "1f3c6ed9a236c945ad04fe0b85079abbdb2769a922be982217b8972221adb412"
 metafile = true
 
 [[files]]
@@ -2793,7 +2784,7 @@ metafile = true
 
 [[files]]
 file = "mods/joy-of-painting.pw.toml"
-hash = "52e48ec6907c9fba38819304325362bf532ceb904a838b75c29530480f11bc81"
+hash = "793954fc0569547dcac38dd17617466e497ad49b47da10334175ef4d4c01386d"
 metafile = true
 
 [[files]]
@@ -2965,18 +2956,13 @@ file = "mods/moyai-1.19.2-2.1.1-custom_build.jar"
 hash = "f6e3c31ea322528b580555d3050ce000720e5e52680a0622edcfa3743554c2cb"
 
 [[files]]
-file = "mods/mrcrayfishs-gun-mod.pw.toml"
-hash = "9d25723296009a6495d0d9a75ee2bfc54e62dd43ea9ee113b391c629954637e8"
-metafile = true
-
-[[files]]
 file = "mods/music-maker-mod.pw.toml"
-hash = "1107357f27bb0b33921d00b2d85b3457e11978e19991c29f965a9d4f24a874a0"
+hash = "d115c106f6d3ef7d85bb06351b5b12c8305f7e6b1f7aa0980d13c4c64b96fd80"
 metafile = true
 
 [[files]]
 file = "mods/my-nethers-delight.pw.toml"
-hash = "6adae20d4133f800c1e257e0ace7c65d2978fac59ba5530259694658c28b9186"
+hash = "8e791c95e609a6238dfbe357be5d4c82d80c7a293a024c46e6adda0622f1f724"
 metafile = true
 
 [[files]]
@@ -3002,11 +2988,6 @@ metafile = true
 [[files]]
 file = "mods/necronomicon.pw.toml"
 hash = "909e0c021f6d58d6f6a4d5cc37e6db88a37bb18287eb6120fc8b047fd234fb9f"
-metafile = true
-
-[[files]]
-file = "mods/ninezeros-gun-expansion.pw.toml"
-hash = "7da9874510bdf41ba350368c4f7d387b8d71201b286151358291397b652629a0"
 metafile = true
 
 [[files]]
@@ -3151,7 +3132,7 @@ metafile = true
 
 [[files]]
 file = "mods/recipe-essentials-forge-fabric.pw.toml"
-hash = "61f9e2e5e343e9aa861da1fba4115d90f87f770b79f8b88b91e8c8f1b074bcbb"
+hash = "497612f3f87c7c39280d075d36eace3e0d3a71bf1cf5c0d533cbf003c142f961"
 metafile = true
 
 [[files]]
@@ -3205,7 +3186,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "5ca3e837c2e605c07120ab4ae53c67a6693a79f256c87a5939d09b20a437b5c9"
+hash = "aa9411c69f0a0f561ff0901fc6dc315db8dcd5012902241e6fc37fa02d1d9143"
 metafile = true
 
 [[files]]
@@ -3225,7 +3206,7 @@ metafile = true
 
 [[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
-hash = "cc47debb35b2faa53cd44825e333185253fccb05b7abe60d7139d7b7fdc200cd"
+hash = "e6425dcc3235c608c611d626f592b6a7f6b31ad54eafe6ac2a8e3bdd91ddf37d"
 metafile = true
 
 [[files]]
@@ -3265,7 +3246,7 @@ metafile = true
 
 [[files]]
 file = "mods/simplehats.pw.toml"
-hash = "9d2c5f1b13c0043189b7487518c5ea39dc6ebd8ea5f83ab9b3c2ef0e82267de8"
+hash = "aa06afb1baad6557d3ae8b4c2b35976df47c8a899f21fcdaee43a4f5d42f5a33"
 metafile = true
 
 [[files]]
@@ -3394,6 +3375,16 @@ hash = "92b25cd2a2334a0d5e7fe738c111daac3d48bfb0e1b6ddc1a76f5ab2d67d983e"
 metafile = true
 
 [[files]]
+file = "mods/third-person-shooting.pw.toml"
+hash = "151a0c8bab9fa2fe0e6c4ecc17724466d3deebc3007fa295ed971781983971c3"
+metafile = true
+
+[[files]]
+file = "mods/timeless-and-classics-zero.pw.toml"
+hash = "a6550d50e738cf6fe7c71bba0931d3d630f5c021e6e00bf630be864142864339"
+metafile = true
+
+[[files]]
 file = "mods/tips.pw.toml"
 hash = "304722782c3984ce5c9a8c679fb6998c02e0e8f3025f31c717d1d6ef594533ea"
 metafile = true
@@ -3405,7 +3396,7 @@ metafile = true
 
 [[files]]
 file = "mods/trade-cycling.pw.toml"
-hash = "929b40bb5054412a8130245eb94f214322e0310e962937b31710798551f0d1b4"
+hash = "b1d5538427d6e200632234cd7f27c2c49b22da270b9fc5c8eae6ae842be29fcb"
 metafile = true
 
 [[files]]
@@ -3500,7 +3491,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "6d1371fa620ae413ae0e57471ccc234da29e2fd785acf561f543b29306bc9c9d"
+hash = "90da3a3e5f27096adce318eef6fd8f19f85fb0f94ef59c86955487fdc30a954c"
 metafile = true
 
 [[files]]
@@ -3540,7 +3531,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "9f3b970cabdfea3d52242117a789fbb5a52648a5887ffc0612acb696ea918a48"
+hash = "56e86eda04b05c7c6f836e87bb0d003561e7ba926523036511099293e68d6d23"
 preserve = true
 
 [[files]]
