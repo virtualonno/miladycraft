@@ -850,7 +850,7 @@ hash = "14eb4e8cd105c580403c4e5bc6bba831c81aedcf4e6e04485c74e9d3f253689f"
 
 [[files]]
 file = "config/forgery/features.ini"
-hash = "4b4c3d40df20f6f0f645a9a57e87d145f67efc3e3673e2afb1f72177735c88f0"
+hash = "ee6f3e9d5c0060f3534da04899ced0c54b9d2b4ee74794fbb31e94e790f5f6a6"
 
 [[files]]
 file = "config/forgery/fscript.ini"
@@ -2179,7 +2179,7 @@ metafile = true
 
 [[files]]
 file = "mods/camera-mod.pw.toml"
-hash = "c222caa6a554742e99113f297a8a60e7ecac553568bf30b10b23f3bdeddcefab"
+hash = "cec0bb39c2065d3596c031abdebb2e1be6abb735650c0517083d87cd0d3d7c3b"
 metafile = true
 
 [[files]]
@@ -2219,7 +2219,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "857b7beb99a473aadfd12c0ff059c76360462b248b5082f3c9208f7883e1c23b"
+hash = "e67725bdfd07397499f3be3ef400eb368920bc402510500f447dd6b34cecfe69"
 metafile = true
 
 [[files]]
@@ -2298,7 +2298,7 @@ metafile = true
 
 [[files]]
 file = "mods/connected-glass.pw.toml"
-hash = "c078bd1fcccd73f28c0affd0b3fc1b62a9403ac625492c6261b2afaaae3e9526"
+hash = "e6013e9a9cb6e7b0b29444f414a3cc9bcf406bbb158c323b96ae5e6cb82be2f7"
 metafile = true
 
 [[files]]
@@ -2348,7 +2348,12 @@ metafile = true
 
 [[files]]
 file = "mods/craterlib.pw.toml"
-hash = "c8fd56eb2e19c67ba23f78d9128522071ac4052d5014bbce8c9d6449af553b55"
+hash = "98cbf8f000b8f97376ada92cf61b9f6bf5c99574186ddd905b275a1b544bf8cd"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "0fd10c12dafdf5bc68631af61cbf32e5153be1fde4a98d46840b935b6a2e6e3b"
 metafile = true
 
 [[files]]
@@ -2458,7 +2463,7 @@ metafile = true
 
 [[files]]
 file = "mods/dyed.pw.toml"
-hash = "4d8fddcf2afb290e8ff961adabc62a3480569c3522ed578616522d6cfe84eac3"
+hash = "3cc4e18ae8bfb5a988753a9d34dddc4bcc9de56d87020fddd538a25953a81800"
 metafile = true
 
 [[files]]
@@ -2603,7 +2608,7 @@ metafile = true
 
 [[files]]
 file = "mods/framework.pw.toml"
-hash = "6a75531ac880801549171a165149a721c05aa50256fe4b860672c3f7bd61861e"
+hash = "a49f5c3db01b326a497777100193a237a2b687c4a2c5631a739f7056110a3133"
 metafile = true
 
 [[files]]
@@ -2678,7 +2683,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "d850bb878170f1aa6a93f30ba856b822a3eaea8c04d0ea777804bab931a13029"
+hash = "372bc22e2a2660484ec7160e2417adec1c3c00a0237d4536c0f5be1ff5f12c23"
 metafile = true
 
 [[files]]
@@ -2738,7 +2743,7 @@ metafile = true
 
 [[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
-hash = "9d5913b3f9628bc77d61e82e7f22981058279d73331e7cfc638bc03826e44511"
+hash = "c56c4c91b0c81bce838550256e72ba7afb8bd8b9affc1d06e38925fe7d099c53"
 metafile = true
 
 [[files]]
@@ -2883,7 +2888,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "8aea5cb3f20c40711a36a9a25cc58b3ff5315eea9ff3995bd522acab40a18511"
+hash = "a48e20586160ee00795d37bed4a130650278f1ee1691e1d5e547faa0ab242f0a"
 metafile = true
 
 [[files]]
@@ -3011,7 +3016,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "4d5ccc8b9a80453c8a3336ec6ba16f8d31a210e7d211ee512bf2095f8b34e264"
+hash = "208c2a83799e79e1b6769fb9f637acda8196a14bf851d38785aa0e99d37dae8e"
 metafile = true
 
 [[files]]
@@ -3126,7 +3131,7 @@ metafile = true
 
 [[files]]
 file = "mods/raised.pw.toml"
-hash = "f2caf39d7797e5fcdbbbed7db657c8eb1d52c19a23064258e7ef743f6aceb204"
+hash = "548e6094bb6312623a42449c83b159abe48efd6e7423e502449a2b3c051925e9"
 metafile = true
 
 [[files]]
@@ -3210,7 +3215,7 @@ metafile = true
 
 [[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
-hash = "e6425dcc3235c608c611d626f592b6a7f6b31ad54eafe6ac2a8e3bdd91ddf37d"
+hash = "af810b2e438126fc91bd0b3c3a9a713cbff11d1ee3110787782435317fa892ff"
 metafile = true
 
 [[files]]
@@ -3245,12 +3250,12 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "8ead8c45d35a0018613dc675c7e11700ff777aa7c289c3d8f868de51dee01553"
+hash = "87116b0029045a0b01989ea1b4fdc159f12e78f75c6af46d62ff1831286ef046"
 metafile = true
 
 [[files]]
 file = "mods/simplehats.pw.toml"
-hash = "aa06afb1baad6557d3ae8b4c2b35976df47c8a899f21fcdaee43a4f5d42f5a33"
+hash = "02f86f0a631cf71b4d51698abf0aa573718679a3ca8797812465577d46d79467"
 metafile = true
 
 [[files]]
@@ -3400,7 +3405,7 @@ metafile = true
 
 [[files]]
 file = "mods/trade-cycling.pw.toml"
-hash = "b1d5538427d6e200632234cd7f27c2c49b22da270b9fc5c8eae6ae842be29fcb"
+hash = "99e64adfe2e3668116fc065867941647b86d3f1d178438ce37a0b9d18cdf3133"
 metafile = true
 
 [[files]]
@@ -3459,6 +3464,16 @@ hash = "06e36e839fc28dc3185736883546b927d2ddbc7f17dba2c679a01bcab7585b7b"
 metafile = true
 
 [[files]]
+file = "mods/waterframes.pw.toml"
+hash = "f4cf4b1c388d30ae8b8de94e36e97287f73a4892fac967a8a06d607bbe449647"
+metafile = true
+
+[[files]]
+file = "mods/watermedia.pw.toml"
+hash = "b00c3112ef34dcb85b3f1b2ba4a90ae7d3d2fb10f4c8f0d30d8154777f446289"
+metafile = true
+
+[[files]]
 file = "mods/waxable-coral.pw.toml"
 hash = "e1c3a5cf541c0601f1d12593ac0cd1eb56aad3593709b4bcc0a4b9372090d357"
 metafile = true
@@ -3495,12 +3510,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "90da3a3e5f27096adce318eef6fd8f19f85fb0f94ef59c86955487fdc30a954c"
+hash = "fce255510bd1f2d76c083d506982ee11f02a9b58e93e0b115b03271f26b87ce7"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "71a58baa4d8314fc779ac6a01c68e056338cffd22ce17e2afe5d281584344465"
+hash = "f0323979d702da319c40b441f773f8689096f065ae52b2b9ffc52cd0a5c4e6b3"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "Connected Glass"
-filename = "connectedglass-1.1.11-forge-mc1.19.jar"
+filename = "connectedglass-1.1.12-forge-mc1.19.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "0f0f86d69d5e260d04786c70728d1945d87f0706"
+hash = "85855e095addf5b68398a5c5eed1def1b5e08647"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5002544
+file-id = 5656967
 project-id = 383129

@@ -1,13 +1,13 @@
 name = "Camera Mod"
-filename = "camera-forge-1.19.2-1.0.12.jar"
+filename = "camera-forge-1.19.2-1.0.14.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "2c999b2138fc1316bfe1dfc3c746db22c4b9dad5"
+hash = "3e82a01546171cd1fec7be9b13c50c97f6176df7"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5534327
+file-id = 5634264
 project-id = 289310
