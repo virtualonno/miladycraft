@@ -1170,7 +1170,7 @@ hash = "712cc8d89db3481d6adf33b6674078637e858703417bcf6f0cc725edf9698587"
 
 [[files]]
 file = "config/parcool-client.toml"
-hash = "ae1df2121cc2de37fb0c87edfd67e14873ad8e751e0e2b2d3a271f4bcfbd42c1"
+hash = "136124b042b34f529630b3eb5d2ce468c833b41f5cf54990b3b518b8776f100b"
 
 [[files]]
 file = "config/passthroughsigns-common.toml"

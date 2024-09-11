@@ -72,7 +72,7 @@
 		enable_ClingToCliffAnimator = true
 		enable_CrawlAnimator = true
 		enable_DodgeAnimator = true
-		enable_FastRunningAnimator = true
+		enable_FastRunningAnimator = false
 		enable_FlippingAnimator = true
 		enable_HorizontalWallRunAnimator = true
 		enable_JumpFromBarAnimator = true
