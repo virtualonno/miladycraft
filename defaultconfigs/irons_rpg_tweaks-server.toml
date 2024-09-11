@@ -22,7 +22,7 @@
 
 [Durability-Module]
 	#The purpose of the durability module is to rework how durability damage is applied to better emulate an rpg setting.  Disabling will nullify every feature listed under this module.
-	durabilityModuleEnabled = true
+	durabilityModuleEnabled = false
 	#What type of gear should take vanilla durability damage. Default: NONE
 	#Allowed Values: ALL, TOOLS, ARMOR, NONE
 	vanillDurabilityGearType = "NONE"

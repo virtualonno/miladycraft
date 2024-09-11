@@ -410,7 +410,7 @@ hash = "9373941af9ada49b7cf3eef10f8bc5d476bd38b533a6cff985c6ebd8d3609a96"
 
 [[files]]
 file = "config/apotheosis/enchantments.cfg"
-hash = "6c88db9ac57e6aa09dc9883ae7bb60ddb4e2a4ec8e96ceb8144d93986142ed17"
+hash = "c87f26be14a26b77a77fed446b2f0d5981335e05b28d8f63733e09bb35292042"
 
 [[files]]
 file = "config/apotheosis/garden.cfg"
@@ -474,7 +474,7 @@ hash = "4be0b6f46154e1c7121b868a25d99d5cf4b56af8bbeec10ef391c2d167818ac2"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "97503de8347065cd017cc289d4f8ff4323be113bcf427fecab4839b14c35a61a"
+hash = "a5295e8c62c17a7a281e07e703b4d3695cb7bd20f52c65f06b6488e73c246a4e"
 
 [[files]]
 file = "config/beaconsforall-server.toml"
@@ -1214,7 +1214,7 @@ hash = "2ba5724615543ffe19e6fdf8e830c2b7192992e307fdbc4a41c4fdc7a1df2acc"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "c81e125c8a786ccc78ca84d957f2fa0bb97653b0d6aa56cbc60320cb4a9bdc9d"
+hash = "33b802e24316e5b6719b0fe5a93a1f54cf6b9b4da3b6ebe80bfc34de7e9592a1"
 
 [[files]]
 file = "config/re-skin.toml"
@@ -1604,7 +1604,7 @@ hash = "d5c58ecf2fa6c64adfdf41214ad49543e51f1398ad2f5b5112cdab0d0035da9e"
 
 [[files]]
 file = "defaultconfigs/irons_rpg_tweaks-server.toml"
-hash = "243615aa98dd727a47a8954b6010ae8209019addabb1758cbb8a0391f62448c6"
+hash = "e397b0bccceb1b6fa6df2c2492703113e43e5f0eb771cc27d4843caca36e52ab"
 
 [[files]]
 file = "defaultconfigs/irons_spellbooks-server.toml"
@@ -1636,7 +1636,7 @@ hash = "4ad12792d39a1339a1465f05ce6e4828f5bdcc07c8ce9c378cfc95d86eb4bf01"
 
 [[files]]
 file = "defaultconfigs/parcool-server.toml"
-hash = "97f6ac403e5383970cd18c86ac95bd2c3bb8f4a9f94714263074431eb8298cd3"
+hash = "519e26d7dec2da2dd1a56c27aa0f0b5d2a4903a94c1b337b7ff57936fe7d7c59"
 
 [[files]]
 file = "defaultconfigs/simplelogin-server.toml"
@@ -1657,6 +1657,10 @@ hash = "ab5a91d64ac24b723fad85f2aef5b4bdad9a99044e80e2f67384823e6fbae85c"
 [[files]]
 file = "defaultconfigs/voicechat-server.toml"
 hash = "ce5413ee2d6b0792a84549377124c40f7588781559f7525f169599638524f32a"
+
+[[files]]
+file = "defaultconfigs/waterframes-server.toml"
+hash = "a9d190634842c8c706d519089b169a3d6b3b674ecb483348da9d6ed8bef92afe"
 
 [[files]]
 file = "emotes/Ascend.json"
@@ -2029,7 +2033,7 @@ hash = "d67e9e620a49a193b1f4a2ade752a1c01fddde6d4e323659d05836a67324f9e5"
 
 [[files]]
 file = "kubejs/server_scripts/enchantmentAndItemReplace.js"
-hash = "47d7776719a424ecb4d4d3e4ab460a394ed47b2601aa0723fc5589ea3b7e7f08"
+hash = "0f5767f40eed602d178bc5a72ac7bd4ce7c004b216cea0cdbc9911d571176fc0"
 
 [[files]]
 file = "kubejs/server_scripts/itemRightClicks.js"

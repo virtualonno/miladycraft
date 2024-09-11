@@ -12,7 +12,7 @@
 		permit_Crawl = true
 		permit_Dive = true
 		permit_Dodge = true
-		permit_FastRun = false
+		permit_FastRun = true
 		permit_Flipping = true
 		permit_HangDown = true
 		permit_HorizontalWallRun = true
@@ -22,7 +22,7 @@
 		permit_SkyDive = true
 		permit_Slide = true
 		permit_Tap = true
-		permit_Vault = false
+		permit_Vault = true
 		permit_VerticalWallRun = true
 		permit_WallJump = true
 		permit_WallSlide = true

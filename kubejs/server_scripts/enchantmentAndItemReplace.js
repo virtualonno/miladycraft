@@ -6,7 +6,7 @@ const ItemStack = Java.loadClass('net.minecraft.world.item.ItemStack')
 const Integer = Java.loadClass('java.lang.Integer')
 
 let bannedEnchantmentIds = new Map([
-   ['minecraft:mending', 0],
+   //['minecraft:mending', 0],
    ['apotheosis:life_mending', 0],
 
    ['minecraft:protection', 6],
