@@ -1,6 +1,6 @@
 name = "Tips"
 filename = "Tips-Forge-1.19.2-8.0.27.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

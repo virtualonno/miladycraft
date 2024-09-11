@@ -1,0 +1,13 @@
+name = "Treeplacer"
+filename = "treeplacer-forge-1.19.2-1.1.1.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "685efe3d21e78fc69fd7d2fa1494c6e7ca621589"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4488141
+project-id = 840202

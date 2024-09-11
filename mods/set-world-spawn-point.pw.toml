@@ -1,0 +1,13 @@
+name = "Set World Spawn Point"
+filename = "setworldspawnpoint-1.19.2-3.3.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "942c51ac2221957bd3ba16fdd701638a90bad53b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4963919
+project-id = 366916

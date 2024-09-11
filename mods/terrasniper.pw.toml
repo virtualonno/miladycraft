@@ -1,0 +1,13 @@
+name = "TerraSniper"
+filename = "TerraSniper-1.0.2-forge.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "4be7dfeda88cc370cf124e7a74d38afb2ed0bb98"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4465927
+project-id = 544556

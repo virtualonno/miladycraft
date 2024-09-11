@@ -1,0 +1,13 @@
+name = "Conduits Prevent Drowned"
+filename = "conduitspreventdrowned-1.19.2-3.6.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "ade63c5b375803847fe2e0c1c7ed6151c7e914bc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4965277
+project-id = 345819

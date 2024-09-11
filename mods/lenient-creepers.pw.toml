@@ -1,0 +1,13 @@
+name = "Lenient Creepers"
+filename = "lenientcreepers-1.19-1.0.2.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "4e52dd5c2b50cd51f2f91fb15d40c1fd0bc07fa9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3871658
+project-id = 299478

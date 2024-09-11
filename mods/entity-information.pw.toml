@@ -1,0 +1,13 @@
+name = "Entity Information"
+filename = "entityinformation-1.19.2-3.3.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "88e24cf5feca54dc99adb442547c56b2d8e20917"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5168994
+project-id = 321302

@@ -1,6 +1,6 @@
 name = "Coloured Tooltips"
 filename = "ColouredTooltips-Forge-1.19.2-18.1.4.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

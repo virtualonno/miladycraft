@@ -1,6 +1,6 @@
 name = "Yeetus Experimentus"
 filename = "yeetusexperimentus-1.0.1-build.2+mc1.19.1.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

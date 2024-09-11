@@ -1,0 +1,13 @@
+name = "GriefLogger"
+filename = "grieflogger-1.1.4-forge.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "5109e19bfb46942dd4f4f3a11d74b4961f18d526"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5104742
+project-id = 435029

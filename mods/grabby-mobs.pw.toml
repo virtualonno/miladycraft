@@ -1,0 +1,13 @@
+name = "Grabby Mobs"
+filename = "grabbymobs-1.19.2-1.5.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "85fde73be84ea765d435020099f488935ca8b51b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4976342
+project-id = 881030

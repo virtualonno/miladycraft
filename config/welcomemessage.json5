@@ -1,0 +1,27 @@
+{
+	// If the mod should only run on dedicated servers. When enabled it's not sent when in a singleplayer world.
+	"onlyRunOnDedicatedServers": true,
+	// Whether an empty line should be send before to first message to separate the welcome from other chat messages that might be sent.
+	"sendEmptyLineBeforeFirstMessage": true,
+	// The first message a player will receive when joining the world. Can be left empty.
+	"messageOneText": "Welcome to Miladycraft! Click here for the Onboarding Guide",
+	// 0: black, 1: dark_blue, 2: dark_green, 3: dark_aqua, 4: dark_red, 5: dark_purple, 6: gold, 7: gray, 8: dark_gray, 9: blue, 10: green, 11: aqua, 12: red, 13: light_purple, 14: yellow, 15: white
+	// min: 0, max: 15
+	"messageOneColourIndex": 11,
+	// If a link is entered here, the complete message will be clickable.
+	"messageOneOptionalURL": "https://miladycraft.gitbook.io/miladycraft-manual/miladycraft-onboarding-guide",
+	// The second message a player will receive when joining the world. Can be left empty.
+	"messageTwoText": "Set your skin with /skin set [mojang | web] [classic | slim] \"<direct link to your skin between these double quotes>\" ! Returning players, kindly replace your old Camera Images with Immersive Paintings to remove lag.",
+	// 0: black, 1: dark_blue, 2: dark_green, 3: dark_aqua, 4: dark_red, 5: dark_purple, 6: gold, 7: gray, 8: dark_gray, 9: blue, 10: green, 11: aqua, 12: red, 13: light_purple, 14: yellow, 15: white
+	// min: 0, max: 15
+	"messageTwoColourIndex": 13,
+	// If a link is entered here, the complete message will be clickable.
+	"messageTwoOptionalURL": "",
+	// The third message a player will receive when joining the world. Can be left empty.
+	"messageThreeText": "Get your claim tools with the command '/kit claimtools' and claim some land!",
+	// 0: black, 1: dark_blue, 2: dark_green, 3: dark_aqua, 4: dark_red, 5: dark_purple, 6: gold, 7: gray, 8: dark_gray, 9: blue, 10: green, 11: aqua, 12: red, 13: light_purple, 14: yellow, 15: white
+	// min: 0, max: 15
+	"messageThreeColourIndex": 6,
+	// If a link is entered here, the complete message will be clickable.
+	"messageThreeOptionalURL": ""
+}

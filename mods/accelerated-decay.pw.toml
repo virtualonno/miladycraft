@@ -1,0 +1,13 @@
+name = "Accelerated Decay"
+filename = "accelerated-decay-forge-1.0.0+mc1.19.2.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "42fa5a4fd62b4578f6c8b7da04d03bf88c79f483"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4139409
+project-id = 699872

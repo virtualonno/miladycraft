@@ -1,0 +1,13 @@
+name = "Fire Spread Tweaks"
+filename = "firespreadtweaks-1.19.2-2.5.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "c4d3f9cadd0150c31e3c2dd1a4874dfa9fe65304"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4964967
+project-id = 446366

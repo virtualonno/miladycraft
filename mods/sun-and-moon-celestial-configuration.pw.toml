@@ -1,6 +1,6 @@
 name = "Sun and Moon Celestial Configuration"
 filename = "celesteconfig-1.19.2-1.0.0.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

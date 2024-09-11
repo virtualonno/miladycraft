@@ -1,0 +1,13 @@
+name = "Auto Planting Forests"
+filename = "autoplant-1.19-1.0.1.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "9217ba6d1510acf4fd40a6816f84085f6ed840b6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3914543
+project-id = 444013

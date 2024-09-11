@@ -1,0 +1,13 @@
+name = "B.F. End Cities"
+filename = "bfendcities-1.0.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "bceeff26fde77e0b7c226f813772fdd4ca237f55"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4607871
+project-id = 676639

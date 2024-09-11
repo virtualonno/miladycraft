@@ -1,0 +1,13 @@
+name = "Keep Head Names (Fabric/(Neo)Forge)"
+filename = "KeepHeadNames-1.5.1-forge-1.19.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "0ffb99edf3015296c2f88407e6bc80daab45594e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3821964
+project-id = 442278

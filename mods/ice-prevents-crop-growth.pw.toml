@@ -1,0 +1,13 @@
+name = "Ice Prevents Crop Growth"
+filename = "icepreventscropgrowth-1.19.2-3.2.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "5e1a32e5a68851445b70d78a675b6dd14951bd43"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4964680
+project-id = 390161
