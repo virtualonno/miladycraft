@@ -4267,6 +4267,6 @@ hash = "a8b2afabc8e02a80b61c8fef9c1d4eacbce2a55cb843b20c39fc612034821cce"
 metafile = true
 
 [[files]]
-file = "shaderpacks/simplicissimus-shader.pw.toml"
-hash = "b306588d7b16c34bd832522df64111b6ce73762f8d69faa706fb843d15119204"
+file = "shaderpacks/simplicissimus.pw.toml"
+hash = "116618569cf2bcadd8e4b52bacb3d5ca0b123a92f7f5788e995bf4d1c7af5cb4"
 metafile = true

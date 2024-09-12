@@ -1,0 +1,13 @@
+name = "Simplicissimus Shader"
+filename = "Simplicissimus_v1.3a.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/dEAKT8y9/versions/lNKYwjuL/Simplicissimus_v1.3a.zip"
+hash-format = "sha1"
+hash = "0e1700a582f13221a45ca786a15db45da14bba73"
+
+[update]
+[update.modrinth]
+mod-id = "dEAKT8y9"
+version = "lNKYwjuL"
