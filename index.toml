@@ -526,7 +526,7 @@ hash = "cfad61a2768df267914d51b2e0460d98997703071f7ceb0e32e15a2a5750c37f"
 
 [[files]]
 file = "config/bettertitlescreen-client.toml"
-hash = "1c2cef3efb8746ebf2c57634a8a5e1152bfbca8881a29661e01b2553a7ff654f"
+hash = "8b30a02dcfcc1ac1001a9d260e8a59b9285174de1611a25997bb6f28454c62c1"
 
 [[files]]
 file = "config/biomemusic.json"
@@ -2897,6 +2897,11 @@ hash = "2492053472e5201326fa4f35536758fa7152317a3549039e37d8b5544664365d"
 metafile = true
 
 [[files]]
+file = "mods/euphoria-patches.pw.toml"
+hash = "8fdb4d04d3866dbd08b4c5e6431036d7e920557ac3114c6c75307925c1940c0d"
+metafile = true
+
+[[files]]
 file = "mods/every-compat.pw.toml"
 hash = "e5cd92271dfa2e531614def4ea57e247085de26b8046ae58ed919f470bbc022b"
 metafile = true
@@ -4243,21 +4248,25 @@ hash = "866d47a0fa657ca6d0cbde2f8466b6ea84c305306f69195fecb7382121a00580"
 metafile = true
 
 [[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.2.1 + EuphoriaPatches_1.3.1.zip"
-hash = "f91afdeb8a05d72e53bbdd6e4295503d18246aef111d2340efd7db1ae60128d4"
-
-[[files]]
-file = "shaderpacks/ComplementaryUnbound_r5.2.1 + EuphoriaPatches_1.3.1.zip"
-hash = "e4c11f4ae2a583f95fc0f2bcd40cf85cb559e39638d6a0b0174180ffda6abae6"
-
-[[files]]
-file = "shaderpacks/Sildur's Vibrant Shaders v1.52 Lite.zip"
-hash = "1d49d456b2dad25cfd3a85943992bb0a20ed39ef9a4430a6de5a0fe094ca9a49"
-
-[[files]]
-file = "shaderpacks/Simplicissimus_v1.3a.zip"
-hash = "43efc54c9306702d0de5560e63316857e9c6fa110808791e8a548c3404e4fdfc"
-
-[[files]]
 file = "shaderpacks/Simplicissimus_v1.3a.zip.txt"
 hash = "60841b1ecbc519a3f36bde758995fd988612bf21e64980ff313e4fec37236cfb"
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "8a72dc1bff556553bc502e93fd133b2cfc736688c95e997d501803831f94ba22"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "976b13a1d20d2147d1f03316155044acce30d46dc8d8e0495d3665d669e6e0c1"
+metafile = true
+
+[[files]]
+file = "shaderpacks/sildurs-vibrant-shaders.pw.toml"
+hash = "a8b2afabc8e02a80b61c8fef9c1d4eacbce2a55cb843b20c39fc612034821cce"
+metafile = true
+
+[[files]]
+file = "shaderpacks/simplicissimus-shader.pw.toml"
+hash = "b306588d7b16c34bd832522df64111b6ce73762f8d69faa706fb843d15119204"
+metafile = true
