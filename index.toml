@@ -474,7 +474,7 @@ hash = "4be0b6f46154e1c7121b868a25d99d5cf4b56af8bbeec10ef391c2d167818ac2"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "a5295e8c62c17a7a281e07e703b4d3695cb7bd20f52c65f06b6488e73c246a4e"
+hash = "4aeca3e1f9ba740eb150ebdad8b3b5daec74a808e62b95be0601b0057a63fea4"
 
 [[files]]
 file = "config/beaconsforall-server.toml"
@@ -526,7 +526,7 @@ hash = "cfad61a2768df267914d51b2e0460d98997703071f7ceb0e32e15a2a5750c37f"
 
 [[files]]
 file = "config/bettertitlescreen-client.toml"
-hash = "8b30a02dcfcc1ac1001a9d260e8a59b9285174de1611a25997bb6f28454c62c1"
+hash = "2fa895e6613dfd18a0cfa28ee56cb054339ac5f82d37fe5d0a8fd823bc2fd3cc"
 
 [[files]]
 file = "config/biomemusic.json"
@@ -2524,7 +2524,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "3b95c704c6945475723c5d3def743eede8b72b465ce636386c1b319f92119af8"
+hash = "873b7e8db69977e45e06b5714fb53f2254ed3c673ac764e9340586a4058dae16"
 metafile = true
 
 [[files]]
@@ -2568,7 +2568,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "620351b6440c5a97a7ea574f4bba4f1f83b84ce2f908fe31a116406e35fa6c57"
+hash = "728c1843aea1060f3a0566000d6a6c50f86e8194f871505752743058bee4c29a"
 metafile = true
 
 [[files]]
@@ -2903,7 +2903,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "e5cd92271dfa2e531614def4ea57e247085de26b8046ae58ed919f470bbc022b"
+hash = "5e9324286fa99c3fe59a185c5f3655eadf96d42a0e127c06a7f86a0c56f5b52a"
 metafile = true
 
 [[files]]
@@ -3217,7 +3217,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "1f3c6ed9a236c945ad04fe0b85079abbdb2769a922be982217b8972221adb412"
+hash = "d5b6ff1b3a29b3c46bb5964b5fdd61f1d651401f77cd2aa760eaae63069eea72"
 metafile = true
 
 [[files]]
@@ -3541,7 +3541,7 @@ metafile = true
 
 [[files]]
 file = "mods/parcool.pw.toml"
-hash = "4c476c1515be2dcadfbca25bf67b5c719118d453da6049e86674a24a949b00d8"
+hash = "55e23fdbf8c754608f77225832ddd5d3324c350f444dd18c03aa1fb55fdffdf9"
 metafile = true
 
 [[files]]
@@ -3715,7 +3715,7 @@ metafile = true
 
 [[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
-hash = "85da0d58cdcac2f1981ba36ee27a462fadb2bbc42b19141e186a94d67d3f5681"
+hash = "5ca73bb7615ec4a765233fbc362c3f9d193a2238797c2af212f4d9f171c0116c"
 metafile = true
 
 [[files]]
@@ -3770,7 +3770,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "776dbd7dde53d83b9af2a4de337e61270024f99632bd2c14932b88ec36e9418a"
+hash = "2b28321f32d58252e65ac70c5cbf7329d7a35f9daebc8a4bc82225064467e657"
 metafile = true
 
 [[files]]
@@ -3934,13 +3934,8 @@ hash = "92b25cd2a2334a0d5e7fe738c111daac3d48bfb0e1b6ddc1a76f5ab2d67d983e"
 metafile = true
 
 [[files]]
-file = "mods/third-person-shooting.pw.toml"
-hash = "d3a0f5536ef0294d59590a2fdaba01d067457b475a7b103f11cd78205c081f69"
-metafile = true
-
-[[files]]
 file = "mods/timeless-and-classics-zero.pw.toml"
-hash = "a6550d50e738cf6fe7c71bba0931d3d630f5c021e6e00bf630be864142864339"
+hash = "8479ea2850765aa0a179cc0108a0084484ff06dc9d7750637cbe90170640932a"
 metafile = true
 
 [[files]]
@@ -4045,7 +4040,7 @@ metafile = true
 
 [[files]]
 file = "mods/wares.pw.toml"
-hash = "06e36e839fc28dc3185736883546b927d2ddbc7f17dba2c679a01bcab7585b7b"
+hash = "18b6b353bebaf016b2e2f49d343302cba784eb0cef32f0f091cfb37ef8950546"
 metafile = true
 
 [[files]]
@@ -4120,7 +4115,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "f82301555e821566fe8cb2a7350dccee30337d3068b4ee5392519d06ff1cdf13"
+hash = "fdc0aa55f5b9a06e32fe62a16513ab47e1d6198c4fec6d1bfc6efcfd9f4288ca"
 metafile = true
 
 [[files]]
