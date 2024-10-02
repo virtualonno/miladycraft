@@ -2229,7 +2229,7 @@ metafile = true
 
 [[files]]
 file = "mods/apotheosis.pw.toml"
-hash = "16c832bfc074f3b149e6f1704af0b04b3500aa0697d92c2f2310756fc0c41c13"
+hash = "af354beaabc9ef12ff999af6bde0027cb3d56fd643a73b91474c087d75f65feb"
 metafile = true
 
 [[files]]
@@ -2524,7 +2524,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "873b7e8db69977e45e06b5714fb53f2254ed3c673ac764e9340586a4058dae16"
+hash = "5906792ce2a9d35e2dc44ccae163708b0931bebb8cb9746b591aaacd8e689d26"
 metafile = true
 
 [[files]]
@@ -2903,7 +2903,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "5e9324286fa99c3fe59a185c5f3655eadf96d42a0e127c06a7f86a0c56f5b52a"
+hash = "5ad8edb1b872d40b6c344a8f16185295fee8cbd35fd9df3afbffea6b0876da33"
 metafile = true
 
 [[files]]
@@ -3217,7 +3217,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "d5b6ff1b3a29b3c46bb5964b5fdd61f1d651401f77cd2aa760eaae63069eea72"
+hash = "79d4ebcb349accc88627f2ed6c57c288b7adc58c200f9def45b70d4a1225f3c6"
 metafile = true
 
 [[files]]
@@ -3456,7 +3456,7 @@ metafile = true
 
 [[files]]
 file = "mods/nbtedit-reborn.pw.toml"
-hash = "516216724b52675cdd69b58e639cfbee17b933d62d1a631d914baa6d58159a40"
+hash = "cb40733b1ef23f2e76d5ab76cfb965043878a7ab40c6d92a16946aee5c721dd3"
 metafile = true
 
 [[files]]
@@ -4050,7 +4050,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "de2e3266a32e8cfcfbcea7a52110872ec35add5c8e17fc6b77e93140e6482292"
+hash = "83c7ee12f85c821eb0541568d17d0a930e469d7cb1e97b4604583c9b3245b773"
 metafile = true
 
 [[files]]
@@ -4115,12 +4115,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "fdc0aa55f5b9a06e32fe62a16513ab47e1d6198c4fec6d1bfc6efcfd9f4288ca"
+hash = "93be7f5aff9f0c604d7c02b67d0035aaa1413fcfcd2fa9ebfcd3afa8f7285472"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "2ea2fa2f01bfb72be97ec4d7ac255bae8d40cecdd000e78d46ca63b3fa1f2583"
+hash = "6cf50d4c3ba88f0190c971943a3a1eda02a9d6aca812cb61026d8bbffd98ebfd"
 metafile = true
 
 [[files]]
