@@ -1,6 +1,7 @@
 name = "Balanced Music"
 filename = "Balanced-Music.zip"
 side = "client"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/CWBlLg2t/versions/d7xT5EqH/Balanced-Music.zip"

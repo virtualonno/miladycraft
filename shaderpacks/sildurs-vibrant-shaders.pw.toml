@@ -1,6 +1,7 @@
 name = "Sildur's Vibrant shaders"
 filename = "Sildur's Vibrant Shaders v1.52 Lite.zip"
-side = "both"
+side = "client"
+pin = true
 
 [download]
 hash-format = "sha1"

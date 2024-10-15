@@ -2329,7 +2329,7 @@ metafile = true
 
 [[files]]
 file = "mods/beacons-for-all.pw.toml"
-hash = "89ab58f35dda8aeeeb3e4372d17e416d0de37db1bdd78128197a769990955bc0"
+hash = "1b915bda65513193ca4865a762796ad13634cff1313bada6e8b08846361e1ee8"
 metafile = true
 
 [[files]]
@@ -2593,7 +2593,7 @@ metafile = true
 
 [[files]]
 file = "mods/collectors-reap.pw.toml"
-hash = "e00d4b61ba330167f475f80c8e4fc998c1c81561038ef884fbb32fb19fbd53a1"
+hash = "cf9b823b92162d93182a2bb77ab8d91230dde90a29120dd6212b81a10e6c301b"
 metafile = true
 
 [[files]]
@@ -2668,7 +2668,7 @@ metafile = true
 
 [[files]]
 file = "mods/craterlib.pw.toml"
-hash = "b0a0948183589e7986973ede205742915cb653695307daf17fffdec4737a6c92"
+hash = "bef37bea51a7367a6546558a0fbd1b672fdfd65bf367a14e95f015a5306ec6ea"
 metafile = true
 
 [[files]]
@@ -3217,7 +3217,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "79d4ebcb349accc88627f2ed6c57c288b7adc58c200f9def45b70d4a1225f3c6"
+hash = "708c9eb59187d616007ba99f8f2ecadb87f5df0bf7dbe63df940fbcf7236e02c"
 metafile = true
 
 [[files]]
@@ -3402,7 +3402,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "22884187b6e8fd7766ce57d8511fb8e63f9210cbb5a16334588b59c431a83a84"
+hash = "d5ebd6a072c380a9872729df7c48021f5f187329f51afbfcee43e952c49f6d08"
 metafile = true
 
 [[files]]
@@ -3532,6 +3532,11 @@ metafile = true
 [[files]]
 file = "mods/opulence.pw.toml"
 hash = "25e54620c3ac129b9a4cc201d4d7308c1068b12a3ff8bf7db2ee1e96c34d4741"
+metafile = true
+
+[[files]]
+file = "mods/packing-tape.pw.toml"
+hash = "12907b17a899120e421b428057bb8f2bc328451b9e635a34c9400bf69fb84f43"
 metafile = true
 
 [[files]]
@@ -3745,7 +3750,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-discord-link-bot-forge-fabric-spigot.pw.toml"
-hash = "c8d624dd36445998c1e5109428bb720e249d04d9c2572741e8146a5f9403e8f3"
+hash = "b096b09d464e87e74af9022cfb76ed418bea13c7ec376dd6d421af48719397ba"
 metafile = true
 
 [[files]]
@@ -3770,7 +3775,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "2b28321f32d58252e65ac70c5cbf7329d7a35f9daebc8a4bc82225064467e657"
+hash = "d7ff3030b6eabe5a85c1f4b7627a42b77af6e9e59f3331484e81a299501059a3"
 metafile = true
 
 [[files]]
@@ -3960,7 +3965,7 @@ metafile = true
 
 [[files]]
 file = "mods/trade-cycling.pw.toml"
-hash = "99e64adfe2e3668116fc065867941647b86d3f1d178438ce37a0b9d18cdf3133"
+hash = "12f4ceee8a70c672c7e422e247cdd649b1e5576f25ea3f17e5184f05db805607"
 metafile = true
 
 [[files]]
@@ -4050,7 +4055,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "83c7ee12f85c821eb0541568d17d0a930e469d7cb1e97b4604583c9b3245b773"
+hash = "33f99562eeb910a7ab3a93370b8beaa8d0038e1fa4e9c4030f32cc4541ad5edd"
 metafile = true
 
 [[files]]
@@ -4209,37 +4214,27 @@ hash = "be8701baa140ddf59d7bf66f61172144e55147eb6f89d94d6bb3e3569801f807"
 
 [[files]]
 file = "resources/balanced-music.pw.toml"
-hash = "87b84c1342639d14cb0d89ad1aa7ba932aa5c766c5adde3d073ab8c565f7b435"
-metafile = true
-
-[[files]]
-file = "resources/cgm-audio-visual-enhancements.pw.toml"
-hash = "13bc2ced74d21cfabb2e46276bae18e4f48051df1015a1b8a8927fd95fd07970"
+hash = "2fb21b219c6cdf8f8e800781baaf0480f3bf756dce8575573232336771a21268"
 metafile = true
 
 [[files]]
 file = "resources/gui-retextures.pw.toml"
-hash = "a3dd7cb3db1efb7657920bffb656d620af2e466750563d8fb6395fed4a69cd0e"
+hash = "d02eb7dea57d77d7068b83c72dd02b4a09db8316a38306da9c4b15b8c3e0868c"
 metafile = true
 
 [[files]]
 file = "resources/parcool-refurbishment.pw.toml"
-hash = "02cdf5c6c5a6e781f8fcf8dabd2abc31f5f0d86d18ed6e96a652dcf2a8971b67"
-metafile = true
-
-[[files]]
-file = "resources/pipez-recreated.pw.toml"
-hash = "b4740a5da318472e2f1f4f74fa4933aee864c75784554b11eddb0ad7b8268627"
+hash = "8022e04ea8b4bff2401c1164f5dc7d2402b819ccf348c2c24b7348fbe07af756"
 metafile = true
 
 [[files]]
 file = "resources/polished-old-nether-textures.pw.toml"
-hash = "310a6adaae28470d66c7fb5e260cb5c451dc27d99b553bcbd713c282aebcf94b"
+hash = "51647607e19d2db941d9bde3f6d899b74602c21f718ec3eebacc9af0c5d232d2"
 metafile = true
 
 [[files]]
 file = "resources/stormilla.pw.toml"
-hash = "866d47a0fa657ca6d0cbde2f8466b6ea84c305306f69195fecb7382121a00580"
+hash = "86a1a3fc929e2f3ef0fb4b3a86fa023e50b5e3c804b86a5e432c7d9256b91afd"
 metafile = true
 
 [[files]]
@@ -4248,20 +4243,20 @@ hash = "60841b1ecbc519a3f36bde758995fd988612bf21e64980ff313e4fec37236cfb"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "8a72dc1bff556553bc502e93fd133b2cfc736688c95e997d501803831f94ba22"
+hash = "e5100e5c6c5977a1c52d353308f222ff1a4f50270e9790819016ed943422a4ef"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "976b13a1d20d2147d1f03316155044acce30d46dc8d8e0495d3665d669e6e0c1"
+hash = "5f61f7a4ed767e46f1daa997a01972f6a679cbd59f38d30d7430b7fa01d15a56"
 metafile = true
 
 [[files]]
 file = "shaderpacks/sildurs-vibrant-shaders.pw.toml"
-hash = "a8b2afabc8e02a80b61c8fef9c1d4eacbce2a55cb843b20c39fc612034821cce"
+hash = "feae51834ebac57b40031fadef04be41569454e59b2697d8a0ce8451f5ebd41d"
 metafile = true
 
 [[files]]
 file = "shaderpacks/simplicissimus.pw.toml"
-hash = "116618569cf2bcadd8e4b52bacb3d5ca0b123a92f7f5788e995bf4d1c7af5cb4"
+hash = "0473d0cedbc6c0dfe9f3d5ef0f2a9a501ced89040bb171bab2bfe24b0ce425d9"
 metafile = true
