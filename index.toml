@@ -1277,6 +1277,10 @@ file = "config/shulkerdropstwo.json5"
 hash = "394d87313df206354ae270c1ace54a5fcfd1710a1027604d871d655ee01411b9"
 
 [[files]]
+file = "config/shutdowner-common.toml"
+hash = "d76d1033064c9845de2ac7cd1f0ca38f5b540197dab8a6662858a41b3c6785bb"
+
+[[files]]
 file = "config/sidekick.ini"
 hash = "0b0f40081bbe80bd8fb6f254620376156413063c3916770d204f90a195fbcdc6"
 
@@ -3861,11 +3865,6 @@ metafile = true
 [[files]]
 file = "mods/suggestion-provider-fix.pw.toml"
 hash = "814fa456173af8a17f00a0b81a74e04656a27248c092ef6a8bf322fb56be0147"
-metafile = true
-
-[[files]]
-file = "mods/suggestion-tweaker.pw.toml"
-hash = "91d2234e0a816a98b25418382c9592f5efd0f6b357a5f8b757f90d7663db39ef"
 metafile = true
 
 [[files]]
