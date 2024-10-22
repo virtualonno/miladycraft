@@ -2528,7 +2528,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "5906792ce2a9d35e2dc44ccae163708b0931bebb8cb9746b591aaacd8e689d26"
+hash = "d047eecfaf247c30e879e35485e8d5c1467b20658c043c9eea66d91f1d80909b"
 metafile = true
 
 [[files]]
@@ -2912,7 +2912,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "5ad8edb1b872d40b6c344a8f16185295fee8cbd35fd9df3afbffea6b0876da33"
+hash = "87ea2fa2819ec168799b819dd9f1051065dea40c9f42d9d43579dc2d62b217a0"
 metafile = true
 
 [[files]]
@@ -4059,7 +4059,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "33f99562eeb910a7ab3a93370b8beaa8d0038e1fa4e9c4030f32cc4541ad5edd"
+hash = "878792494d0eac6acb34c43ba4dc48152d1de3fcd91ad616e58d2e46572a9406"
 metafile = true
 
 [[files]]
@@ -4124,7 +4124,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "93be7f5aff9f0c604d7c02b67d0035aaa1413fcfcd2fa9ebfcd3afa8f7285472"
+hash = "47cee5c30b57a597a2069acce3c45f12d60d7b760019c33a0f4e54ed2e67dad0"
 metafile = true
 
 [[files]]
