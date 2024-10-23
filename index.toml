@@ -3121,7 +3121,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "2544c40e0f72a955bb07ba849f4201325d53a8e0c570a852a317594c4a51783c"
+hash = "b6bd2c541e21647ff4e6be3d28afea44e4f3505a65302500d29858ddd5e81fd8"
 metafile = true
 
 [[files]]
@@ -4059,7 +4059,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "878792494d0eac6acb34c43ba4dc48152d1de3fcd91ad616e58d2e46572a9406"
+hash = "d70f83bae8b8c33cf2355f788761adb79dc903cba33d68f46a140f8056c2a403"
 metafile = true
 
 [[files]]
