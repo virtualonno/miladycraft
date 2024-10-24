@@ -2671,11 +2671,6 @@ hash = "a54cb1c1e62e5ed9770ba33628f348b84d6ddc36635294c59024e3538d8a4781"
 metafile = true
 
 [[files]]
-file = "mods/crashexploitfixer.pw.toml"
-hash = "ccfd58d3e1d8f0465865fa3fd8df11e489b218032315f2b6f1a7e5161a30ec20"
-metafile = true
-
-[[files]]
 file = "mods/craterlib.pw.toml"
 hash = "bef37bea51a7367a6546558a0fbd1b672fdfd65bf367a14e95f015a5306ec6ea"
 metafile = true
