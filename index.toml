@@ -1277,10 +1277,6 @@ file = "config/shulkerdropstwo.json5"
 hash = "394d87313df206354ae270c1ace54a5fcfd1710a1027604d871d655ee01411b9"
 
 [[files]]
-file = "config/shutdowner-common.toml"
-hash = "d76d1033064c9845de2ac7cd1f0ca38f5b540197dab8a6662858a41b3c6785bb"
-
-[[files]]
 file = "config/sidekick.ini"
 hash = "0b0f40081bbe80bd8fb6f254620376156413063c3916770d204f90a195fbcdc6"
 
@@ -2702,7 +2698,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "5f25fc7780b589577a825f8e5f3063eda67c6057052f76054bd7620901a67ea6"
+hash = "fc002eee04583c5cc5789aeff36d8fa5df384fbe1aaeb6271c693f038ca575c7"
 metafile = true
 
 [[files]]
@@ -3221,7 +3217,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "708c9eb59187d616007ba99f8f2ecadb87f5df0bf7dbe63df940fbcf7236e02c"
+hash = "7befc4718b205d760fedcef1aa160b3f7ebde248774f4a1eb79e0e2d352afe89"
 metafile = true
 
 [[files]]
@@ -3724,7 +3720,7 @@ metafile = true
 
 [[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
-hash = "5ca73bb7615ec4a765233fbc362c3f9d193a2238797c2af212f4d9f171c0116c"
+hash = "63db5bce310e6452bd0d832f5470c48e31e1f54cd7d3b6f0ba7b6544771286e1"
 metafile = true
 
 [[files]]
@@ -4054,7 +4050,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "33f99562eeb910a7ab3a93370b8beaa8d0038e1fa4e9c4030f32cc4541ad5edd"
+hash = "5df08fc0bd1e1ed4fe706a74472aaf654a1fd4a7e1c7ba07e3f9049468763a40"
 metafile = true
 
 [[files]]
