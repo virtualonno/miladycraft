@@ -1580,7 +1580,7 @@ hash = "e5d6bcba84332df82d098023128cc61f03e69ad07d8ee08691055e08cb971ff5"
 
 [[files]]
 file = "defaultconfigs/forge-server.toml"
-hash = "b25b0f5d49e3707fd282635c6bc2fbfd29af75a9b996d564e3a5013efdbd954c"
+hash = "caa8176d3073865ae4f2ddcfcc37e07337268f67595cdeb2ae058226705ccf35"
 
 [[files]]
 file = "defaultconfigs/ftbessentials.snbt"
