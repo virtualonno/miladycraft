@@ -2001,7 +2001,7 @@ hash = "134fb1371b2354c3741a2fbfb37ecddd496c011c6410a2881baebe51a5522924"
 
 [[files]]
 file = "kubejs/server_scripts/customRecipes.js"
-hash = "e38afedd6204529388493d50d59b158acef3bc02200c42cc5767ffc4866147be"
+hash = "79ce46f9a876ac1f2de92da194abe77a66f5f734de08e050e45cffb44f8ee094"
 
 [[files]]
 file = "kubejs/server_scripts/deathMessages.js"
@@ -3112,7 +3112,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "b6bd2c541e21647ff4e6be3d28afea44e4f3505a65302500d29858ddd5e81fd8"
+hash = "1fc166d3949f5bb539826d0be2302d841b03afc7099ac4fe223826d2802e43c7"
 metafile = true
 
 [[files]]
@@ -3546,7 +3546,7 @@ metafile = true
 
 [[files]]
 file = "mods/parcool.pw.toml"
-hash = "55e23fdbf8c754608f77225832ddd5d3324c350f444dd18c03aa1fb55fdffdf9"
+hash = "0200b4a4d66b1bed43767daa7967c1c9aa066c7ffd8fb3274f28b9b2b9e25503"
 metafile = true
 
 [[files]]
@@ -3621,7 +3621,7 @@ metafile = true
 
 [[files]]
 file = "mods/raised.pw.toml"
-hash = "fd206b38c4a3959268b9d1edcfdb6f3d86566111101df56f189610237c847914"
+hash = "a464a0c236f6bb1fe14fc869d4d882da0003b4dc2cdf1608ef6ad3a78cb45b9f"
 metafile = true
 
 [[files]]
@@ -3720,7 +3720,7 @@ metafile = true
 
 [[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
-hash = "63db5bce310e6452bd0d832f5470c48e31e1f54cd7d3b6f0ba7b6544771286e1"
+hash = "7b815579a06d0c77b6294ba8a2fc5eff2519c19cbce0aea9812694f64ec12ac4"
 metafile = true
 
 [[files]]
@@ -3775,7 +3775,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "d7ff3030b6eabe5a85c1f4b7627a42b77af6e9e59f3331484e81a299501059a3"
+hash = "24e7a387b700020c4074a97776bd50cd35ffa11364a14897e6d18431d5bf9e9c"
 metafile = true
 
 [[files]]
@@ -4115,12 +4115,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "47cee5c30b57a597a2069acce3c45f12d60d7b760019c33a0f4e54ed2e67dad0"
+hash = "f9643aee00681201bf1cafdb677a6354e82f40f3eb5837a076e2a4e1d5438b55"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "6cf50d4c3ba88f0190c971943a3a1eda02a9d6aca812cb61026d8bbffd98ebfd"
+hash = "2b4363d83b35a4c27df44f4874762a2ad310b1df26bc5c5451f6c30a3218d3a3"
 metafile = true
 
 [[files]]
