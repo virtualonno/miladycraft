@@ -1,7 +1,6 @@
 name = "Simplicissimus Shader"
 filename = "Simplicissimus_v1.3a.zip"
 side = "client"
-pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/dEAKT8y9/versions/lNKYwjuL/Simplicissimus_v1.3a.zip"

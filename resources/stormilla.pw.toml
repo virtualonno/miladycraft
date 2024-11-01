@@ -1,14 +1,13 @@
 name = "Stormilla"
-filename = "Stormilla-v2.11.2.zip"
+filename = "Stormilla-v2.10.2.zip"
 side = "client"
-pin = true
 
 [download]
-url = "https://cdn.modrinth.com/data/wJkMxmyK/versions/BiFLWjqN/Stormilla-v2.11.2.zip"
+url = "https://cdn.modrinth.com/data/wJkMxmyK/versions/NKRUg7g1/Stormilla-v2.10.2.zip"
 hash-format = "sha1"
-hash = "94f9fe67b66053c06b67e4aec75124d92bed08b8"
+hash = "e6e053acc901005f3ef967212a1b0bfd7a8b4b1a"
 
 [update]
 [update.modrinth]
 mod-id = "wJkMxmyK"
-version = "BiFLWjqN"
+version = "NKRUg7g1"

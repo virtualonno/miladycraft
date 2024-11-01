@@ -1,7 +1,6 @@
 name = "Collector's Reap"
 filename = "collectorsreap-1.19-1.2.4.jar"
 side = "both"
-pin = true
 
 [download]
 hash-format = "sha1"

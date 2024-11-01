@@ -1,7 +1,6 @@
 name = "| Parcool Refurbishment |"
 filename = "Parcool Refurbishment V1.0.zip"
-side = "client"
-pin = true
+side = "both"
 
 [download]
 hash-format = "sha1"

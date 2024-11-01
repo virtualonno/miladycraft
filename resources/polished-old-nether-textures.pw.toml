@@ -1,7 +1,6 @@
 name = "Polished Old Nether Textures"
 filename = "Polished Old Nether Textures.zip"
-side = "client"
-pin = true
+side = "both"
 
 [download]
 hash-format = "sha1"

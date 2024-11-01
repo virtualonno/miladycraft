@@ -391,12 +391,7 @@ ServerEvents.recipes( event => {
 	trappedIronChest('ironchest:gold_chest', 'ironchest:trapped_gold_chest')
 	trappedIronChest('ironchest:diamond_chest', 'ironchest:trapped_diamond_chest')
 
-	event.shapeless(
-		Item.of('minecraft:bamboo', 9),
-		[
-			'quark:bamboo_block'
-		]
-	)
+	
 	
 	
 	

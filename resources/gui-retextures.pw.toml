@@ -1,7 +1,6 @@
 name = "GUI Retextures"
 filename = "guiretextures-1.11.zip"
-side = "client"
-pin = true
+side = "both"
 
 [download]
 hash-format = "sha1"
