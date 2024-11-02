@@ -3779,11 +3779,6 @@ hash = "b02c488935f4df196ebca14b3e7f04e73a9206bb72699557bdaefef845b4d32d"
 metafile = true
 
 [[files]]
-file = "mods/simple-voice-chat.pw.toml"
-hash = "6dfcb14c3df7da942e0e54b1ad1a9f033a4cafbb08639bd5a58ebf6e7b9ba3f6"
-metafile = true
-
-[[files]]
 file = "mods/simplehats.pw.toml"
 hash = "02f86f0a631cf71b4d51698abf0aa573718679a3ca8797812465577d46d79467"
 metafile = true
@@ -4259,4 +4254,9 @@ metafile = true
 [[files]]
 file = "shaderpacks/simplicissimus.pw.toml"
 hash = "0473d0cedbc6c0dfe9f3d5ef0f2a9a501ced89040bb171bab2bfe24b0ce425d9"
+metafile = true
+
+[[files]]
+file = "simple-voice-chat.pw.toml"
+hash = "6dfcb14c3df7da942e0e54b1ad1a9f033a4cafbb08639bd5a58ebf6e7b9ba3f6"
 metafile = true
