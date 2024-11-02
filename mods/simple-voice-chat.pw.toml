@@ -1,6 +1,7 @@
 name = "Simple Voice Chat"
 filename = "voicechat-forge-1.19.2-2.5.22.jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"

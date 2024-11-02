@@ -1,0 +1,36 @@
+
+#List of curio slot type settings
+[[curiosSettings]]
+	identifier = "charm"
+	hasCosmetic = false
+	override = true
+
+[[curiosSettings]]
+	identifier = "curio"
+	visible = false
+	override = true
+	hasCosmetic = false
+	size = 0
+
+[[curiosSettings]]
+	identifier = "head"
+	visible = true
+	override = true
+	hasCosmetic = false
+	size = 1
+
+[[curiosSettings]]
+	identifier = "belt"
+	visible = true
+	override = true
+	hasCosmetic = false
+	size = 2
+
+[[curiosSettings]]
+	identifier = "cosmetic"
+	icon = "curios:slot/empty_cosmetic_slot"
+	visible = true
+	override = true
+	hasCosmetic = false
+	size = 2
+
