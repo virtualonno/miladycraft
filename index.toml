@@ -2104,6 +2104,11 @@ hash = "b02c488935f4df196ebca14b3e7f04e73a9206bb72699557bdaefef845b4d32d"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "2b28321f32d58252e65ac70c5cbf7329d7a35f9daebc8a4bc82225064467e657"
+metafile = true
+
+[[files]]
 file = "mods/simplehats.pw.toml"
 hash = "02f86f0a631cf71b4d51698abf0aa573718679a3ca8797812465577d46d79467"
 metafile = true
