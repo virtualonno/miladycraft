@@ -536,11 +536,6 @@ hash = "db28449fb57fcd2607019fa7cefb558d13df13937b44298b732d44bac0e32e96"
 metafile = true
 
 [[files]]
-file = "mods/alexsmobfix.pw.toml"
-hash = "4827564440919ffdd32d93207eb1688f4f2cab666ac1be27056e6271c7d47e09"
-metafile = true
-
-[[files]]
 file = "mods/allay-in-a-bottle.pw.toml"
 hash = "c22b0ecf8a4ee51d784dcaaf98e73e4374eaebb5ee1ef470a993aabd783c6855"
 metafile = true
@@ -886,8 +881,9 @@ hash = "89d4a78714f738ae2e88583e8721e22a271c6ba530873a69db418b4fe7d446c1"
 metafile = true
 
 [[files]]
-file = "mods/citadel-2.1.4-1.19.2_connectionfixed.jar"
-hash = "a983cd30047d328f7f5009c5540583ecfeb051c7bd33c6ab1af380cb9db0aaa4"
+file = "mods/citadel.pw.toml"
+hash = "36b059a08858d8a67c051da3ef5dbaf71787482156521c37c8284a36230e6bcd"
+metafile = true
 
 [[files]]
 file = "mods/clayworks.pw.toml"
@@ -1978,11 +1974,6 @@ hash = "2fcfaea6e5532a09ad32114ea214553f63d71d41e016c4bb8cbdd151a8334394"
 metafile = true
 
 [[files]]
-file = "mods/refurbished-furniture.pw.toml"
-hash = "d8c12d3a4a075334b666ef4657c8814c8eed94555c56faf92ed3f7fa562935de"
-metafile = true
-
-[[files]]
 file = "mods/resource-pack-overrides.pw.toml"
 hash = "4e8cb937546b285277947d125391187dd6028db99ce55d0a64f5e753911ffe5d"
 metafile = true
@@ -2008,8 +1999,9 @@ hash = "4cb3ec1cf323f88d65fb17f0b091a68d3094bc184e9ca276e5c68ccab057a324"
 metafile = true
 
 [[files]]
-file = "mods/savage_and_ravage-1.19.2-5.0.5-custom_build.jar"
-hash = "d7a3788f5acbe9911e2d16df18508b7ce34ce336fadb54e43be65738ecc2b0b8"
+file = "mods/savage-and-ravage.pw.toml"
+hash = "0c4f398645a0fdbe74cd7204efafe1348c448170dab1e007e1d00d8a832e63f5"
+metafile = true
 
 [[files]]
 file = "mods/sawmill.pw.toml"
@@ -2512,6 +2504,11 @@ hash = "e9e057e0611236b155d634eede0cefd9eca9ef4d56b70c2f1731e73cc7763be6"
 metafile = true
 
 [[files]]
+file = "mods_og/alexsmobfix.pw.toml"
+hash = "4827564440919ffdd32d93207eb1688f4f2cab666ac1be27056e6271c7d47e09"
+metafile = true
+
+[[files]]
 file = "mods_og/citadel.pw.toml"
 hash = "36b059a08858d8a67c051da3ef5dbaf71787482156521c37c8284a36230e6bcd"
 metafile = true
@@ -2534,6 +2531,11 @@ preserve = true
 [[files]]
 file = "packmenu/resources.zip"
 hash = "be8701baa140ddf59d7bf66f61172144e55147eb6f89d94d6bb3e3569801f807"
+
+[[files]]
+file = "removed_for_testing/refurbished-furniture.pw.toml"
+hash = "d8c12d3a4a075334b666ef4657c8814c8eed94555c56faf92ed3f7fa562935de"
+metafile = true
 
 [[files]]
 file = "removed_for_testing/waterframes.pw.toml"
