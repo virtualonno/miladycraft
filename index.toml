@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "bluemap.pw.toml"
+hash = "045f5e5c2ecfa5949e413b7f257ef352dc8f61fbf1ad1e1756f8930f88458368"
+metafile = true
+
+[[files]]
 file = "config/Adorn.json5"
 hash = "86158f3c7d8edbd86caabc1cda89e5c55668bf270b7791fc813b098c91a1337b"
 
@@ -2420,11 +2425,6 @@ metafile = true
 [[files]]
 file = "mods/block-swap.pw.toml"
 hash = "ba344e8d9cfe8c8f88c7a61ae99e044f3955a3e9c6ecf86849e9982bf4f2d9bd"
-metafile = true
-
-[[files]]
-file = "mods/bluemap.pw.toml"
-hash = "045f5e5c2ecfa5949e413b7f257ef352dc8f61fbf1ad1e1756f8930f88458368"
 metafile = true
 
 [[files]]
