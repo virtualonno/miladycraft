@@ -1,6 +1,7 @@
 name = "Beacons For All (Fabric/Forge/Quilt)"
 filename = "beaconsforall-forge-6.0.1+1.19.2.jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"

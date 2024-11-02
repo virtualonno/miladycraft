@@ -1,6 +1,7 @@
 name = "Complementary Shaders - Unbound"
 filename = "ComplementaryUnbound_r5.2.2.zip"
-side = "both"
+side = "client"
+pin = true
 
 [download]
 hash-format = "sha1"
