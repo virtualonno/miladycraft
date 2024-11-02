@@ -2104,11 +2104,6 @@ hash = "b02c488935f4df196ebca14b3e7f04e73a9206bb72699557bdaefef845b4d32d"
 metafile = true
 
 [[files]]
-file = "mods/simple-voice-chat.pw.toml"
-hash = "24e7a387b700020c4074a97776bd50cd35ffa11364a14897e6d18431d5bf9e9c"
-metafile = true
-
-[[files]]
 file = "mods/simplehats.pw.toml"
 hash = "02f86f0a631cf71b4d51698abf0aa573718679a3ca8797812465577d46d79467"
 metafile = true
@@ -2535,6 +2530,11 @@ hash = "be8701baa140ddf59d7bf66f61172144e55147eb6f89d94d6bb3e3569801f807"
 [[files]]
 file = "removed_for_testing/refurbished-furniture.pw.toml"
 hash = "d8c12d3a4a075334b666ef4657c8814c8eed94555c56faf92ed3f7fa562935de"
+metafile = true
+
+[[files]]
+file = "removed_for_testing/simple-voice-chat.pw.toml"
+hash = "24e7a387b700020c4074a97776bd50cd35ffa11364a14897e6d18431d5bf9e9c"
 metafile = true
 
 [[files]]
