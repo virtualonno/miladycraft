@@ -1,9 +1,0 @@
-
-#Blocks
-[blocks]
-
-	#Jade
-	[blocks.jade]
-		#If the velocity of projectiles bounced off of a Jade block should be based on its previous velocity instead of a static value. [Warning: Experimental] (default = false)
-		"Dynamic ricochet velocity" = false
-
