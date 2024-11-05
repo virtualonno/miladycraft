@@ -702,7 +702,7 @@ hash = "43283271341e370d8976cbe328fdf5f88d1e24e44f22ac50f740cb432b13e790"
 
 [[files]]
 file = "config/desiredservers/desiredservers.json"
-hash = "92c5ddf06dfc64b56f9e886a5ffa23b05f4bfc664542f527393116fe03c7ddae"
+hash = "9e6b4897c752a86be6d02c5cffea3e69917f860dd79354ac2f70e030a96113a8"
 
 [[files]]
 file = "config/despawn_tweaker-common.toml"
@@ -3331,11 +3331,6 @@ hash = "d21ebdd8d0c381c2dcea3817308c6ffc7e033b1beb6e27b8ed0ba539b4fac861"
 metafile = true
 
 [[files]]
-file = "mods/log-begone.pw.toml"
-hash = "4213fbf3c69dda9733f205d6a0d8d130cccb10f4271cd6a469bf3c99fa358c89"
-metafile = true
-
-[[files]]
 file = "mods/login-protection.pw.toml"
 hash = "f0fbc2700918da890f98027ed75fa7f2864a73dc069425ee3c40e366c28df32c"
 metafile = true
@@ -3779,6 +3774,11 @@ hash = "b02c488935f4df196ebca14b3e7f04e73a9206bb72699557bdaefef845b4d32d"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "2b28321f32d58252e65ac70c5cbf7329d7a35f9daebc8a4bc82225064467e657"
+metafile = true
+
+[[files]]
 file = "mods/simplehats.pw.toml"
 hash = "02f86f0a631cf71b4d51698abf0aa573718679a3ca8797812465577d46d79467"
 metafile = true
@@ -4184,18 +4184,8 @@ hash = "e9e057e0611236b155d634eede0cefd9eca9ef4d56b70c2f1731e73cc7763be6"
 metafile = true
 
 [[files]]
-file = "mods_og/citadel.pw.toml"
-hash = "36b059a08858d8a67c051da3ef5dbaf71787482156521c37c8284a36230e6bcd"
-metafile = true
-
-[[files]]
 file = "mods_og/moyai.pw.toml"
 hash = "71c7cf0ece2bd58b72dd45cae490fab2b997c9f08460797bc04a1b6c20db9be1"
-metafile = true
-
-[[files]]
-file = "mods_og/savage-and-ravage.pw.toml"
-hash = "0c4f398645a0fdbe74cd7204efafe1348c448170dab1e007e1d00d8a832e63f5"
 metafile = true
 
 [[files]]
@@ -4206,6 +4196,11 @@ preserve = true
 [[files]]
 file = "packmenu/resources.zip"
 hash = "be8701baa140ddf59d7bf66f61172144e55147eb6f89d94d6bb3e3569801f807"
+
+[[files]]
+file = "quarantine/log-begone.pw.toml"
+hash = "4213fbf3c69dda9733f205d6a0d8d130cccb10f4271cd6a469bf3c99fa358c89"
+metafile = true
 
 [[files]]
 file = "resources/balanced-music.pw.toml"
@@ -4254,9 +4249,4 @@ metafile = true
 [[files]]
 file = "shaderpacks/simplicissimus.pw.toml"
 hash = "0473d0cedbc6c0dfe9f3d5ef0f2a9a501ced89040bb171bab2bfe24b0ce425d9"
-metafile = true
-
-[[files]]
-file = "simple-voice-chat.pw.toml"
-hash = "6dfcb14c3df7da942e0e54b1ad1a9f033a4cafbb08639bd5a58ebf6e7b9ba3f6"
 metafile = true
