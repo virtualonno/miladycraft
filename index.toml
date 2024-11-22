@@ -1547,6 +1547,10 @@ file = "config/xaeroworldmap.txt"
 hash = "f6bb49523feb480fccc121d15b5ea71d22e4a0aa15d4a9975158acccc4061635"
 
 [[files]]
+file = "customDeathMessages.js"
+hash = "2b9e74ebff9c7b4e1fec9645ea2b46f7431b20c7bedce09a3fd1460223dcc621"
+
+[[files]]
 file = "defaultconfigs/artifacts-server.toml"
 hash = "38b1fe0cc3ba28d7c9537d91e91e1187e35abcfd2f5630a6bd2b39243371316c"
 
@@ -1960,6 +1964,14 @@ file = "kubejs/assets/assets.zip"
 hash = "f009739233a236dd30e44b71a83fd2aff7737446460fb72b98c19aadcd9993f3"
 
 [[files]]
+file = "kubejs/assets/miladycraft/lang/en_us.json"
+hash = "248bb63a73c742eaff1a3cd0716200e5c9b16f62af18892261950eb4f2576363"
+
+[[files]]
+file = "kubejs/assets/miladycraft/lang/nl_nl.json"
+hash = "b5be7c3f5ad021d2d12ed18e693f4b020b0eeea0688797a5fdb31c2aaf939109"
+
+[[files]]
 file = "kubejs/client_scripts/JEIEvents.js"
 hash = "984adfaade714533bfb28b493397f026b06447bae5cbdfbf00147db83f0ee22b"
 
@@ -1978,6 +1990,10 @@ hash = "9ee064a8f8dcc1e866601bd2e81040e2509f8d809b3c41cdee81c59fe79d72cf"
 [[files]]
 file = "kubejs/data/data.zip"
 hash = "17199bcbf4b043dae08b3ebac06c5bd2c6c5376b0f2af9bb9dbfd567509dbc36"
+
+[[files]]
+file = "kubejs/needs_refactor/petEnchantmentClear.js"
+hash = "67be469e1bfac5ce2a4c95dc5951a68223ae70386a484d6c1e9451b1ea0dbb6e"
 
 [[files]]
 file = "kubejs/server_scripts/blockCommands.js"
@@ -2002,10 +2018,6 @@ hash = "134fb1371b2354c3741a2fbfb37ecddd496c011c6410a2881baebe51a5522924"
 [[files]]
 file = "kubejs/server_scripts/customRecipes.js"
 hash = "79ce46f9a876ac1f2de92da194abe77a66f5f734de08e050e45cffb44f8ee094"
-
-[[files]]
-file = "kubejs/server_scripts/deathMessages.js"
-hash = "1ac341d77e47e6b126f45c4610dc7842b9772e783ddcd6e74684b7d90406c97b"
 
 [[files]]
 file = "kubejs/server_scripts/effectDeserter.js"
@@ -2038,10 +2050,6 @@ hash = "0f5767f40eed602d178bc5a72ac7bd4ce7c004b216cea0cdbc9911d571176fc0"
 [[files]]
 file = "kubejs/server_scripts/itemRightClicks.js"
 hash = "145e4767e904b56e5876f626980d8cfd26d3e12f2f016e34f456ec05a68a6cb8"
-
-[[files]]
-file = "kubejs/server_scripts/loginUtilsServer.js"
-hash = "8eeda590dd9b7f558b1330bc54a1b284b1fc0f87c13908bd09fe55c8acb58337"
 
 [[files]]
 file = "kubejs/server_scripts/modifiedLoot.js"
@@ -2080,12 +2088,12 @@ file = "kubejs/server_scripts/replaceSpawns.js"
 hash = "f463e04cdec22d64d5691653e9013544260f91d364b878ef05e902b3ec5b0a68"
 
 [[files]]
-file = "kubejs/server_scripts/serverannouncements.js"
-hash = "a9e98e1c37b9541186cba42808b8feb517b08c6cbd6ed9f94cb612db3b89fe7b"
+file = "kubejs/server_scripts/serverStartup.js"
+hash = "7945523d3e96c5fdc4bd65b3bb1e78880b3b3a636a4febb7545c8ed51570faad"
 
 [[files]]
-file = "kubejs/server_scripts/startup_and_silent_reload.js"
-hash = "f746e522883967587b90c8f4ae0803dc377d3fc2d3bd201ad0e5fb38bd21cf95"
+file = "kubejs/server_scripts/serverannouncements.js"
+hash = "a9e98e1c37b9541186cba42808b8feb517b08c6cbd6ed9f94cb612db3b89fe7b"
 
 [[files]]
 file = "kubejs/server_scripts/structureEffect.js"
@@ -2106,6 +2114,10 @@ hash = "79ac38ad6da602e0dbce4dbf5e7ea3540662cfcb2a6405e5bd0fe87c6e30f314"
 [[files]]
 file = "kubejs/startup_scripts/bulletProtection.js"
 hash = "fdbff91c7d90e29cd68241798cc0f84a0bd638e4986399613d7203645ed50f4d"
+
+[[files]]
+file = "kubejs/startup_scripts/customDeathMessages.js"
+hash = "fddabd44c5509514d811397ddec87553d57acdc8580392dcba4d412615e06d2d"
 
 [[files]]
 file = "kubejs/startup_scripts/customEffects.js"
@@ -2134,10 +2146,6 @@ hash = "6cc15655cecbd32aae124a1b76038c0af33b31cc11f33491242323ae17774c70"
 [[files]]
 file = "kubejs/startup_scripts/milkImmunity.js"
 hash = "06b3cf6baa4f0df5b25b2201ab06f7db8a37b6765199f250331a6ea844b205db"
-
-[[files]]
-file = "kubejs/startup_scripts/petEnchantmentClear.js"
-hash = "67be469e1bfac5ce2a4c95dc5951a68223ae70386a484d6c1e9451b1ea0dbb6e"
 
 [[files]]
 file = "kubejs/startup_scripts/spawnerCleanse.js"
@@ -2394,7 +2402,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterdays.pw.toml"
-hash = "d142df1db719158fbd3125c1cf0c4c1eaa4fba8d73765c79eff866bac60abaae"
+hash = "b1212c8e3f60bd2d0d38fee270028786a77c1dd63792f3ac2843818e27f6c4c3"
 metafile = true
 
 [[files]]
@@ -2524,7 +2532,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "d047eecfaf247c30e879e35485e8d5c1467b20658c043c9eea66d91f1d80909b"
+hash = "94ac6c0a3861a7d5f49e75cb09a2c6ca43977bccbacc7d5f22da1ae6cf52fc34"
 metafile = true
 
 [[files]]
@@ -2903,7 +2911,12 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "8fdb4d04d3866dbd08b4c5e6431036d7e920557ac3114c6c75307925c1940c0d"
+hash = "786da7571b692ad289038375630d3b9e8f780a289a53537237c474024740551c"
+metafile = true
+
+[[files]]
+file = "mods/eventjs.pw.toml"
+hash = "56b365742e250cb6a1869124f71c0787518be65f129f1f97fc6a0983c675c718"
 metafile = true
 
 [[files]]
@@ -2987,7 +3000,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgery.pw.toml"
-hash = "989e011188b2884877a4d5bcdc284a447fcf3d6628111a0232a3b10caf5c337e"
+hash = "bb2becc9bb14ddc6ad6a3c88d7194cb800b3b88ad2ad9b7bf9f4ba9388c621d2"
 metafile = true
 
 [[files]]
@@ -3117,7 +3130,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "1fc166d3949f5bb539826d0be2302d841b03afc7099ac4fe223826d2802e43c7"
+hash = "8a27ad2aa65cd7bb322c332d20ed4df433c2c4031ee79951932de90e188f4ee3"
 metafile = true
 
 [[files]]
@@ -3352,7 +3365,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "a48e20586160ee00795d37bed4a130650278f1ee1691e1d5e547faa0ab242f0a"
+hash = "5d494ba82ba1e72c57adefb9e2774f7501689a0a680786248a923dbd933e0bae"
 metafile = true
 
 [[files]]
@@ -3496,7 +3509,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "cefec0fcdcb8c5f68328c042c58f458c694619e63fb5e221dc08b64b782e5a87"
+hash = "e9234d0e97988583989c0f3aa4216ca13955282d78dceb574ded66d172665006"
 metafile = true
 
 [[files]]
@@ -3546,7 +3559,7 @@ metafile = true
 
 [[files]]
 file = "mods/parcool.pw.toml"
-hash = "0200b4a4d66b1bed43767daa7967c1c9aa066c7ffd8fb3274f28b9b2b9e25503"
+hash = "661703ac272cc08b7d65f757132565d1c35262186fd7d60fde91edea414f3f65"
 metafile = true
 
 [[files]]
@@ -3641,7 +3654,7 @@ metafile = true
 
 [[files]]
 file = "mods/refurbished-furniture.pw.toml"
-hash = "d8c12d3a4a075334b666ef4657c8814c8eed94555c56faf92ed3f7fa562935de"
+hash = "a21fa767ad619a393109da31761f38dad0f81835708fbbbea18153ef50013182"
 metafile = true
 
 [[files]]
@@ -3745,7 +3758,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-backups.pw.toml"
-hash = "2102ecbed70b6ee9c21bb40120f5d558d4a47dbf2fac33a08a80b49ba62d725e"
+hash = "b14d05e7950c26c377f95953e36f55a21c1c4f79070aa9efa0019359f7e16789"
 metafile = true
 
 [[files]]
@@ -3775,7 +3788,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "2b28321f32d58252e65ac70c5cbf7329d7a35f9daebc8a4bc82225064467e657"
+hash = "8c6b2a87f513e4809e19a0c5963a3b4d98e7285736d8c2eede4742160ad05741"
 metafile = true
 
 [[files]]
@@ -3965,7 +3978,7 @@ metafile = true
 
 [[files]]
 file = "mods/trafficcraft.pw.toml"
-hash = "420123567947f3693d5261d2b414f20f7069645d6472440edf9ce98ba599e69a"
+hash = "f731c4b31632df84670308d2c7562ed564e9ba67b2402c276986dbdcda66b2a0"
 metafile = true
 
 [[files]]
@@ -4029,11 +4042,6 @@ hash = "0933c751ef107dc173728e8456eca8a03f088e7ccce28233707a37acda8ede5c"
 metafile = true
 
 [[files]]
-file = "mods/village-bell-recipe.pw.toml"
-hash = "4da2f0e990c5e893c6770d319b531a7987536c4d2142aae70ad642d4a791f9c9"
-metafile = true
-
-[[files]]
 file = "mods/wabi-sabi-structures.pw.toml"
 hash = "80538fd47a17a1bfefae58d438add7af30a14efaf2e4ec66730ad38b311f1a40"
 metafile = true
@@ -4066,11 +4074,6 @@ metafile = true
 [[files]]
 file = "mods/weaponworks.pw.toml"
 hash = "fb036eceac0b442edd438211e30c8f713b7466ba1b300ef8bf0ac8349c5423d8"
-metafile = true
-
-[[files]]
-file = "mods/welcome-message.pw.toml"
-hash = "d55899f9f955d136a8bfaaf6f6e0876a346c00c24e0b14885ee716cdb939b062"
 metafile = true
 
 [[files]]

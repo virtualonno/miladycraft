@@ -1,0 +1,13 @@
+name = "EventJS"
+filename = "EventJS-1.19.2-1.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b434410a6a69bd260fd92b7496ed43e97406c77e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5887822
+project-id = 1132802

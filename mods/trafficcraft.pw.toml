@@ -1,13 +1,13 @@
 name = "TrafficCraft"
-filename = "trafficcraft-1.0.4-1.19.2.jar"
+filename = "trafficcraft-forge-1.19.2-1.1.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "1af87f94317819e56a12470adbfaf426d241c78c"
+hash = "adfb66f99a5413efe8881e9cc8f241fc5f607ca9"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5324375
+file-id = 5888886
 project-id = 852322

@@ -1,0 +1,90 @@
+{
+	"miladycraft.death.pet.named.1": "%s's pet %s '%s'",
+	"miladycraft.death.pet.named.2": "%s's darling %s '%s'",
+	"miladycraft.death.pet.named.3": "%s's beloved %s '%s'",
+
+	"miladycraft.death.pet.unnamed": "%s's %s",
+
+	
+	"miladycraft.death.attack.supplementaries.bamboo_spikes.1": "%s was impaled on a spike",
+
+	"miladycraft.death.attack.tacz.bullet.1": "%s was turned into Swiss cheese",
+	"miladycraft.death.attack.tacz.bullet.2": "%s was blammed",
+	"miladycraft.death.attack.tacz.bullet.3": "%s was drilled",
+	"miladycraft.death.attack.tacz.bullet.4": "%s was clapped",
+	"miladycraft.death.attack.tacz.bullet.5": "%s was eliminated",
+	"miladycraft.death.attack.tacz.bullet.6": "%s was executed",
+	"miladycraft.death.attack.tacz.bullet.7": "%s was annihilated",
+	"miladycraft.death.attack.tacz.bullet.8": "%s was decimated",
+	"miladycraft.death.attack.tacz.bullet.9": "%s was eviscerated",
+	"miladycraft.death.attack.tacz.bullet.10": "%s was expunged",
+	"miladycraft.death.attack.tacz.bullet.11": "%s was silenced",
+	"miladycraft.death.attack.tacz.bullet.12": "%s was kevorked",
+	"miladycraft.death.attack.tacz.bullet.13": "%s was butchered",
+	"miladycraft.death.attack.tacz.bullet.14": "%s was torpedoed",
+	"miladycraft.death.attack.tacz.bullet.15": "%s was abolished",
+	"miladycraft.death.attack.tacz.bullet.16": "%s was iced",
+	"miladycraft.death.attack.tacz.bullet.17": "%s was slapped",
+	"miladycraft.death.attack.tacz.bullet.18": "%s was wasted",
+	"miladycraft.death.attack.tacz.bullet.19": "%s was smoked",
+	"miladycraft.death.attack.tacz.bullet.20": "%s was pwned",
+	"miladycraft.death.attack.tacz.bullet.21": "%s was nailed",
+	"miladycraft.death.attack.tacz.bullet.22": "%s was perforated",
+	"miladycraft.death.attack.tacz.bullet.23": "%s was ventilated",
+	"miladycraft.death.attack.tacz.bullet.24": "%s was lead-poisoned",
+	"miladycraft.death.attack.tacz.bullet.25": "%s was crushed",
+	"miladycraft.death.attack.tacz.bullet.26": "%s was shell-shocked",
+	"miladycraft.death.attack.tacz.bullet.27": "%s was liquidated",
+	"miladycraft.death.attack.tacz.bullet.28": "%s was euthanized",
+
+	"miladycraft.death.attack.thrown.1": "%s was turned into Swiss cheese",
+	"miladycraft.death.attack.thrown.2": "%s was blammed",
+	"miladycraft.death.attack.thrown.3": "%s was drilled",
+	"miladycraft.death.attack.thrown.4": "%s was clapped",
+	"miladycraft.death.attack.thrown.5": "%s was eliminated",
+	"miladycraft.death.attack.thrown.6": "%s was executed",
+	"miladycraft.death.attack.thrown.7": "%s was annihilated",
+	"miladycraft.death.attack.thrown.8": "%s was decimated",
+	"miladycraft.death.attack.thrown.9": "%s was eviscerated",
+	"miladycraft.death.attack.thrown.10": "%s was expunged",
+	"miladycraft.death.attack.thrown.11": "%s was silenced",
+	"miladycraft.death.attack.thrown.12": "%s was kevorked",
+	"miladycraft.death.attack.thrown.13": "%s was butchered",
+	"miladycraft.death.attack.thrown.14": "%s was torpedoed",
+	"miladycraft.death.attack.thrown.15": "%s was abolished",
+	"miladycraft.death.attack.thrown.16": "%s was iced",
+	"miladycraft.death.attack.thrown.17": "%s was slapped",
+	"miladycraft.death.attack.thrown.18": "%s was wasted",
+	"miladycraft.death.attack.thrown.19": "%s was smoked",
+	"miladycraft.death.attack.thrown.20": "%s was pwned",
+	"miladycraft.death.attack.thrown.21": "%s was nailed",
+	"miladycraft.death.attack.thrown.22": "%s was perforated",
+	"miladycraft.death.attack.thrown.23": "%s was ventilated",
+	"miladycraft.death.attack.thrown.24": "%s was lead-poisoned",
+	"miladycraft.death.attack.thrown.25": "%s was crushed",
+	"miladycraft.death.attack.thrown.26": "%s was shell-shocked",
+	"miladycraft.death.attack.thrown.27": "%s was liquidated",
+	"miladycraft.death.attack.thrown.28": "%s was euthanized",
+
+	"miladycraft.death.attack.mob.1": "%s was btfo'd",
+	"miladycraft.death.attack.mob.2": "%s was unalived",
+
+	"miladycraft.death.attack.arrow.1": "%s was shot",
+
+	"miladycraft.death.attack.outOfWorld.1": "%s fell out of the world",
+	"miladycraft.death.attack.outOfWorld.player.1": "%s didn't want to live in the same world as %s",
+
+	"miladycraft.death.item.1": "using",
+	"miladycraft.death.item.2": "wielding",
+
+	"miladycraft.death.killer.1": "by %s",
+	"miladycraft.death.killer.2": "at the hand of %s",
+
+	"miladycraft.death.indirectkiller.1": "whilst fighting %s",
+	"miladycraft.death.indirectkiller.2": "in battle with %s",
+	"miladycraft.death.indirectkiller.3": "whilst dueling %s"
+
+
+	
+	
+}
