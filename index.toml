@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "changelogs/CHANGELOG.md"
+hash = "afc4c4c8f81db9bbe20fbe7a8990c24172a3a8e78be20c3038dfc979959400a2"
+
+[[files]]
+file = "changelogs/modlists/modlist_1.5.4.md"
+hash = "897afeb8e51ca7a3f613a2686be320db8178728d440e433e1615a4290318697e"
+
+[[files]]
 file = "config/Adorn.json5"
 hash = "86158f3c7d8edbd86caabc1cda89e5c55668bf270b7791fc813b098c91a1337b"
 
@@ -1547,10 +1555,6 @@ file = "config/xaeroworldmap.txt"
 hash = "f6bb49523feb480fccc121d15b5ea71d22e4a0aa15d4a9975158acccc4061635"
 
 [[files]]
-file = "customDeathMessages.js"
-hash = "2b9e74ebff9c7b4e1fec9645ea2b46f7431b20c7bedce09a3fd1460223dcc621"
-
-[[files]]
 file = "defaultconfigs/artifacts-server.toml"
 hash = "38b1fe0cc3ba28d7c9537d91e91e1187e35abcfd2f5630a6bd2b39243371316c"
 
@@ -2511,11 +2515,6 @@ hash = "f551da58dbe0e32fc8b24e9ca9a3cfffa5b431d2eee2ac760cc8a2368b811180"
 metafile = true
 
 [[files]]
-file = "mods/casinocraft.pw.toml"
-hash = "9da5d197005747176096d348991e6d2c559eff5fb4d8dccdf38da379bbb7024c"
-metafile = true
-
-[[files]]
 file = "mods/caverns-and-chasms.pw.toml"
 hash = "294d2a14cfe0e486071b8cc36781bf64612baf64fb1d4eb553286489f7ae49de"
 metafile = true
@@ -2532,7 +2531,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "94ac6c0a3861a7d5f49e75cb09a2c6ca43977bccbacc7d5f22da1ae6cf52fc34"
+hash = "805011060aa49ce735b2a2b9b50425dc3d542565f0b38a6f97480dd08fdf7046"
 metafile = true
 
 [[files]]
@@ -2602,6 +2601,11 @@ metafile = true
 [[files]]
 file = "mods/collectors-reap.pw.toml"
 hash = "cf9b823b92162d93182a2bb77ab8d91230dde90a29120dd6212b81a10e6c301b"
+metafile = true
+
+[[files]]
+file = "mods/colossal-chests.pw.toml"
+hash = "8b0a57bc7bb556aae15c61c2accbcc5186f150855f2f84bd322a10b84a5215e0"
 metafile = true
 
 [[files]]
@@ -2727,6 +2731,11 @@ metafile = true
 [[files]]
 file = "mods/cycle-paintings.pw.toml"
 hash = "49e78fffdd049c07468291e740b88ba225fae49ab5cbf6a4742ac3d5526ec819"
+metafile = true
+
+[[files]]
+file = "mods/cyclops-core.pw.toml"
+hash = "2c9f0dfd92f52b8da54d6b3596df51e0d86d63082efd8b42629e170b7599b2a5"
 metafile = true
 
 [[files]]
@@ -3041,6 +3050,11 @@ metafile = true
 [[files]]
 file = "mods/fullstack-watchdog.pw.toml"
 hash = "4c6976e4ca28222e8f011c19a1b9e34167d1e3646d171ad8c62d48c006b003af"
+metafile = true
+
+[[files]]
+file = "mods/functional-storage.pw.toml"
+hash = "295f291a193dcd9396fbc6daa5669012a8685fe12aee4eec4485b1f032d0b952"
 metafile = true
 
 [[files]]
@@ -3559,7 +3573,7 @@ metafile = true
 
 [[files]]
 file = "mods/parcool.pw.toml"
-hash = "661703ac272cc08b7d65f757132565d1c35262186fd7d60fde91edea414f3f65"
+hash = "eb336b10108ced9e3cc71abe145a29d0005bf98280fa8d04c407604940fbaef0"
 metafile = true
 
 [[files]]
@@ -3733,7 +3747,7 @@ metafile = true
 
 [[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
-hash = "7b815579a06d0c77b6294ba8a2fc5eff2519c19cbce0aea9812694f64ec12ac4"
+hash = "89ae3735132fcf3f75df175ffac90ac5c8e49900fc0afa8646f370e2e141f74d"
 metafile = true
 
 [[files]]
@@ -3954,6 +3968,11 @@ metafile = true
 [[files]]
 file = "mods/tips.pw.toml"
 hash = "2f85d4f707cd877353fdd387198f4a6543441bf094f649746d2d795765f84185"
+metafile = true
+
+[[files]]
+file = "mods/titanium.pw.toml"
+hash = "668f38c3cd01dbc645d212e46057b64c957825c8f9d5629f58f9740e456a824f"
 metafile = true
 
 [[files]]
