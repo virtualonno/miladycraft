@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "changelogs/CHANGELOG.md"
-hash = "afc4c4c8f81db9bbe20fbe7a8990c24172a3a8e78be20c3038dfc979959400a2"
+hash = "1b7f102f5d6309632cb31210a7b8934657b17e670d6e6d31bbee363743fa5a1c"
 
 [[files]]
 file = "changelogs/modlists/modlist_1.5.4.md"

@@ -2,6 +2,7 @@
 
 ![](https://archive.org/download/miladycraft_preview_1.5.4/miladycraft_preview_1.5.4.png)
 
+✦ Colossal chests, death messages & storage drawers
 _MC 1.19.2 - Forge 43.4.4_ | _[Modlist](https://github.com/virtualonno/Miladycraft/blob/1.5/changelogs/modlists/modlist_1.5.4.md)_
 
 ### ✦ Mod Additions
