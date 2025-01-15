@@ -1,0 +1,13 @@
+name = "Patchouli"
+filename = "Patchouli-1.21-87-NEOFORGE.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f23c589a7cd0106930f840f2878cc32525fdf41c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5683901
+project-id = 306770

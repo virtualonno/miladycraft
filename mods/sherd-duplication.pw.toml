@@ -1,0 +1,13 @@
+name = "Sherd Duplication"
+filename = "sherdduplication-neoforge-1.21.1-21.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "01679d5670038f9023781caa977e0e19765d6c48"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5953038
+project-id = 861561

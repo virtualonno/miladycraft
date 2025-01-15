@@ -1,0 +1,13 @@
+name = "Default files"
+filename = "default_files-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "032bc839964e98ac187014c0fb3f3f8f572afe0b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5733838
+project-id = 1104571

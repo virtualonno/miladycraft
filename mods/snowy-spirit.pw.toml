@@ -1,0 +1,13 @@
+name = "Snowy Spirit"
+filename = "snowyspirit-1.21.1-3.0.16-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6f3f995a1c383f2376ba2375b9b6f3202116ca1b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5983882
+project-id = 566142

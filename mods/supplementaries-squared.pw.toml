@@ -1,0 +1,13 @@
+name = "Supplementaries Squared"
+filename = "suppsquared-1.21-1.2.3-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1fafc64e4e0dce18e8745490226e722adbea8bb3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5930496
+project-id = 838411

@@ -1,0 +1,13 @@
+name = "Vanity: Core"
+filename = "vanity-neoforge-1.21.1-5.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "39bee509b18346cd489fa3fb7bfec5fe9a34b398"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5957581
+project-id = 548155

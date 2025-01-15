@@ -1,0 +1,13 @@
+name = "Functional Storage"
+filename = "functionalstorage-1.21.1-1.3.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "449b87de415ad054dbc1ecf3bf595ed2549990c4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6023174
+project-id = 556861

@@ -1,0 +1,13 @@
+name = "Moyai"
+filename = "moyai-1.21-2.1.5-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "731b78b7b96e13a9d2dc754f8cb0325b6aab6514"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5716486
+project-id = 577252

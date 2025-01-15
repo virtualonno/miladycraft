@@ -1,0 +1,13 @@
+name = "Monocle"
+filename = "monocle-0.1.8.1.ms.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "5aa83033ec5eba19dbe591c02b5a7b40278c3dc1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6084451
+project-id = 1007288

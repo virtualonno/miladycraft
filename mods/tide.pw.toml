@@ -1,0 +1,13 @@
+name = "Tide"
+filename = "tide-neoforge-1.21-1.4.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bc31a7ae17dac32d306987d2da5afd559f2a390f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6023013
+project-id = 884685

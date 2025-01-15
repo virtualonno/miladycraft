@@ -1,0 +1,13 @@
+name = "Basic Weapons"
+filename = "basicweapons-neoforge-2.0.1+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "de6a3f5c529da8c8792f556b2cff5c5985ea7a41"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6084131
+project-id = 917144

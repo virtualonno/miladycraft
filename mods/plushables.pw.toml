@@ -1,0 +1,13 @@
+name = "Plushables"
+filename = "plushables-neoforge-2.0.3+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "15be21adbf215802ec5415abbf4be021f3234b5b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6044626
+project-id = 318603
