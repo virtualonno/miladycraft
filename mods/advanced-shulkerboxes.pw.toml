@@ -1,0 +1,13 @@
+name = "Advanced Shulkerboxes"
+filename = "shulkerbox-neoforge-1.21.1-2.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4aa6bb569c618e63c97381685efa9d6eadb60595"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5610975
+project-id = 253861
