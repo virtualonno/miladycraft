@@ -1,8 +1,37 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/effecttimerplus.json"
+hash = "36c8747f20a585ae6d8036f82e848b08a5e236dab630c8b89a682ef9ce78e511"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/ae2.json"
+hash = "646eb01f3a240b248599df15c8e2a686276a8074da26dd70b753d04bd6a7098d"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/ae2wtlib.json"
+hash = "3b8841de9b3f90b5242a310a2752c17f989275aa1b2182e98366609e624d1d6c"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
+hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/player-defined.json"
+hash = "ada210b5ca0cd6125dcc7cf3890f61b9cb3e2f56a6ab4ee2ca5fa540c687c944"
+
+[[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "3911d3905bda6fa4f7ec1f639e57a01d31c74b4ac0caeb422fd3263a4c54f0c4"
+
+[[files]]
 file = "config/particlerain-client.toml"
 hash = "38f8a56bc9809d37dcdabc2681ed394feae977e476dccf9792a7bb57aea4b15a"
+
+[[files]]
+file = "curseforge_api_only/bad-wither-no-cookie-reloaded.pw.toml"
+hash = "2e6f85a75b9be427b1c36c6fb13bd1b883221e457434f04751171a62fcedb189"
+metafile = true
 
 [[files]]
 file = "icon.png"
