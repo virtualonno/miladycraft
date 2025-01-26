@@ -1,13 +1,13 @@
 name = "Monocle"
-filename = "monocle-0.1.8.1.ms.jar"
+filename = "monocle-0.1.9.ms.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "5aa83033ec5eba19dbe591c02b5a7b40278c3dc1"
+hash = "73a1ad5c0d10086013df03d2a5282c4e79f8b148"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6084451
+file-id = 6114653
 project-id = 1007288

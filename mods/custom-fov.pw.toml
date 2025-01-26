@@ -1,0 +1,13 @@
+name = "Custom FoV (Fabric/Forge/Quilt)"
+filename = "customfov-neoforge-9.0.0+1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3eb915ec9d656af7970a33e2ec7496b20eb59eaa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5453033
+project-id = 303938

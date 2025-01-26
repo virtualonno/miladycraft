@@ -1,0 +1,13 @@
+name = "Sussy Sniffers"
+filename = "sussysniffers-1.21.1-0.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "55d33715c20cb5f4a53d11cbef885a794a61258e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5629464
+project-id = 1083346
