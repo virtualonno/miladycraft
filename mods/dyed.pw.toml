@@ -1,0 +1,13 @@
+name = "Dyed"
+filename = "dyed-neoforge-1.21-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a4ca0f6ae241649fb1997fff49a3b914759b0f4e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5594462
+project-id = 577468

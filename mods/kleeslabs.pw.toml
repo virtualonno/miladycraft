@@ -1,0 +1,13 @@
+name = "KleeSlabs"
+filename = "kleeslabs-neoforge-1.21.1-21.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "61c653a8e4526b002e2674c7208578111adbc9a1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6077635
+project-id = 241895
