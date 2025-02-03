@@ -1,13 +1,13 @@
 name = "Traveler's Backpack"
-filename = "travelersbackpack-neoforge-1.21.1-10.1.11.jar"
+filename = "travelersbackpack-neoforge-1.21.1-10.1.13.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "2c6d0969de452e89b0ffce63d9bb18748381bbd0"
+hash = "717f975028614e377c3fdf8717b5a5c86451f805"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6102903
+file-id = 6142713
 project-id = 321117

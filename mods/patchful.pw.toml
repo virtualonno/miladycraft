@@ -1,0 +1,13 @@
+name = "Patchful"
+filename = "patchful-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8aa51bed9cd882280061a2e48934bee2c39a8666"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6114943
+project-id = 1184910

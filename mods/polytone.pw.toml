@@ -1,13 +1,13 @@
 name = "Polytone"
-filename = "polytone-1.21-3.2.5.jar"
+filename = "polytone-1.21-3.2.6.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "467e6091ba8b3813278caf798a65ebb4fc5783b9"
+hash = "6148be3ef5bd66aecf19068e548dda7feb6bc903"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6097268
+file-id = 6126542
 project-id = 958094

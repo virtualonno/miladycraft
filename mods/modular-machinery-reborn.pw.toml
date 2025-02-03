@@ -1,0 +1,13 @@
+name = "Modular Machinery Reborn"
+filename = "modular_machinery_reborn-1.21.1-2.1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "033716d0bb410374b602e890e497a8fbca47384b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6117838
+project-id = 1083840

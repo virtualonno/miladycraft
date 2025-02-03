@@ -1,13 +1,13 @@
 name = "Curios Compat Layer for Accessories"
-filename = "accessories_cclayer-9.0.12-beta.20+1.21.1.jar"
+filename = "accessories_cclayer-9.2.2-beta.21+1.21.1-neoforge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "85088c8ae72f17645ec6782ab1b9b6cd31c7c4d3"
+hash = "e28f15d29e02f0de8be56fc7b1b8ca316d799bc3"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6097770
+file-id = 6152168
 project-id = 1005683

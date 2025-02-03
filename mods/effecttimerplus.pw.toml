@@ -1,13 +1,13 @@
 name = "Effect Timer Plus"
-filename = "effecttimerplus-neoforge-2.2.6+1.21.jar"
+filename = "effecttimerplus-neoforge-2.2.7+1.21.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "25e5e93ef382246b49e7b3b007cec5dca64ae862"
+hash = "dc18905d8af5bffbd5fea0350a40f15152c64c53"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5961098
+file-id = 6135441
 project-id = 1049882
