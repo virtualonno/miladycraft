@@ -1,0 +1,13 @@
+name = "AtlasViewer"
+filename = "AtlasViewer-neoforge-9.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3ac0df359df97769eaf7fa20848d9e7650ba917b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6088094
+project-id = 633577

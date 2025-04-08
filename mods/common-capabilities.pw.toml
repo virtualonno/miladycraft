@@ -1,13 +1,13 @@
 name = "Common Capabilities"
-filename = "commoncapabilities-1.21.1-neoforge-2.9.7-197.jar"
+filename = "commoncapabilities-1.21.1-neoforge-2.9.7-202.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "5e27cac863ef5532b417f64d122070611acf4bba"
+hash = "fadeccd93bc920a5af880593f8c619ada0520f49"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6173956
+file-id = 6332022
 project-id = 247007

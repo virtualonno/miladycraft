@@ -1,0 +1,13 @@
+name = "AsteorBar"
+filename = "asteorbar-neoforge-1.21.1-1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "298a9dba287264c866c963289fed28804e3eef57"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6336012
+project-id = 959237

@@ -1,0 +1,13 @@
+name = "Player Rugs"
+filename = "PlayerRugs-1.21.1-2.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e8b077eca94c7c2829c5843c654a1d18c8d9606f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6269140
+project-id = 237852

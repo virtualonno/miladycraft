@@ -5,7 +5,7 @@
   "timerScale": 0.699999988079071,
   "potencyEnabled": true,
   "timerEnabled": true,
-  "timerEnabledAmbient": false,
+  "timerEnabledAmbient": true,
   "timerWarnEnabled": true,
   "timerFlashEnabled": true,
   "timerWarnTime": 20,

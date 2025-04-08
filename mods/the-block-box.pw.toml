@@ -1,0 +1,13 @@
+name = "The Block Box"
+filename = "BlockBox-1.21.1-0.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "02a27bcd05a0bdd3dc1893eb720c8c09d6b7e3b3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6248082
+project-id = 1199971

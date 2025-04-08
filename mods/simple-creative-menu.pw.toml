@@ -1,0 +1,13 @@
+name = "Simple Creative Menu"
+filename = "simple_creative_menu-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "97b49dc3c00435789d5535e9a2da167bdcbb4169"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6062261
+project-id = 1097065

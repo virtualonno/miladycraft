@@ -1,0 +1,13 @@
+name = "Simple Music Control"
+filename = "simple_music_control-1.1.0+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "282b0f4077d2089b14c020a56418d0adf5b2b0d2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6172108
+project-id = 1185599

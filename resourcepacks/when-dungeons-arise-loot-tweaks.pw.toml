@@ -1,0 +1,13 @@
+name = "When Dungeons Arise - Loot Tweaks"
+filename = "WhenDungeonsArise-LootTweaks-1.21.1-2.1.64.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "199f74da9d4d042a10a568b66ff7a1dcde8f57a5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6088791
+project-id = 853631

@@ -1,13 +1,13 @@
 name = "What Are They Up To (Watut)"
-filename = "watut-neoforge-1.21.0-1.1.4.jar"
+filename = "watut-neoforge-1.21.0-1.2.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "73ada80af4541952ca113a93a823e7bda033bac3"
+hash = "9b3c00a93632adf61730f6036e8747a6021294ed"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5622968
+file-id = 6315277
 project-id = 945479

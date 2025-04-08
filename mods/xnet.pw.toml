@@ -1,13 +1,13 @@
 name = "XNet"
-filename = "xnet-1.21-7.0.3.jar"
+filename = "xnet-1.21-7.0.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "6c756211a47569d71f11015273bad85c8e5ea2fe"
+hash = "12d8d6e6e8385d66d9d388be579942b58687238c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5961446
+file-id = 6310525
 project-id = 260912

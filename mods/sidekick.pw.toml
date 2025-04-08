@@ -1,0 +1,13 @@
+name = "Sidekick"
+filename = "sidekick-neoforge-2.0.6+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d782fdbfddab5f7ff8360530775c4eb1b02e24d0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6277735
+project-id = 430573
