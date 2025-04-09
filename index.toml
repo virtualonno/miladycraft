@@ -538,11 +538,6 @@ file = "mods/desiredservers-neoforge-1.21.1-1.6.0.jar"
 hash = "9da74cf36743b21395013d09ef2e51fb306c394695c631acc0ff3e9b49671f77"
 
 [[files]]
-file = "mods/despawntweaker-refoxed.pw.toml"
-hash = "a905d039b69045112c92377f8606cc5c54d99d5c93f6e195821d2536a5329ec8"
-metafile = true
-
-[[files]]
 file = "mods/distracting-trims.pw.toml"
 hash = "f31f943808ee46c12d32afefb55c0fc75b490ca767088c487894905da41bb235"
 metafile = true
@@ -1005,6 +1000,11 @@ metafile = true
 [[files]]
 file = "mods/lendercataclysm.pw.toml"
 hash = "2e8d57bd974151e4df24d07a8c79e421f1f044befbbaf79f9146876bf92a4b8e"
+metafile = true
+
+[[files]]
+file = "mods/let-me-despawn.pw.toml"
+hash = "dd4dd28e505ef8a6dae0569c92b03732302094e952068db010924fe945a27170"
 metafile = true
 
 [[files]]
