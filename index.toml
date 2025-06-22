@@ -560,11 +560,6 @@ hash = "907fb624b57dc56ec0e7bf39b430aa13a39f0181b150de9b0d749547e506ce3c"
 metafile = true
 
 [[files]]
-file = "mods/connectivity.pw.toml"
-hash = "6376e650ad6e514f6cc8d0a932a7b1ec5269a7a2baf9c119be085a4bdc086ac8"
-metafile = true
-
-[[files]]
 file = "mods/controlling.pw.toml"
 hash = "616036c38fafbcaf00c0720d947ec39f571d885a014f0c81b5eeeb4193784e0e"
 metafile = true
@@ -1369,6 +1364,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "ee35392cd74464af3b668fac4356b6e0415be59c21c09f257fb5c83d1b01a0fe"
+metafile = true
+
+[[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "3d891fcc827151f9414f1c88c0f8d3bc95003265068dbfa725785277a855394f"
 metafile = true
 
 [[files]]
