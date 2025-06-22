@@ -101,6 +101,10 @@ file = "config/waystones-common.toml"
 hash = "8cce6eebaad39fd78935bc7246570fecf9f85f34020b829c4d16e4c356f455fc"
 
 [[files]]
+file = "customfov.txt"
+hash = "b6ab909e14be013593ec9978b05041e69c6bd7fec1136b97e34613040eca021a"
+
+[[files]]
 file = "defaultconfigs/ftbchunks/client-config.snbt"
 hash = "d41ad6ba994ee5a5407ba5fa3e4ecb30965a392f6cdf3b5f2559a51321ea67ff"
 
@@ -1928,7 +1932,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "9f3b970cabdfea3d52242117a789fbb5a52648a5887ffc0612acb696ea918a48"
+hash = "6827c90397947e1eb61e87d6ffce4751855b823355514db36145e8188416d86c"
 preserve = true
 
 [[files]]
