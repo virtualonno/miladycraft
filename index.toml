@@ -1815,7 +1815,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "340bb8dca2ce719d869e419266216c158e6d648db9d8610c4634466a52cf9a67"
+hash = "71c614959650d8c1f72d4e8a0e221c263685da7da47ed7278e3631ed780f6eea"
 metafile = true
 
 [[files]]
