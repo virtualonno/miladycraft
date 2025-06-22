@@ -535,11 +535,6 @@ hash = "d4c7a4a5d80756a496e4768b1cdce3640f3a272c3948d8069d06a5fb1177c5bd"
 metafile = true
 
 [[files]]
-file = "mods/comforts.pw.toml"
-hash = "8501b82d589c19893035e46c0ef4c075808f534627b45229866bb6d0c45117e6"
-metafile = true
-
-[[files]]
 file = "mods/common-capabilities.pw.toml"
 hash = "34bf6115db817d8fcfb28f2b15e2396dfc8a9c71ba4697dddc7a1d5945f4b735"
 metafile = true
