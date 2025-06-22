@@ -17,6 +17,14 @@ file = "config/apotheosis/apotheosis.cfg"
 hash = "ff66eabc62131fb4e27597678b10d9a6e632c508420dd80d29fb2a664213e1aa"
 
 [[files]]
+file = "config/bcc-common.toml"
+hash = "76038f56040f7c9afb0cebe62a5a6673374b4e91a88acde36603e32abdf96ae9"
+
+[[files]]
+file = "config/desiredservers/desiredservers.json"
+hash = "3b6f73445eaaed1c6f7709a532658c9fd7acd7566d3737186857f7fe5ceccdb4"
+
+[[files]]
 file = "config/dokimobs-common.toml"
 hash = "920191d903b1263555833cd5ccb25a202cbee7d0ddafa84e2bd26ca09bb2a0cf"
 
