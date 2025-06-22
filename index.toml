@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "0"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "config/Mekanism/common.toml"
 hash = "086d50ae65b067f2c79f60b759603558c2e4bc35d75470384c0c2c9061b28136"
 
@@ -101,6 +97,10 @@ file = "defaultconfigs/ftbchunks/client-config.snbt"
 hash = "d41ad6ba994ee5a5407ba5fa3e4ecb30965a392f6cdf3b5f2559a51321ea67ff"
 
 [[files]]
+file = "desktop.ini"
+hash = "50662dc2868b6f987feea769bccab059d0a109ba34769e870e592f7a9b80d3c8"
+
+[[files]]
 file = "icon.png"
 hash = "f95d90f49f6cebec922e36caf63449051a84c6aa414e24e7f90efacc73a199da"
 
@@ -155,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/advanced-peripherals.pw.toml"
-hash = "ad0a7eb976cc63fb44c0c6d64d1e97064794018e1e290bc5c0ccacb3f014c777"
+hash = "36f87fd3b72d203d2ce1cb3fe9e87bd5ed03edb48791c011452195da3fea10af"
 metafile = true
 
 [[files]]
@@ -190,7 +190,7 @@ metafile = true
 
 [[files]]
 file = "mods/alltheleaks.pw.toml"
-hash = "0cdc1683db4b0d7c09033144d864c504841babd65f3d716b85e597c54f3170bf"
+hash = "b169fee813d8155e17fe9bcd7c692878e9a3e602bc37d21aa2972b5cdc237250"
 metafile = true
 
 [[files]]
@@ -404,7 +404,7 @@ hash = "44c7299c4a572e7c089b69872c831234a357dead408a219698c35386986755ea"
 
 [[files]]
 file = "mods/c2me.pw.toml"
-hash = "114295811447c4eda1cff5efa4555a312458f4de598b4ca186ec6f3f98f879ae"
+hash = "6df0ed8aa18374fb3bd186301a2eaadafa0d9f0bf14335be0367b71ea39b04d3"
 metafile = true
 
 [[files]]
@@ -767,7 +767,7 @@ metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "88af79a9229dbfe4a4df68507fd5bc4d8327cbc1377252d7ba5bdb7b110cd51b"
+hash = "cd5f406db5161568b3cba9e90d127931e973eb818de934ed5d0d3278ee1e3ead"
 metafile = true
 
 [[files]]
@@ -957,7 +957,7 @@ metafile = true
 
 [[files]]
 file = "mods/guideme.pw.toml"
-hash = "b974c9754a4f1512b96a8708e2615b32d8b0ceb9a8ad32cad188b515d9019f96"
+hash = "c13e791100da0236e87cf7626928892b62c16d38cc52f74107d8854d66b19180"
 metafile = true
 
 [[files]]
@@ -1142,7 +1142,7 @@ metafile = true
 
 [[files]]
 file = "mods/lendercataclysm.pw.toml"
-hash = "74ee1ff2586cbd2699418100aab53337e1a5f460eb71d8c027011dbf2352df49"
+hash = "bdb9848d23f1fd0a5934a468ba2300c5ceb3e889431ff917153dbf9d526a3c8b"
 metafile = true
 
 [[files]]
@@ -1326,7 +1326,7 @@ metafile = true
 
 [[files]]
 file = "mods/nullscape.pw.toml"
-hash = "85b54496b5f2ea5c65ab49a58bf374d2e2ed2a163b811cdadfac017eded699b0"
+hash = "8e068686b8b03d4359420c174256be4dfa52b4d75e45c4f071730ee33d5281e6"
 metafile = true
 
 [[files]]
@@ -1426,7 +1426,7 @@ metafile = true
 
 [[files]]
 file = "mods/puffish-skills.pw.toml"
-hash = "c7df25fd1fc27f3ce55a4fe18fb428d8ca3530fedd3c42ac54ae444854f025c1"
+hash = "bada101cb9170f2189ca86350461b1fd393c64c9972863b8a044d8058229ef95"
 metafile = true
 
 [[files]]
@@ -1530,7 +1530,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "efda96e144fc2056d5fdff28ab675579eed866d5aaa891fefba2b5400ed5a725"
+hash = "b68cfc28098539919b5e444d1ac2f70290d9790e623ba29e2fc257891bf34293"
 metafile = true
 
 [[files]]
@@ -1549,8 +1549,18 @@ hash = "2a3a0567a2ce801d0e359470add39707de13705680e72c4b5795d6aff261acbe"
 metafile = true
 
 [[files]]
+file = "mods/simple-backups.pw.toml"
+hash = "7e151effb557b43345ac374fc44f23965e53f5b1d9dec43ded08be1d4963b4a2"
+metafile = true
+
+[[files]]
 file = "mods/simple-creative-menu.pw.toml"
 hash = "8cd22120886f2d33a664b8856c3e7265ef8846e9fb5a82d76e359b44412f56b5"
+metafile = true
+
+[[files]]
+file = "mods/simple-discord-link-bot-forge-fabric-spigot.pw.toml"
+hash = "2e84aa61dd95ce9239e32dbeb39098ed653ef69ba63822ae1ce0c8416d4b7d25"
 metafile = true
 
 [[files]]
@@ -1620,12 +1630,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "35590ce43407219702224e1599a09949ad78dde630def0f2f8759f50363f849b"
+hash = "f93c3b8b250d3ce84f32cbc2fab30c6a13d309077e69f93cbbc09f3f3955f22e"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "5ee626cfda878b82cc814db2df1379ba10cc3d79ee6c60a8490456069ad1f218"
+hash = "a6721c9cbc966d4ed33d5355b8213927ea5b43c3496c65e5c6a725baa566ff1f"
 metafile = true
 
 [[files]]
@@ -1670,7 +1680,7 @@ metafile = true
 
 [[files]]
 file = "mods/super-factory-manager.pw.toml"
-hash = "a0ad9f11ddadecbe50c2731c2d1036cd87bc05ecc928063803b549305b86c292"
+hash = "e781b371d3137d7830ce2ccff8cd60c52975c8521189a4ec5d46d0f1f061b608"
 metafile = true
 
 [[files]]
@@ -1690,7 +1700,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "bdb41354b79e009ac3e6c2589c6636e22b4172be55e197c5235268abf33d99bf"
+hash = "2d0765e639ff5218eade5d8b9a8207ea0600fa67a3cdca3d1e1f36f3ef81879b"
 metafile = true
 
 [[files]]
@@ -1912,11 +1922,6 @@ metafile = true
 file = "options.txt"
 hash = "9f3b970cabdfea3d52242117a789fbb5a52648a5887ffc0612acb696ea918a48"
 preserve = true
-
-[[files]]
-file = "quarantine/simple-backups.pw.toml"
-hash = "7e151effb557b43345ac374fc44f23965e53f5b1d9dec43ded08be1d4963b4a2"
-metafile = true
 
 [[files]]
 file = "resourcepacks/when-dungeons-arise-loot-tweaks.pw.toml"
