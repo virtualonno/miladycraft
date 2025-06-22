@@ -1,0 +1,13 @@
+name = "Companion 🐕 (Neo/Forge)"
+filename = "Companion-1.21.1-NeoForge-6.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "33082435dc0a7d053ca7ff1b62cd9e73ea8347a4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6521988
+project-id = 559989

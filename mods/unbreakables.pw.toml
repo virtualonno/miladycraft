@@ -1,0 +1,13 @@
+name = "Unbreakables"
+filename = "unbreakables-neoforge-1.21.1-21.1.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "272e2bc7d9d1fb657d721568783280d615938718"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6475904
+project-id = 1190485

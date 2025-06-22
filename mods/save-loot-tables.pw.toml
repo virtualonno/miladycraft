@@ -1,0 +1,13 @@
+name = "Save Loot Tables"
+filename = "saveloottables-neoforge-1.21-1.0.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8f0b902dc0600f37d8a11cdb083899a6c6db1e0e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6358144
+project-id = 1230370

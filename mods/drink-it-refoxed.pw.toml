@@ -1,0 +1,13 @@
+name = "Drink It! Refoxed"
+filename = "DrinkItRefoxed-neoforge-1.21.1-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9ee63075a1b768ca92ea7d474a5ad81eb70a6c76"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6362662
+project-id = 1231135

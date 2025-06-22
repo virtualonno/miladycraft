@@ -1,0 +1,13 @@
+name = "Immersive Machinery [Fabric/Forge]"
+filename = "immersive_machinery-0.2.0+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "479c940b7e869dc4637a7f1d291ef310e8749c7f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6495135
+project-id = 1068736

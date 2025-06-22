@@ -1,13 +1,13 @@
-name = "Iron's Rpg Tweaks (Damage, IFrames, Durability, XP, Hunger)"
-filename = "irons_rpg_tweaks-2.1.0.jar"
+name = "Iron's Rpg Tweaks"
+filename = "irons_rpg_tweaks-2.2.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "c680c02537b15710f66e2cd7ee7eb505728ef0bf"
+hash = "983d531dca62b062d5ff82d68d3ff99d37b9430b"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6117752
+file-id = 6500468
 project-id = 871799

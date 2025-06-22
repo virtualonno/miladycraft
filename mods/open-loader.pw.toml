@@ -1,13 +1,13 @@
 name = "Open Loader"
-filename = "OpenLoader-neoforge-1.21.1-21.1.1.jar"
+filename = "OpenLoader-neoforge-1.21.1-21.1.5.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "854113067309c134f1464b359085cd2b3db3a39f"
+hash = "b4b49fa0bbefcecd41aaba60aca38c3658ac2c46"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5884413
+file-id = 6546293
 project-id = 354339

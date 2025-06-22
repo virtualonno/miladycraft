@@ -1,0 +1,13 @@
+name = "Crafting Slots"
+filename = "craftingslots-neoforge-1.21.1-21.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ddac596dfbff2cb8b4848fdd096a8fedf00d692d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6200331
+project-id = 237581

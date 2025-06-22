@@ -1,0 +1,13 @@
+name = "Bad Horse Fix"
+filename = "badhorsefix-neoforge-3.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "40740cb5e938d98f673609849c90aaecce298adf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6563561
+project-id = 999835

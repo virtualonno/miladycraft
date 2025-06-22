@@ -1,0 +1,13 @@
+name = "Cow Tools"
+filename = "cow_tools-1.0.2+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8344f32d4388f0b6c70dd74cc96d00d642142463"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5657797
+project-id = 1084137

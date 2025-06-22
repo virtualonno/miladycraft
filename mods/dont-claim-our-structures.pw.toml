@@ -1,13 +1,13 @@
-name = "Don't Claim our Structures !"
-filename = "dont_touch_our_structures-1.21.1-NeoForge-1.0.0.jar"
+name = "Don't Claim our Structures ! (FTB Chunks/OPaC)"
+filename = "dont_touch_our_structures-1.21.1-NeoForge-1.1.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a191e74b8794015398f980919b04bd9b1b5a7902"
+hash = "b40e072dfad851282e806a42195762d89d2cf483"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6242900
+file-id = 6494938
 project-id = 1199930

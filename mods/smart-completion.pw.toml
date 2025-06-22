@@ -1,0 +1,13 @@
+name = "Smart Completion"
+filename = "smartcompletion-1.21-neoforge-2.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "33e042e99335f9cbf6d387f097467d69c533ef12"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5686432
+project-id = 782653
