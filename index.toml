@@ -1924,6 +1924,14 @@ hash = "9f3b970cabdfea3d52242117a789fbb5a52648a5887ffc0612acb696ea918a48"
 preserve = true
 
 [[files]]
+file = "packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
+file = "packwiz-installer.jar"
+hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
+
+[[files]]
 file = "resourcepacks/when-dungeons-arise-loot-tweaks.pw.toml"
 hash = "69224f25c19c3fce9c58323d98df97e7c12f47448ea35ff27bd802cd3cf7e249"
 metafile = true
