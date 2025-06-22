@@ -1102,7 +1102,7 @@ metafile = true
 
 [[files]]
 file = "mods/keymap-maintained.pw.toml"
-hash = "39627583f93ed0116595d95c9bf0fc3b7c59c030c94b91773d56a7ba943e3eda"
+hash = "afa0be436787ea6e4e6c274af356561b4afc1641463b73a6c7d321123367c6fa"
 metafile = true
 
 [[files]]
