@@ -1,6 +1,6 @@
 name = "Advancements Reloaded"
 filename = "advancements_reloaded-0.6.1-neoforge-1.21.1.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

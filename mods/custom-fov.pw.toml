@@ -1,6 +1,6 @@
 name = "Custom FoV (Fabric/Forge/Quilt)"
 filename = "customfov-neoforge-9.0.0+1.21.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

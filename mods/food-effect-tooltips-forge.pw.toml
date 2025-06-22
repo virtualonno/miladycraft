@@ -1,6 +1,6 @@
 name = "Food Effect Tooltips (Forge)"
 filename = "foodeffecttooltips+neoforge-1.21.1-1.4.0.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
