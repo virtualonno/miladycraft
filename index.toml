@@ -69,6 +69,10 @@ file = "config/lmft.json"
 hash = "2a2ee19297afe3fc512f5cbe639349847f3e7a74616f282d24a179a17f4559ed"
 
 [[files]]
+file = "config/neruina.json"
+hash = "8074aa23ce3e859a37d547d13986f852ec9f86f29c7c6283cdd5f6e98083483c"
+
+[[files]]
 file = "config/openloader/options.json"
 hash = "2edc0a631f0369e7e30a949421855c70d14df6adddd6d4b5c7107e44e5fda955"
 
@@ -440,6 +444,11 @@ hash = "6df0ed8aa18374fb3bd186301a2eaadafa0d9f0bf14335be0367b71ea39b04d3"
 metafile = true
 
 [[files]]
+file = "mods/caelus.pw.toml"
+hash = "03891e2139991fd25a654a5e880219d2ce2971633e875de13be4b67603d97331"
+metafile = true
+
+[[files]]
 file = "mods/cake-chomps.pw.toml"
 hash = "413de736d2e0f3c0ec3bac954ab4085ed506dfb2dc1bfe554a7bd3ee659422ed"
 metafile = true
@@ -532,6 +541,11 @@ metafile = true
 [[files]]
 file = "mods/client-tweaks.pw.toml"
 hash = "31038193fa92ff6ffa947aa8c77d5eb5fefc69fc8f844c236395edcb1f0fd2b1"
+metafile = true
+
+[[files]]
+file = "mods/clientsort.pw.toml"
+hash = "07e9685faeb1655ff065512308f50d60e944b7aeba1787d7766546cca9b522ec"
 metafile = true
 
 [[files]]
@@ -733,6 +747,11 @@ hash = "12b42a672b04d5ba36b2db144ef24977830c3029ea0f159295fa87f8f65e3fea"
 metafile = true
 
 [[files]]
+file = "mods/elytra-slot.pw.toml"
+hash = "32078c39569bbb4b33d2d86a09cfc18a9f5b63a11d0ba2b186fd07341e422c92"
+metafile = true
+
+[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "f3ae4c6cea3288a0c0d1c6f5c1a18992f45c38559908e84c774c9f49ad91b74e"
 metafile = true
@@ -770,11 +789,6 @@ metafile = true
 [[files]]
 file = "mods/etched.pw.toml"
 hash = "3e11ffcdd1d2c77ac05bf2fbeb52f746491efbc8b2664e80aed8670856c0f686"
-metafile = true
-
-[[files]]
-file = "mods/every-compat.pw.toml"
-hash = "52897fa40bb1928447dbc2f6370286285996566f670121fd6514d853e8de50b6"
 metafile = true
 
 [[files]]
@@ -1389,11 +1403,6 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "b6aadb8e32f440b51cd958b68eee57b9fe5bab26c7cf2f56d0340cf7f593030f"
-metafile = true
-
-[[files]]
-file = "mods/personality.pw.toml"
-hash = "a0d36ec45b92019f3bb0ef4ff553206efa3a7fc7b279a0a8755d7bbb422dd770"
 metafile = true
 
 [[files]]
