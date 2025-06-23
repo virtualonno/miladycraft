@@ -21,6 +21,18 @@ file = "config/bcc-common.toml"
 hash = "76038f56040f7c9afb0cebe62a5a6673374b4e91a88acde36603e32abdf96ae9"
 
 [[files]]
+file = "config/default_files/customfov.txt"
+hash = "b6ab909e14be013593ec9978b05041e69c6bd7fec1136b97e34613040eca021a"
+
+[[files]]
+file = "config/default_files/knownkeys.txt"
+hash = "018bba37d909e59719cf7641ba997b24cc28627d6aa7298fd4a528e004e09fcc"
+
+[[files]]
+file = "config/default_files/options.txt"
+hash = "eb8166e81302a8f60eee1d2b4443f3dfec0ff4f0032bc0edf55ad2b13788d900"
+
+[[files]]
 file = "config/desiredservers/desiredservers.json"
 hash = "3b6f73445eaaed1c6f7709a532658c9fd7acd7566d3737186857f7fe5ceccdb4"
 
@@ -34,7 +46,7 @@ hash = "611e26624a5623643476375c8be77c71aac47c55900e646fd1043a2232a61ba7"
 
 [[files]]
 file = "config/emi.css"
-hash = "9fa24b9307a960428865fddf89bf18ad0659141055e918cd113a3e510a2d2b7f"
+hash = "e074d6c2a79b8fc71713af6ee5335ccd1f1e410cce0060cc9d1ef34fd356c25d"
 
 [[files]]
 file = "config/emi.yaml"
@@ -50,7 +62,7 @@ hash = "041adb840e91f34493844105f50ec8d2843ae452262d62fc9aaf85a4052052ec"
 
 [[files]]
 file = "config/irons_rpg_tweaks-server.toml"
-hash = "592195f303637b292d7aa4cb17c89d2cc2586377396b360960e05f8133de78bf"
+hash = "b06f9a891802f8892240f39fead1d10232fc35611e708a9cdaf678cf96484826"
 
 [[files]]
 file = "config/lmft.json"
@@ -69,12 +81,20 @@ file = "config/openloader/packs/netspi.zip"
 hash = "9ac162f42c4399db3279ac1217cccba1c02d9d90dc13b607e8e026abf2b89475"
 
 [[files]]
+file = "config/railcraft-client.toml"
+hash = "14c164b97a815a5462073c53a94f95b47c7cea8dc65aaa4cd8f61553d96876ca"
+
+[[files]]
 file = "config/recolouredtooltips.json"
 hash = "4881a950abc5af96307080a49f6d7a0170ec6b680566fe319ebe4dc3d77aee93"
 
 [[files]]
 file = "config/sidekick.ini"
 hash = "f492b177c297ee8a8f1713ad898ec470616b992cbe80d2beecf21fdeeff2f25b"
+
+[[files]]
+file = "config/simple_music_control-client.toml"
+hash = "a503238745d6d4437eac69eeaa4f1aa4a0541e0ce87d7da945e184a362b09f66"
 
 [[files]]
 file = "config/tide.toml"
@@ -307,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/athena.pw.toml"
-hash = "77169202eae20c01f6635822e438adea00a907d05e3020e8be49e9ed768a7de3"
+hash = "19c5127cd14d72296aa132f66bf8242b2ebe2bf26103251c55f42acf7a5fc47b"
 metafile = true
 
 [[files]]
@@ -535,6 +555,11 @@ hash = "d4c7a4a5d80756a496e4768b1cdce3640f3a272c3948d8069d06a5fb1177c5bd"
 metafile = true
 
 [[files]]
+file = "mods/comforts.pw.toml"
+hash = "8501b82d589c19893035e46c0ef4c075808f534627b45229866bb6d0c45117e6"
+metafile = true
+
+[[files]]
 file = "mods/common-capabilities.pw.toml"
 hash = "34bf6115db817d8fcfb28f2b15e2396dfc8a9c71ba4697dddc7a1d5945f4b735"
 metafile = true
@@ -596,7 +621,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "3ed1185c41c9c4d3e1dd329f1e405bc965dc658060befb4c85e923c0afdf98b3"
+hash = "ebb0aef4552c3ab3d13ff21b024e9ce51ff392c1b3b9156259591212697b110a"
 metafile = true
 
 [[files]]
@@ -1372,6 +1397,11 @@ hash = "b6aadb8e32f440b51cd958b68eee57b9fe5bab26c7cf2f56d0340cf7f593030f"
 metafile = true
 
 [[files]]
+file = "mods/personality.pw.toml"
+hash = "a0d36ec45b92019f3bb0ef4ff553206efa3a7fc7b279a0a8755d7bbb422dd770"
+metafile = true
+
+[[files]]
 file = "mods/pinghud.pw.toml"
 hash = "20e878c3d490bc4863c70a8405a607c250c0f3db3c82497a4bf3654d83830da1"
 metafile = true
@@ -1922,7 +1952,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "6827c90397947e1eb61e87d6ffce4751855b823355514db36145e8188416d86c"
+hash = "eb8166e81302a8f60eee1d2b4443f3dfec0ff4f0032bc0edf55ad2b13788d900"
 preserve = true
 
 [[files]]
