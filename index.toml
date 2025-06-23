@@ -30,7 +30,7 @@ hash = "018bba37d909e59719cf7641ba997b24cc28627d6aa7298fd4a528e004e09fcc"
 
 [[files]]
 file = "config/default_files/options.txt"
-hash = "eb8166e81302a8f60eee1d2b4443f3dfec0ff4f0032bc0edf55ad2b13788d900"
+hash = "64b9ac27fb0602fe3f231bbf6812644beb52bf02760db3c96290dfd330493336"
 
 [[files]]
 file = "config/desiredservers/desiredservers.json"
@@ -1128,11 +1128,6 @@ hash = "5a9474718a5218bbc7d8303691e4b368b65d8fc933b2fc92cee4502eed2c6423"
 metafile = true
 
 [[files]]
-file = "mods/keymap-maintained.pw.toml"
-hash = "afa0be436787ea6e4e6c274af356561b4afc1641463b73a6c7d321123367c6fa"
-metafile = true
-
-[[files]]
 file = "mods/kiwi.pw.toml"
 hash = "3c6c57b6a4d6a6963872a831eb1e2c25f6761abe39757bff13725ba0bba2a654"
 metafile = true
@@ -1952,7 +1947,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "eb8166e81302a8f60eee1d2b4443f3dfec0ff4f0032bc0edf55ad2b13788d900"
+hash = "64b9ac27fb0602fe3f231bbf6812644beb52bf02760db3c96290dfd330493336"
 preserve = true
 
 [[files]]

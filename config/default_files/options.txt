@@ -54,7 +54,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","mod_resources"]
+resourcePacks:["vanilla","mod_resources","scholar:colored_books","scholar:chiseled_bookshelf_colored_books","scholar:chiseled_bookshelf_colored_books_abnww_compat"]
 incompatibleResourcePacks:["quark:emote_resources","Milady_misc_edits.zip","Particles+V.1.2.2-modified"]
 lastServer:
 lang:en_us
@@ -106,7 +106,7 @@ key_key.drop:key.keyboard.grave.accent
 key_key.inventory:key.keyboard.e
 key_key.chat:key.keyboard.t
 key_key.playerlist:key.keyboard.tab
-key_key.pickItem:key.mouse.middle
+key_key.pickItem:key.keyboard.unknown
 key_key.command:key.keyboard.slash
 key_key.socialInteractions:key.keyboard.unknown
 key_key.screenshot:key.keyboard.f2
@@ -128,6 +128,7 @@ key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
 key_key.puffish_skills.open:key.keyboard.k
+key_keymap.keyOpenKeymap:key.keyboard.unknown
 key_key.modernfix.config:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.p
 key_iris.keybind.toggleShaders:key.keyboard.i
@@ -219,17 +220,17 @@ key_keybind.sophisticatedbackpacks.open_backpack:key.keyboard.b
 key_keybind.sophisticatedbackpacks.inventory_interaction:key.keyboard.c
 key_keybind.sophisticatedbackpacks.tool_swap:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.sort:key.mouse.middle
-key_keybind.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.x:ALT
-key_keybind.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
-key_keybind.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
+key_keybind.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
+key_keybind.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
+key_keybind.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.x:ALT
 key_keybind.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.z:ALT
 key_key.hostilenetworks.open_deep_learner:key.keyboard.u
 key_key.cataclysm.ability:key.keyboard.x
 key_key.cataclysm.helmet_ability:key.keyboard.c
 key_key.cataclysm.chestplate_ability:key.keyboard.y
 key_key.cataclysm.boots_ability:key.keyboard.v
-key_key.atlasviewer.open_viewer:key.keyboard.unknown
+key_key.atlasviewer.open_viewer:key.keyboard.b
 key_artifacts.key.helium_flamingo.activate:key.keyboard.unknown
 key_artifacts.key.charm_of_shrinking.toggle:key.keyboard.unknown
 key_artifacts.key.charm_of_sinking.toggle:key.keyboard.unknown
@@ -292,7 +293,7 @@ key_key.railcraft.loco.faster:key.keyboard.period
 key_key.railcraft.loco.slower:key.keyboard.comma
 key_key.railcraft.loco.mode:key.keyboard.m
 key_key.railcraft.loco.whistle:key.keyboard.b
-key_key.showcaseitem.showcaseitem:key.keyboard.x:SHIFT
+key_key.showcaseitem.showcaseitem:key.keyboard.t:SHIFT
 key_gnetum.config.keyMapping:key.keyboard.end
 key_key.immersive_aircraft.fallback_control_left:key.keyboard.unknown
 key_key.immersive_aircraft.fallback_control_right:key.keyboard.unknown
@@ -332,6 +333,8 @@ key_key.openManual:key.keyboard.f1
 key_key.nextDestination:key.keyboard.right.bracket
 key_key.prevDestination:key.keyboard.left.bracket
 key_key.guideme.guide:key.keyboard.g
+key_key.personality.crawl:key.keyboard.x
+key_key.personality.sit:key.keyboard.z
 key_key.customfov.profile.desc:key.keyboard.unknown
 key_key.jade.config:key.keyboard.keypad.0
 key_key.jade.show_overlay:key.keyboard.l:CONTROL
@@ -352,7 +355,7 @@ key_key.ae2.wireless_pattern_encoding_terminal:key.keyboard.unknown
 key_key.ae2.wireless_terminal:key.keyboard.unknown
 key_key.extendedae.viewpattern:key.keyboard.p
 soundCategory_master:0.30463576
-soundCategory_music:0.2535211267605634
+soundCategory_music:0.15140845
 soundCategory_record:1.0
 soundCategory_weather:0.40140846
 soundCategory_block:0.806338
