@@ -57,6 +57,10 @@ file = "config/ftbchunks-world.snbt"
 hash = "df97d93407a6babe2efd80d6d5a912b0bc5dbbf8de9ccb08be2880f731c30ec1"
 
 [[files]]
+file = "config/inline/client-config.toml"
+hash = "a3ca1cd7feaa30993414670c67645455658a884aad0f653b5ba937c0a4288581"
+
+[[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "041adb840e91f34493844105f50ec8d2843ae452262d62fc9aaf85a4052052ec"
 
@@ -105,6 +109,22 @@ file = "config/tide.toml"
 hash = "149e8e44ec1b46dabf6ce0c6404f58517d93668add7f4180e1e98fefbf3a381c"
 
 [[files]]
+file = "config/touhou_little_maid/info.json"
+hash = "812c67932e3f70481ea147b994f50af2b3eb965e1bddf12d5712997f3ecfca9f"
+
+[[files]]
+file = "config/touhou_little_maid/sites/llm.json"
+hash = "e69be04b3e060ef589356b04010cf3c4ca4235acf1308f8eb62dbd09471c011b"
+
+[[files]]
+file = "config/touhou_little_maid/sites/stt.json"
+hash = "27f7d12d618f68dba8d5be4816d4e11b577ac8e7c566f0d19f8f456b497a9f07"
+
+[[files]]
+file = "config/touhou_little_maid/sites/tts.json"
+hash = "62080f2405cb825d7639273e11d6c2c46516cdf1ca9cb9c8668a834d1d42514c"
+
+[[files]]
 file = "config/transmog.json"
 hash = "6c52249c560629b1cc7a5b4247d9e55e7e92f1923fcfcc37b6318b4d472e8355"
 
@@ -146,8 +166,76 @@ hash = "018bba37d909e59719cf7641ba997b24cc28627d6aa7298fd4a528e004e09fcc"
 preserve = true
 
 [[files]]
-file = "kubejs/data/miladycraft_data_1.6.zip"
-hash = "0c08de1069177bb0e673278a888ee737779892a922ce53a8122dd11223c09b04"
+file = "kubejs/assets/compactmachines/lang/en_us.json"
+hash = "958ea73f2a35dfef2e830be28703d82ab160f3f2d4ed072752227c021718a476"
+
+[[files]]
+file = "kubejs/data/compactmachines/compactmachines/room_templates/big.json"
+hash = "323acbe03aabfb31476ddf66f920a7c45465912c9b3354479eafcf3c83d4c0e5"
+
+[[files]]
+file = "kubejs/data/compactmachines/compactmachines/room_templates/mini.json"
+hash = "bda1667f411ae1e057249c9d9c8cd5fb35b2f4e3948d8157f640c74c19082b42"
+
+[[files]]
+file = "kubejs/data/compactmachines/compactmachines/room_templates/normal.json"
+hash = "15caa880409a920401fdb264ae229afcaf9ac7a9b891a2931cdabad9c083414b"
+
+[[files]]
+file = "kubejs/data/compactmachines/compactmachines/room_templates/small.json"
+hash = "5badb368f76556b0686ac1f5b41573e86f4830f698886c18541ba1bae5015e5d"
+
+[[files]]
+file = "kubejs/data/compactmachines/recipe/new_machine_big.json"
+hash = "b9da525ac8d6898de455908eb51ecc55e0e044081b1e243d09a920b974bc3b7f"
+
+[[files]]
+file = "kubejs/data/compactmachines/recipe/new_machine_mini.json"
+hash = "6e63b44054e32d29823ac8855720a419df0738f417823c559e8c4b6a026b152c"
+
+[[files]]
+file = "kubejs/data/compactmachines/recipe/new_machine_normal.json"
+hash = "55e8cd27fde8aa45b523d23149797e9eb259bb5e1605c9fe756d703e09327bc1"
+
+[[files]]
+file = "kubejs/data/compactmachines/recipe/new_machine_small.json"
+hash = "fb5e5b0a93eae9ed84e50c4b7d2fd985d2222055665ef187ea7b102c2382fcc2"
+
+[[files]]
+file = "kubejs/data/ftbchunks/tags/block/edit_whitelist.json"
+hash = "ad4af8fda0ccb065ad27f1feb91495c71502a9eddac20dc2bb3968213d3febef"
+
+[[files]]
+file = "kubejs/data/ftbchunks/tags/block/interact_whitelist.json"
+hash = "d858a2a4d8a4b4d47313b8bd774eca029cddc93f8403eb88a49314e6360fd4d9"
+
+[[files]]
+file = "kubejs/data/ftbchunks/tags/entity_type/entity_interact_whitelist.json"
+hash = "e4ccf86ba054bc6b703d184a5bc04045d971ae59558a1b7060fe0068f5696a14"
+
+[[files]]
+file = "kubejs/data/ftbchunks/tags/entity_type/entity_mob_griefing_blacklist.json"
+hash = "55bbd2c02a21e46248894700d58b044ea8779a1885d170e3ead6b4b304eac7eb"
+
+[[files]]
+file = "kubejs/data/ftbchunks/tags/item/right_click_blacklist.json"
+hash = "68ef1714917f98dfa9a52bd96d42b82863ba1bb2bc0b8b1cd31cb49dd93da846"
+
+[[files]]
+file = "kubejs/data/ftbchunks/tags/item/right_click_whitelist.json"
+hash = "0e69a7d8aed88d7b888df80aa3c25c28d05c373ea559efb668b4925a0aa00a41"
+
+[[files]]
+file = "kubejs/data/tntutils/tags/block/explosion_whitelist.json"
+hash = "78f1d22e64ecc404fd986cbabae6525e4ef028f89bb29f57cbc614f7f2df6cc6"
+
+[[files]]
+file = "kubejs/data/tntutils/tags/entity_type/explosion_whitelist.json"
+hash = "9ab9d2868bd6537a90ab362986f98975c48cd74ae0485932bcac617ba3278101"
+
+[[files]]
+file = "kubejs/data/tntutils/tags/item/explosion_whitelist.json"
+hash = "78f1d22e64ecc404fd986cbabae6525e4ef028f89bb29f57cbc614f7f2df6cc6"
 
 [[files]]
 file = "kubejs/server_scripts/removedRecipes.js"
@@ -226,7 +314,7 @@ metafile = true
 
 [[files]]
 file = "mods/alltheleaks.pw.toml"
-hash = "b169fee813d8155e17fe9bcd7c692878e9a3e602bc37d21aa2972b5cdc237250"
+hash = "6a72b418fb827235946d785eca0557ffe542348d9efc6113bd99478a2dd1a242"
 metafile = true
 
 [[files]]
@@ -261,7 +349,7 @@ metafile = true
 
 [[files]]
 file = "mods/animal-pens.pw.toml"
-hash = "05b133184e8fffd5e95f010e9dabbe06e3159e1ec3473363d0be11d1bb4999c1"
+hash = "1c188e1fedf189fa98610a3645b885e420716ce2df80a673b76945238b19e619"
 metafile = true
 
 [[files]]
@@ -286,7 +374,7 @@ metafile = true
 
 [[files]]
 file = "mods/apothic-spawners.pw.toml"
-hash = "ca299f47588fee2bc81626e04146efa3f188da6f9e4b11bbac04502b9cdbc9dd"
+hash = "3a62fada2eb010a449264a4ac3c7c78af296e30748365b96c97d00bf90bddb14"
 metafile = true
 
 [[files]]
@@ -425,6 +513,11 @@ hash = "08d726bfed2555eda3603159d9a4895f3aa29c522eeea27ec67cdcb8b6013dac"
 metafile = true
 
 [[files]]
+file = "mods/bridging-mod.pw.toml"
+hash = "9ea9a3018efe43ae83284cb05614459dc5eb69ef4816228ba79766551fcddad2"
+metafile = true
+
+[[files]]
 file = "mods/building-gadgets.pw.toml"
 hash = "7882306ee3aa83624ad9dbdd942432d2232429d0c0335069b5287e85581b91cc"
 metafile = true
@@ -545,7 +638,7 @@ metafile = true
 
 [[files]]
 file = "mods/clientsort.pw.toml"
-hash = "07e9685faeb1655ff065512308f50d60e944b7aeba1787d7766546cca9b522ec"
+hash = "b43a4daced6685433e17f6cc70f2b26d08220ef9369e3c6cac544b3fc13147cb"
 metafile = true
 
 [[files]]
@@ -650,7 +743,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "cbe58f187d91e578b4ec13aa763e39ff48c34f84f72fd21f31e68910694bc41e"
+hash = "314ef687d043ba6676786a9ab6bc7d52d5f22b7def2eed31e5ce146e39812e8a"
 metafile = true
 
 [[files]]
@@ -744,6 +837,11 @@ metafile = true
 [[files]]
 file = "mods/easy-villagers.pw.toml"
 hash = "12b42a672b04d5ba36b2db144ef24977830c3029ea0f159295fa87f8f65e3fea"
+metafile = true
+
+[[files]]
+file = "mods/effecttimerplus.pw.toml"
+hash = "36670ec6abcaeb01516a917ef50648a195e82bf7e309d2c8e32ed8f656c4df08"
 metafile = true
 
 [[files]]
@@ -998,12 +1096,17 @@ metafile = true
 
 [[files]]
 file = "mods/guideme.pw.toml"
-hash = "c13e791100da0236e87cf7626928892b62c16d38cc52f74107d8854d66b19180"
+hash = "8cff51225f40315860a008dfba8a851e8398de06f84e7cac6dccffa80e61c757"
 metafile = true
 
 [[files]]
 file = "mods/heartstone.pw.toml"
 hash = "2fa3aaf0391f0ddbd8331858c8c17e042ba2b47d191f47f37885a33e9fe252a3"
+metafile = true
+
+[[files]]
+file = "mods/herenthere.pw.toml"
+hash = "5c63df7d12012131044bdf092457ceaced1ab05549fb8b3bade716c98b05dadc"
 metafile = true
 
 [[files]]
@@ -1049,6 +1152,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-optimization.pw.toml"
 hash = "55753ba7b902c2eac0bf81f6e5680ad1c7fc11acaf289c96191719db391b0e45"
+metafile = true
+
+[[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "f396d2451d69bd7ccc614896063ae9fec63f42f916486c571c6fc00f6383c673"
 metafile = true
 
 [[files]]
@@ -1178,7 +1286,7 @@ metafile = true
 
 [[files]]
 file = "mods/lendercataclysm.pw.toml"
-hash = "bdb9848d23f1fd0a5934a468ba2300c5ceb3e889431ff917153dbf9d526a3c8b"
+hash = "1d36d6f74f30493656c2bcc67fec7c448d9b5d64e56b21d87c80460b40800a58"
 metafile = true
 
 [[files]]
@@ -1566,7 +1674,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "b68cfc28098539919b5e444d1ac2f70290d9790e623ba29e2fc257891bf34293"
+hash = "a13433bf1f1920a486fd88ac83e54b5481692ea2955971be947ecde0eebc38ab"
 metafile = true
 
 [[files]]
@@ -1616,7 +1724,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "7fca1d6e1709859d156a27a45c6dfd85651f6aa87482dbd64d15cdb754fbb10d"
+hash = "68c8ca9e3c16f342c23b51bb70ed110a6e916651b12388ed926cad3923bf2eab"
 metafile = true
 
 [[files]]
@@ -1690,11 +1798,6 @@ hash = "d8a4ebbb73f4a366010f466d322540dd99db7a5b51791187096b726798fb7353"
 metafile = true
 
 [[files]]
-file = "mods/status-effect-bars-reforged.pw.toml"
-hash = "273ef4fdd7231df933618e0477eb4580466a917413b397a4d3ccb39ae48e3a21"
-metafile = true
-
-[[files]]
 file = "mods/storage-delight-forge.pw.toml"
 hash = "711b91fe2fac178686dd95b1fae1e3c175707da8d59593b30354ce20cd25b793"
 metafile = true
@@ -1736,7 +1839,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "2d0765e639ff5218eade5d8b9a8207ea0600fa67a3cdca3d1e1f36f3ef81879b"
+hash = "07793372ab011f62591a52eb51b260d3b48adbec3d994a26ae56a5edf58699b4"
 metafile = true
 
 [[files]]
@@ -1802,6 +1905,11 @@ metafile = true
 [[files]]
 file = "mods/torchmaster.pw.toml"
 hash = "f20c38f9378a6946dec3f7465dd074c8359843eea0729bccc1912b6472d815e7"
+metafile = true
+
+[[files]]
+file = "mods/touhou-little-maid.pw.toml"
+hash = "77801eb899404235dc2621b6354814cfe615ec5e76712d8a3593ed832308ae51"
 metafile = true
 
 [[files]]
@@ -1885,6 +1993,11 @@ hash = "8e960a7f77607e87c81898bfe6649fc051df8e71ff995f05f9a0c2a22b72f55f"
 metafile = true
 
 [[files]]
+file = "mods/woodlandfoxverses.pw.toml"
+hash = "7ee0cf43902ccea7988886f49d7790bb1c164847a64e794e47526e95965e426c"
+metafile = true
+
+[[files]]
 file = "mods/woodworks.pw.toml"
 hash = "1e8dea6381451dbeb0059223d418751c11481b15e32530f3ae8dd6ac9324aebd"
 metafile = true
@@ -1897,6 +2010,11 @@ metafile = true
 [[files]]
 file = "mods/xnet.pw.toml"
 hash = "733137402d13e961da3ea59aefd584fad79c0305653edc283a0048b362e0232b"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "5aaab5c3140ac335cf0345f9f280fc5774a2834faecc290272b3d24b8a97274a"
 metafile = true
 
 [[files]]

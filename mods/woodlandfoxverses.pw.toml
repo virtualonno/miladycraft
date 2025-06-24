@@ -1,0 +1,13 @@
+name = "WoodlandFoxVerses"
+filename = "woodlandfoxverses-1.21.1-neoforge-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "650a10a557464ca4dbe1321762c1f1a0cd9fbadb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6690427
+project-id = 1292631

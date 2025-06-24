@@ -1,0 +1,16 @@
+{
+  "values": [
+    {"id": "minecraft:painting", "required": false},
+    {"id": "minecraft:item_frame", "required": false},
+    {"id": "minecraft:glow_item_frame", "required": false},
+    {"id": "minecraft:armor_stand", "required": false},
+
+    {"id": "exposure:camera_stand", "required": false},
+    {"id": "exposure:photograph_frame", "required": false},
+    {"id": "exposure:glass_photograph_frame", "required": false},
+
+    {"id": "camerapture:picture_frame", "required": false},
+
+    {"id": "simplehats:hatdisplay", "required": false}
+  ]
+}

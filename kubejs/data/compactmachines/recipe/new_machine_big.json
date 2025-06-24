@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": {
+      "item": "compactmachines:enlarging_module"
+    },
+    "S": {
+      "item": "compactmachines:shrinking_module"
+    },
+    "W": {
+      "item": "compactmachines:wall"
+    },
+    "R": {
+      "item": "apothic_enchanting:warden_tendril"
+    }
+  },
+  "pattern": [
+    "WWW",
+    "ERS",
+    "WWW"
+  ],
+  "result": {
+    "components": {
+      "compactmachines:machine_color": "#0070dd",
+      "compactmachines:room_template": "compactmachines:big"
+    },
+    "count": 1,
+    "id": "compactmachines:new_machine"
+  }
+}
