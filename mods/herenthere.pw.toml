@@ -1,13 +1,13 @@
 name = "Here 'n' There"
-filename = "herenthere-neoforge-0.3.0+1.21.1.jar"
+filename = "herenthere-neoforge-0.6.0+1.21.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b2f4df746e12517401cda62a120bfe9ddaa1786c"
+hash = "5bf0fdbcbcff981b0e3741164a4ac9d1db4d83db"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6690385
+file-id = 6694803
 project-id = 1293136

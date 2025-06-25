@@ -299,7 +299,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2-crafting-tree.pw.toml"
-hash = "9954b78cdcee56bef5d407f8051a4924c7c178c29fee92a7482c5c5ac695794b"
+hash = "b65010712a1d17392bafa4dcecb6608fdf16a74a04f64fa67e207e921abf03d1"
 metafile = true
 
 [[files]]
@@ -314,12 +314,7 @@ metafile = true
 
 [[files]]
 file = "mods/alltheleaks.pw.toml"
-hash = "6a72b418fb827235946d785eca0557ffe542348d9efc6113bd99478a2dd1a242"
-metafile = true
-
-[[files]]
-file = "mods/allurement.pw.toml"
-hash = "839a6921c83a4d59fb6354e9d0034b3dffc3688b4a5c41cba813dc508cbbeae8"
+hash = "a6ebfd6216892d39e9ea0bcb3e232ca433f9ec614594757cd0d33044b58b2429"
 metafile = true
 
 [[files]]
@@ -473,11 +468,6 @@ hash = "54f70c24912210d007d2640268704364c1464fec1fc11172c5a1c7cf62ffb609"
 metafile = true
 
 [[files]]
-file = "mods/berry-good.pw.toml"
-hash = "b039bd5cd51fc1710878f9c234884c2c1120a7e6962ab54df60ef2dafc1d5cdd"
-metafile = true
-
-[[files]]
 file = "mods/better-compatibility-checker.pw.toml"
 hash = "1d435f1668611f353a386b365cb814fec042758045bf4118320586ebbd881570"
 metafile = true
@@ -498,16 +488,6 @@ hash = "0bd86e5a0e1665c28eadd59f9c83c59f28bd338dda243ff0b371928fff21b62d"
 metafile = true
 
 [[files]]
-file = "mods/blueprint.pw.toml"
-hash = "ef4c7bb9f0c537709c43666c5a341e113a0bd5b1838eca3738046eea21181a90"
-metafile = true
-
-[[files]]
-file = "mods/boatload.pw.toml"
-hash = "093bbdf2b32efeccf0ba627ab71ba5dfcd1143bebc856d151a7dcbb460af6c02"
-metafile = true
-
-[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "08d726bfed2555eda3603159d9a4895f3aa29c522eeea27ec67cdcb8b6013dac"
 metafile = true
@@ -520,11 +500,6 @@ metafile = true
 [[files]]
 file = "mods/building-gadgets.pw.toml"
 hash = "7882306ee3aa83624ad9dbdd942432d2232429d0c0335069b5287e85581b91cc"
-metafile = true
-
-[[files]]
-file = "mods/buzzier-bees.pw.toml"
-hash = "e1a2ca0f34fefc17da6e8731c85e3b21f45d49b76fa271f63736b7c4e60f5607"
 metafile = true
 
 [[files]]
@@ -609,11 +584,6 @@ metafile = true
 [[files]]
 file = "mods/chunky-pregenerator-forge.pw.toml"
 hash = "7be63eaec6a70605f2f21cc30f0889fb27978c2e2fe62ee4584210502289e77d"
-metafile = true
-
-[[files]]
-file = "mods/clayworks.pw.toml"
-hash = "456af7a391f6a05e1374a5a6526a9732d4007803f313c85e255a248970a4d6c5"
 metafile = true
 
 [[files]]
@@ -1055,11 +1025,6 @@ hash = "b772e8a158c45c21844c4acf10f2031335ccc8d05837532ad01034057221bdbd"
 metafile = true
 
 [[files]]
-file = "mods/gallery.pw.toml"
-hash = "c5ad1776e5593ca7af72b2d249fd284334835cd028cf95daf4b96f619eb0fe53"
-metafile = true
-
-[[files]]
 file = "mods/game-discs.pw.toml"
 hash = "8b41a10c4d19d51df02f43d935c84d3c114ec06d67deb8de5a838b90513c23bf"
 metafile = true
@@ -1106,7 +1071,7 @@ metafile = true
 
 [[files]]
 file = "mods/herenthere.pw.toml"
-hash = "5c63df7d12012131044bdf092457ceaced1ab05549fb8b3bade716c98b05dadc"
+hash = "51d83e13fb6eabb52757845844879ed361d6e9a095e5ecc340abeae6add3686e"
 metafile = true
 
 [[files]]
@@ -1162,11 +1127,6 @@ metafile = true
 [[files]]
 file = "mods/incendium.pw.toml"
 hash = "5a1604eb3c113c5a540de4768de72660ea652b41730ea318798a24b9f60d88b7"
-metafile = true
-
-[[files]]
-file = "mods/incubation.pw.toml"
-hash = "8ab8ca4ca54d7e86c68ed61c25b1040e49ec9aaf818b8accb47c00713266f3b6"
 metafile = true
 
 [[files]]
@@ -1674,7 +1634,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "a13433bf1f1920a486fd88ac83e54b5481692ea2955971be947ecde0eebc38ab"
+hash = "22e521457272921e495585d2ecbb1bf42902f46d8decad58662f520f4d9ab0dd"
 metafile = true
 
 [[files]]
@@ -1799,7 +1759,7 @@ metafile = true
 
 [[files]]
 file = "mods/storage-delight-forge.pw.toml"
-hash = "711b91fe2fac178686dd95b1fae1e3c175707da8d59593b30354ce20cd25b793"
+hash = "51a3bc11e9b8726d746d2bdaa6eed783184c8bc55794480057ae81626a762ed0"
 metafile = true
 
 [[files]]
@@ -1995,11 +1955,6 @@ metafile = true
 [[files]]
 file = "mods/woodlandfoxverses.pw.toml"
 hash = "7ee0cf43902ccea7988886f49d7790bb1c164847a64e794e47526e95965e426c"
-metafile = true
-
-[[files]]
-file = "mods/woodworks.pw.toml"
-hash = "1e8dea6381451dbeb0059223d418751c11481b15e32530f3ae8dd6ac9324aebd"
 metafile = true
 
 [[files]]
