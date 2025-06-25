@@ -488,6 +488,11 @@ hash = "0bd86e5a0e1665c28eadd59f9c83c59f28bd338dda243ff0b371928fff21b62d"
 metafile = true
 
 [[files]]
+file = "mods/blueprint.pw.toml"
+hash = "ef4c7bb9f0c537709c43666c5a341e113a0bd5b1838eca3738046eea21181a90"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "08d726bfed2555eda3603159d9a4895f3aa29c522eeea27ec67cdcb8b6013dac"
 metafile = true
@@ -1256,7 +1261,7 @@ metafile = true
 
 [[files]]
 file = "mods/let-sleeping-dogs-lie.pw.toml"
-hash = "e9dae50657137015cc68d14b49934d7757e659874eb56e46e04a800ba4f3f7be"
+hash = "175d4fdceb928c2bcc12b7a05a7666adf7b58db4b75ea18f25ff9309ec970781"
 metafile = true
 
 [[files]]
@@ -1515,7 +1520,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "2078af1a1e235847145cf8d2b655262f799244a95a9935759e38841846851c53"
+hash = "3e88b6d330bb21c13516654579675e3836a6a17f341a0fb188a2fe8721e56b1e"
 metafile = true
 
 [[files]]
