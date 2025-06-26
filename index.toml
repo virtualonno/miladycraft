@@ -1151,11 +1151,6 @@ hash = "69a36327ba1adab87891fe28173daf114eee534c810c770d5fbff6b6968209d0"
 metafile = true
 
 [[files]]
-file = "mods/inventory-management-deluxe.pw.toml"
-hash = "7f74ebe942e9e1f8f48cd1386765b8c424f09efa2e4cb7afebc569ec2bfbeb81"
-metafile = true
-
-[[files]]
 file = "mods/irisshaders.pw.toml"
 hash = "858fef2c0f2f1ea3e0737274348e13e418cf4da391f67de50f5ea5a1e09be059"
 metafile = true
