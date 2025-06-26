@@ -25,12 +25,8 @@ file = "config/default_files/customfov.txt"
 hash = "b6ab909e14be013593ec9978b05041e69c6bd7fec1136b97e34613040eca021a"
 
 [[files]]
-file = "config/default_files/knownkeys.txt"
-hash = "018bba37d909e59719cf7641ba997b24cc28627d6aa7298fd4a528e004e09fcc"
-
-[[files]]
 file = "config/default_files/options.txt"
-hash = "64b9ac27fb0602fe3f231bbf6812644beb52bf02760db3c96290dfd330493336"
+hash = "911c7ef6982bf586af2f0f27a29f806262e1a32ffef17f08f54c7492749b42ea"
 
 [[files]]
 file = "config/desiredservers/desiredservers.json"
@@ -101,6 +97,14 @@ file = "config/sidekick.ini"
 hash = "f492b177c297ee8a8f1713ad898ec470616b992cbe80d2beecf21fdeeff2f25b"
 
 [[files]]
+file = "config/simple-rpc/server-entries.toml"
+hash = "c0f805a22438339d68aacf46339f6f9d47cd9737ab0a6e4c8af3b772f7028849"
+
+[[files]]
+file = "config/simple-rpc/simple-rpc.toml"
+hash = "94c78ed9d21698d153a64fcd004e9b082c3564158b5e884461e13535fff3b5b4"
+
+[[files]]
 file = "config/simple_music_control-client.toml"
 hash = "a503238745d6d4437eac69eeaa4f1aa4a0541e0ce87d7da945e184a362b09f66"
 
@@ -109,20 +113,8 @@ file = "config/tide.toml"
 hash = "149e8e44ec1b46dabf6ce0c6404f58517d93668add7f4180e1e98fefbf3a381c"
 
 [[files]]
-file = "config/touhou_little_maid/info.json"
-hash = "812c67932e3f70481ea147b994f50af2b3eb965e1bddf12d5712997f3ecfca9f"
-
-[[files]]
-file = "config/touhou_little_maid/sites/llm.json"
-hash = "e69be04b3e060ef589356b04010cf3c4ca4235acf1308f8eb62dbd09471c011b"
-
-[[files]]
-file = "config/touhou_little_maid/sites/stt.json"
-hash = "27f7d12d618f68dba8d5be4816d4e11b577ac8e7c566f0d19f8f456b497a9f07"
-
-[[files]]
-file = "config/touhou_little_maid/sites/tts.json"
-hash = "62080f2405cb825d7639273e11d6c2c46516cdf1ca9cb9c8668a834d1d42514c"
+file = "config/touhou_little_maid-common.toml"
+hash = "3f3dccd6f5127c0e712b1050dd8e050930db3b865c83de3e60e0c58681e2557d"
 
 [[files]]
 file = "config/transmog.json"
@@ -211,7 +203,7 @@ hash = "d858a2a4d8a4b4d47313b8bd774eca029cddc93f8403eb88a49314e6360fd4d9"
 
 [[files]]
 file = "kubejs/data/ftbchunks/tags/entity_type/entity_interact_whitelist.json"
-hash = "e4ccf86ba054bc6b703d184a5bc04045d971ae59558a1b7060fe0068f5696a14"
+hash = "fce6517b7f300d11b14309ef6d8b41e9ff5feb53640b60181494fc51ff03309f"
 
 [[files]]
 file = "kubejs/data/ftbchunks/tags/entity_type/entity_mob_griefing_blacklist.json"
@@ -224,6 +216,10 @@ hash = "68ef1714917f98dfa9a52bd96d42b82863ba1bb2bc0b8b1cd31cb49dd93da846"
 [[files]]
 file = "kubejs/data/ftbchunks/tags/item/right_click_whitelist.json"
 hash = "0e69a7d8aed88d7b888df80aa3c25c28d05c373ea559efb668b4925a0aa00a41"
+
+[[files]]
+file = "kubejs/data/miladycraft/accessories/slot/hat.json"
+hash = "17c060968cffdd69cf91e4b6db67354dc0b4a9e0fc9afab11581f0e117ee4885"
 
 [[files]]
 file = "kubejs/data/tntutils/tags/block/explosion_whitelist.json"
@@ -1155,6 +1151,11 @@ hash = "69a36327ba1adab87891fe28173daf114eee534c810c770d5fbff6b6968209d0"
 metafile = true
 
 [[files]]
+file = "mods/inventory-management-deluxe.pw.toml"
+hash = "7f74ebe942e9e1f8f48cd1386765b8c424f09efa2e4cb7afebc569ec2bfbeb81"
+metafile = true
+
+[[files]]
 file = "mods/irisshaders.pw.toml"
 hash = "858fef2c0f2f1ea3e0737274348e13e418cf4da391f67de50f5ea5a1e09be059"
 metafile = true
@@ -1440,7 +1441,7 @@ metafile = true
 
 [[files]]
 file = "mods/observable.pw.toml"
-hash = "5d36cd9acf63014e3b2cfcb5eb1473e3fa04c8b4dcb5c9477806b650f5781f4e"
+hash = "00fb150ec4389dbe540bcede8ac3b6e34677f5bf3e3454732d311b7e44569d63"
 metafile = true
 
 [[files]]
@@ -1689,7 +1690,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "68c8ca9e3c16f342c23b51bb70ed110a6e916651b12388ed926cad3923bf2eab"
+hash = "4e92630281b281559234080555d57a3debc8e9b84c9bf7a87dd5438961f57c59"
 metafile = true
 
 [[files]]
@@ -1963,11 +1964,6 @@ hash = "7ee0cf43902ccea7988886f49d7790bb1c164847a64e794e47526e95965e426c"
 metafile = true
 
 [[files]]
-file = "mods/woodworks.pw.toml"
-hash = "1e8dea6381451dbeb0059223d418751c11481b15e32530f3ae8dd6ac9324aebd"
-metafile = true
-
-[[files]]
 file = "mods/xnet-gases.pw.toml"
 hash = "3ae76caa1bc5baa42fa5b2f3a9fdc64b59df9d9b705e3d894d1bd8950f0904e3"
 metafile = true
@@ -2039,7 +2035,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "64b9ac27fb0602fe3f231bbf6812644beb52bf02760db3c96290dfd330493336"
+hash = "911c7ef6982bf586af2f0f27a29f806262e1a32ffef17f08f54c7492749b42ea"
 preserve = true
 
 [[files]]
