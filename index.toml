@@ -1768,11 +1768,6 @@ hash = "51a3bc11e9b8726d746d2bdaa6eed783184c8bc55794480057ae81626a762ed0"
 metafile = true
 
 [[files]]
-file = "mods/storage-no-poof.pw.toml"
-hash = "a09c739beadfad752527b77ee432ce9ba0e3ae12626a5e4291ca6f6f7b60aae0"
-metafile = true
-
-[[files]]
 file = "mods/structure-essentials-forge-fabric.pw.toml"
 hash = "fa83a43df0c7545b4c6d9f82f3c50fb6634c965aa742bab3aa626b7b705f09ac"
 metafile = true
@@ -1965,6 +1960,11 @@ metafile = true
 [[files]]
 file = "mods/woodlandfoxverses.pw.toml"
 hash = "7ee0cf43902ccea7988886f49d7790bb1c164847a64e794e47526e95965e426c"
+metafile = true
+
+[[files]]
+file = "mods/woodworks.pw.toml"
+hash = "1e8dea6381451dbeb0059223d418751c11481b15e32530f3ae8dd6ac9324aebd"
 metafile = true
 
 [[files]]
