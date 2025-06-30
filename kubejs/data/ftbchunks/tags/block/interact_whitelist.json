@@ -9,7 +9,10 @@
 			"id": "#simplygraves:graves",
 			"required": false
 		},
-
+		{
+			"id": "yigd:grave",
+			"required": false
+		},
 		{
 			"id": "#dramaticdoors:short_doors",
 			"required": false

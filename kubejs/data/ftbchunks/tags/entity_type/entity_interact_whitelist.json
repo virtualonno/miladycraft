@@ -29,6 +29,26 @@
     {
       "id": "immersive_aircraft:airship",
       "required": false
+    },
+    {
+      "id": "immersive_machinery:redstone_sheep",
+      "required": false
+    },
+    {
+      "id": "immersive_machinery:tunnel_digger",
+      "required": false
+    },
+    {
+      "id": "immersive_machinery:bamboo_bee",
+      "required": false
+    },
+    {
+      "id": "immersive_machinery:copperfin",
+      "required": false
+    },
+    {
+      "id": "automobility:automobile",
+      "required": false
     }
   ]
 }
