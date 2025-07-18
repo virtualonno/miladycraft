@@ -1,0 +1,13 @@
+name = "Gensokyo Delight ~ Youkai's Homecoming"
+filename = "youkaishomecoming-3.0.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c9fbddb6fdefcbb807f5c5e537875491edf7be3c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6491908
+project-id = 957437

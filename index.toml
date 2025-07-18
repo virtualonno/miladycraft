@@ -25,6 +25,10 @@ file = "config/betterdays-common.toml"
 hash = "235351026dadd2d5ea2b058ab6310b1092f6dec7d7226dcdade97d151c6d4256"
 
 [[files]]
+file = "config/clienttweaks-common.toml"
+hash = "3a8c151cb9a0224ccfbb3eeba4ccae199adf1809dafdacbdd5f1c301413004b0"
+
+[[files]]
 file = "config/default_files/customfov.txt"
 hash = "b6ab909e14be013593ec9978b05041e69c6bd7fec1136b97e34613040eca021a"
 
@@ -51,6 +55,10 @@ hash = "e074d6c2a79b8fc71713af6ee5335ccd1f1e410cce0060cc9d1ef34fd356c25d"
 [[files]]
 file = "config/emi.yaml"
 hash = "cc73592e208680c42f5c4e761e55cf394f241ae9e2f1b5e05049805493bf5d0c"
+
+[[files]]
+file = "config/foodeffecttooltips-client.toml"
+hash = "6b547d58aab449f5ef7f41a99c9d0060f6346e1b34eba2e5e48c6032727e7d5d"
 
 [[files]]
 file = "config/ftbchunks-world.snbt"
@@ -891,6 +899,11 @@ metafile = true
 [[files]]
 file = "mods/etched.pw.toml"
 hash = "3e11ffcdd1d2c77ac05bf2fbeb52f746491efbc8b2664e80aed8670856c0f686"
+metafile = true
+
+[[files]]
+file = "mods/every-compat.pw.toml"
+hash = "43e508fa547f1fdd96a2803b4af2658920c9531152e72a71f0c8f03316d75bed"
 metafile = true
 
 [[files]]
@@ -1792,6 +1805,11 @@ hash = "e09b773b899ccad0e294d7d501abc223a3e14f57e4b201358f2f32b807f8e3b5"
 metafile = true
 
 [[files]]
+file = "mods/stone-zone.pw.toml"
+hash = "7b3bda960fb59783f8abdbdc8109e17f26e6aaaebe6bcbddb6d46beae8ce325a"
+metafile = true
+
+[[files]]
 file = "mods/storage-delight-forge.pw.toml"
 hash = "51a3bc11e9b8726d746d2bdaa6eed783184c8bc55794480057ae81626a762ed0"
 metafile = true
@@ -2009,6 +2027,11 @@ metafile = true
 [[files]]
 file = "mods/yeetusexperimentus.pw.toml"
 hash = "76b07f47147fb18bb31d8719f9c7beb6622b55f59ae14411c7cf022b4d99d910"
+metafile = true
+
+[[files]]
+file = "mods/youkais-homecoming.pw.toml"
+hash = "5b4baf14ee265a397cfa05cf5036fe9fa0654860802afae5ca3527e3b9397370"
 metafile = true
 
 [[files]]
