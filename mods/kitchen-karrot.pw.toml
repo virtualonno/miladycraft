@@ -1,0 +1,13 @@
+name = "Kitchen Karrot"
+filename = "kitchenkarrot-1.21-0.6.3b.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fa4cd7551da1fea7d29d7f385ef4481f1d13fab2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6550979
+project-id = 880555

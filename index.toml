@@ -26,7 +26,7 @@ hash = "235351026dadd2d5ea2b058ab6310b1092f6dec7d7226dcdade97d151c6d4256"
 
 [[files]]
 file = "config/clienttweaks-common.toml"
-hash = "3a8c151cb9a0224ccfbb3eeba4ccae199adf1809dafdacbdd5f1c301413004b0"
+hash = "b1f146dbb9a17a47d1be154c5c26cf6c2396cba5f97790a8f557d300d92210e7"
 
 [[files]]
 file = "config/default_files/customfov.txt"
@@ -1252,6 +1252,11 @@ hash = "5a9474718a5218bbc7d8303691e4b368b65d8fc933b2fc92cee4502eed2c6423"
 metafile = true
 
 [[files]]
+file = "mods/kitchen-karrot.pw.toml"
+hash = "e6b2787af4596fa0a2e31376f5c3a4ef825c06cf442a02a01544708752bad131"
+metafile = true
+
+[[files]]
 file = "mods/kiwi.pw.toml"
 hash = "cabf0b45e0c89eb8a95f67c3ff0344383f3ff88ab4266f298dea43be1edec123"
 metafile = true
@@ -1419,6 +1424,11 @@ metafile = true
 [[files]]
 file = "mods/moyai.pw.toml"
 hash = "8801eedcfc4b401f8b70bfdd3b5ef633f4c8fadd7de68144eda4fa5bfa3b01b9"
+metafile = true
+
+[[files]]
+file = "mods/mysterious-mountain-lib.pw.toml"
+hash = "935b9d4a98270c9e5a0b54acd88201128a4f9b8bdd11bf84b95722f6dd059a34"
 metafile = true
 
 [[files]]
@@ -1952,6 +1962,16 @@ metafile = true
 [[files]]
 file = "mods/tslatentitystatus-tes.pw.toml"
 hash = "78ae4e2a30876fb6776b30143150528469586db4d13b3c897796ef05ed927e5c"
+metafile = true
+
+[[files]]
+file = "mods/uma-little-maid.pw.toml"
+hash = "07cd46139a24cfd54809590f2183bff024b84638bffa9162589ec277777e24eb"
+metafile = true
+
+[[files]]
+file = "mods/umapyoi.pw.toml"
+hash = "0cfac208a4b655ddd1eede1068d4b3ff0fa5e46be8295cf6cc84bbcda1a5be2d"
 metafile = true
 
 [[files]]
