@@ -1750,11 +1750,6 @@ hash = "d1c7c8a79ca172c7f4adf2cd2cbe0cfaa6bcc6c1db40452488f61ea7e44f87fc"
 metafile = true
 
 [[files]]
-file = "mods/simply-graves.pw.toml"
-hash = "8e4141562de919e97981c147728491cc47d256e993f834610f6cf48c4ea40c73"
-metafile = true
-
-[[files]]
 file = "mods/smart-completion.pw.toml"
 hash = "b8682cb2d147e4bce290259c4a8a0ae992e4d1f4fb92abd83edef46b254a71d2"
 metafile = true
