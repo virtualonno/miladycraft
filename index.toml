@@ -266,6 +266,10 @@ file = "kubejs/data/tntutils/tags/item/explosion_whitelist.json"
 hash = "78f1d22e64ecc404fd986cbabae6525e4ef028f89bb29f57cbc614f7f2df6cc6"
 
 [[files]]
+file = "kubejs/server_scripts/miladycraft/loot.js"
+hash = "bd16e3d138ae889d628e45923e8cae1006b362a6fc7b0304f665b67e32ca2d6e"
+
+[[files]]
 file = "kubejs/server_scripts/removedRecipes.js"
 hash = "60400922812dffbbd7045b8fee0e4b84e5471b9788fd3d9ce134c5942c200d48"
 
@@ -1249,11 +1253,6 @@ metafile = true
 [[files]]
 file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
 hash = "5a9474718a5218bbc7d8303691e4b368b65d8fc933b2fc92cee4502eed2c6423"
-metafile = true
-
-[[files]]
-file = "mods/kitchen-karrot.pw.toml"
-hash = "e6b2787af4596fa0a2e31376f5c3a4ef825c06cf442a02a01544708752bad131"
 metafile = true
 
 [[files]]
