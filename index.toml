@@ -908,7 +908,7 @@ metafile = true
 
 [[files]]
 file = "mods/ex-pattern-provider.pw.toml"
-hash = "126cfafc70fd7923b2356ec33a64f0630ff50e1d2d6c087ada5e336788f104b7"
+hash = "dfad4fb42e4cd1b44bdb404a5c3a3a2f68c522d4e9f6122d3a11102174fb0afc"
 metafile = true
 
 [[files]]
@@ -998,12 +998,12 @@ metafile = true
 
 [[files]]
 file = "mods/formations-overworld.pw.toml"
-hash = "92211169026fa26d29c34c130e512a0c9df81e26a89329c17603086d80fe2704"
+hash = "45285b5b3d52280b267f8fddb8b5b3bf32763c5b27626bb46adb4c6fbb9d54d2"
 metafile = true
 
 [[files]]
 file = "mods/formations.pw.toml"
-hash = "fce7a9dd9d08989bc1fbf9455e130ede4c7ba663943fe5a9786047d30db8a412"
+hash = "4c74b4ee823da032d8cd4e2cf2e28e22c009a47b57bf4597a2221ede908a97d1"
 metafile = true
 
 [[files]]
@@ -1188,7 +1188,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-essentials.pw.toml"
-hash = "2fb146e5003c3245af94a704cccb0f8deefc3005efb8a0c23e2730e2f5061c5c"
+hash = "ec09aa580472baeadf8c109428a1a2c62062d860ddb50d1e573d94ae2d2a7939"
 metafile = true
 
 [[files]]
@@ -1293,7 +1293,7 @@ metafile = true
 
 [[files]]
 file = "mods/lendercataclysm.pw.toml"
-hash = "d1b5eed06546ad131733ce71be8830beab1150d1563dd086f07d1aedb739aa3f"
+hash = "c0ca53cef4c753c7ed47adf165f511b13cb679d0180e1ccf1e94660a55de33fd"
 metafile = true
 
 [[files]]
@@ -1333,7 +1333,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootjs.pw.toml"
-hash = "52a1ff4e7564d647343d619ac7ff046c27649e0cce290eacfd09027b3f3e4b19"
+hash = "3e8a81f42fb56415a0f624deda712577dc5b4419f1e162cbe115ffcd937d13cd"
 metafile = true
 
 [[files]]
@@ -1517,7 +1517,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "74c69f8c8f04009f6af96905022321b7ea07cf760d6e31bc9b8de42f1c298e2f"
+hash = "3db5943419e6b6f4e33946266be8797230434573bc68dbe3a77d72f19001ae0c"
 metafile = true
 
 [[files]]
@@ -1562,7 +1562,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymorph.pw.toml"
-hash = "08c5f8baa25f2f83f5b816368ec63fc3bbb4c60a243d63386e2d58d8c43c9b75"
+hash = "8b725f1822c0feab9e51bef600f2ee6f4c26efbb55aa3ee9073a027f1f134202"
 metafile = true
 
 [[files]]
@@ -1572,7 +1572,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "f9e869fe8ed05d98ca79f49b00fdd6c14019908fa2f2d5d57057612a2b62ff01"
+hash = "9480a966670f8893949df5c220114e29af8d03c83cd8d1ad0fb1d7e633b8c5ba"
 metafile = true
 
 [[files]]
@@ -1652,7 +1652,7 @@ metafile = true
 
 [[files]]
 file = "mods/rftools-utility.pw.toml"
-hash = "54b27176a77553c09990baec77c999dd7a349895b9461e29cf4db3d5d070e782"
+hash = "564491c579d4893be797f9529780f9be2c891a949b3f1f53c1dd0c9d7fa6521a"
 metafile = true
 
 [[files]]
@@ -1691,7 +1691,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "a0822a53e5d1c22e28d6074ac0f5eaf968e3bd9282a4e35799b4a0e14a7d69c1"
+hash = "2e9c446b5dca499f1f912007a5fa7fcd2a8cec6780abc3aa3a42c87a326a7780"
 metafile = true
 
 [[files]]
@@ -1741,7 +1741,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "d784631ae18d37d79fed293c7ee6939768f140c56eab1c8c29dd6f65bf838373"
+hash = "a146df9478738500c6897955003e36120c2384f28f046d0c1caa7b6070282639"
 metafile = true
 
 [[files]]
@@ -1786,7 +1786,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "a24738d4876c28374390b3ac7264bcbf1567b6526fc0cb0f6c232cc1940af7e0"
+hash = "8790d20b394057a27a980ac3224729ae975e8e058ddfb1023967171c0906144a"
 metafile = true
 
 [[files]]
@@ -1851,7 +1851,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries-squared.pw.toml"
-hash = "13b532ba44289beafbed73c3494fab3c0472692c823b16a9136aa1acb723e7c0"
+hash = "5b66ac9de2cacab55338d7b7e69e7e6615d7ae9b1d18f7729bdfd8baab8256a8"
 metafile = true
 
 [[files]]
@@ -1957,11 +1957,6 @@ metafile = true
 [[files]]
 file = "mods/tslatentitystatus-tes.pw.toml"
 hash = "78ae4e2a30876fb6776b30143150528469586db4d13b3c897796ef05ed927e5c"
-metafile = true
-
-[[files]]
-file = "mods/uma-little-maid.pw.toml"
-hash = "07cd46139a24cfd54809590f2183bff024b84638bffa9162589ec277777e24eb"
 metafile = true
 
 [[files]]
