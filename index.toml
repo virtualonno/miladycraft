@@ -266,8 +266,12 @@ file = "kubejs/data/tntutils/tags/item/explosion_whitelist.json"
 hash = "78f1d22e64ecc404fd986cbabae6525e4ef028f89bb29f57cbc614f7f2df6cc6"
 
 [[files]]
-file = "kubejs/server_scripts/miladycraft/loot.js"
-hash = "bd16e3d138ae889d628e45923e8cae1006b362a6fc7b0304f665b67e32ca2d6e"
+file = "kubejs/data/umapyoi/loot_table/complex_skills.json"
+hash = "dfeac67abce982906c5e18d859c55a479190d297f390ffba256c57ae3661dbe5"
+
+[[files]]
+file = "kubejs/data/umapyoi/loot_table/simple_skills.json"
+hash = "df45a95ea803b1ddd1d354d3464e73ddd49fc64d6fc47356c500e18755282ee5"
 
 [[files]]
 file = "kubejs/server_scripts/removedRecipes.js"
