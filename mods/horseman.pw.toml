@@ -1,13 +1,13 @@
 name = "Horseman"
-filename = "horseman-neoforge-1.21.1-1.5.0.jar"
+filename = "horseman-neoforge-1.21.1-1.5.2.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "295b1c21bc4ea8ffab88fb6f80643f0b7e03cf74"
+hash = "aa03feea4c3f0001bec963fa2ca4cdbebc454eac"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6754303
+file-id = 6905650
 project-id = 1082085
