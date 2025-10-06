@@ -1,13 +1,13 @@
 name = "Tide"
-filename = "tide-neoforge-1.21-1.6.3-hotfix.jar"
+filename = "tide-neoforge-1.21-1.6.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "2880814b6ba3abd644e6a48c39898e926f53739c"
+hash = "024498643b4067210c13b1eb562351c49932b5ba"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6859975
+file-id = 6972972
 project-id = 884685

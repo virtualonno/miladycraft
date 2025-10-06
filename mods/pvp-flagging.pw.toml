@@ -1,13 +1,13 @@
 name = "PVP Flagging"
-filename = "pvp_flagging-1.21-1.1.0.jar"
+filename = "pvp_flagging-1.21-1.1.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "035b8a91bab101cf413551cc2c043eea82334656"
+hash = "21e77889d79025c203c1b7d4e6b7eaa28f62a642"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5784138
+file-id = 7013499
 project-id = 967706

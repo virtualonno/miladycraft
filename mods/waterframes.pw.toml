@@ -1,13 +1,13 @@
 name = "WATERFrAMES: Multimedia Displays"
-filename = "waterframes-NEOFORGE-mc1.21.1-v2.1.15.jar"
+filename = "waterframes-NEOFORGE-mc1.21.1-v2.1.21.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "afd9888e0195f5ebb49032d27468275e99567b70"
+hash = "36c8d1673c229a9b1aaa7cced14cd15624282ea3"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6700274
+file-id = 7008321
 project-id = 834607

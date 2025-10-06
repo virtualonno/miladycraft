@@ -1,13 +1,13 @@
 name = "Quests Lang Splitter"
-filename = "ftbquestslangsplitter-1.0.3.jar"
+filename = "ftbquestslangsplitter-1.0.5.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "144b360587464215f8a24f3125f2ef553f0dc134"
+hash = "74652f1f845c7a31f12b50163164eba06beebbd7"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6903438
+file-id = 6975768
 project-id = 1326856

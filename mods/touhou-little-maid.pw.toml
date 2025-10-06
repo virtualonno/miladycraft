@@ -1,13 +1,13 @@
 name = "Touhou Little Maid"
-filename = "touhoulittlemaid-1.3.8-neoforge+mc1.21.1.jar"
+filename = "touhoulittlemaid-1.4.1-neoforge+mc1.21.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "390c520ec8a57f7f442669eeeb9be41053cff12b"
+hash = "2729b3592717ee8eddb0bb63c32a1828eb83cb5f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6911706
+file-id = 6988538
 project-id = 355044
