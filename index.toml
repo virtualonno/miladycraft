@@ -1808,11 +1808,6 @@ hash = "f0921e672c9519eff90da52406b64f84661604f067fc7bd3361f1906b2788344"
 metafile = true
 
 [[files]]
-file = "mods/snowy-spirit.pw.toml"
-hash = "297bea5989f851a417e3e14b3c0483f89f68c4c94070f18245b0737b586041a5"
-metafile = true
-
-[[files]]
 file = "mods/some-assembly-required.pw.toml"
 hash = "f2a710df38e4b99ea635704e55d6ec961a63af6df6e2a14eb62fb122c479bcb8"
 metafile = true
