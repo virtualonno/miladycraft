@@ -14,6 +14,10 @@ file = "config/Mekanism/gear.toml"
 hash = "64b7fe134d76dff732a1857269393f9efa2e65498df09e2346d7e649ab559b49"
 
 [[files]]
+file = "config/OEB/replaceAnchor.json"
+hash = "87339a60e9ea45802bb7bcafe2efd34aeaa669f3fa2ad9ba45c917399c3e62e9"
+
+[[files]]
 file = "config/accessories.json5"
 hash = "d8ba8a9410c3fc7135cfa560db71258bf00a4419060dbca2cabcbf9b0c243cca"
 
@@ -92,6 +96,10 @@ hash = "2a2ee19297afe3fc512f5cbe639349847f3e7a74616f282d24a179a17f4559ed"
 [[files]]
 file = "config/neruina.json"
 hash = "8074aa23ce3e859a37d547d13986f852ec9f86f29c7c6283cdd5f6e98083483c"
+
+[[files]]
+file = "config/oneenoughblock-common.toml"
+hash = "ba2794b5c6cc2902e79817dbb1a5d1fd733dec78f97fdc29f0745deb4ae59417"
 
 [[files]]
 file = "config/openloader/options.json"
@@ -1544,6 +1552,11 @@ metafile = true
 [[files]]
 file = "mods/octo-lib.pw.toml"
 hash = "32f8d722b8e90a4ded120d3cbc7d6718d7bc2ea57a292af725978117710a6490"
+metafile = true
+
+[[files]]
+file = "mods/one-enough-block.pw.toml"
+hash = "b3ed2a014dbde70a1f7401d5661eea461c9c31a0ac37962b7628174ce07cd0df"
 metafile = true
 
 [[files]]

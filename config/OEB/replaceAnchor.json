@@ -1,0 +1,6 @@
+[
+  {
+    "match": ["ae2:spatial_anchor"],
+    "result": "minecraft:redstone_block"
+  }
+]
