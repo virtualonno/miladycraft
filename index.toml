@@ -384,11 +384,6 @@ hash = "96921274117e8ecabb78b69c3730c96d15161c5549847f3338af2515f660b49c"
 metafile = true
 
 [[files]]
-file = "mods/almanac-lib.pw.toml"
-hash = "404e54caedda19b747d38c643200477ed9a13b9b522e0fed689244d1bf778200"
-metafile = true
-
-[[files]]
 file = "mods/almost-unified.pw.toml"
 hash = "afd9837f16b0b8fe16fe8788470334b7bb13d9c452f46a058d1a2c012f079adf"
 metafile = true
@@ -579,7 +574,7 @@ hash = "2d506ec61d802feef2a03279f73a9528372af6ae5d0ec04ea8677cebaabfe6af"
 
 [[files]]
 file = "mods/c2me.pw.toml"
-hash = "020c67fc485c7afe5611694120da4498316c49c82bdee44e66221daf1b11368a"
+hash = "3216e804eacb34555f80d50ee3f36f8c9865109558e601baf4d4658d85101ecc"
 metafile = true
 
 [[files]]
@@ -764,7 +759,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "4e1e4219d1c9d7508d55cc5d7f52032bf560cb96ec4e559c57b8cb87007c8f7b"
+hash = "3f3f91008a6fb4de1c4b79fb72a511d5cd70a5de04943af1015c662880ca7c43"
 metafile = true
 
 [[files]]
@@ -1057,7 +1052,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-chunks-forge.pw.toml"
-hash = "6fc58d77dcf45f7ba855bce67cfa1354399fafc2b9489fc856ae4e39cc08bfa9"
+hash = "bd8e7d6b53b056bbb3e4461b6eee8d0273714cc09876d63b3905fb91a1a472ff"
 metafile = true
 
 [[files]]
@@ -1201,6 +1196,11 @@ hash = "c3f7a308c775e5069042d0e480d9884cd57500a8ba2f08a244337a6de280972d"
 metafile = true
 
 [[files]]
+file = "mods/immersive-optimization.pw.toml"
+hash = "aa9e9788b79384b5bc57f2c92d628f5cbaf9bc51d20a7ef91355a9da1104f83c"
+metafile = true
+
+[[files]]
 file = "mods/immersive-paintings.pw.toml"
 hash = "a17d2ad6bc1592564a6bdda0c17ceb641bfe3d0842d96cd8aa3f4fbc2d1ebafe"
 metafile = true
@@ -1232,7 +1232,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris-shader-folder.pw.toml"
-hash = "bb39619e19f1e3b2b2ef401a2434a9d1dae9fbaccb67eee456c27e14d69c7e61"
+hash = "b71a5d35f1fc79a1908ccbf482a0507b3dd049a1a0c05d99a3be0d7369d6e112"
 metafile = true
 
 [[files]]
@@ -1351,11 +1351,6 @@ hash = "62f78f4c3c3fac7e5f0507e2b7a2fdf854a263d34b45c0295df8a07255c37ead"
 metafile = true
 
 [[files]]
-file = "mods/let-me-despawn.pw.toml"
-hash = "dd4dd28e505ef8a6dae0569c92b03732302094e952068db010924fe945a27170"
-metafile = true
-
-[[files]]
 file = "mods/let-sleeping-dogs-lie.pw.toml"
 hash = "175d4fdceb928c2bcc12b7a05a7666adf7b58db4b75ea18f25ff9309ec970781"
 metafile = true
@@ -1387,7 +1382,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootjs.pw.toml"
-hash = "025e2d34cbcffeb90ca6508f83fdd170e6bf15f66a160f63bc349bac44c250c6"
+hash = "f1cc10cbb888e18768183c535a8bef1acd3fbebf42e9bc1529857f7889328b56"
 metafile = true
 
 [[files]]
