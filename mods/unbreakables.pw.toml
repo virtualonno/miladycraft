@@ -1,13 +1,13 @@
 name = "Unbreakables"
-filename = "unbreakables-neoforge-1.21.1-21.1.11.jar"
+filename = "unbreakables-neoforge-1.21.1-21.1.13.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "7ab663f619081a65c731d49a59957fbab730adfd"
+hash = "1bba138fe520f895dab57ca11e4a887939b3b0da"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7064614
+file-id = 7170023
 project-id = 1190485
