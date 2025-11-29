@@ -344,11 +344,6 @@ hash = "6f996aed4790dbd2a31336f1bc804fb4df621ecd5f164ae7b8632196f75e6d8f"
 metafile = true
 
 [[files]]
-file = "mods/advancedae.pw.toml"
-hash = "b103f342f3fae28eb90ca3785eaba497834d9f31701ec574554553269f89c346"
-metafile = true
-
-[[files]]
 file = "mods/advancement-frames.pw.toml"
 hash = "c62eea66c7ebac3cc27e4d566af551fbc403185b5c7dc928e1be708f1e6bde7f"
 metafile = true
@@ -2134,6 +2129,11 @@ hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
 [[files]]
 file = "quarantine/accessories.pw.toml"
 hash = "a15f3ab51e3a138c7ea0ff93513b09d5cda22418ca83a14eb09ab38ca0945c3d"
+metafile = true
+
+[[files]]
+file = "quarantine/advancedae.pw.toml"
+hash = "b103f342f3fae28eb90ca3785eaba497834d9f31701ec574554553269f89c346"
 metafile = true
 
 [[files]]
