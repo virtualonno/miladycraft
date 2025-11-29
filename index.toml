@@ -1829,11 +1829,6 @@ hash = "6d9eaf43c14c66465e87bf03cc5cb5ecef57b3f2e8063c52f6332d33689d30be"
 metafile = true
 
 [[files]]
-file = "mods/staaaaaaaaaaaack.pw.toml"
-hash = "48f7af3a7530ead82f54d77e7041c1d7d9aecd14ba4308db1707fb6dd2cc99fd"
-metafile = true
-
-[[files]]
 file = "mods/stone-zone.pw.toml"
 hash = "ae666b7aa8c38208147cddf129f27adcea8afc74fe88ba12ffebfe96b63576ed"
 metafile = true
@@ -2149,6 +2144,11 @@ metafile = true
 [[files]]
 file = "quarantine/simplehats.pw.toml"
 hash = "d1c7c8a79ca172c7f4adf2cd2cbe0cfaa6bcc6c1db40452488f61ea7e44f87fc"
+metafile = true
+
+[[files]]
+file = "quarantine/staaaaaaaaaaaack.pw.toml"
+hash = "48f7af3a7530ead82f54d77e7041c1d7d9aecd14ba4308db1707fb6dd2cc99fd"
 metafile = true
 
 [[files]]
