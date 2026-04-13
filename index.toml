@@ -87,7 +87,7 @@ hash = "041adb840e91f34493844105f50ec8d2843ae452262d62fc9aaf85a4052052ec"
 
 [[files]]
 file = "config/irons_rpg_tweaks-server.toml"
-hash = "b06f9a891802f8892240f39fead1d10232fc35611e708a9cdaf678cf96484826"
+hash = "cf4a4f27154d6dd7297a5003a8cc2b6f04014b102faa3ad8969a750cc8807e86"
 
 [[files]]
 file = "config/lmft.json"
