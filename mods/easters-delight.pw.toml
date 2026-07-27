@@ -1,13 +1,13 @@
 name = "Easter's Delight"
-filename = "eastersdelight-neoforge-1.21-1.0.1.jar"
+filename = "eastersdelight-neoforge-1.21.1-1.2.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "3b7af747731fe0a27dc3b6a64169c01af465cd6b"
+hash = "a056cdc251435adb7cb1614e06c0a290975a5192"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7255319
+file-id = 8093646
 project-id = 1230799

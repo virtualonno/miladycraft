@@ -1,13 +1,13 @@
 name = "TNTUtils"
-filename = "tntutils-neoforge-1.21.1-2.0.3.jar"
+filename = "tntutils-neoforge-1.21.1-2.0.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "505b07aea39c3d4c3dacf28530c16136b3c291d3"
+hash = "8a6054e35adaaf212367a9a3defdd88b7ba643d6"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6742707
+file-id = 7455223
 project-id = 227449

@@ -136,7 +136,6 @@ key_iris.keybind.wireframe:key.keyboard.unknown
 key_key.exposure.camera_controls:key.keyboard.unknown
 key_supplementaries.keybind.quiver:key.keyboard.n
 key_key.industrialforegoing.backpack.desc:key.keyboard.unknown
-key_accessories.key.open_accessories_screen:key.keyboard.h
 key_key.sfm.more_info:key.keyboard.left.shift
 key_key.sfm.container_inspector.activation_key:key.keyboard.i:CONTROL
 key_key.sfm.item_inspector.activation_key:key.keyboard.unknown

@@ -7,7 +7,6 @@
 		"minecraft:lead",
 		"minecraft:name_tag",
 		"minecraft:splash_potion",
-		"minecraft:lingering_potion",
-		"justdirethings:creaturecatcher"
+		"minecraft:lingering_potion"
 	]
 }

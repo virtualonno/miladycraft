@@ -1,13 +1,13 @@
 name = "Soulplied Energistics"
-filename = "soulplied_energistics-1.0.2.jar"
+filename = "soulplied_energistics-1.0.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "526f45d5f110d23932d88ac12bf979f5c2f569b6"
+hash = "07f60de4a84fea4f5c37f956016e46ac13a0bf66"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6771121
+file-id = 8333758
 project-id = 1143614

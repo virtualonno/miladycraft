@@ -1,13 +1,13 @@
-name = "Axes Are Weapons (Fabric/(Neo)Forge)"
-filename = "AxesAreWeapons-1.9.2-neoforge-1.21.jar"
+name = "Axes Are Weapons"
+filename = "AxesAreWeapons-1.10.2-neoforge-1.21.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "74136abbd2ef93ebdc27b6c03fafd1a26d4f22b3"
+hash = "8c2ea92279ccc6bfed5288854e7b6d568bd84160"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5605393
+file-id = 8108673
 project-id = 456457

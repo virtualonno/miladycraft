@@ -1,13 +1,13 @@
 name = "Portfolio"
-filename = "portfolio-1.21.1-1.5.0-neoforge.jar"
+filename = "portfolio-1.21.1-1.5.5-neoforge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "1bfdd25957c753917b9e7b00580fdb8d774140e0"
+hash = "15d78685a340b9978bfe7ba1339770e318129f80"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6954259
+file-id = 7689313
 project-id = 851131

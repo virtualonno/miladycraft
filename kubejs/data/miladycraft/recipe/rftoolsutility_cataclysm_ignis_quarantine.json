@@ -1,0 +1,24 @@
+{
+  "type": "rftoolsutility:spawner",
+  "entity": "cataclysm:ignis",
+  "id": "miladycraft:rftoolsutility_cataclysm_ignis_quarantine",
+  "item1": {
+    "amount": 1.0,
+    "object": {
+      "item": "minecraft:barrier"
+    }
+  },
+  "item2": {
+    "amount": 1.0,
+    "object": {
+      "item": "minecraft:barrier"
+    }
+  },
+  "item3": {
+    "amount": 1.0,
+    "object": {
+      "item": "minecraft:barrier"
+    }
+  },
+  "power": 100000
+}

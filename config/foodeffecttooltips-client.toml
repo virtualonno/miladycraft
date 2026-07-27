@@ -7,6 +7,5 @@
 	blacklistItems = ["modid:testitem"]
 	#Blacklisted Mod IDs.
 	blacklistModsIDs = [
-		"youkaishomecoming",
 		"ends_delight"
 		]

@@ -1,13 +1,13 @@
 name = "Formations Nether"
-filename = "formationsnether-1.0.5-mc1.21+.jar"
+filename = "formationsnether-1.0.5a-mc1.21+.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "12b69c1cd22bbbe8c5888a030bef791b992b0d39"
+hash = "5bf952895df443c8306f34c021bfead01b74da05"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5627771
+file-id = 8451735
 project-id = 918840
