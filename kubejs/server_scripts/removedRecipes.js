@@ -13,10 +13,6 @@ ServerEvents.recipes( event => {
 	let removeRecipeByType = [
 	]
 
-	let removeRecipeByMod = [
-		'waterframes'
-	]
-
 	removeRecipeById.forEach( recipe =>{
 		event.remove({id: recipe})
 	})
@@ -25,9 +21,6 @@ ServerEvents.recipes( event => {
 	})
 	removeRecipeByType.forEach( recipe =>{
 		event.remove({type: recipe})
-	})
-	removeRecipeByMod.forEach( recipe =>{
-		event.remove({mod: recipe})
 	})
 })
 
