@@ -307,6 +307,14 @@ file = "local/ftbchunks/client-config.snbt"
 hash = "d41ad6ba994ee5a5407ba5fa3e4ecb30965a392f6cdf3b5f2559a51321ea67ff"
 
 [[files]]
+file = "local/kubejs/local_server_scripts/mekanism-radiation-disabled.js"
+hash = "f09c503e8c9be63c3e75c00fcebb78320b117185c1e7a62e4276a1490e92a867"
+
+[[files]]
+file = "local/kubejs/local_server_scripts/protected-event-zones.js"
+hash = "8b01f94310ea13991bd6b8885307bafd68fe3967aadd4a9c88e03cbc34d21b0b"
+
+[[files]]
 file = "mods/accelerated-decay.pw.toml"
 hash = "0c31f109b6c4dca94a153fbdd827bbd5f96149fd5c7863ba0ba41fcab801afe0"
 metafile = true
