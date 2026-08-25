@@ -48,10 +48,6 @@ function reconcileRadiation(server) {
   return players
 }
 
-// Server scripts can be loaded both during startup and by a live resource
-// reload. Apply immediately for the latter and repeat after level data loads.
-disableAndClearRadiation()
-
 NativeEvents.onEvent($ServerStarted, event => {
   disableAndClearRadiation()
 })
@@ -88,5 +84,5 @@ ServerEvents.commandRegistry(event => {
     }))
 })
 
-console.info('[Miladycraft] Mekanism radiation disabled and environmental sources cleared')
+console.info('[Miladycraft] Mekanism radiation policy registered (native events; no polling)')
 })()

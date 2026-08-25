@@ -284,7 +284,7 @@ hash = "5f5dbfd4cfe2d7cea9dbd38da777bee365e0590640e397f4955424efdffce09e"
 
 [[files]]
 file = "kubejs/server_scripts/mekanism-radiation-disabled.js"
-hash = "f09c503e8c9be63c3e75c00fcebb78320b117185c1e7a62e4276a1490e92a867"
+hash = "c2d6d5eb4c8bfc257455c7e9bb5d2cee72fc3bf234acbb2b534053657c1c3419"
 
 [[files]]
 file = "kubejs/server_scripts/protected-event-zones.js"
