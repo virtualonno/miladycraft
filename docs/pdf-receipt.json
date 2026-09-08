@@ -1,0 +1,10 @@
+{
+  "builder_sha256": "848fbf07cef2e5093ee92996a426f3d650d15a9ce5e63501dbbd2b869d436849",
+  "catalogue_sha256": "567474183c0dfc3b4e212c0aba2811f20357dd1ef6c2e76726d604de4ec1f261",
+  "engine": "This is LuaHBTeX, Version 1.22.0 (TeX Live 2025)",
+  "pdf_sha256": "e0fe0a92fb57c6dc8107072ff99edeb9094fd9aa964e74e2c1e86b8b4978b5dd",
+  "renderer_sha256": "d5463ef68e84ecfd723e194f6e6178c6a9266134c26be92908ee67ede307be29",
+  "schema": "minetiger.pack_pdf.v1",
+  "source_sha256": "2af852f8f1a8e4ffb5307da044a6801adffcd09eeb1cc49d1fb7b6f4a79ff288",
+  "template_sha256": "c806af39728c63a714c6ec2d89d82e6eb4e94233081e7317a7ef0d4d9c441a43"
+}

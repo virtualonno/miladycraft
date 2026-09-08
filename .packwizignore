@@ -8,3 +8,13 @@
 /quarantine/
 /server/
 /launcher/
+
+# Contributor documentation and build tooling are published, not installed.
+/MODLIST.md
+/AUTHORING.md
+/docs/
+/changelogs/
+/tools/
+/.github/
+/.cache/
+/.pack-docs.lock

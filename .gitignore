@@ -6,3 +6,8 @@
 
 packwiz.exe
 packwiz
+
+/.cache/
+/.pack-docs.lock
+__pycache__/
+*.pyc
