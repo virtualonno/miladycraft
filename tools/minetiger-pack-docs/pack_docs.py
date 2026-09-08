@@ -327,8 +327,18 @@ def anchor(record):
     return "mod-" + hashlib.sha256(record["key"].encode()).hexdigest()[:16]
 
 
+def display_name(record):
+    if record["key"].startswith("local-mod:"):
+        return next((m["name"] for m in record["modules"] if not m["embedded"]), record["name"])
+    return record["name"]
+
+
 def sortname(record):
-    return re.sub(r"^[^\w]+", "", inline(record["name"])).casefold(), record["key"]
+    return re.sub(r"^[^\w]+", "", inline(display_name(record))).casefold(), record["key"]
+
+
+def side(value):
+    return {"both": "client and server", "*": "client and server", "client": "client only", "server": "server only"}.get(value.lower(), value)
 
 
 def versions(record):
@@ -366,24 +376,27 @@ def reverse(record, snapshot, kind):
 
 
 def catalogue_md(snapshot):
+    snapshot = {**snapshot, "artifacts": [{**r, "name": display_name(r)} for r in snapshot["artifacts"]]}
     pack = snapshot["pack"]
     records = sorted(snapshot["artifacts"], key=sortname)
     mods = [r for r in records if r["kind"] == "mod"]
     owners = graph(snapshot)
     lines = [f"# {md(pack['name'])} · Mod catalogue", "",
              f"Pack **{md(pack['version'])}** · " + " · ".join(f"{md(k)} **{md(v)}**" for k, v in pack["versions"].items()), "",
-             f"{len(mods)} indexed mod archives. [Changelog](changelogs/CHANGELOG.md) · [PDF](docs/MODLIST.pdf) · [Structured snapshot](docs/catalogue.json)", "",
-             "Generated from the Packwiz index and hash-verified shipped JAR descriptors. This is the configured pack, not a running-client census. Optional selections and client/server sides are preserved. Descriptions are author text, not independent reviews.", "",
-             "Dependencies below are declared constraints, not a solved or runtime-tested compatibility graph. “Not indexed” means no matching declared mod ID was found; it is not proof of a broken pack. “Unscoped” marks a nonstandard dependency table, not a loader-enforced requirement. Bundled copies are candidates, not the loader's selected versions. Reverse lists concern top-level mod IDs; bundled-module edges remain in the detailed tables. Runtime requirements are kept separate. Emoji are omitted from these projections; original strings remain in JSON.", "",
+             f"{len(mods)} mods. Choose a name below to see its description and dependencies. [Changelog](changelogs/CHANGELOG.md) · [PDF](docs/MODLIST.pdf) · [Source metadata](docs/catalogue.json)", "",
              "## Index", "", "| Mod and source | Installed version | Side | Description |", "| :--- | :--- | :--- | :--- |"]
     for record in mods:
         text = description(record)
         summary = text if len(text) <= 170 else text[:167].rsplit(" ", 1)[0] + "…"
-        lines.append(f"| {link(record['name'], '#' + anchor(record))} · {link('page', record['page'])} | {link(versions(record), record['release'])} | {md(record['side'])} | {md(summary)} |")
-    lines += ["", "## Mod details", ""]
+        lines.append(f"| {link(record['name'], '#' + anchor(record))} · {link('page', record['page'])} | {link(versions(record), record['release'])} | {md(side(record['side']))} | {md(summary)} |")
+    lines += ["", "## Reading the catalogue", "",
+             "**Requires** lists mods an entry needs; **Used by** lists mods that need it. **Optional integrations** and **Optional dependency of** show the same two directions for optional relationships. Empty groups are omitted.", "",
+             "Generated from the Packwiz index and hash-verified shipped JAR descriptors. This is the configured pack, not a running-client census. Optional selections and client/server sides are preserved. Descriptions are author text, not independent reviews.", "",
+             "Dependencies below are declared constraints, not a solved or runtime-tested compatibility graph. “Not indexed” means no matching declared mod ID was found; it is not proof of a broken pack. “Unscoped” marks a nonstandard dependency table, not a loader-enforced requirement. Bundled copies are candidates, not the loader's selected versions. Reverse lists concern top-level mod IDs; bundled-module edges remain in the detailed tables. Runtime requirements are kept separate. Emoji are omitted from these projections; original strings remain in JSON.", "",
+             "## Mod details", ""]
     for record in mods:
         lines += [f'<a id="{anchor(record)}"></a>', f"### {md(record['name'])}", "",
-                  f"**{link(versions(record), record['release'])}** · {md(record['side'])} · {link('Source', record['page'])} · {link('Pack entry', record['path'])}", "", md(description(record)), ""]
+                  f"**{link(versions(record), record['release'])}** · {md(side(record['side']))} · {link('Source', record['page'])} · {link('Pack entry', record['path'])}", "", md(description(record)), ""]
         if "description_source" in record:
             source = record["description_source"]
             lines += [f"Description: {link('author page excerpt', source['url'])}, observed {source['observed']} (project summary, not a version-specific claim).", ""]
@@ -393,10 +406,20 @@ def catalogue_md(snapshot):
         if record["optional"]:
             lines += ["Packwiz option: " + md(json.dumps(record["optional"], sort_keys=True)), ""]
         lines += ["Mod IDs and versions: " + (", ".join(md(m["id"] + " " + m["version"]) for m in record["modules"] if not m["embedded"]) or "not declared") + ".", ""]
-        for kind, heading in [("required", "Required by"), ("optional", "Optional integration from")]:
-            incoming = reverse(record, snapshot, kind)
-            lines += [f"**{heading}:** " + (", ".join(link(r["name"], "#" + anchor(r)) for r in incoming) or "none declared") + ".", ""]
         deps = dependencies(record)
+        for kind, heading in [("required", "Requires"), ("optional", "Optional integrations")]:
+            labels = []
+            for module, dep in deps:
+                if module["embedded"] or dep["id"] in RUNTIME or dep["kind"] != kind:
+                    continue
+                found = owners.get(dep["id"], [])
+                labels += [link(r["name"] + (" (bundled)" if m["embedded"] else ""), "#" + anchor(r)) for r, m in found] or [md(dep["id"]) + " (not in this catalogue)"]
+            if labels:
+                lines += [f"**{heading}:** " + ", ".join(dict.fromkeys(labels)) + ".", ""]
+        for kind, heading in [("required", "Used by"), ("optional", "Optional dependency of")]:
+            incoming = reverse(record, snapshot, kind)
+            if incoming:
+                lines += [f"**{heading}:** " + ", ".join(link(r["name"], "#" + anchor(r)) for r in incoming) + ".", ""]
         for runtime, heading in [(False, "Dependencies and integrations"), (True, "Runtime constraints")]:
             selected = [(m, d) for m, d in deps if (d["id"] in RUNTIME) == runtime]
             if not selected:
@@ -405,7 +428,7 @@ def catalogue_md(snapshot):
             for module, dep in selected:
                 candidates = owners.get(dep["id"], [])
                 found = "runtime" if runtime else "; ".join(dict.fromkeys(link(r["name"] + (" (bundled)" if m["embedded"] else ""), "#" + anchor(r)) for r, m in candidates)) or "not indexed"
-                lines.append(f"| {md(module['id'])}{' (bundled)' if module['embedded'] else ''} | {md(dep['id'])} | {md(dep['kind'])} | {md(dep['range'])} | {md(dep['side'])} | {found} |")
+                lines.append(f"| {md(module['id'])}{' (bundled)' if module['embedded'] else ''} | {md(dep['id'])} | {md(dep['kind'])} | {md(dep['range'])} | {md(side(dep['side']))} | {found} |")
             lines.append("")
         embedded = [m for m in record["modules"] if m["embedded"]]
         if embedded:

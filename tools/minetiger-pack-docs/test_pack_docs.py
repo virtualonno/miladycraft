@@ -150,6 +150,22 @@ neoforge="21.1.244"
         snapshot["artifacts"][0]["modules"][0]["dependencies"] = [{"id": "library", "kind": "optional", "range": "*", "side": "both"}]
         self.assertEqual(p.reverse(library, snapshot, "required"), [])
         self.assertEqual(len(p.reverse(library, snapshot, "optional")), 1)
+        rendered = p.catalogue_md(snapshot)
+        self.assertIn("**Optional integrations:** [Library]", rendered)
+        self.assertIn("**Optional dependency of:**", rendered)
+        self.assertNotIn("**Used by:**", rendered)
+        self.assertNotIn("none declared", rendered)
+        self.assertIn("client and server", rendered)
+
+    def test_local_title_drives_chapter_and_keeps_evidence_unchanged(self):
+        snapshot = self.fixture()
+        record = snapshot["artifacts"][0]
+        record["name"] = "Zulu archive filename"
+        record["modules"][0]["name"] = "Alpha title"
+        rendered = p.markdown_bundle(snapshot)
+        self.assertIn("docs/mods/a.md#mod-", rendered["MODLIST.md"])
+        self.assertIn("### Alpha title", rendered["docs/mods/a.md"])
+        self.assertEqual(record["name"], "Zulu archive filename")
 
     def test_chapter_links_rebase_current_and_historical_catalogues(self):
         snapshot = self.fixture()

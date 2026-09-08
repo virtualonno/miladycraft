@@ -5,36 +5,34 @@
 <a id="mod-5a78f94efc513cf3"></a>
 ### Umapyoi
 
-**[1.4.12-1.21.1](https://www.curseforge.com/projects/776121/files/8082282)** · both · [Source](https://www.curseforge.com/projects/776121) · [Pack entry](../../mods/umapyoi.pw.toml)
+**[1.4.12-1.21.1](https://www.curseforge.com/projects/776121/files/8082282)** · client and server · [Source](https://www.curseforge.com/projects/776121) · [Pack entry](../../mods/umapyoi.pw.toml)
 
 (On your marks Get set… Go!) Ooooooooooh (horsey-buds!) Oooooooh (horsey-hop! horsey-hop!) Horsey horsey meowsy meowsy 3 2 1 Fight!!
 
 Mod IDs and versions: umapyoi 1.4.12-1.21.1.
 
-**Required by:** none declared.
-
-**Optional integration from:** none declared.
+**Requires:** [Mysterious Mountain Lib](m.md#mod-497edc9d10c9ee94), [Curios API (Forge/NeoForge)](c.md#mod-1887f7ba57ad110d).
 
 **Dependencies and integrations**
 
 | From | Dependency | Kind | Version range | Side | Found in pack |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| umapyoi | mysterious\_mountain\_lib | required | \[1.2.14-1.21.1,) | both | [Mysterious Mountain Lib](m.md#mod-497edc9d10c9ee94) |
-| umapyoi | curios | required | \[9.0.5+1.21,) | both | [Curios API (Forge/NeoForge)](c.md#mod-1887f7ba57ad110d) |
+| umapyoi | mysterious\_mountain\_lib | required | \[1.2.14-1.21.1,) | client and server | [Mysterious Mountain Lib](m.md#mod-497edc9d10c9ee94) |
+| umapyoi | curios | required | \[9.0.5+1.21,) | client and server | [Curios API (Forge/NeoForge)](c.md#mod-1887f7ba57ad110d) |
 
 **Runtime constraints**
 
 | From | Dependency | Kind | Version range | Side | Found in pack |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| umapyoi | neoforge | required | \[21.1.0,) | both | runtime |
-| umapyoi | minecraft | required | \[1.21.1,1.22) | both | runtime |
+| umapyoi | neoforge | required | \[21.1.0,) | client and server | runtime |
+| umapyoi | minecraft | required | \[1.21.1,1.22) | client and server | runtime |
 
 Source: umapyoi-1.4.12-1.21.1.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-13a568b4e3eba779"></a>
 ### Unbreakables
 
-**[21.1.15](https://www.curseforge.com/projects/1190485/files/7966173)** · both · [Source](https://www.curseforge.com/projects/1190485) · [Pack entry](../../mods/unbreakables.pw.toml)
+**[21.1.15](https://www.curseforge.com/projects/1190485/files/7966173)** · client and server · [Source](https://www.curseforge.com/projects/1190485) · [Pack entry](../../mods/unbreakables.pw.toml)
 
 Configure blocks to be unbreakable under certain conditions. Compatible with Waystones.
 
@@ -42,29 +40,27 @@ Author links: [https://mods.twelveiterations.com/minecraft/unbreakables](https:/
 
 Mod IDs and versions: unbreakables 21.1.15.
 
-**Required by:** none declared.
-
-**Optional integration from:** none declared.
+**Requires:** [Balm](b.md#mod-495e057479bfe168).
 
 **Dependencies and integrations**
 
 | From | Dependency | Kind | Version range | Side | Found in pack |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| unbreakables | balm | required | \[21.0.55,) | both | [Balm](b.md#mod-495e057479bfe168) |
+| unbreakables | balm | required | \[21.0.55,) | client and server | [Balm](b.md#mod-495e057479bfe168) |
 
 **Runtime constraints**
 
 | From | Dependency | Kind | Version range | Side | Found in pack |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| unbreakables | neoforge | required | \[21-beta,) | both | runtime |
-| unbreakables | minecraft | required | \[1.21,) | both | runtime |
+| unbreakables | neoforge | required | \[21-beta,) | client and server | runtime |
+| unbreakables | minecraft | required | \[1.21,) | client and server | runtime |
 
 Source: unbreakables-neoforge-1.21.1-21.1.15.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-4c749775ed5e248a"></a>
 ### Underground Bunkers
 
-**[1.0.4](https://www.curseforge.com/projects/961418/files/5625449)** · both · [Source](https://www.curseforge.com/projects/961418) · [Pack entry](../../mods/underground-bunkers.pw.toml)
+**[1.0.4](https://www.curseforge.com/projects/961418/files/5625449)** · client and server · [Source](https://www.curseforge.com/projects/961418) · [Pack entry](../../mods/underground-bunkers.pw.toml)
 
 Randomly generated bunkers hidden underground...
 
@@ -72,23 +68,19 @@ Author links: [https://www.curseforge.com/minecraft/mc-mods/underground-bunkers]
 
 Mod IDs and versions: underground\_bunkers 1.0.4.
 
-**Required by:** none declared.
-
-**Optional integration from:** none declared.
-
 **Runtime constraints**
 
 | From | Dependency | Kind | Version range | Side | Found in pack |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| underground\_bunkers | neoforge | required | \[21.0.0-beta,) | both | runtime |
-| underground\_bunkers | minecraft | required | \[1.21,1.21.1) | both | runtime |
+| underground\_bunkers | neoforge | required | \[21.0.0-beta,) | client and server | runtime |
+| underground\_bunkers | minecraft | required | \[1.21,1.21.1) | client and server | runtime |
 
 Source: UndergroundBunkers-1.0.4-1.21.x-neoforge.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-92f700791a316f89"></a>
 ### \[UNOFFICIAL\] TaCZ NeoForge Port
 
-**[1.1.8-hotfix-r5](https://www.curseforge.com/projects/1353462/files/8520031)** · both · [Source](https://www.curseforge.com/projects/1353462) · [Pack entry](../../mods/tacz-1-21-1.pw.toml)
+**[1.1.8-hotfix-r5](https://www.curseforge.com/projects/1353462/files/8520031)** · client and server · [Source](https://www.curseforge.com/projects/1353462) · [Pack entry](../../mods/tacz-1-21-1.pw.toml)
 
 Unofficial port of Timeless and Classics Zero to 1.21.1 NeoForge
 
@@ -96,16 +88,12 @@ Description: [author page excerpt](https://www.curseforge.com/minecraft/mc-mods/
 
 Mod IDs and versions: tacz 1.1.8-hotfix-r5.
 
-**Required by:** none declared.
-
-**Optional integration from:** none declared.
-
 **Runtime constraints**
 
 | From | Dependency | Kind | Version range | Side | Found in pack |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| simplebedrockmodel (bundled) | neoforge | required | \[21,) | both | runtime |
-| simplebedrockmodel (bundled) | minecraft | required | \[1.21.1,1.22) | both | runtime |
+| simplebedrockmodel (bundled) | neoforge | required | \[21,) | client and server | runtime |
+| simplebedrockmodel (bundled) | minecraft | required | \[1.21.1,1.22) | client and server | runtime |
 
 **Bundled modules:** simplebedrockmodel 2.2.1-neoforge+mc1.21.1.
 
