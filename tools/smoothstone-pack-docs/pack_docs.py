@@ -21,7 +21,7 @@ from urllib.parse import quote, urlsplit
 from urllib.request import Request, urlopen
 import zipfile
 
-SCHEMA = "minetiger.pack_catalogue.v1"
+SCHEMA = "smoothstone.pack_catalogue.v1"
 RUNTIME = {"minecraft", "neoforge", "forge", "java", "fabricloader"}
 MAX_MEMBER = 64 * 1024 * 1024
 
@@ -92,7 +92,7 @@ def inputs(root):
     artifacts = []
     for item in index["files"]:
         name = item["file"]
-        if name in {"MODLIST.md", "AUTHORING.md", "README.md", ".pack-docs.lock"} or name.startswith(("docs/", "changelogs/", "tools/minetiger-pack-docs/", ".cache/")):
+        if name in {"MODLIST.md", "AUTHORING.md", "README.md", ".pack-docs.lock"} or name.startswith(("docs/", "changelogs/", "tools/smoothstone-pack-docs/", ".cache/")):
             raise ValueError("Contributor documentation was indexed; run packwiz refresh from the pack directory, not via --pack-file from elsewhere")
         if name in files:
             raise ValueError(f"Duplicate index entry: {name}")
@@ -166,7 +166,7 @@ def acquire(meta, candidates, cache, download, transport="urllib"):
                         raise OSError(f"curl exited {result.returncode}")
                     data = result.stdout
                 else:
-                    with urlopen(Request(location, headers={"User-Agent": "minetiger-pack-docs/1"}), timeout=45) as response:
+                    with urlopen(Request(location, headers={"User-Agent": "smoothstone-pack-docs/1"}), timeout=45) as response:
                         data = response.read(512 * 1024 * 1024 + 1)
                 if len(data) > 512 * 1024 * 1024 or digest(data, algorithm) != expected.lower():
                     raise ValueError("Downloaded artifact failed size/hash verification")
@@ -529,7 +529,7 @@ def releases(root):
     results = []
     for path in sorted((root / "changelogs/releases").glob("*.json")):
         record = json.loads(path.read_bytes())
-        if record.get("schema") != "minetiger.pack_release.v1":
+        if record.get("schema") != "smoothstone.pack_release.v1":
             raise ValueError(f"Unsupported release schema: {path}")
         snap_path = safe(root, record["snapshot"])
         if digest(snap_path.read_bytes()) != record["snapshot_sha256"]:
@@ -638,7 +638,7 @@ def run_command(args, root):
         if not notes:
             raise ValueError("Release notes must describe player consequences or explicitly say none")
         path = f"changelogs/snapshots/{args.id}.json"
-        record = {"schema": "minetiger.pack_release.v1", "id": args.id, "date": args.date,
+        record = {"schema": "smoothstone.pack_release.v1", "id": args.id, "date": args.date,
                   "sequence": len(history) + 1, "previous": history[-1][0]["id"] if history else None,
                   "notes": notes, "snapshot": path, "snapshot_sha256": digest(encoded(snapshot))}
         if args.apply:

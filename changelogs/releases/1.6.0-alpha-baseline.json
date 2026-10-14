@@ -3,8 +3,8 @@
   "id": "1.6.0-alpha-baseline",
   "notes": "Documentation baseline for the existing 1.6.0-alpha pack. The mod catalogue\nnow records pinned artifacts, author descriptions and declared dependencies,\nwith a printable edition for contributors. No gameplay or loader change is\nintroduced by this documentation baseline. Earlier updates remain in Git\nhistory and have not been assigned retrospective release dates.",
   "previous": null,
-  "schema": "minetiger.pack_release.v1",
+  "schema": "smoothstone.pack_release.v1",
   "sequence": 1,
   "snapshot": "changelogs/snapshots/1.6.0-alpha-baseline.json",
-  "snapshot_sha256": "567474183c0dfc3b4e212c0aba2811f20357dd1ef6c2e76726d604de4ec1f261"
+  "snapshot_sha256": "d8516f75b059022eab52937da485c1be7695cd4854e2dab3989c762852859502"
 }

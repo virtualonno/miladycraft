@@ -2,7 +2,7 @@
 
 Use Python 3.11 or newer. The pack documentation tool uses the Python standard
 library. The optional PDF builder lives outside this pack, in the lab under
-`operations/miladycraft/tools/minetiger-pack-pdf/`. It reads the captured JSON
+`operations/miladycraft/tools/smoothstone-pack-pdf/`. It reads the captured JSON
 and requires LuaLaTeX. The pack contains the shareable PDF and its receipt,
 not a TeX toolchain or renderer.
 
@@ -28,10 +28,10 @@ not a TeX toolchain or renderer.
 From this repository root:
 
 ```sh
-python tools/minetiger-pack-docs/pack_docs.py capture --artifacts /path/to/instance/mods --download --apply
-python tools/minetiger-pack-docs/pack_docs.py release --id 1.6.1-alpha --date 2026-09-09 --notes /path/to/release-notes.md --apply
-python /path/to/lab/operations/miladycraft/tools/minetiger-pack-pdf/build_pdf.py --pack . --apply
-python tools/minetiger-pack-docs/pack_docs.py check
+python tools/smoothstone-pack-docs/pack_docs.py capture --artifacts /path/to/instance/mods --download --apply
+python tools/smoothstone-pack-docs/pack_docs.py release --id 1.6.1-alpha --date 2026-09-09 --notes /path/to/release-notes.md --apply
+python /path/to/lab/operations/miladycraft/tools/smoothstone-pack-pdf/build_pdf.py --pack . --apply
+python tools/smoothstone-pack-docs/pack_docs.py check
 ```
 
 The date and release ID above are examples; use the actual release details.
@@ -58,9 +58,9 @@ move it outside `changelogs/snapshots/`, and rerun the release command. Never
 replace a snapshot referenced by an existing release record.
 
 ```sh
-python tools/minetiger-pack-docs/pack_docs.py render --apply
-python -m unittest discover -s tools/minetiger-pack-docs -v
-python tools/minetiger-pack-docs/pack_docs.py check --base HEAD
+python tools/smoothstone-pack-docs/pack_docs.py render --apply
+python -m unittest discover -s tools/smoothstone-pack-docs -v
+python tools/smoothstone-pack-docs/pack_docs.py check --base HEAD
 ```
 
 `check` is offline. It verifies every indexed file, the captured pack identity,

@@ -13,7 +13,7 @@ jobs:
         with:
           python-version: '3.11'
       - name: Test catalogue and release behavior
-        run: python -m unittest discover -s tools/minetiger-pack-docs -v
+        run: python -m unittest discover -s tools/smoothstone-pack-docs -v
       - name: Verify pack, catalogue, release history and PDF receipt offline
         env:
           BASE: ${{ github.event.pull_request.base.sha || github.event.before }}
@@ -23,4 +23,4 @@ jobs:
           if [[ -n "$BASE" && "$BASE" != 0000000000000000000000000000000000000000 ]]; then
             args=(--base "$BASE")
           fi
-          python tools/minetiger-pack-docs/pack_docs.py check "${args[@]}"
+          python tools/smoothstone-pack-docs/pack_docs.py check "${args[@]}"
