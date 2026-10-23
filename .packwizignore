@@ -21,3 +21,4 @@
 
 # Pack variants are overlays, derived into their own branches; never installed from here.
 /variants/
+desktop.ini

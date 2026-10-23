@@ -1,13 +1,13 @@
 name = "Advancement Frames"
-filename = "advancementframes-1.21-2.2.10-neoforge.jar"
+filename = "advancementframes-1.21-2.3.2-neoforge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "88a930f6effde6b90780274ccd2ad8eb7e7064cb"
+hash = "d497a760b87405bb73b9f3559e786a74ec5ed25a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6273038
+file-id = 9081347
 project-id = 556795

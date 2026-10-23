@@ -1,6 +1,7 @@
 name = "One Enough Block"
 filename = "oneenoughblock-neoforge-1.21.1-1.1.2-hotfix.jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"

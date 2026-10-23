@@ -1,13 +1,13 @@
 name = "Ears (+ Snouts/Muzzles, Tails, Horns, Wings, and More)"
-filename = "ears-neoforge-1.21-1.4.7.jar"
+filename = "ears-buzz-neoforge-2.2.1-c.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d0a3ffe1cdfcf9dcd8d639fb929ffee1f7e140bf"
+hash = "fac0c7b1e8c9d8e13b38d93a590c62883fc3ae82"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6166554
+file-id = 8853899
 project-id = 412013

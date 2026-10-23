@@ -1,6 +1,7 @@
 name = "Advanced Loot Info (ALI)"
 filename = "AdvancedLootInfo-neoforge-1.21.1-1.12.0.jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"

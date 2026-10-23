@@ -1,13 +1,13 @@
 name = "TslatEntityStatus (TES)"
-filename = "TES-neoforge-1.21.1-1.8.3.jar"
+filename = "tslatentitystatus-neoforge-1.21.1-1.8.5.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "7af5125e80cd7849ce000e42f05254f9a4c3d8f4"
+hash = "8b1eb548a1cd772352ef1f9dfec48ab2256f23a9"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7115952
+file-id = 8987787
 project-id = 830420
