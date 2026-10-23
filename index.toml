@@ -436,6 +436,11 @@ hash = "f15037bbd326999cb63b1267628f64c29ca3df1650c2276e492cb5ff88fbed7e"
 metafile = true
 
 [[files]]
+file = "mods/architects-palette.pw.toml"
+hash = "ffa80ab737db677474192e7f09f6b1daff0276e2e15c375b332feb3015376580"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "657a01a86bbf8617e4726c77df08f708e43a3db12db74b837eebd8eb1d93faae"
 metafile = true
@@ -1481,11 +1486,6 @@ hash = "367aa8af482db87d95e212088abc7d48c7872d64c794aa68cba125508454f34f"
 metafile = true
 
 [[files]]
-file = "mods/neoauth.pw.toml"
-hash = "5837e3d15efdd727d7c430494ddf46ed7f303376167ecb962f598aa18365b48d"
-metafile = true
-
-[[files]]
 file = "mods/neruina.pw.toml"
 hash = "1b693100ab36f8b0422b5ec91b285df00dba2b616bdd4cd882cde3571d373e5c"
 metafile = true
@@ -1768,11 +1768,6 @@ metafile = true
 [[files]]
 file = "mods/simple-creative-menu.pw.toml"
 hash = "8cd22120886f2d33a664b8856c3e7265ef8846e9fb5a82d76e359b44412f56b5"
-metafile = true
-
-[[files]]
-file = "mods/simple-discord-link-bot-forge-fabric-spigot.pw.toml"
-hash = "bb409bfe7a8a462b3fa29530b627d5e6c3b6ea9a2f4f57bb9264566a9391ae6c"
 metafile = true
 
 [[files]]
