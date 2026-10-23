@@ -1,0 +1,6 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/architects-palette.pw.toml"
+hash = "ffa80ab737db677474192e7f09f6b1daff0276e2e15c375b332feb3015376580"
+metafile = true

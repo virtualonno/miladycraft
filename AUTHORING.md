@@ -71,6 +71,37 @@ The GitHub workflow runs both checks against the push or pull-request base.
 It does not compile TeX in CI; external PDF builds reject missing glyphs, overflow
 and nonconverging references. Visually inspect a changed PDF before publication.
 
+## Pack variants
+
+`variants/<name>/` holds a variant's differences from this pack: a
+`variant.toml` (name, version label, base files to `remove`, base files to
+`override`) and the overlay files themselves. Packwiz ignores `variants/`, so
+the overlay never changes this pack's index. Each overlay carries a
+`pack.toml` on this pack's exact `[versions]`, so Packwiz commands work inside
+it:
+
+```sh
+cd variants/miladycraft-dev && ../../packwiz modrinth add <mod>
+```
+
+Commit, then regenerate the variant's branch checkout from the lab root. The
+variant carries only installable pack files, never this repository's
+documentation, tooling or CI:
+
+```powershell
+git -C operations/miladycraft/pack worktree add ../pack-dev miladycraft-dev   # once
+.\target\release\smoothstone.exe pack derive --pack operations/miladycraft/pack `
+  --variant miladycraft-dev --output operations/miladycraft/pack-dev `
+  --packwiz operations/miladycraft/pack/packwiz.exe --apply
+```
+
+Re-derive after every change to this pack, so the variant follows it. Prove a
+derived variant like any release (materialize, smoke, deploy) before pushing
+its branch. Promoting a trial mod moves its file from the overlay to `mods/`.
+The `miladycraft-dev` variant is the pack of the DEV server (the SMP runs this
+pack) and installs from
+`https://raw.githubusercontent.com/virtualonno/miladycraft/miladycraft-dev/pack.toml`.
+
 ## What owns each document
 
 - `pack.toml`, `index.toml` and indexed files own installed-content intent.
