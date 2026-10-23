@@ -561,11 +561,6 @@ hash = "88908286eebea979713b5626891f634317fcc4c5a5bd4ec0c9444a33863a4518"
 metafile = true
 
 [[files]]
-file = "mods/c2me.pw.toml"
-hash = "d796a61a385f70084c5fb5586fc9cbe44ff47e8e27924dff8f541330123380b5"
-metafile = true
-
-[[files]]
 file = "mods/caelus.pw.toml"
 hash = "03891e2139991fd25a654a5e880219d2ce2971633e875de13be4b67603d97331"
 metafile = true

@@ -2,7 +2,7 @@
 
 Pack **1.6.0-alpha** · minecraft **1.21.1** · neoforge **21.1.244**
 
-362 mods. Choose a name below to see its description and dependencies. [Changelog](changelogs/CHANGELOG.md) · [PDF](docs/MODLIST.pdf) · [Source metadata](docs/catalogue.json)
+361 mods. Choose a name below to see its description and dependencies. [Changelog](changelogs/CHANGELOG.md) · [PDF](docs/MODLIST.pdf) · [Source metadata](docs/catalogue.json)
 
 ## Index
 
@@ -85,7 +85,6 @@ Pack **1.6.0-alpha** · minecraft **1.21.1** · neoforge **21.1.244**
 | [Common Capabilities](docs/mods/c.md#mod-1e223a4dd7da3ff4) · [page](https://www.curseforge.com/projects/247007) | [2.11.5](https://www.curseforge.com/projects/247007/files/8469575) | client and server | Capabilities that can be shared by multiple mods. |
 | [Compact Machines](docs/mods/c.md#mod-667ca792739f8837) · [page](https://www.curseforge.com/projects/224218) | [7.0.81](https://www.curseforge.com/projects/224218/files/7621553) | client and server | It's all so tiny! |
 | [Companion (Neo/Forge)](docs/mods/c.md#mod-1a4f2129ffa797c4) · [page](https://www.curseforge.com/projects/559989) | [file 8324374 (version not declared)](https://www.curseforge.com/projects/559989/files/8324374) | client and server | Protect your pets. |
-| [Concurrent Chunk Management Engine](docs/mods/c.md#mod-5fad2e4304ed8c36) · [page](https://www.curseforge.com/projects/533097) | [0.4.0-alpha.0.116+1.21.1](https://www.curseforge.com/projects/533097/files/8480771) | client and server | A NeoForge mod designed to improve the chunk performance of Minecraft. |
 | [Configurable](docs/mods/c.md#mod-2b2935b2f63434bf) · [page](https://www.curseforge.com/projects/1092048) | [3.5.2](https://www.curseforge.com/projects/1092048/files/8438541) | client and server | Config library that allows decentralised settings in a mod |
 | [Configured](docs/mods/c.md#mod-e20cfb6323a8b466) · [page](https://www.curseforge.com/projects/457570) | [2.6.3](https://www.curseforge.com/projects/457570/files/7276577) | client only | Creates a simple GUI config for every mod! |
 | [Controlling](docs/mods/c.md#mod-9bb7ecdc91b98cd4) · [page](https://www.curseforge.com/projects/250398) | [19.0.5](https://www.curseforge.com/projects/250398/files/6368976) | client only | Adds the ability to search for keybinds using their name in the KeyBinding menu, this allows players to easily find a key binding in the menu. |
