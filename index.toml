@@ -90,7 +90,7 @@ hash = "2a2ee19297afe3fc512f5cbe639349847f3e7a74616f282d24a179a17f4559ed"
 
 [[files]]
 file = "config/moonedit-server.toml"
-hash = "54dee9523140b07158a88d6a62064323c46b4d143dd82e1a19f113da8db39b2b"
+hash = "a6d420af74ea6bbe386433920383ce006e2b81f9175df47ffc1190a1affbcb46"
 
 [[files]]
 file = "config/neruina.json"
@@ -1500,7 +1500,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonedit.pw.toml"
-hash = "b89fef788b32b2331c7a679269c9c69841c72c15e0217b86864b2edc23326d00"
+hash = "3c5485522672a009677a0ffecefc4134bb8314493941b13a2762b06ff8ee9585"
 metafile = true
 
 [[files]]
