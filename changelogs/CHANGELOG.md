@@ -11,8 +11,9 @@ Pack 1.6.0-alpha · [Recorded mod catalogue](modlist/1.6.0-alpha-2026-10-23-3.md
 Brings 117 mods and the Complementary Reimagined shaders up to date and moves
 the pack to NeoForge 21.1.264.
 
-Player action: set your launcher instance's NeoForge version to 21.1.264
-before joining. Supplementaries 4 and Cultural Delights 0.19 require it, and
+Player action: when the pack updater asks to update the instance's NeoForge to
+21.1.264 (MultiMC and Prism Launcher), choose to update; other launchers need
+it set by hand. Supplementaries 4 and Cultural Delights 0.19 require it, and
 NeoForge 21.1.260-262 harden networking on both sides.
 
 - Supplementaries 4 (Moonlight 3.7) reworks naval raids and fixes a pulley
