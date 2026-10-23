@@ -16011,23 +16011,23 @@
     },
     {
       "download": {
-        "hash": "bda3a58f0866e9a00355b805c779ddb6dc0b3a2ad3277d3a9e3b051f281d7ad70828a98409b6840d1e6d034f33ac308ca9d46e61ecbb7d5279a9b6e0571b6fce",
+        "hash": "f20c4f81e0baff25bffec3a37c32bfe1f3b27a28a951cc95ac141663c1571b7ccad2c60781fd283a81a5df1e51dd17262befbf7a75d5aba70258eda54e4ba935",
         "hash-format": "sha512",
-        "url": "https://github.com/virtualonno/miladycraft/releases/download/moonedit-0.1.0-alpha.1/moonedit-neoforge-1.21.1-0.1.0-alpha.1.jar"
+        "url": "https://github.com/virtualonno/miladycraft/releases/download/moonedit-0.1.0-alpha.2/moonedit-neoforge-1.21.1-0.1.0-alpha.2.jar"
       },
       "evidence": [
         {
-          "body": "Manifest-Version: 1.0\r\nSpecification-Title: moonedit\r\nSpecification-Vendor: virtualonno\r\nSpecification-Version: 0.1.0-alpha.1\r\nImplementation-Title: moonedit\r\nImplementation-Version: 0.1.0-alpha.1\r\nImplementation-Vendor: virtualonno\r\n\r\n",
+          "body": "Manifest-Version: 1.0\r\nSpecification-Title: moonedit\r\nSpecification-Vendor: virtualonno\r\nSpecification-Version: 0.1.0-alpha.2\r\nImplementation-Title: moonedit\r\nImplementation-Version: 0.1.0-alpha.2\r\nImplementation-Vendor: virtualonno\r\n\r\n",
           "path": "META-INF/MANIFEST.MF",
-          "sha256": "08c700fce843ad82f8269c0166bebf52c0682c553dd388da8b17318385bb69d5"
+          "sha256": "e65da80eb08c970b9a04c5af1940b8401882d73ebacd0988ccd90060ca1c81a3"
         },
         {
-          "body": "modLoader=\"javafml\"\nloaderVersion=\"[4,)\"\nlicense=\"LGPL-3.0-or-later\"\n\n[[mods]]\nmodId=\"moonedit\"\nversion=\"0.1.0-alpha.1\"\ndisplayName=\"moonedit\"\nauthors=\"virtualonno\"\ndisplayTest=\"IGNORE_ALL_VERSION\"\ndescription='''Fast building and terrain editing for server operators.'''\n\n[[dependencies.moonedit]]\nmodId=\"neoforge\"\ntype=\"required\"\nversionRange=\"[21.1.244,21.2)\"\nordering=\"NONE\"\nside=\"BOTH\"\n\n[[dependencies.moonedit]]\nmodId=\"minecraft\"\ntype=\"required\"\nversionRange=\"[1.21.1,1.21.2)\"\nordering=\"NONE\"\nside=\"BOTH\"\n\n",
+          "body": "modLoader=\"javafml\"\nloaderVersion=\"[4,)\"\nlicense=\"LGPL-3.0-or-later\"\n\n[[mods]]\nmodId=\"moonedit\"\nversion=\"0.1.0-alpha.2\"\ndisplayName=\"moonedit\"\nauthors=\"virtualonno\"\ndisplayTest=\"IGNORE_ALL_VERSION\"\ndescription='''Fast building and terrain editing for server operators.'''\n\n[[dependencies.moonedit]]\nmodId=\"neoforge\"\ntype=\"required\"\nversionRange=\"[21.1.244,21.2)\"\nordering=\"NONE\"\nside=\"BOTH\"\n\n[[dependencies.moonedit]]\nmodId=\"minecraft\"\ntype=\"required\"\nversionRange=\"[1.21.1,1.21.2)\"\nordering=\"NONE\"\nside=\"BOTH\"\n\n",
           "path": "META-INF/neoforge.mods.toml",
-          "sha256": "07be4f1f5b117bc918e47078c402e2c0326f2ad2ed3b608dbb697599648b2cd9"
+          "sha256": "943960ec052add30fa91f738fa68c5984f95ff6259e9e277f6d3ce82651c6ddb"
         }
       ],
-      "filename": "moonedit-neoforge-1.21.1-0.1.0-alpha.1.jar",
+      "filename": "moonedit-neoforge-1.21.1-0.1.0-alpha.2.jar",
       "key": "local-mod:moonedit",
       "kind": "mod",
       "modules": [
@@ -16055,17 +16055,17 @@
           "id": "moonedit",
           "issues": "",
           "name": "moonedit",
-          "version": "0.1.0-alpha.1"
+          "version": "0.1.0-alpha.2"
         }
       ],
       "name": "moonedit",
       "optional": {},
-      "page": "https://github.com/virtualonno/miladycraft/releases/download/moonedit-0.1.0-alpha.1/moonedit-neoforge-1.21.1-0.1.0-alpha.1.jar",
+      "page": "https://github.com/virtualonno/miladycraft/releases/download/moonedit-0.1.0-alpha.2/moonedit-neoforge-1.21.1-0.1.0-alpha.2.jar",
       "path": "mods/moonedit.pw.toml",
       "pinned": false,
       "provider_version": "",
-      "release": "https://github.com/virtualonno/miladycraft/releases/download/moonedit-0.1.0-alpha.1/moonedit-neoforge-1.21.1-0.1.0-alpha.1.jar",
-      "sha256": "1cdc807cac4078e8c914c24f8338429c55fd53ee264464a0f37d2f655353333f",
+      "release": "https://github.com/virtualonno/miladycraft/releases/download/moonedit-0.1.0-alpha.2/moonedit-neoforge-1.21.1-0.1.0-alpha.2.jar",
+      "sha256": "9bce8c027c3248ada347577d166e6a475cc5229649274916b40336dd9b07bb9e",
       "side": "server"
     },
     {
@@ -25320,7 +25320,7 @@
       "mods/model-gap-fix.pw.toml": "de97e04da7383f948463a2c2dd73884a474a9b20a64591061dd27cd0bc8988c2",
       "mods/modernfix.pw.toml": "45ce987bba32274bfd0b34a592cc185b22a35befbbedd98c49a86093179aa523",
       "mods/monocle.pw.toml": "ba39542bb01ef9aba6f237050f9c38835907e2012b5458b7334e5e846c9aef95",
-      "mods/moonedit.pw.toml": "1b67bc570a970b7ae36d60aa482cb69d577f08335f604dad855ebad3b98597d3",
+      "mods/moonedit.pw.toml": "b89fef788b32b2331c7a679269c9c69841c72c15e0217b86864b2edc23326d00",
       "mods/more-dragon-eggs.pw.toml": "6526d0de1fe5acd6a4fa0135b8b7bcd7fc09bd481f85e7f8221db633ff58e676",
       "mods/more-functional-storage.pw.toml": "e46e7ef8abb756425f8316dcdf8294f931b8ff6e823f82b26a83cda78793d0ce",
       "mods/more-red-x-cc-tweaked-compat.pw.toml": "5015a605e131526b60fc305cba3f94aa69f076c5ee681db53a50d94bfb07cda5",
@@ -25463,7 +25463,7 @@
       "resourcepacks/when-dungeons-arise-loot-tweaks.pw.toml": "69224f25c19c3fce9c58323d98df97e7c12f47448ea35ff27bd802cd3cf7e249",
       "shaderpacks/complementary-reimagined.pw.toml": "fe2fb19ba4d0fec45626237b701d857ac3c7c961efd5b4b7ccfff6cd512872f8"
     },
-    "pack_sha256": "a793d62d3c20218bdb0a722dac24ee9be0e385f148ecadb4361418d1477af5ce"
+    "pack_sha256": "963a5280bea2c480300f71b7f36c35249d3003bacddcc67e44abcd5b7f435104"
   },
   "pack": {
     "name": "Miladycraft",

@@ -4,6 +4,17 @@
 
 Release records preserve exact pack inputs. Recording a release does not assert that it has been deployed or published. Earlier unrecorded updates have not been reconstructed.
 
+## 1.6.0-alpha-2026-10-23-5 · 2026-10-23
+
+Pack 1.6.0-alpha · [Recorded mod catalogue](modlist/1.6.0-alpha-2026-10-23-5.md) · [Snapshot](../changelogs/snapshots/1.6.0-alpha-2026-10-23-5.json)
+
+Updates moonedit to 0.1.0-alpha.2 for operators: builds saved on one server are now readable by the other, so a build saved on the SMP loads on DEV. Nothing changes for players.
+
+### Updated
+
+- [moonedit](https://github.com/virtualonno/miladycraft/releases/download/moonedit-0.1.0-alpha.2/moonedit-neoforge-1.21.1-0.1.0-alpha.2.jar): [0.1.0-alpha.1](https://github.com/virtualonno/miladycraft/releases/download/moonedit-0.1.0-alpha.1/moonedit-neoforge-1.21.1-0.1.0-alpha.1.jar) → [0.1.0-alpha.2](https://github.com/virtualonno/miladycraft/releases/download/moonedit-0.1.0-alpha.2/moonedit-neoforge-1.21.1-0.1.0-alpha.2.jar); filename: moonedit-neoforge-1.21.1-0.1.0-alpha.1.jar → moonedit-neoforge-1.21.1-0.1.0-alpha.2.jar.
+
+
 ## 1.6.0-alpha-2026-10-23-4 · 2026-10-23
 
 Pack 1.6.0-alpha · [Recorded mod catalogue](modlist/1.6.0-alpha-2026-10-23-4.md) · [Snapshot](../changelogs/snapshots/1.6.0-alpha-2026-10-23-4.json)
