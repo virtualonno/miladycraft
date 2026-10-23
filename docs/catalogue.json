@@ -20917,23 +20917,23 @@
     },
     {
       "download": {
-        "hash": "1c9a0f7d969332b1256ff82a8418cb0832aa644b",
+        "hash": "6857b30c6d4600758564eac6d903570e076f0f79",
         "hash-format": "sha1",
         "mode": "metadata:curseforge"
       },
       "evidence": [
         {
-          "body": "Manifest-Version: 1.0\r\nSpecification-Title: sophisticatedbackpacks\r\nSpecification-Vendor: sophisticatedbackpacks\r\nSpecification-Version: 1\r\nImplementation-Title: SophisticatedBackpacks\r\nImplementation-Version: 1.21.1-3.25.73.2020\r\nImplementation-Vendor: sophisticatedbackpacks\r\nImplementation-Timestamp: 2026-07-24T23:25:04+0000\r\n\r\n",
+          "body": "Manifest-Version: 1.0\r\nSpecification-Title: sophisticatedbackpacks\r\nSpecification-Vendor: sophisticatedbackpacks\r\nSpecification-Version: 1\r\nImplementation-Title: SophisticatedBackpacks\r\nImplementation-Version: 1.21.1-3.26.14.2222\r\nImplementation-Vendor: sophisticatedbackpacks\r\nImplementation-Timestamp: 2026-10-20T20:37:08+0000\r\n\r\n",
           "path": "META-INF/MANIFEST.MF",
-          "sha256": "508ba2fed2f62bcac4210aae5a9231aeed88cdc4be2d7d97bc0041eff3c36497"
+          "sha256": "83bfa475262abf6411faf737c5843a8910545d5fbf657eb1b35107d6f4dd7b21"
         },
         {
-          "body": "modLoader=\"javafml\" #mandatory\nloaderVersion=\"[4,)\" #mandatory\n\nlicense=\"All Rights Reserved\"\nissueTrackerURL=\"https://github.com/P3pp3rF1y/SophisticatedBackpacks/issues\"\n\n[[mods]]\nmodId=\"sophisticatedbackpacks\"\nversion=\"3.25.73\"\ndisplayName=\"Sophisticated Backpacks\"\ndisplayURL=\"https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks\"\nlogoFile=\"logo.png\"\ncredits=\"Created by P3pp3rF1y and art by Ridanisaurus.\"\nauthors=\"P3pp3rF1y, Ridanisaurus\"\ndescription='''Fancy and functional backpacks.'''\nenumExtensions=\"META-INF/enumextensions.json\"\n\n[[accessTransformers]]\nfile=\"META-INF/accesstransformer.cfg\"\n\n[[mixins]]\nconfig=\"sophisticatedbackpacks.mixins.json\"\n\n[[dependencies.sophisticatedbackpacks]]\nmodId=\"sophisticatedcore\"\ntype=\"required\"\nversionRange=\"[1.4.80,)\"\nordering=\"NONE\"\nside=\"BOTH\"\n\n[[dependencies.sophisticatedbackpacks]]\nmodId=\"neoforge\"\ntype=\"required\"\nversionRange=\"[21.1.0,)\"\nordering=\"NONE\"\nside=\"BOTH\"\n\n[[dependencies.sophisticatedbackpacks]]\nmodId=\"minecraft\"\ntype=\"required\"\nversionRange=\"[1.21.1,1.21.2)\"\nordering=\"NONE\"\nside=\"BOTH\"\n",
+          "body": "modLoader=\"javafml\" #mandatory\nloaderVersion=\"[4,)\" #mandatory\n\nlicense=\"All Rights Reserved\"\nissueTrackerURL=\"https://github.com/P3pp3rF1y/SophisticatedBackpacks/issues\"\n\n[[mods]]\nmodId=\"sophisticatedbackpacks\"\nversion=\"3.26.14\"\ndisplayName=\"Sophisticated Backpacks\"\ndisplayURL=\"https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks\"\nlogoFile=\"logo.png\"\ncredits=\"Created by P3pp3rF1y and art by Ridanisaurus.\"\nauthors=\"P3pp3rF1y, Ridanisaurus\"\ndescription='''Fancy and functional backpacks.'''\nenumExtensions=\"META-INF/enumextensions.json\"\n\n[[accessTransformers]]\nfile=\"META-INF/accesstransformer.cfg\"\n\n[[mixins]]\nconfig=\"sophisticatedbackpacks.mixins.json\"\n\n[[dependencies.sophisticatedbackpacks]]\nmodId=\"sophisticatedcore\"\ntype=\"required\"\nversionRange=\"[1.5.15,)\"\nordering=\"NONE\"\nside=\"BOTH\"\n\n[[dependencies.sophisticatedbackpacks]]\nmodId=\"neoforge\"\ntype=\"required\"\nversionRange=\"[21.1.229,)\"\nordering=\"NONE\"\nside=\"BOTH\"\n\n[[dependencies.sophisticatedbackpacks]]\nmodId=\"minecraft\"\ntype=\"required\"\nversionRange=\"[1.21.1,1.21.2)\"\nordering=\"NONE\"\nside=\"BOTH\"\n",
           "path": "META-INF/neoforge.mods.toml",
-          "sha256": "f2766946c4e78715bd9e9dcaa5a5b9b342fa1c54864e052e20ea50facdf6dd50"
+          "sha256": "035c4d6ff67ff5075cd32b9abc5bd6d7dd185f6b5621312e56c2f85adb5d3427"
         }
       ],
-      "filename": "sophisticatedbackpacks-1.21.1-3.25.73.2020.jar",
+      "filename": "sophisticatedbackpacks-1.21.1-3.26.14.2222.jar",
       "key": "curseforge:422301",
       "kind": "mod",
       "modules": [
@@ -20943,14 +20943,14 @@
               "id": "sophisticatedcore",
               "kind": "required",
               "ordering": "none",
-              "range": "[1.4.80,)",
+              "range": "[1.5.15,)",
               "side": "both"
             },
             {
               "id": "neoforge",
               "kind": "required",
               "ordering": "none",
-              "range": "[21.1.0,)",
+              "range": "[21.1.229,)",
               "side": "both"
             },
             {
@@ -20968,7 +20968,7 @@
           "id": "sophisticatedbackpacks",
           "issues": "https://github.com/P3pp3rF1y/SophisticatedBackpacks/issues",
           "name": "Sophisticated Backpacks",
-          "version": "3.25.73"
+          "version": "3.26.14"
         }
       ],
       "name": "Sophisticated Backpacks",
@@ -20976,30 +20976,30 @@
       "page": "https://www.curseforge.com/projects/422301",
       "path": "mods/sophisticated-backpacks.pw.toml",
       "pinned": false,
-      "provider_version": "8503096",
-      "release": "https://www.curseforge.com/projects/422301/files/8503096",
-      "sha256": "e2608ff671b38937ae4f92195be1393bd421a262dc6ca2bfacc735fe5ec2928b",
+      "provider_version": "9271144",
+      "release": "https://www.curseforge.com/projects/422301/files/9271144",
+      "sha256": "f4aa76a9115c2ed1323a3e91b71561b112c0ace04062503ed297848229e530a5",
       "side": "both"
     },
     {
       "download": {
-        "hash": "bef1d5186feaed80b11bd1e6f2dc880e8bec0449",
+        "hash": "f83c21763ae821577ca25a2696c26ea65dfc54e8",
         "hash-format": "sha1",
         "mode": "metadata:curseforge"
       },
       "evidence": [
         {
-          "body": "Manifest-Version: 1.0\r\nSpecification-Title: sophisticatedcore\r\nSpecification-Vendor: sophisticatedcore\r\nSpecification-Version: 1\r\nImplementation-Title: SophisticatedCore\r\nImplementation-Version: 1.21.1-1.4.80.2194\r\nImplementation-Vendor: sophisticatedcore\r\nImplementation-Timestamp: 2026-07-24T23:16:40+0000\r\n\r\n",
+          "body": "Manifest-Version: 1.0\r\nSpecification-Title: sophisticatedcore\r\nSpecification-Vendor: sophisticatedcore\r\nSpecification-Version: 1\r\nImplementation-Title: SophisticatedCore\r\nImplementation-Version: 1.21.1-1.5.17.2426\r\nImplementation-Vendor: sophisticatedcore\r\nImplementation-Timestamp: 2026-10-21T16:59:03+0000\r\n\r\n",
           "path": "META-INF/MANIFEST.MF",
-          "sha256": "80436a71a5fbf48b3442b57b712b1cb5ac52c2241845045720ad41232efb17e7"
+          "sha256": "4c3248c6e5f57e50a0904899aed22431ee0edee0e6c4168e2200cb892a7be056"
         },
         {
-          "body": "modLoader=\"javafml\" #mandatory\nloaderVersion=\"[4,)\" #mandatory\n\nlicense=\"All Rights Reserved\"\nissueTrackerURL=\"https://github.com/P3pp3rF1y/SophisticatedCore/issues\"\n\n[[mods]]\nmodId=\"sophisticatedcore\"\nversion=\"1.4.80\"\ndisplayName=\"Sophisticated Core\"\ndisplayURL=\"https://www.curseforge.com/minecraft/mc-mods/sophisticated-core\"\nlogoFile=\"logo.png\"\ncredits=\"Created by P3pp3rF1y\"\nauthors=\"P3pp3rF1y\"\ndescription='''A library / shared functionality mod for Sophisticated Storage and Backpacks'''\n\n[[accessTransformers]]\nfile=\"META-INF/accesstransformer.cfg\"\n\n[[mixins]]\nconfig = \"sophisticatedcore.mixins.json\"\n\n[[mixins]]\nconfig = \"sophisticatedcore.create.mixins.json\"\nrequiredMods = [\"create\"]\n\n[[dependencies.sophisticatedcore]]\nmodId=\"jei\"\ntype=\"optional\"\nversionRange=\"[19.32.0.359,)\"\nordering=\"NONE\"\nside=\"CLIENT\"\n\n[[dependencies.sophisticatedcore]] #optional\nmodId=\"neoforge\" #mandatory\ntype=\"required\" #mandatory\nversionRange=\"[21.1.0,)\" #mandatory\nordering=\"NONE\"\nside=\"BOTH\"\n\n[[dependencies.sophisticatedcore]]\nmodId=\"minecraft\"\ntype=\"required\"\nversionRange=\"[1.21.1,1.21.2)\"\nordering=\"NONE\"\nside=\"BOTH\"\n",
+          "body": "modLoader=\"javafml\" #mandatory\nloaderVersion=\"[4,)\" #mandatory\n\nlicense=\"All Rights Reserved\"\nissueTrackerURL=\"https://github.com/P3pp3rF1y/SophisticatedCore/issues\"\n\n[[mods]]\nmodId=\"sophisticatedcore\"\nversion=\"1.5.17\"\ndisplayName=\"Sophisticated Core\"\ndisplayURL=\"https://www.curseforge.com/minecraft/mc-mods/sophisticated-core\"\nlogoFile=\"logo.png\"\ncredits=\"Created by P3pp3rF1y\"\nauthors=\"P3pp3rF1y\"\ndescription='''A library / shared functionality mod for Sophisticated Storage and Backpacks'''\n\n[[accessTransformers]]\nfile=\"META-INF/accesstransformer.cfg\"\n\n[[mixins]]\nconfig = \"sophisticatedcore.mixins.json\"\n\n[[mixins]]\nconfig = \"sophisticatedcore.create.mixins.json\"\nrequiredMods = [\"create\"]\n\n[[dependencies.sophisticatedcore]]\nmodId=\"jei\"\ntype=\"optional\"\nversionRange=\"[19.32.0.359,)\"\nordering=\"NONE\"\nside=\"CLIENT\"\n\n[[dependencies.sophisticatedcore]] #optional\nmodId=\"neoforge\" #mandatory\ntype=\"required\" #mandatory\nversionRange=\"[21.1.229,)\" #mandatory\nordering=\"NONE\"\nside=\"BOTH\"\n\n[[dependencies.sophisticatedcore]]\nmodId=\"minecraft\"\ntype=\"required\"\nversionRange=\"[1.21.1,1.21.2)\"\nordering=\"NONE\"\nside=\"BOTH\"\n",
           "path": "META-INF/neoforge.mods.toml",
-          "sha256": "b0edde9d6cb556e7d6a04205da3629b607ce0683e9d2183e3aa4705c353ad04a"
+          "sha256": "4ff09b9cda7fcb9c2e9e8b49f088a94b3a39c07006df1965459fae2ee80d5a1f"
         }
       ],
-      "filename": "sophisticatedcore-1.21.1-1.4.80.2194.jar",
+      "filename": "sophisticatedcore-1.21.1-1.5.17.2426.jar",
       "key": "curseforge:618298",
       "kind": "mod",
       "modules": [
@@ -21016,7 +21016,7 @@
               "id": "neoforge",
               "kind": "required",
               "ordering": "none",
-              "range": "[21.1.0,)",
+              "range": "[21.1.229,)",
               "side": "both"
             },
             {
@@ -21034,7 +21034,7 @@
           "id": "sophisticatedcore",
           "issues": "https://github.com/P3pp3rF1y/SophisticatedCore/issues",
           "name": "Sophisticated Core",
-          "version": "1.4.80"
+          "version": "1.5.17"
         }
       ],
       "name": "Sophisticated Core",
@@ -21042,9 +21042,9 @@
       "page": "https://www.curseforge.com/projects/618298",
       "path": "mods/sophisticated-core.pw.toml",
       "pinned": false,
-      "provider_version": "8503041",
-      "release": "https://www.curseforge.com/projects/618298/files/8503041",
-      "sha256": "58a35e74642de9a7ffd39604f06903df39c166d332551c5770ca2e21685defc0",
+      "provider_version": "9279274",
+      "release": "https://www.curseforge.com/projects/618298/files/9279274",
+      "sha256": "0ece314bf2deeeb978cdf6f38dfe691a9d2f4deb7149b4ad9c320c016a227a1b",
       "side": "both"
     },
     {
@@ -24804,6 +24804,17 @@
       "icon.png": "f95d90f49f6cebec922e36caf63449051a84c6aa414e24e7f90efacc73a199da",
       "knownkeys.txt": "018bba37d909e59719cf7641ba997b24cc28627d6aa7298fd4a528e004e09fcc",
       "kubejs/assets/compactmachines/lang/en_us.json": "958ea73f2a35dfef2e830be28703d82ab160f3f2d4ed072752227c021718a476",
+      "kubejs/data/beautify/loot_table/blocks/acacia_trellis.json": "5a296a60bdfc82b70f25c758b304882f664bfe5484a8944e9cf47cbf2d114816",
+      "kubejs/data/beautify/loot_table/blocks/birch_trellis.json": "9c17f9e6eb5fc64a8da1df4686e6090bf24bef9cc53ca48dc1a48cb44e9b7865",
+      "kubejs/data/beautify/loot_table/blocks/crimson_trellis.json": "edca772dc36732ed1ed1bb98db01a274ff8fd41cd505f4c9e54168762408f7c8",
+      "kubejs/data/beautify/loot_table/blocks/dark_oak_trellis.json": "44c3b8223a9d25d39a760c20b6b10ca488d87ccfb0d41281b31fb4bdfb2fec77",
+      "kubejs/data/beautify/loot_table/blocks/hanging_pot.json": "b4177866817be4145cbb41c35dcb968a69d25b3766316dcaf16f91e4c9ee0ad6",
+      "kubejs/data/beautify/loot_table/blocks/jungle_trellis.json": "5376c32eaf1ff422cb53e3b3a2355d4c3faf71f93ae3a10d8fdd409d266203d3",
+      "kubejs/data/beautify/loot_table/blocks/lamp_jar.json": "d981cc1add095ca5309b11750735057ae6da0d2c7c9cb2b8d18d048b4f397a7a",
+      "kubejs/data/beautify/loot_table/blocks/mangrove_trellis.json": "12333c69efb9fc54dd4ac0b52173e06737c4272c54d587e219d3e2b09fd1d048",
+      "kubejs/data/beautify/loot_table/blocks/oak_trellis.json": "b58b62c6cfcf04fa44027c518d62f6742528ed80201640815291b92f581417fc",
+      "kubejs/data/beautify/loot_table/blocks/spruce_trellis.json": "91bd1d3ca493666087dee4adbac0f30ae5f8b009630b09e19097a06ae6b3e693",
+      "kubejs/data/beautify/loot_table/blocks/warped_trellis.json": "1ce6048bc00c7ef76d307f46ac9bf393f64807c9931f33a62de0364750be8280",
       "kubejs/data/compactmachines/compactmachines/room_templates/big.json": "323acbe03aabfb31476ddf66f920a7c45465912c9b3354479eafcf3c83d4c0e5",
       "kubejs/data/compactmachines/compactmachines/room_templates/mini.json": "bda1667f411ae1e057249c9d9c8cd5fb35b2f4e3948d8157f640c74c19082b42",
       "kubejs/data/compactmachines/compactmachines/room_templates/normal.json": "15caa880409a920401fdb264ae229afcaf9ac7a9b891a2931cdabad9c083414b",
@@ -24820,6 +24831,7 @@
       "kubejs/data/ftbchunks/tags/item/right_click_whitelist.json": "0e69a7d8aed88d7b888df80aa3c25c28d05c373ea559efb668b4925a0aa00a41",
       "kubejs/data/irons_spellbooks/tags/block/pocket_dimension_prevent_placement.json": "8116c3d0868315499d5640c860ded4569e276411a19a0caac4f9f07d26b2e268",
       "kubejs/data/miladycraft/recipe/rftoolsutility_cataclysm_ignis_quarantine.json": "92d68710e593a529328736f12f0236941edc3bc9a9afe6559acb99f84e1ad551",
+      "kubejs/data/minecraft/recipe/beetroot_soup.json": "1f1f47f26013505b12b1625d530492da2c89233b4fc112b8fab16e87de0efb7a",
       "kubejs/data/tntutils/tags/block/explosion_whitelist.json": "78f1d22e64ecc404fd986cbabae6525e4ef028f89bb29f57cbc614f7f2df6cc6",
       "kubejs/data/tntutils/tags/entity_type/explosion_whitelist.json": "9ab9d2868bd6537a90ab362986f98975c48cd74ae0485932bcac617ba3278101",
       "kubejs/data/tntutils/tags/item/explosion_whitelist.json": "78f1d22e64ecc404fd986cbabae6525e4ef028f89bb29f57cbc614f7f2df6cc6",
@@ -25138,8 +25150,8 @@
       "mods/snow-under-trees.pw.toml": "47c46327364e22244eddf4e3ce8d0bd88ebf8f561d8511e76b0f0e5aeb8419a4",
       "mods/some-assembly-required.pw.toml": "3ee552df830edc21983af39740f267599437cd98a4e37b071413a598716861a8",
       "mods/sooty-chimneys.pw.toml": "5819325007d6c588d5c62e39dbf71e446abc758ecac276839c8f109f091642a7",
-      "mods/sophisticated-backpacks.pw.toml": "95b646021343034307aa64ccbdffa247aab6642fb5888bec7eba5b93aa071d7c",
-      "mods/sophisticated-core.pw.toml": "9691e0caa6ebd2d045e862e792aa762b2eb159c359d9c446241d32f731a7e5bb",
+      "mods/sophisticated-backpacks.pw.toml": "e71aedefbc645a4c7081af6fd02e49ef4bda9f4ee2b8371300f3614a12cc4813",
+      "mods/sophisticated-core.pw.toml": "88f9a977f852f416f10c36cec9383cd933202a9c55308f6db01c3b5f078940e7",
       "mods/soulplied-energistics.pw.toml": "e342fd17fd38de4d0367e8d6b308df7b113e3a8d0d01e0b55048e53ee0177a8a",
       "mods/spark.pw.toml": "6d9eaf43c14c66465e87bf03cc5cb5ecef57b3f2e8063c52f6332d33689d30be",
       "mods/stone-zone.pw.toml": "c17a98f0d3ce3282be839cd0d8bbdc3936612337cc29eee5eae3e6fc3336ec49",
@@ -25201,7 +25213,7 @@
       "resourcepacks/when-dungeons-arise-loot-tweaks.pw.toml": "69224f25c19c3fce9c58323d98df97e7c12f47448ea35ff27bd802cd3cf7e249",
       "shaderpacks/complementary-reimagined.pw.toml": "335d3e0f28b42381f929c9997dd188cd656178904833c2d1b01dfd3e098b0569"
     },
-    "pack_sha256": "e1ffde7c003a418b2e83f3e01699af48c76816fb68f5ddb49fc6858312e702c2"
+    "pack_sha256": "6e947be98500be7fd54dbbc70207fa755b6a0c0752f0f3644b990f297fdeaea9"
   },
   "pack": {
     "name": "Miladycraft",

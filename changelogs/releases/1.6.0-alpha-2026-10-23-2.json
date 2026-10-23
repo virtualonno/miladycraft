@@ -1,0 +1,10 @@
+{
+  "date": "2026-10-23",
+  "id": "1.6.0-alpha-2026-10-23-2",
+  "notes": "Fixes a server freeze and two broken drops and recipes.\n\n- Sophisticated Backpacks 3.26.14 and Sophisticated Core 1.5.17: an Inception\n  upgrade re-registered its inventory listener every time it initialized, so a\n  busy backpack could collect enough listeners for one slot change to stall the\n  server past the watchdog (the SMP restarted from this on 2026-10-06). 3.26\n  also adds linked backpack storage through the Ender Linker.\n- Beautify trellises, lamp jars and hanging pots drop themselves again when\n  broken. Their loot tables used a pre-1.21 field and never loaded; the pack\n  now ships corrected tables.\n- Beetroot soup is craftable again. Cultural Delights shipped an empty recipe\n  file that replaced vanilla's; the pack restores the vanilla recipe.\n\nClients update automatically; no player action is needed.",
+  "previous": "1.6.0-alpha-2026-10-23",
+  "schema": "smoothstone.pack_release.v1",
+  "sequence": 3,
+  "snapshot": "changelogs/snapshots/1.6.0-alpha-2026-10-23-2.json",
+  "snapshot_sha256": "079bcb8bd0a4b394266e6714b2088b42c252a6276bad734d2c24609a9b57743d"
+}

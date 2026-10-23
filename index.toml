@@ -187,6 +187,50 @@ file = "kubejs/assets/compactmachines/lang/en_us.json"
 hash = "958ea73f2a35dfef2e830be28703d82ab160f3f2d4ed072752227c021718a476"
 
 [[files]]
+file = "kubejs/data/beautify/loot_table/blocks/acacia_trellis.json"
+hash = "5a296a60bdfc82b70f25c758b304882f664bfe5484a8944e9cf47cbf2d114816"
+
+[[files]]
+file = "kubejs/data/beautify/loot_table/blocks/birch_trellis.json"
+hash = "9c17f9e6eb5fc64a8da1df4686e6090bf24bef9cc53ca48dc1a48cb44e9b7865"
+
+[[files]]
+file = "kubejs/data/beautify/loot_table/blocks/crimson_trellis.json"
+hash = "edca772dc36732ed1ed1bb98db01a274ff8fd41cd505f4c9e54168762408f7c8"
+
+[[files]]
+file = "kubejs/data/beautify/loot_table/blocks/dark_oak_trellis.json"
+hash = "44c3b8223a9d25d39a760c20b6b10ca488d87ccfb0d41281b31fb4bdfb2fec77"
+
+[[files]]
+file = "kubejs/data/beautify/loot_table/blocks/hanging_pot.json"
+hash = "b4177866817be4145cbb41c35dcb968a69d25b3766316dcaf16f91e4c9ee0ad6"
+
+[[files]]
+file = "kubejs/data/beautify/loot_table/blocks/jungle_trellis.json"
+hash = "5376c32eaf1ff422cb53e3b3a2355d4c3faf71f93ae3a10d8fdd409d266203d3"
+
+[[files]]
+file = "kubejs/data/beautify/loot_table/blocks/lamp_jar.json"
+hash = "d981cc1add095ca5309b11750735057ae6da0d2c7c9cb2b8d18d048b4f397a7a"
+
+[[files]]
+file = "kubejs/data/beautify/loot_table/blocks/mangrove_trellis.json"
+hash = "12333c69efb9fc54dd4ac0b52173e06737c4272c54d587e219d3e2b09fd1d048"
+
+[[files]]
+file = "kubejs/data/beautify/loot_table/blocks/oak_trellis.json"
+hash = "b58b62c6cfcf04fa44027c518d62f6742528ed80201640815291b92f581417fc"
+
+[[files]]
+file = "kubejs/data/beautify/loot_table/blocks/spruce_trellis.json"
+hash = "91bd1d3ca493666087dee4adbac0f30ae5f8b009630b09e19097a06ae6b3e693"
+
+[[files]]
+file = "kubejs/data/beautify/loot_table/blocks/warped_trellis.json"
+hash = "1ce6048bc00c7ef76d307f46ac9bf393f64807c9931f33a62de0364750be8280"
+
+[[files]]
 file = "kubejs/data/compactmachines/compactmachines/room_templates/big.json"
 hash = "323acbe03aabfb31476ddf66f920a7c45465912c9b3354479eafcf3c83d4c0e5"
 
@@ -249,6 +293,10 @@ hash = "8116c3d0868315499d5640c860ded4569e276411a19a0caac4f9f07d26b2e268"
 [[files]]
 file = "kubejs/data/miladycraft/recipe/rftoolsutility_cataclysm_ignis_quarantine.json"
 hash = "92d68710e593a529328736f12f0236941edc3bc9a9afe6559acb99f84e1ad551"
+
+[[files]]
+file = "kubejs/data/minecraft/recipe/beetroot_soup.json"
+hash = "1f1f47f26013505b12b1625d530492da2c89233b4fc112b8fab16e87de0efb7a"
 
 [[files]]
 file = "kubejs/data/tntutils/tags/block/explosion_whitelist.json"
@@ -1827,12 +1875,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "95b646021343034307aa64ccbdffa247aab6642fb5888bec7eba5b93aa071d7c"
+hash = "e71aedefbc645a4c7081af6fd02e49ef4bda9f4ee2b8371300f3614a12cc4813"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "9691e0caa6ebd2d045e862e792aa762b2eb159c359d9c446241d32f731a7e5bb"
+hash = "88f9a977f852f416f10c36cec9383cd933202a9c55308f6db01c3b5f078940e7"
 metafile = true
 
 [[files]]

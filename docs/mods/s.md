@@ -457,13 +457,13 @@ Source: sootychimneys-neoforge-1.3.5.jar · META-INF/neoforge.mods.toml. Exact d
 <a id="mod-e15fb1cdafc2f7a8"></a>
 ### Sophisticated Backpacks
 
-**[3.25.73](https://www.curseforge.com/projects/422301/files/8503096)** · client and server · [Source](https://www.curseforge.com/projects/422301) · [Pack entry](../../mods/sophisticated-backpacks.pw.toml)
+**[3.26.14](https://www.curseforge.com/projects/422301/files/9271144)** · client and server · [Source](https://www.curseforge.com/projects/422301) · [Pack entry](../../mods/sophisticated-backpacks.pw.toml)
 
 Fancy and functional backpacks.
 
 Author links: [https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks)
 
-Mod IDs and versions: sophisticatedbackpacks 3.25.73.
+Mod IDs and versions: sophisticatedbackpacks 3.26.14.
 
 **Requires:** [Sophisticated Core](s.md#mod-b586ba3b9d7580ea).
 
@@ -471,27 +471,27 @@ Mod IDs and versions: sophisticatedbackpacks 3.25.73.
 
 | From | Dependency | Kind | Version range | Side | Found in pack |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| sophisticatedbackpacks | sophisticatedcore | required | \[1.4.80,) | client and server | [Sophisticated Core](s.md#mod-b586ba3b9d7580ea) |
+| sophisticatedbackpacks | sophisticatedcore | required | \[1.5.15,) | client and server | [Sophisticated Core](s.md#mod-b586ba3b9d7580ea) |
 
 **Runtime constraints**
 
 | From | Dependency | Kind | Version range | Side | Found in pack |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| sophisticatedbackpacks | neoforge | required | \[21.1.0,) | client and server | runtime |
+| sophisticatedbackpacks | neoforge | required | \[21.1.229,) | client and server | runtime |
 | sophisticatedbackpacks | minecraft | required | \[1.21.1,1.21.2) | client and server | runtime |
 
-Source: sophisticatedbackpacks-1.21.1-3.25.73.2020.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: sophisticatedbackpacks-1.21.1-3.26.14.2222.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-b586ba3b9d7580ea"></a>
 ### Sophisticated Core
 
-**[1.4.80](https://www.curseforge.com/projects/618298/files/8503041)** · client and server · [Source](https://www.curseforge.com/projects/618298) · [Pack entry](../../mods/sophisticated-core.pw.toml)
+**[1.5.17](https://www.curseforge.com/projects/618298/files/9279274)** · client and server · [Source](https://www.curseforge.com/projects/618298) · [Pack entry](../../mods/sophisticated-core.pw.toml)
 
 A library / shared functionality mod for Sophisticated Storage and Backpacks
 
 Author links: [https://www.curseforge.com/minecraft/mc-mods/sophisticated-core](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core)
 
-Mod IDs and versions: sophisticatedcore 1.4.80.
+Mod IDs and versions: sophisticatedcore 1.5.17.
 
 **Optional integrations:** [Just Enough Items (JEI)](j.md#mod-1004006ccdc38261).
 
@@ -509,10 +509,10 @@ Mod IDs and versions: sophisticatedcore 1.4.80.
 
 | From | Dependency | Kind | Version range | Side | Found in pack |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| sophisticatedcore | neoforge | required | \[21.1.0,) | client and server | runtime |
+| sophisticatedcore | neoforge | required | \[21.1.229,) | client and server | runtime |
 | sophisticatedcore | minecraft | required | \[1.21.1,1.21.2) | client and server | runtime |
 
-Source: sophisticatedcore-1.21.1-1.4.80.2194.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: sophisticatedcore-1.21.1-1.5.17.2426.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-f641dabae7b60cc0"></a>
 ### Soulplied Energistics
