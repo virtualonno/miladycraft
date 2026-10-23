@@ -14,9 +14,9 @@
 	minimumSliceMilliseconds = 3.0
 	#Milliseconds jobs may use per tick on an idle server. Raising it helps only when edits are
 	#limited by server-thread work (commits, light) rather than chunk loading.
-	# Default: 20.0
+	# Default: 40.0
 	# Range: 0.5 ~ 200.0
-	maximumSliceMilliseconds = 20.0
+	maximumSliceMilliseconds = 40.0
 	#Milliseconds of each tick left unused, for spikes and for the slice running over.
 	# Default: 4.0
 	# Range: 0.0 ~ 50.0

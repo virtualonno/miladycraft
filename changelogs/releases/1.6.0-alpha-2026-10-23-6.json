@@ -1,0 +1,10 @@
+{
+  "date": "2026-10-23",
+  "id": "1.6.0-alpha-2026-10-23-6",
+  "notes": "Updates moonedit to 0.1.0-alpha.3 for operators: corners can be set one at a time with /mo from and /mo to (handy in spectator), undo also removes pasted blocks whose state changed since, moved entities keep their latest state, and edits run a little faster. Nothing changes for players.",
+  "previous": "1.6.0-alpha-2026-10-23-5",
+  "schema": "smoothstone.pack_release.v1",
+  "sequence": 7,
+  "snapshot": "changelogs/snapshots/1.6.0-alpha-2026-10-23-6.json",
+  "snapshot_sha256": "406cee0dcdcde6acae8ed8dc2f420e0aef2c7178c2847b09ab759d377afc8458"
+}

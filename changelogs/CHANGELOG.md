@@ -4,6 +4,21 @@
 
 Release records preserve exact pack inputs. Recording a release does not assert that it has been deployed or published. Earlier unrecorded updates have not been reconstructed.
 
+## 1.6.0-alpha-2026-10-23-6 · 2026-10-23
+
+Pack 1.6.0-alpha · [Recorded mod catalogue](modlist/1.6.0-alpha-2026-10-23-6.md) · [Snapshot](../changelogs/snapshots/1.6.0-alpha-2026-10-23-6.json)
+
+Updates moonedit to 0.1.0-alpha.3 for operators: corners can be set one at a time with /mo from and /mo to (handy in spectator), undo also removes pasted blocks whose state changed since, moved entities keep their latest state, and edits run a little faster. Nothing changes for players.
+
+### Updated
+
+- [moonedit](https://github.com/virtualonno/miladycraft/releases/download/moonedit-0.1.0-alpha.3/moonedit-neoforge-1.21.1-0.1.0-alpha.3.jar): [0.1.0-alpha.2](https://github.com/virtualonno/miladycraft/releases/download/moonedit-0.1.0-alpha.2/moonedit-neoforge-1.21.1-0.1.0-alpha.2.jar) → [0.1.0-alpha.3](https://github.com/virtualonno/miladycraft/releases/download/moonedit-0.1.0-alpha.3/moonedit-neoforge-1.21.1-0.1.0-alpha.3.jar); filename: moonedit-neoforge-1.21.1-0.1.0-alpha.2.jar → moonedit-neoforge-1.21.1-0.1.0-alpha.3.jar.
+
+### Configuration and other pack files
+
+- Changed: config/moonedit-server.toml.
+
+
 ## 1.6.0-alpha-2026-10-23-5 · 2026-10-23
 
 Pack 1.6.0-alpha · [Recorded mod catalogue](modlist/1.6.0-alpha-2026-10-23-5.md) · [Snapshot](../changelogs/snapshots/1.6.0-alpha-2026-10-23-5.json)
