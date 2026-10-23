@@ -1,0 +1,37 @@
+[history]
+	#Disk space each operator's edit history may use, in megabytes. Beyond it the oldest edits
+	#are forgotten and the operator is told which.
+	# Default: 4096
+	# Range: 1 ~ 1073741824
+	diskBudgetMegabytes = 4096
+
+#Each tick, jobs run for what the server's own work leaves of the tick, less a reserve,
+#within these bounds. Setting the minimum and maximum equal gives a fixed slice.
+[jobs]
+	#Milliseconds jobs get per tick however busy the server is, so edits always progress.
+	# Default: 3.0
+	# Range: 0.5 ~ 200.0
+	minimumSliceMilliseconds = 3.0
+	#Milliseconds jobs may use per tick on an idle server. Raising it helps only when edits are
+	#limited by server-thread work (commits, light) rather than chunk loading.
+	# Default: 20.0
+	# Range: 0.5 ~ 200.0
+	maximumSliceMilliseconds = 20.0
+	#Milliseconds of each tick left unused, for spikes and for the slice running over.
+	# Default: 4.0
+	# Range: 0.0 ~ 50.0
+	reserveMilliseconds = 4.0
+
+[archives]
+	#Folder for saved clipboards (.moon and .schem). Empty means moonedit/archives in the server
+	#folder. A relative path is taken from the server folder; an absolute one lets several
+	#servers on one machine share their archives, so a build saved on one loads on another.
+	folder = "/srv/miladycraft-shared/moonedit-archives"
+
+[access]
+	#Operator level needed to use moonedit at all. A permission mod (FTB Ranks and the like) can
+	#take moonedit away from an operator through the moonedit.use node, but never give it to
+	#anyone below this level. The server console and RCON always may.
+	# Default: 2
+	# Range: 1 ~ 4
+	operatorLevel = 2
