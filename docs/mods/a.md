@@ -31,11 +31,11 @@ Source: accelerated-decay-neoforge-21.0.0.jar · META-INF/neoforge.mods.toml. Ex
 <a id="mod-979c5cd4096642a4"></a>
 ### Adorn (NeoForge/Forge)
 
-**[6.3.0+1.21.1](https://www.curseforge.com/projects/438784/files/8401042)** · client and server · [Source](https://www.curseforge.com/projects/438784) · [Pack entry](../../mods/adorn-for-forge.pw.toml)
+**[6.3.1+1.21.1](https://www.curseforge.com/projects/438784/files/8539580)** · client and server · [Source](https://www.curseforge.com/projects/438784) · [Pack entry](../../mods/adorn-for-forge.pw.toml)
 
 Decorate your home!
 
-Mod IDs and versions: adorn 6.3.0+1.21.1.
+Mod IDs and versions: adorn 6.3.1+1.21.1.
 
 **Runtime constraints**
 
@@ -44,7 +44,7 @@ Mod IDs and versions: adorn 6.3.0+1.21.1.
 | adorn | minecraft | required | \[1.21.1,) | client and server | runtime |
 | adorn | neoforge | required | \[21.1.8,) | client and server | runtime |
 
-Source: Adorn-6.3.0+1.21.1-neoforge.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: Adorn-6.3.1+1.21.1-neoforge.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-21b855d6d58be6d6"></a>
 ### Advanced Loot Info (ALI)
@@ -132,13 +132,13 @@ Source: shulkerbox-neoforge-1.21.1-2.0.5.jar · META-INF/neoforge.mods.toml. Exa
 <a id="mod-89747730f0f03a5e"></a>
 ### Advancement Frames
 
-**[1.21-2.2.10](https://www.curseforge.com/projects/556795/files/6273038)** · client and server · [Source](https://www.curseforge.com/projects/556795) · [Pack entry](../../mods/advancement-frames.pw.toml)
+**[1.21-2.3.2](https://www.curseforge.com/projects/556795/files/9081347)** · client and server · [Source](https://www.curseforge.com/projects/556795) · [Pack entry](../../mods/advancement-frames.pw.toml)
 
 Display your hard earned advancements & stats in style!
 
 Author links: [https://www.curseforge.com/minecraft/mc-mods/advframes](https://www.curseforge.com/minecraft/mc-mods/advframes)
 
-Mod IDs and versions: advancementframes 1.21-2.2.10.
+Mod IDs and versions: advancementframes 1.21-2.3.2.
 
 **Requires:** [Moonlight Lib](m.md#mod-f3a3b87b30d6d78f).
 
@@ -146,16 +146,16 @@ Mod IDs and versions: advancementframes 1.21-2.2.10.
 
 | From | Dependency | Kind | Version range | Side | Found in pack |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| advancementframes | moonlight | required | \* | client and server | [Moonlight Lib](m.md#mod-f3a3b87b30d6d78f) |
+| advancementframes | moonlight | required | \[1.21-3.4.0,) | client and server | [Moonlight Lib](m.md#mod-f3a3b87b30d6d78f) |
 
 **Runtime constraints**
 
 | From | Dependency | Kind | Version range | Side | Found in pack |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| advancementframes | neoforge | required | \[4,) | client and server | runtime |
-| advancementframes | minecraft | required | \[1.21,1.22) | client and server | runtime |
+| advancementframes | neoforge | required | \* | client and server | runtime |
+| advancementframes | minecraft | required | \[1.21.1\] | client and server | runtime |
 
-Source: advancementframes-1.21-2.2.10-neoforge.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: advancementframes-1.21-2.3.2-neoforge.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-ee24d63d8bb9e97b"></a>
 ### Advancements Reloaded
@@ -187,15 +187,17 @@ Source: advancements\_reloaded-0.6.1-neoforge-1.21.1.jar · META-INF/neoforge.mo
 <a id="mod-71be75067e878eb5"></a>
 ### AE2 Import Export Card
 
-**[1.21.1-1.5.0](https://www.curseforge.com/projects/982512/files/8033654)** · client and server · [Source](https://www.curseforge.com/projects/982512) · [Pack entry](../../mods/ae2-import-export-card.pw.toml)
+**[1.21.1-1.9.1](https://www.curseforge.com/projects/982512/files/8961599)** · client and server · [Source](https://www.curseforge.com/projects/982512) · [Pack entry](../../mods/ae2-import-export-card.pw.toml)
 
-This mod adds an import and an export card to wireless terminals from Applied Energistics 2.
+This mod adds an import, export and block picker card to wireless terminals from Applied Energistics 2.
 
 Author links: [https://www.curseforge.com/minecraft/mc-mods/ae2-import-export-card](https://www.curseforge.com/minecraft/mc-mods/ae2-import-export-card)
 
-Mod IDs and versions: ae2importexportcard 1.21.1-1.5.0.
+Mod IDs and versions: ae2importexportcard 1.21.1-1.9.1.
 
 **Requires:** [Applied Energistics 2](a.md#mod-86db8a3a805756c2).
+
+**Optional integrations:** [Curios API (Forge/NeoForge)](c.md#mod-1887f7ba57ad110d).
 
 **Dependencies and integrations**
 
@@ -203,6 +205,7 @@ Mod IDs and versions: ae2importexportcard 1.21.1-1.5.0.
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | ae2importexportcard | ae2 | required | \[19.2,) | client and server | [Applied Energistics 2](a.md#mod-86db8a3a805756c2) |
 | ae2importexportcard | ae2wtlib | incompatible | (,19.1.0-alpha) | client and server | not indexed |
+| ae2importexportcard | curios | optional | \[9.5.1,10) | client and server | [Curios API (Forge/NeoForge)](c.md#mod-1887f7ba57ad110d) |
 
 **Runtime constraints**
 
@@ -215,7 +218,7 @@ Mod IDs and versions: ae2importexportcard 1.21.1-1.5.0.
 
 **Bundled modules:** grandpower 3.0.2.
 
-Source: ae2importexportcard-1.21.1-1.5.0.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: ae2importexportcard-1.21.1-1.9.1.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-3988c35a59a1a542"></a>
 ### AE2 Things \[Forge\]
@@ -274,11 +277,11 @@ Source: ae2ct-1.21.1-1.1.1.jar · META-INF/neoforge.mods.toml. Exact descriptor 
 <a id="mod-307e8d16037554b5"></a>
 ### AllTheLeaks (Memory Leak Fix)
 
-**[1.1.10+1.21.1-neoforge](https://www.curseforge.com/projects/1091339/files/8409394)** · client and server · [Source](https://www.curseforge.com/projects/1091339) · [Pack entry](../../mods/alltheleaks.pw.toml)
+**[1.1.13+1.21.1-neoforge](https://www.curseforge.com/projects/1091339/files/8943912)** · client and server · [Source](https://www.curseforge.com/projects/1091339) · [Pack entry](../../mods/alltheleaks.pw.toml)
 
 This mod fixes memory leaks when needed!
 
-Mod IDs and versions: alltheleaks 1.1.10+1.21.1-neoforge.
+Mod IDs and versions: alltheleaks 1.1.13+1.21.1-neoforge.
 
 **Optional dependency of:** [KubeJS Tweaks](k.md#mod-f50841346992fc20).
 
@@ -302,7 +305,7 @@ Mod IDs and versions: alltheleaks 1.1.10+1.21.1-neoforge.
 | alltheleaks | neoforge | required | \[21.1.195,) | client and server | runtime |
 | alltheleaks | minecraft | required | \[1.21.1,1.21.2) | client and server | runtime |
 
-Source: alltheleaks-1.1.10+1.21.1-neoforge.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: alltheleaks-1.1.13+1.21.1-neoforge.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-9e84c8bb35352530"></a>
 ### Almost Unified
@@ -375,13 +378,13 @@ Source: AmbientEnvironment-neoforge-1.21.1-18.0.0.2.jar · META-INF/neoforge.mod
 <a id="mod-bd590d768da86c55"></a>
 ### Amendments
 
-**[1.21-2.1.7](https://www.curseforge.com/projects/896746/files/8415430)** · client and server · [Source](https://www.curseforge.com/projects/896746) · [Pack entry](../../mods/amendments.pw.toml)
+**[1.21-2.2.0](https://www.curseforge.com/projects/896746/files/9272216)** · client and server · [Source](https://www.curseforge.com/projects/896746) · [Pack entry](../../mods/amendments.pw.toml)
 
 Many tweaks to Vanilla Blocks
 
 Author links: [https://www.curseforge.com/minecraft/mc-mods/amendments](https://www.curseforge.com/minecraft/mc-mods/amendments)
 
-Mod IDs and versions: amendments 1.21-2.1.7.
+Mod IDs and versions: amendments 1.21-2.2.0.
 
 **Requires:** [Moonlight Lib](m.md#mod-f3a3b87b30d6d78f).
 
@@ -391,7 +394,8 @@ Mod IDs and versions: amendments 1.21-2.1.7.
 
 | From | Dependency | Kind | Version range | Side | Found in pack |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| amendments | moonlight | required | \[1.21-2.29.19,) | client and server | [Moonlight Lib](m.md#mod-f3a3b87b30d6d78f) |
+| amendments | moonlight | required | \[1.21.1-3.1.0c,) | client and server | [Moonlight Lib](m.md#mod-f3a3b87b30d6d78f) |
+| amendments | immersivewind | incompatible | (,0.9\] | client and server | not indexed |
 
 **Runtime constraints**
 
@@ -400,16 +404,16 @@ Mod IDs and versions: amendments 1.21-2.1.7.
 | amendments | neoforge | required | \* | client and server | runtime |
 | amendments | minecraft | required | \[1.21.1\] | client and server | runtime |
 
-Source: amendments-neoforge-1.21-2.1.7.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: amendments-1.21-2.2.0-neoforge.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-460e0d8197898898"></a>
 ### Animal Pens
 
-**[2.4.3](https://www.curseforge.com/projects/1206722/files/8340147)** · client and server · [Source](https://www.curseforge.com/projects/1206722) · [Pack entry](../../mods/animal-pens.pw.toml)
+**[2.5.2](https://www.curseforge.com/projects/1206722/files/9291589)** · client and server · [Source](https://www.curseforge.com/projects/1206722) · [Pack entry](../../mods/animal-pens.pw.toml)
 
 A simple mod aimed to reduce lag on servers by placing animals in single block.
 
-Mod IDs and versions: animal\_pen 2.4.3.
+Mod IDs and versions: animal\_pen 2.5.2.
 
 **Requires:** [Architectury API](a.md#mod-4cfd8b50282756a6).
 
@@ -426,16 +430,16 @@ Mod IDs and versions: animal\_pen 2.4.3.
 | animal\_pen | neoforge | required | \[21,) | client and server | runtime |
 | animal\_pen | minecraft | required | \[1.21,) | client and server | runtime |
 
-Source: animal\_pen-neoforge-1.21-2.4.3.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: animal\_pen-neoforge-1.21-2.5.2.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-ef0aa05382bf2353"></a>
 ### Another Furniture
 
-**[4.0.2](https://www.curseforge.com/projects/610492/files/7355747)** · client and server · [Source](https://www.curseforge.com/projects/610492) · [Pack entry](../../mods/another-furniture.pw.toml)
+**[4.0.3](https://www.curseforge.com/projects/610492/files/8955672)** · client and server · [Source](https://www.curseforge.com/projects/610492) · [Pack entry](../../mods/another-furniture.pw.toml)
 
 Decorating your home just got better! Another Furniture adds various furniture, with the goal of staying vanilla-styled and consistently sized, keeping normal blocks and player sizes in mind.
 
-Mod IDs and versions: another\_furniture 4.0.2.
+Mod IDs and versions: another\_furniture 4.0.3.
 
 **Runtime constraints**
 
@@ -444,22 +448,22 @@ Mod IDs and versions: another\_furniture 4.0.2.
 | another\_furniture | neoforge | required | \[21.0,) | client and server | runtime |
 | another\_furniture | minecraft | required | \[1.21.1,) | client and server | runtime |
 
-Source: another\_furniture-neoforge-4.0.2.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: another\_furniture-neoforge-4.0.3.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-32c2e801bf2c8675"></a>
 ### Apotheosis
 
-**[8.6.0](https://www.curseforge.com/projects/313970/files/8469606)** · client and server · [Source](https://www.curseforge.com/projects/313970) · [Pack entry](../../mods/apotheosis.pw.toml)
+**[8.9.0](https://www.curseforge.com/projects/313970/files/8993983)** · client and server · [Source](https://www.curseforge.com/projects/313970) · [Pack entry](../../mods/apotheosis.pw.toml)
 
 All things that should have been
 
 Author links: [https://www.curseforge.com/minecraft/mc-mods/apotheosis](https://www.curseforge.com/minecraft/mc-mods/apotheosis)
 
-Mod IDs and versions: apotheosis 8.6.0.
+Mod IDs and versions: apotheosis 8.9.0.
 
-**Requires:** [Placebo](p.md#mod-4c0e8c68349ee271), [Apothic Attributes](a.md#mod-196407a3986b756a), [Apothic Spawners](a.md#mod-db3b96df47a8b537), [Apothic Enchanting](a.md#mod-4d17e2a27ed06e2b).
+**Requires:** [Placebo](p.md#mod-4c0e8c68349ee271), [Apothic Attributes](a.md#mod-196407a3986b756a).
 
-**Optional integrations:** [Curios API (Forge/NeoForge)](c.md#mod-1887f7ba57ad110d), [Gateways to Eternity](g.md#mod-7034ec20391bd279).
+**Optional integrations:** [Apothic Spawners](a.md#mod-db3b96df47a8b537), [Apothic Enchanting](a.md#mod-4d17e2a27ed06e2b), [Curios API (Forge/NeoForge)](c.md#mod-1887f7ba57ad110d), [Gateways to Eternity](g.md#mod-7034ec20391bd279).
 
 **Dependencies and integrations**
 
@@ -467,8 +471,8 @@ Mod IDs and versions: apotheosis 8.6.0.
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | apotheosis | placebo | required | \[9.9.2,) | client and server | [Placebo](p.md#mod-4c0e8c68349ee271) |
 | apotheosis | apothic\_attributes | required | \[2.10.0,) | client and server | [Apothic Attributes](a.md#mod-196407a3986b756a) |
-| apotheosis | apothic\_spawners | required | \[1.4.0,) | client and server | [Apothic Spawners](a.md#mod-db3b96df47a8b537) |
-| apotheosis | apothic\_enchanting | required | \[1.6.0,) | client and server | [Apothic Enchanting](a.md#mod-4d17e2a27ed06e2b) |
+| apotheosis | apothic\_spawners | optional | \[1.4.0,) | client and server | [Apothic Spawners](a.md#mod-db3b96df47a8b537) |
+| apotheosis | apothic\_enchanting | optional | \[1.6.2,) | client and server | [Apothic Enchanting](a.md#mod-4d17e2a27ed06e2b) |
 | apotheosis | curios | optional | \[9.5.1+1.21.1,) | client and server | [Curios API (Forge/NeoForge)](c.md#mod-1887f7ba57ad110d) |
 | apotheosis | gateways | optional | \[5.1.0,) | client and server | [Gateways to Eternity](g.md#mod-7034ec20391bd279) |
 
@@ -479,16 +483,16 @@ Mod IDs and versions: apotheosis 8.6.0.
 | apotheosis | minecraft | required | \[1.21.1,) | client and server | runtime |
 | apotheosis | neoforge | required | \[21.1.235,) | client and server | runtime |
 
-Source: Apotheosis-1.21.1-8.6.0.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: Apotheosis-1.21.1-8.9.0.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-196407a3986b756a"></a>
 ### Apothic Attributes
 
-**[2.10.1](https://www.curseforge.com/projects/898963/files/8502288)** · client and server · [Source](https://www.curseforge.com/projects/898963) · [Pack entry](../../mods/apothic-attributes.pw.toml)
+**[2.11.0](https://www.curseforge.com/projects/898963/files/9006294)** · client and server · [Source](https://www.curseforge.com/projects/898963) · [Pack entry](../../mods/apothic-attributes.pw.toml)
 
 A library mod providing Attributes and related things.
 
-Mod IDs and versions: apothic\_attributes 2.10.1.
+Mod IDs and versions: apothic\_attributes 2.11.0.
 
 **Requires:** [Placebo](p.md#mod-4c0e8c68349ee271).
 
@@ -507,20 +511,20 @@ Mod IDs and versions: apothic\_attributes 2.10.1.
 | apothic\_attributes | minecraft | required | \[1.21.1,) | client and server | runtime |
 | apothic\_attributes | neoforge | required | \[21.1.235,) | client and server | runtime |
 
-Source: ApothicAttributes-1.21.1-2.10.1.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: ApothicAttributes-1.21.1-2.11.0.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-4d17e2a27ed06e2b"></a>
 ### Apothic Enchanting
 
-**[1.6.0](https://www.curseforge.com/projects/1063926/files/8469450)** · client and server · [Source](https://www.curseforge.com/projects/1063926) · [Pack entry](../../mods/apothic-enchanting.pw.toml)
+**[1.6.4](https://www.curseforge.com/projects/1063926/files/9095862)** · client and server · [Source](https://www.curseforge.com/projects/1063926) · [Pack entry](../../mods/apothic-enchanting.pw.toml)
 
 The Enchanting Module of Apotheosis, overhauling major enchanting systems.
 
-Mod IDs and versions: apothic\_enchanting 1.6.0.
+Mod IDs and versions: apothic\_enchanting 1.6.4.
 
 **Requires:** [Placebo](p.md#mod-4c0e8c68349ee271), [Apothic Attributes](a.md#mod-196407a3986b756a).
 
-**Used by:** [Apotheosis](a.md#mod-32c2e801bf2c8675).
+**Optional dependency of:** [Apotheosis](a.md#mod-32c2e801bf2c8675).
 
 **Dependencies and integrations**
 
@@ -536,7 +540,7 @@ Mod IDs and versions: apothic\_enchanting 1.6.0.
 | apothic\_enchanting | minecraft | required | \[1.21.1,) | client and server | runtime |
 | apothic\_enchanting | neoforge | required | \[21.1.187,) | client and server | runtime |
 
-Source: ApothicEnchanting-1.21.1-1.6.0.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: ApothicEnchanting-1.21.1-1.6.4.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-db3b96df47a8b537"></a>
 ### Apothic Spawners
@@ -549,7 +553,7 @@ Mod IDs and versions: apothic\_spawners 1.4.0.
 
 **Requires:** [Placebo](p.md#mod-4c0e8c68349ee271).
 
-**Used by:** [Apotheosis](a.md#mod-32c2e801bf2c8675).
+**Optional dependency of:** [Apotheosis](a.md#mod-32c2e801bf2c8675).
 
 **Dependencies and integrations**
 
@@ -577,6 +581,8 @@ Author links: [https://github.com/squeek502/AppleSkin](https://github.com/squeek
 
 Mod IDs and versions: appleskin 3.0.9+mc1.21.
 
+**Optional dependency of:** [Cultural Delights](c.md#mod-7e889ea7a670c3b6).
+
 **Runtime constraints**
 
 | From | Dependency | Kind | Version range | Side | Found in pack |
@@ -588,13 +594,13 @@ Source: appleskin-neoforge-mc1.21-3.0.9.jar · META-INF/neoforge.mods.toml. Exac
 <a id="mod-86db8a3a805756c2"></a>
 ### Applied Energistics 2
 
-**[19.2.17](https://www.curseforge.com/projects/223794/files/7027323)** · client and server · [Source](https://www.curseforge.com/projects/223794) · [Pack entry](../../mods/applied-energistics-2.pw.toml)
+**[19.2.18](https://www.curseforge.com/projects/223794/files/8992605)** · client and server · [Source](https://www.curseforge.com/projects/223794) · [Pack entry](../../mods/applied-energistics-2.pw.toml)
 
 A Mod about Matter, Energy and using them to conquer the world...
 
 Author links: [https://appliedenergistics.org](https://appliedenergistics.org)
 
-Mod IDs and versions: ae2 19.2.17.
+Mod IDs and versions: ae2 19.2.18.
 
 **Requires:** [GuideME](g.md#mod-a17d99fae9e9866b).
 
@@ -621,18 +627,18 @@ Mod IDs and versions: ae2 19.2.17.
 | ae2 | neoforge | required | \[21.1.169,) | client and server | runtime |
 | ae2 | minecraft | required | \[1.21.1\] | client and server | runtime |
 
-Source: appliedenergistics2-19.2.17.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: appliedenergistics2-19.2.18.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-e043048f2342be0f"></a>
 ### Applied Flux
 
-**[1.21-2.1.5-neoforge](https://www.curseforge.com/projects/965012/files/8204513)** · client and server · [Source](https://www.curseforge.com/projects/965012) · [Pack entry](../../mods/applied-flux.pw.toml)
+**[1.21-2.1.7-neoforge](https://www.curseforge.com/projects/965012/files/9288549)** · client and server · [Source](https://www.curseforge.com/projects/965012) · [Pack entry](../../mods/applied-flux.pw.toml)
 
 Store energy in cells!
 
 Author links: [https://github.com/GlodBlock/ExtendedAE](https://github.com/GlodBlock/ExtendedAE)
 
-Mod IDs and versions: appflux 1.21-2.1.5-neoforge.
+Mod IDs and versions: appflux 1.21-2.1.7-neoforge.
 
 **Requires:** [Applied Energistics 2](a.md#mod-86db8a3a805756c2), [GuideME](g.md#mod-a17d99fae9e9866b), [Glodium](g.md#mod-10508e7ce800cedf).
 
@@ -655,7 +661,7 @@ Mod IDs and versions: appflux 1.21-2.1.5-neoforge.
 | appflux | neoforge | required | \[21.1.113,) | client and server | runtime |
 | appflux | minecraft | required | 1.21.1 | client and server | runtime |
 
-Source: AppliedFlux-1.21-2.1.5-neoforge.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: AppliedFlux-1.21-2.1.7-neoforge.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-1c904959ec5d725a"></a>
 ### Applied Mekanistics
@@ -708,13 +714,13 @@ Source: architectury-13.0.11-neoforge.jar · META-INF/neoforge.mods.toml. Exact 
 <a id="mod-afa37bbfde27dbe7"></a>
 ### Armor Poser
 
-**[6.2.3](https://www.curseforge.com/projects/450663/files/7258882)** · client and server · [Source](https://www.curseforge.com/projects/450663) · [Pack entry](../../mods/armor-poser.pw.toml)
+**[6.2.4](https://www.curseforge.com/projects/450663/files/8542862)** · client and server · [Source](https://www.curseforge.com/projects/450663) · [Pack entry](../../mods/armor-poser.pw.toml)
 
 A GUI to allow configuration of Armor Stand properties
 
 Author links: [https://www.curseforge.com/minecraft/mc-mods/armor-poser](https://www.curseforge.com/minecraft/mc-mods/armor-poser)
 
-Mod IDs and versions: armorposer 6.2.3.
+Mod IDs and versions: armorposer 6.2.4.
 
 **Runtime constraints**
 
@@ -723,18 +729,18 @@ Mod IDs and versions: armorposer 6.2.3.
 | armorposer | minecraft | required | \[1.21,1.22) | client and server | runtime |
 | armorposer | neoforge | required | \[21.0.143,) | client and server | runtime |
 
-Source: ArmorPoser-neoforge-1.21.1-6.2.3.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: ArmorPoser-neoforge-1.21.1-6.2.4.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-a564b2dba03200bf"></a>
 ### Artifacts
 
-**[13.2.1](https://www.curseforge.com/projects/312353/files/7875426)** · client and server · [Source](https://www.curseforge.com/projects/312353) · [Pack entry](../../mods/artifacts.pw.toml)
+**[13.2.5](https://www.curseforge.com/projects/312353/files/8791899)** · client and server · [Source](https://www.curseforge.com/projects/312353) · [Pack entry](../../mods/artifacts.pw.toml)
 
 Adds various new powerful uncraftable items to make exploration a bit more interesting
 
 Author links: [https://www.curseforge.com/minecraft/mc-mods/artifacts](https://www.curseforge.com/minecraft/mc-mods/artifacts)
 
-Mod IDs and versions: artifacts 13.2.1.
+Mod IDs and versions: artifacts 13.2.5.
 
 **Runtime constraints**
 
@@ -747,18 +753,18 @@ Mod IDs and versions: artifacts 13.2.1.
 
 **Bundled modules:** expandability 12.0.0.
 
-Source: artifacts-neoforge-13.2.1.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: artifacts-neoforge-13.2.5.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-6d69b0f5198f37a4"></a>
 ### Async Logger
 
-**[2.2.1+1.21.1-neoforge](https://www.curseforge.com/projects/1491426/files/8503587)** · client and server · [Source](https://www.curseforge.com/projects/1491426) · [Pack entry](../../mods/asynclogger.pw.toml)
+**[2.2.3+1.21.1-neoforge](https://www.curseforge.com/projects/1491426/files/9173772)** · client and server · [Source](https://www.curseforge.com/projects/1491426) · [Pack entry](../../mods/asynclogger.pw.toml)
 
 Asynchronous logging and efficient filtering - performance improvements and utility for keeping your logs clean
 
 Author links: [https://modrinth.com/mod/asynclogger](https://modrinth.com/mod/asynclogger)
 
-Mod IDs and versions: asynclogger 2.2.1+1.21.1-neoforge.
+Mod IDs and versions: asynclogger 2.2.3+1.21.1-neoforge.
 
 **Runtime constraints**
 
@@ -769,9 +775,9 @@ Mod IDs and versions: asynclogger 2.2.1+1.21.1-neoforge.
 | asynclogger (bundled) | neoforge | required | \* | client and server | runtime |
 | asynclogger (bundled) | minecraft | required | \[1.21,1.21.8\] | client and server | runtime |
 
-**Bundled modules:** asynclogger 2.2.1+1.21.1-neoforge.
+**Bundled modules:** asynclogger 2.2.3+1.21.1-neoforge.
 
-Source: asynclogger-2.2.1+1.21.1-neoforge.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: asynclogger-2.2.3+1.21.1-neoforge.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-3e9f570d9ccec11e"></a>
 ### Athena

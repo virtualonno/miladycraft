@@ -5,13 +5,13 @@
 <a id="mod-85a8511c1c37220b"></a>
 ### Jade
 
-**[15.10.5+neoforge](https://www.curseforge.com/projects/324717/files/7545219)** · client and server · [Source](https://www.curseforge.com/projects/324717) · [Pack entry](../../mods/jade.pw.toml)
+**[15.10.6+neoforge](https://www.curseforge.com/projects/324717/files/8591319)** · client and server · [Source](https://www.curseforge.com/projects/324717) · [Pack entry](../../mods/jade.pw.toml)
 
 Minecraft mod shows what you are looking at. (Hwyla fork)
 
 Author links: [https://www.curseforge.com/minecraft/mc-mods/jade](https://www.curseforge.com/minecraft/mc-mods/jade)
 
-Mod IDs and versions: jade 15.10.5+neoforge.
+Mod IDs and versions: jade 15.10.6+neoforge.
 
 **Used by:** [Jade Addons (Neo/Forge)](j.md#mod-0ae9851558e8348b).
 
@@ -23,18 +23,18 @@ Mod IDs and versions: jade 15.10.5+neoforge.
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | jade | neoforge | required | \[21.0.143, ) | client and server | runtime |
 
-Source: Jade-1.21.1-NeoForge-15.10.5.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: Jade-1.21.1-NeoForge-15.10.6.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-0ae9851558e8348b"></a>
 ### Jade Addons (Neo/Forge)
 
-**[6.1.0+neoforge](https://www.curseforge.com/projects/583345/files/6315149)** · client and server · [Source](https://www.curseforge.com/projects/583345) · [Pack entry](../../mods/jade-addons.pw.toml)
+**[6.1.2+neoforge](https://www.curseforge.com/projects/583345/files/9056575)** · client and server · [Source](https://www.curseforge.com/projects/583345) · [Pack entry](../../mods/jade-addons.pw.toml)
 
 Jade additional mod supports
 
 Author links: [https://www.curseforge.com/minecraft/mc-mods/jade-addons](https://www.curseforge.com/minecraft/mc-mods/jade-addons)
 
-Mod IDs and versions: jadeaddons 6.1.0+neoforge.
+Mod IDs and versions: jadeaddons 6.1.2+neoforge.
 
 **Requires:** [Jade](j.md#mod-85a8511c1c37220b).
 
@@ -44,18 +44,18 @@ Mod IDs and versions: jadeaddons 6.1.0+neoforge.
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | jadeaddons | jade | required | \[15.10, ) | client and server | [Jade](j.md#mod-85a8511c1c37220b) |
 
-Source: JadeAddons-1.21.1-NeoForge-6.1.0.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: JadeAddons-1.21.1-NeoForge-6.1.2.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-5f56c304b7493c9e"></a>
 ### Jasione
 
-**[1.0.6+1.21.1-neoforge](https://www.curseforge.com/projects/1595495/files/8492831)** · client and server · [Source](https://www.curseforge.com/projects/1595495) · [Pack entry](../../mods/jasione.pw.toml)
+**[1.0.9+1.21.1-neoforge](https://www.curseforge.com/projects/1595495/files/9036008)** · client and server · [Source](https://www.curseforge.com/projects/1595495) · [Pack entry](../../mods/jasione.pw.toml)
 
 Reduce GC pressure by safely eliminating Enum\#values array cloning and memory allocation overhead through bytecode analysis
 
 Author links: [https://modrinth.com/mod/jasione](https://modrinth.com/mod/jasione)
 
-Mod IDs and versions: jasione 1.0.6+1.21.1-neoforge.
+Mod IDs and versions: jasione 1.0.9+1.21.1-neoforge.
 
 **Runtime constraints**
 
@@ -66,9 +66,9 @@ Mod IDs and versions: jasione 1.0.6+1.21.1-neoforge.
 | jasione (bundled) | neoforge | required | \* | client and server | runtime |
 | jasione (bundled) | minecraft | required | \[1.21,1.21.8\] | client and server | runtime |
 
-**Bundled modules:** jasione 1.0.6+1.21.1-neoforge.
+**Bundled modules:** jasione 1.0.9+1.21.1-neoforge.
 
-Source: jasione-1.0.6+1.21.1-neoforge.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: jasione-1.0.9+1.21.1-neoforge.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-c808e5bd7b5b21e1"></a>
 ### Jumpy Boats
@@ -101,7 +101,7 @@ Author links: [https://www.curseforge.com/minecraft/mc-mods/jei](https://www.cur
 
 Mod IDs and versions: jei 19.39.0.371.
 
-**Optional dependency of:** [Advanced Loot Info (ALI)](a.md#mod-21b855d6d58be6d6), [Almost Unified](a.md#mod-9e84c8bb35352530), [Chipped](c.md#mod-d51f0a5424b3bbd1), [Configured](c.md#mod-e20cfb6323a8b466), [Easy Villagers](e.md#mod-dca9ddade87b7f6f), [FramedBlocks](f.md#mod-5579653fb727d7c9), [FTB Filter System](f.md#mod-5babced0cd485484), [FTB XMod Compat](f.md#mod-63a04740c701445e), [Industrial Foregoing](i.md#mod-dc7cdcd2116fe081), [KubeJS](k.md#mod-05beac9d9a25c4dc), [Mekanism](m.md#mod-204c84ffea8ce47f), [ModernFix](m.md#mod-335300a471217627), [Powah! (Rearchitected)](p.md#mod-d7f703ca25e92d83), [Railcraft Reborn](r.md#mod-f549113b28e9d342), [Sophisticated Core](s.md#mod-b586ba3b9d7580ea).
+**Optional dependency of:** [Advanced Loot Info (ALI)](a.md#mod-21b855d6d58be6d6), [Almost Unified](a.md#mod-9e84c8bb35352530), [Chipped](c.md#mod-d51f0a5424b3bbd1), [Configured](c.md#mod-e20cfb6323a8b466), [Easy Villagers](e.md#mod-dca9ddade87b7f6f), [EnderDrives](e.md#mod-1be4ddf6cd3e7111), [FramedBlocks](f.md#mod-5579653fb727d7c9), [FTB Filter System](f.md#mod-5babced0cd485484), [FTB XMod Compat](f.md#mod-63a04740c701445e), [Industrial Foregoing](i.md#mod-dc7cdcd2116fe081), [KubeJS](k.md#mod-05beac9d9a25c4dc), [Mekanism](m.md#mod-204c84ffea8ce47f), [ModernFix](m.md#mod-335300a471217627), [Powah! (Rearchitected)](p.md#mod-d7f703ca25e92d83), [Railcraft Reborn](r.md#mod-f549113b28e9d342), [Sophisticated Core](s.md#mod-b586ba3b9d7580ea).
 
 **Runtime constraints**
 

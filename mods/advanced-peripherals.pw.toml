@@ -1,6 +1,7 @@
 name = "Advanced Peripherals"
 filename = "AdvancedPeripherals-1.21.1-0.7.62b.jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"

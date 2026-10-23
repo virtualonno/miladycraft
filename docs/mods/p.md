@@ -65,11 +65,11 @@ Source: PingHUD-4.0.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies 
 <a id="mod-4c0e8c68349ee271"></a>
 ### Placebo
 
-**[9.9.2](https://www.curseforge.com/projects/283644/files/8463693)** · client and server · [Source](https://www.curseforge.com/projects/283644) · [Pack entry](../../mods/placebo.pw.toml)
+**[9.9.4](https://www.curseforge.com/projects/283644/files/9153039)** · client and server · [Source](https://www.curseforge.com/projects/283644) · [Pack entry](../../mods/placebo.pw.toml)
 
 1 (one) library boi
 
-Mod IDs and versions: placebo 9.9.2.
+Mod IDs and versions: placebo 9.9.4.
 
 **Used by:** [Apotheosis](a.md#mod-32c2e801bf2c8675), [Apothic Attributes](a.md#mod-196407a3986b756a), [Apothic Enchanting](a.md#mod-4d17e2a27ed06e2b), [Apothic Spawners](a.md#mod-db3b96df47a8b537), [Click Machine](c.md#mod-d6a9b7934d289c57), [FastSuite](f.md#mod-c7b84304520375ec), [FastWorkbench](f.md#mod-52c41818c1052a83), [Gateways to Eternity](g.md#mod-7034ec20391bd279), [Hostile Neural Networks](h.md#mod-5efdf5722afa4742), [Toast Control](t.md#mod-74f00339ddb8e808).
 
@@ -80,7 +80,7 @@ Mod IDs and versions: placebo 9.9.2.
 | placebo | minecraft | required | \[1.21.1,) | client and server | runtime |
 | placebo | neoforge | required | \[21.1.187,) | client and server | runtime |
 
-Source: Placebo-1.21.1-9.9.2.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: Placebo-1.21.1-9.9.4.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-0a95bbdd79fd1be3"></a>
 ### Player Rugs
@@ -244,11 +244,11 @@ Source: polytone-neoforge-1.21-3.10.3.jar · META-INF/neoforge.mods.toml. Exact 
 <a id="mod-c717d6698f8fcee8"></a>
 ### Portfolio
 
-**[1.21.1-1.5.5-neoforge](https://www.curseforge.com/projects/851131/files/7689313)** · client and server · [Source](https://www.curseforge.com/projects/851131) · [Pack entry](../../mods/portfolio.pw.toml)
+**[1.21.1-1.6.0-neoforge](https://www.curseforge.com/projects/851131/files/8634873)** · client and server · [Source](https://www.curseforge.com/projects/851131) · [Pack entry](../../mods/portfolio.pw.toml)
 
 Portfolio is a small mod & datapack that adds a catalogue of new paintings to the game, all of which were made by the artist Yapetto. These include paintings such as Morning on the Seine, Justice, & Underworld.
 
-Mod IDs and versions: portfolio 1.21.1-1.5.5-neoforge.
+Mod IDs and versions: portfolio 1.21.1-1.6.0-neoforge.
 
 **Runtime constraints**
 
@@ -257,7 +257,7 @@ Mod IDs and versions: portfolio 1.21.1-1.5.5-neoforge.
 | portfolio | neoforge | required | \[21.1.10,) | client and server | runtime |
 | portfolio | minecraft | required | \[1.21.1\] | client and server | runtime |
 
-Source: portfolio-1.21.1-1.5.5-neoforge.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: portfolio-1.21.1-1.6.0-neoforge.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-d7f703ca25e92d83"></a>
 ### Powah! (Rearchitected)
@@ -315,11 +315,11 @@ Source: prickle-neoforge-1.21.1-21.1.11.jar · META-INF/neoforge.mods.toml. Exac
 <a id="mod-9b34e89569d69fbe"></a>
 ### Pufferfish's Skills \[Fabric & Forge & NeoForge\]
 
-**[0.18.2](https://www.curseforge.com/projects/835091/files/8507667)** · client and server · [Source](https://www.curseforge.com/projects/835091) · [Pack entry](../../mods/puffish-skills.pw.toml)
+**[0.19.2](https://www.curseforge.com/projects/835091/files/9101377)** · client and server · [Source](https://www.curseforge.com/projects/835091) · [Pack entry](../../mods/puffish-skills.pw.toml)
 
 Adds a fully configurable skill system to the game.
 
-Mod IDs and versions: puffish\_skills 0.18.2.
+Mod IDs and versions: puffish\_skills 0.19.2.
 
 **Runtime constraints**
 
@@ -328,7 +328,7 @@ Mod IDs and versions: puffish\_skills 0.18.2.
 | puffish\_skills | neoforge | required | \[21.0.0-beta,) | client and server | runtime |
 | puffish\_skills | minecraft | required | \[1.21,1.21.1) | client and server | runtime |
 
-Source: puffish\_skills-0.18.2-1.21-neoforge.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: puffish\_skills-0.19.2-1.21-neoforge.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-3dfb267a07a0b7b7"></a>
 ### Pyrotechnic Elytra

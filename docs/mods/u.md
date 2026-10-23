@@ -80,13 +80,13 @@ Source: UndergroundBunkers-1.0.4-1.21.x-neoforge.jar · META-INF/neoforge.mods.t
 <a id="mod-92f700791a316f89"></a>
 ### \[UNOFFICIAL\] TaCZ NeoForge Port
 
-**[1.1.8-hotfix-r5](https://www.curseforge.com/projects/1353462/files/8520031)** · client and server · [Source](https://www.curseforge.com/projects/1353462) · [Pack entry](../../mods/tacz-1-21-1.pw.toml)
+**[1.1.8-hotfix-r7](https://www.curseforge.com/projects/1353462/files/9027337)** · client and server · [Source](https://www.curseforge.com/projects/1353462) · [Pack entry](../../mods/tacz-1-21-1.pw.toml)
 
 Unofficial port of Timeless and Classics Zero to 1.21.1 NeoForge
 
 Description: [author page excerpt](https://www.curseforge.com/minecraft/mc-mods/tacz-1-21-1), observed 2026-09-08 (project summary, not a version-specific claim).
 
-Mod IDs and versions: tacz 1.1.8-hotfix-r5.
+Mod IDs and versions: tacz 1.1.8-hotfix-r7.
 
 **Runtime constraints**
 
@@ -97,4 +97,4 @@ Mod IDs and versions: tacz 1.1.8-hotfix-r5.
 
 **Bundled modules:** simplebedrockmodel 2.2.1-neoforge+mc1.21.1.
 
-Source: tacz-neoforge-1.21.1-1.1.8-hotfix-r5.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: tacz-neoforge-1.21.1-1.1.8-hotfix-r7.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.

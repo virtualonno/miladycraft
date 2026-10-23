@@ -5,11 +5,11 @@
 <a id="mod-ae9c8cbf636ee740"></a>
 ### L\_Ender 's Cataclysm
 
-**[3.32](https://www.curseforge.com/projects/551586/files/8364209)** · client and server · [Source](https://www.curseforge.com/projects/551586) · [Pack entry](../../mods/lendercataclysm.pw.toml)
+**[3.33](https://www.curseforge.com/projects/551586/files/8931182)** · client and server · [Source](https://www.curseforge.com/projects/551586) · [Pack entry](../../mods/lendercataclysm.pw.toml)
 
 https://www.curseforge.com/minecraft/texture-packs/cataclysmic-tunes
 
-Mod IDs and versions: cataclysm 3.32.
+Mod IDs and versions: cataclysm 3.33.
 
 **Requires:** [Curios API (Forge/NeoForge)](c.md#mod-1887f7ba57ad110d), [Lionfish API](l.md#mod-a89f653672150b9c).
 
@@ -27,18 +27,18 @@ Mod IDs and versions: cataclysm 3.32.
 | cataclysm | neoforge | required | \[21.1.0,) | client and server | runtime |
 | cataclysm | minecraft | required | 1.21.1 | client and server | runtime |
 
-Source: L\_Ender's Cataclysm 1.21.1-3.32.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: L\_Ender's Cataclysm 1.21.1-3.33.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-d02ae412ca931610"></a>
 ### Laser Bridges & Doors \[Fabric/Forge/NeoForge\]
 
-**[5.3](https://www.curseforge.com/projects/776337/files/7150038)** · client and server · [Source](https://www.curseforge.com/projects/776337) · [Pack entry](../../mods/laser-bridges-doors.pw.toml)
+**[6.2](https://www.curseforge.com/projects/776337/files/9182998)** · client and server · [Source](https://www.curseforge.com/projects/776337) · [Pack entry](../../mods/laser-bridges-doors.pw.toml)
 
-Laser Bridges & Doors
+Adds laser sources that create laser platforms and doors when powered
 
 Author links: [https://www.curseforge.com/minecraft/mc-mods/laser-bridges-doors](https://www.curseforge.com/minecraft/mc-mods/laser-bridges-doors)
 
-Mod IDs and versions: laserbridges 5.3.
+Mod IDs and versions: laserbridges 6.2.
 
 **Requires:** [Deimos Lib](d.md#mod-b94be691190b4082).
 
@@ -55,16 +55,16 @@ Mod IDs and versions: laserbridges 5.3.
 | laserbridges | neoforge | required | \[4,) | client and server | runtime |
 | laserbridges | minecraft | required | \[1.21, 1.22) | client and server | runtime |
 
-Source: laserbridges-1.21.1-neoforge-5.3.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: laserbridges-1.21.1-neoforge-6.2.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-e9dad2a82ba19767"></a>
 ### Leaky - Item Lag Fix
 
-**[2.4](https://www.curseforge.com/projects/856906/files/7392199)** · client and server · [Source](https://www.curseforge.com/projects/856906) · [Pack entry](../../mods/leaky.pw.toml)
+**[3.6](https://www.curseforge.com/projects/856906/files/9259502)** · client and server · [Source](https://www.curseforge.com/projects/856906) · [Pack entry](../../mods/leaky.pw.toml)
 
 Improve item performance and detects, reports and removes too many stacked items.
 
-Mod IDs and versions: leaky 2.4.
+Mod IDs and versions: leaky 3.6.
 
 **Requires:** [Cupboard](c.md#mod-409f0bf4c2d1dc3b).
 
@@ -80,7 +80,7 @@ Mod IDs and versions: leaky 2.4.
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | leaky | minecraft | required | \[1.21,1.30) | client and server | runtime |
 
-Source: leaky-1.21-2.4.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: leaky-1.21-3.6.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-ce53be026af212be"></a>
 ### Let Sleeping Dogs Lie (Forge)
@@ -160,15 +160,32 @@ Source: lionfishapi-3.1.jar · META-INF/neoforge.mods.toml. Exact descriptor bod
 <a id="mod-078b3389fa8c2e74"></a>
 ### Lithostitched
 
-**[1.7.13](https://modrinth.com/project/XaDC71GB/version/qPASucBM)** · client and server · [Source](https://modrinth.com/project/XaDC71GB) · [Pack entry](../../mods/lithostitched.pw.toml)
+**[1.8.1](https://modrinth.com/project/XaDC71GB/version/cZu4cHY3)** · client and server · [Source](https://modrinth.com/project/XaDC71GB) · [Pack entry](../../mods/lithostitched.pw.toml)
 
 A library mod with new configurability and compatibility enhancements for worldgen
 
-Mod IDs and versions: lithostitched 1.7.13.
+Mod IDs and versions: lithostitched 1.8.1.
+
+**Requires:** [Lithostitched (bundled)](l.md#mod-078b3389fa8c2e74).
 
 **Used by:** [Terralith](t.md#mod-7c4cdea037b1d0c3).
 
-Source: lithostitched-1.7.13-neoforge-21.1.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+**Dependencies and integrations**
+
+| From | Dependency | Kind | Version range | Side | Found in pack |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| lithostitched | apollib | required | \[1.2.0,) | client and server | [Lithostitched (bundled)](l.md#mod-078b3389fa8c2e74) |
+
+**Runtime constraints**
+
+| From | Dependency | Kind | Version range | Side | Found in pack |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| lithostitched | minecraft | required | \[1.21, 1.21.1\] | client and server | runtime |
+| apollib (bundled) | minecraft | required | \[1.21, 1.21.1\] | client and server | runtime |
+
+**Bundled modules:** apollib 1.2.0.
+
+Source: lithostitched-1.8.1-neoforge-21.1.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-82035ba5ca036faf"></a>
 ### Load My F\*\*\*ing Tags
@@ -189,13 +206,13 @@ Mod IDs and versions: lmft 1.1.1+1.21.9.
 Source: lmft-1.1.1+1.21.9-neoforge.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-fb45f902c254db03"></a>
-### Login Protection\[Forge/Fabric\]
+### Login Protection
 
-**[3.5](https://www.curseforge.com/projects/358304/files/6293744)** · client and server · [Source](https://www.curseforge.com/projects/358304) · [Pack entry](../../mods/login-protection.pw.toml)
+**[3.6](https://www.curseforge.com/projects/358304/files/8824987)** · client and server · [Source](https://www.curseforge.com/projects/358304) · [Pack entry](../../mods/login-protection.pw.toml)
 
 Login protection mod which protects the player form damage during login.
 
-Mod IDs and versions: logprot 3.5.
+Mod IDs and versions: logprot 3.6.
 
 **Requires:** [Cupboard](c.md#mod-409f0bf4c2d1dc3b).
 
@@ -211,7 +228,7 @@ Mod IDs and versions: logprot 3.5.
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | logprot | minecraft | required | \[1.21,1.30) | client and server | runtime |
 
-Source: logprot-1.21-3.5.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: logprot-1.21.1-3.6.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-de59a4ca2f4b00ef"></a>
 ### Loot Integrations
@@ -269,13 +286,13 @@ Source: lootjs-neoforge-1.21.1-3.4.3.jar · META-INF/neoforge.mods.toml. Exact d
 <a id="mod-3f7504709a5ed83c"></a>
 ### Lootr (Forge & NeoForge)
 
-**[1.21.1-1.11.37.122](https://www.curseforge.com/projects/361276/files/8428025)** · client and server · [Source](https://www.curseforge.com/projects/361276) · [Pack entry](../../mods/lootr.pw.toml)
+**[1.21.1-1.11.38.127](https://www.curseforge.com/projects/361276/files/8968561)** · client and server · [Source](https://www.curseforge.com/projects/361276) · [Pack entry](../../mods/lootr.pw.toml)
 
 Generates unique loot for each player that opens a loot container.
 
 Author links: [https://minecraft.curseforge.com/projects/lootr](https://minecraft.curseforge.com/projects/lootr)
 
-Mod IDs and versions: lootr 1.21.1-1.11.37.122.
+Mod IDs and versions: lootr 1.21.1-1.11.38.127.
 
 **Runtime constraints**
 
@@ -284,4 +301,4 @@ Mod IDs and versions: lootr 1.21.1-1.11.37.122.
 | lootr | minecraft | required | 1.21.1 | client and server | runtime |
 | lootr | neoforge | required | \[21.1.195,) | client and server | runtime |
 
-Source: lootr-neoforge-1.21.1-1.11.37.122.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: lootr-neoforge-1.21.1-1.11.38.127.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.

@@ -5,11 +5,11 @@
 <a id="mod-0a86acaf742357f1"></a>
 ### Kaleidoscope Cookery
 
-**[1.4.1-neoforge+mc1.21.1](https://www.curseforge.com/projects/1309203/files/8266772)** · client and server · [Source](https://www.curseforge.com/projects/1309203) · [Pack entry](../../mods/kaleidoscope-cookery.pw.toml)
+**[1.6.0-neoforge+mc1.21.1](https://www.curseforge.com/projects/1309203/files/9019242)** · client and server · [Source](https://www.curseforge.com/projects/1309203) · [Pack entry](../../mods/kaleidoscope-cookery.pw.toml)
 
 A Minecraft mod that adds immersive cooking systems and delicious recipes to enhance your culinary adventure.
 
-Mod IDs and versions: kaleidoscope\_cookery 1.4.1-neoforge+mc1.21.1.
+Mod IDs and versions: kaleidoscope\_cookery 1.6.0-neoforge+mc1.21.1.
 
 **Optional integrations:** [KubeJS](k.md#mod-05beac9d9a25c4dc).
 
@@ -26,18 +26,18 @@ Mod IDs and versions: kaleidoscope\_cookery 1.4.1-neoforge+mc1.21.1.
 | kaleidoscope\_cookery | neoforge | required | \[21,) | client and server | runtime |
 | kaleidoscope\_cookery | minecraft | required | \[1.21.1,1.21.2) | client and server | runtime |
 
-Source: kaleidoscopecookery-1.4.1-neoforge+mc1.21.1.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-6d821eb19d87b0f9"></a>
 ### Kaleidoscope Doll
 
-**[1.4.1-neoforge+mc1.21.1](https://www.curseforge.com/projects/1233277/files/8196011)** · client and server · [Source](https://www.curseforge.com/projects/1233277) · [Pack entry](../../mods/kaleidoscope-doll.pw.toml)
+**[1.4.2-neoforge+mc1.21.1](https://www.curseforge.com/projects/1233277/files/9019449)** · client and server · [Source](https://www.curseforge.com/projects/1233277) · [Pack entry](../../mods/kaleidoscope-doll.pw.toml)
 
 Use the lottery machine to draw various dolls!
 
 Description: [author page excerpt](https://www.curseforge.com/minecraft/mc-mods/kaleidoscope-doll/files/all?gameVersionTypeId=1&page=1&pageSize=20), observed 2026-09-08 (project summary, not a version-specific claim).
 
-Mod IDs and versions: kaleidoscope\_doll 1.4.1-neoforge+mc1.21.1.
+Mod IDs and versions: kaleidoscope\_doll 1.4.2-neoforge+mc1.21.1.
 
 **Runtime constraints**
 
@@ -46,7 +46,7 @@ Mod IDs and versions: kaleidoscope\_doll 1.4.1-neoforge+mc1.21.1.
 | kaleidoscope\_doll | neoforge | required | \[21,) | client and server | runtime |
 | kaleidoscope\_doll | minecraft | required | \[1.21.1,1.22) | client and server | runtime |
 
-Source: kaleidoscopedoll-1.4.1-neoforge+mc1.21.1.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: kaleidoscopedoll-1.4.2-neoforge+mc1.21.1.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-cd30030fcf1774ab"></a>
 ### Kerria

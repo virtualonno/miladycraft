@@ -66,13 +66,13 @@ Source: Camerapture-1.10.12+mc1.21.1-neoforge.jar · META-INF/neoforge.mods.toml
 <a id="mod-3bb24c1ba6637e95"></a>
 ### CC: Tweaked
 
-**[1.120.0](https://modrinth.com/project/gu7yAYhd/version/8XEJbAee)** · client and server · [Source](https://modrinth.com/project/gu7yAYhd) · [Pack entry](../../mods/cc-tweaked.pw.toml)
+**[1.120.2](https://modrinth.com/project/gu7yAYhd/version/1ewzHZYg)** · client and server · [Source](https://modrinth.com/project/gu7yAYhd) · [Pack entry](../../mods/cc-tweaked.pw.toml)
 
 CC: Tweaked is a fork of ComputerCraft, adding programmable computers, turtles and more to Minecraft.
 
 Author links: [https://tweaked.cc](https://tweaked.cc)
 
-Mod IDs and versions: computercraft 1.120.0.
+Mod IDs and versions: computercraft 1.120.2.
 
 **Used by:** [Advanced Peripherals](a.md#mod-bddf581879a0a8dc), [More Red x CC:Tweaked Compat](m.md#mod-69d0ae8da62b31a4).
 
@@ -82,7 +82,7 @@ Mod IDs and versions: computercraft 1.120.0.
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | computercraft | neoforge | required | \[21.1.9,21.2) | client and server | runtime |
 
-Source: cc-tweaked-1.21.1-forge-1.120.0.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: cc-tweaked-1.21.1-forge-1.120.2.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-775235dfa1aa4a12"></a>
 ### CFM Refurbished: Watt About Power?
@@ -115,20 +115,26 @@ Source: cfm\_wap-1.21.1-neoforge-1.2.0.jar · META-INF/neoforge.mods.toml. Exact
 <a id="mod-c42ad096162a6f60"></a>
 ### Chalk
 
-**[1.6.12](https://www.curseforge.com/projects/533748/files/8191901)** · client and server · [Source](https://www.curseforge.com/projects/533748) · [Pack entry](../../mods/chalk.pw.toml)
+**[2.0.2](https://www.curseforge.com/projects/533748/files/8821479)** · client and server · [Source](https://www.curseforge.com/projects/533748) · [Pack entry](../../mods/chalk.pw.toml)
 
 Leave the mark.
 
-Mod IDs and versions: chalk 1.6.12.
+Author links: [https://www.curseforge.com/minecraft/mc-mods/chalk](https://www.curseforge.com/minecraft/mc-mods/chalk)
+
+Mod IDs and versions: chalk 2.0.2.
 
 **Runtime constraints**
 
 | From | Dependency | Kind | Version range | Side | Found in pack |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| chalk | neoforge | required | \[21.0.0-beta,) | client and server | runtime |
-| chalk | minecraft | required | \[1.21,1.21.1) | client and server | runtime |
+| chalk | neoforge | required | \[21,) | client and server | runtime |
+| chalk | minecraft | required | \[1.21,1.21.2) | client and server | runtime |
+| mortaar (bundled) | neoforge | required | \[21,) | client and server | runtime |
+| mortaar (bundled) | minecraft | required | \[1.21,1.21.2) | client and server | runtime |
 
-Source: chalk-1.6.12.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+**Bundled modules:** mortaar 1.5.4.
+
+Source: chalk-neoforge-1.21.1-2.0.2.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-defb8ae9dfea2000"></a>
 ### Charging Gadgets
@@ -185,11 +191,11 @@ Source: charmofundying-neoforge-9.1.0+1.21.1.jar · META-INF/neoforge.mods.toml.
 <a id="mod-853647fa71215beb"></a>
 ### Chat Heads
 
-**[0.15.3](https://www.curseforge.com/projects/407206/files/8486549)** · client and server · [Source](https://www.curseforge.com/projects/407206) · [Pack entry](../../mods/chat-heads.pw.toml)
+**[0.15.7](https://www.curseforge.com/projects/407206/files/8642154)** · client and server · [Source](https://www.curseforge.com/projects/407206) · [Pack entry](../../mods/chat-heads.pw.toml)
 
 See who are you chatting with! This mod adds player heads next to their chat messages.
 
-Mod IDs and versions: chat\_heads 0.15.3.
+Mod IDs and versions: chat\_heads 0.15.7.
 
 **Runtime constraints**
 
@@ -198,7 +204,7 @@ Mod IDs and versions: chat\_heads 0.15.3.
 | chat\_heads | neoforge | required | \[21.0.110-beta,) | client only | runtime |
 | chat\_heads | minecraft | required | \[1.21, 1.21.1\] | client only | runtime |
 
-Source: chat\_heads-0.15.3-neoforge-1.21.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: chat\_heads-0.15.7-neoforge-1.21.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-2ba67bc5968e23ee"></a>
 ### Cherished Worlds (Fabric/Forge/NeoForge/Quilt)
@@ -326,11 +332,11 @@ Source: ChunkyBorder-1.2.18.jar · META-INF/neoforge.mods.toml. Exact descriptor
 <a id="mod-14723905992a2a4a"></a>
 ### Clean Swing Through Grass
 
-**[1.9](https://www.curseforge.com/projects/915308/files/6153780)** · client and server · [Source](https://www.curseforge.com/projects/915308) · [Pack entry](../../mods/clean-swing-through-grass.pw.toml)
+**[1.10](https://www.curseforge.com/projects/915308/files/8746293)** · client and server · [Source](https://www.curseforge.com/projects/915308) · [Pack entry](../../mods/clean-swing-through-grass.pw.toml)
 
 Stop hitting Grass instead of Creepers
 
-Mod IDs and versions: cleanswing 1.9.
+Mod IDs and versions: cleanswing 1.10.
 
 **Runtime constraints**
 
@@ -339,7 +345,7 @@ Mod IDs and versions: cleanswing 1.9.
 | cleanswing | neoforge | required | \[21.0.40-beta,) | client and server | runtime |
 | cleanswing | minecraft | required | \[1.21,1.21z) | client and server | runtime |
 
-Source: cleanswing-1.9.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: cleanswing-1.10-1.21.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-d6a9b7934d289c57"></a>
 ### Click Machine
@@ -415,13 +421,13 @@ Source: clientsort-neoforge-2.0.0-beta.20+1.21.1.jar · META-INF/neoforge.mods.t
 <a id="mod-9311f3ccaa2cc66e"></a>
 ### Client Tweaks
 
-**[21.1.13](https://www.curseforge.com/projects/251407/files/8370988)** · client only · [Source](https://www.curseforge.com/projects/251407) · [Pack entry](../../mods/client-tweaks.pw.toml)
+**[21.1.15](https://www.curseforge.com/projects/251407/files/8696976)** · client only · [Source](https://www.curseforge.com/projects/251407) · [Pack entry](../../mods/client-tweaks.pw.toml)
 
 There, I fixed Minecraft for you. Various optional tweaks to improve Minecraft Quality of Life.
 
 Author links: [https://mods.twelveiterations.com/minecraft/client-tweaks](https://mods.twelveiterations.com/minecraft/client-tweaks)
 
-Mod IDs and versions: clienttweaks 21.1.13.
+Mod IDs and versions: clienttweaks 21.1.15.
 
 **Requires:** [Balm](b.md#mod-495e057479bfe168).
 
@@ -438,7 +444,7 @@ Mod IDs and versions: clienttweaks 21.1.13.
 | clienttweaks | neoforge | required | \[21-beta,) | client and server | runtime |
 | clienttweaks | minecraft | required | \[1.21,) | client and server | runtime |
 
-Source: clienttweaks-neoforge-1.21.1-21.1.13.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: clienttweaks-neoforge-1.21.1-21.1.15.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-54d6ef2c3b5058aa"></a>
 ### Cloth Config API (Fabric/Forge/NeoForge)
@@ -550,13 +556,13 @@ Source: comforts-neoforge-9.0.5+1.21.1.jar · META-INF/neoforge.mods.toml. Exact
 <a id="mod-1e223a4dd7da3ff4"></a>
 ### Common Capabilities
 
-**[2.11.5](https://www.curseforge.com/projects/247007/files/8469575)** · client and server · [Source](https://www.curseforge.com/projects/247007) · [Pack entry](../../mods/common-capabilities.pw.toml)
+**[2.11.6](https://www.curseforge.com/projects/247007/files/8859298)** · client and server · [Source](https://www.curseforge.com/projects/247007) · [Pack entry](../../mods/common-capabilities.pw.toml)
 
 Capabilities that can be shared by multiple mods.
 
 Author links: [https://www.curseforge.com/minecraft/mc-mods/commoncapabilities](https://www.curseforge.com/minecraft/mc-mods/commoncapabilities)
 
-Mod IDs and versions: commoncapabilities 2.11.5.
+Mod IDs and versions: commoncapabilities 2.11.6.
 
 **Requires:** [Cyclops Core](c.md#mod-b0bac9d0d21a7467).
 
@@ -573,7 +579,7 @@ Mod IDs and versions: commoncapabilities 2.11.5.
 | commoncapabilities | neoforge | required | \[21.1.21,) | client and server | runtime |
 | commoncapabilities | minecraft | required | \[1.21.1,\] | client and server | runtime |
 
-Source: commoncapabilities-1.21.1-neoforge-2.11.5-363.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: commoncapabilities-1.21.1-neoforge-2.11.6.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-667ca792739f8837"></a>
 ### Compact Machines
@@ -598,7 +604,7 @@ Source: compactmachines-neoforge-7.0.81.jar · META-INF/neoforge.mods.toml. Exac
 <a id="mod-1a4f2129ffa797c4"></a>
 ### Companion (Neo/Forge)
 
-**[file 8324374 (version not declared)](https://www.curseforge.com/projects/559989/files/8324374)** · client and server · [Source](https://www.curseforge.com/projects/559989) · [Pack entry](../../mods/companion.pw.toml)
+**[file 8838610 (version not declared)](https://www.curseforge.com/projects/559989/files/8838610)** · client and server · [Source](https://www.curseforge.com/projects/559989) · [Pack entry](../../mods/companion.pw.toml)
 
 Protect your pets.
 
@@ -614,16 +620,16 @@ Mod IDs and versions: companion unknown.
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | companion | kiwi | required | \[15,) | client and server | [Kiwi (Neo/Forge)](k.md#mod-35b03090f5338b80) |
 
-Source: Companion-1.21.1-NeoForge-6.2.2.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: Companion-1.21.1-NeoForge-6.3.0.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-2b2935b2f63434bf"></a>
 ### Configurable
 
-**[3.5.2](https://www.curseforge.com/projects/1092048/files/8438541)** · client and server · [Source](https://www.curseforge.com/projects/1092048) · [Pack entry](../../mods/configurable.pw.toml)
+**[3.5.3](https://www.curseforge.com/projects/1092048/files/9191007)** · client and server · [Source](https://www.curseforge.com/projects/1092048) · [Pack entry](../../mods/configurable.pw.toml)
 
 Config library that allows decentralised settings in a mod
 
-Mod IDs and versions: configurable 3.5.2.
+Mod IDs and versions: configurable 3.5.3.
 
 **Used by:** [Neruina - Ticking Entity Fixer](n.md#mod-97955292e37ce928).
 
@@ -634,7 +640,7 @@ Mod IDs and versions: configurable 3.5.2.
 | configurable | neoforge | required | \* | client and server | runtime |
 | configurable | minecraft | required | \[1.21.1,) | client and server | runtime |
 
-Source: configurable-3.5.2+1.21.1-neoforge.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: configurable-3.5.3+1.21.1-neoforge.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-e20cfb6323a8b466"></a>
 ### Configured
@@ -742,11 +748,11 @@ Source: cow\_tools-1.0.2+1.21.1.jar · META-INF/neoforge.mods.toml. Exact descri
 <a id="mod-50d778441546ee2a"></a>
 ### Crabber's Delight
 
-**[1.2.6](https://www.curseforge.com/projects/892827/files/8006190)** · client and server · [Source](https://www.curseforge.com/projects/892827) · [Pack entry](../../mods/crabbers-delight.pw.toml)
+**[1.3.1](https://www.curseforge.com/projects/892827/files/8996449)** · client and server · [Source](https://www.curseforge.com/projects/892827) · [Pack entry](../../mods/crabbers-delight.pw.toml)
 
 A maritime addon for Farmer's Delight!
 
-Mod IDs and versions: crabbersdelight 1.2.6.
+Mod IDs and versions: crabbersdelight 1.3.1.
 
 **Requires:** [Farmer's Delight](f.md#mod-62dd93a2107eac78).
 
@@ -763,7 +769,7 @@ Mod IDs and versions: crabbersdelight 1.2.6.
 | crabbersdelight | neoforge | required | \[21.1.0,) | client and server | runtime |
 | crabbersdelight | minecraft | required | \[1.21.1, 1.22) | client and server | runtime |
 
-Source: crabbersdelight-1.21.1-1.2.6.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: crabbersdelight-1.21.1-1.3.1.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-416d0c10c1a617f7"></a>
 ### Crafting Slots
@@ -796,13 +802,13 @@ Source: craftingslots-neoforge-1.21.1-21.1.2.jar · META-INF/neoforge.mods.toml.
 <a id="mod-6e2aa927986f25ee"></a>
 ### Crafting Tweaks
 
-**[21.1.10](https://www.curseforge.com/projects/233071/files/8019498)** · client and server · [Source](https://www.curseforge.com/projects/233071) · [Pack entry](../../mods/crafting-tweaks.pw.toml)
+**[21.1.11](https://www.curseforge.com/projects/233071/files/8697050)** · client and server · [Source](https://www.curseforge.com/projects/233071) · [Pack entry](../../mods/crafting-tweaks.pw.toml)
 
 Allows you to rotate, balance or clear the crafting matrix by the press of a button, in any (supported) crafting window.
 
 Author links: [https://mods.twelveiterations.com/minecraft/craftingtweaks](https://mods.twelveiterations.com/minecraft/craftingtweaks)
 
-Mod IDs and versions: craftingtweaks 21.1.10.
+Mod IDs and versions: craftingtweaks 21.1.11.
 
 **Requires:** [Balm](b.md#mod-495e057479bfe168).
 
@@ -819,16 +825,16 @@ Mod IDs and versions: craftingtweaks 21.1.10.
 | craftingtweaks | neoforge | required | \[21-beta,) | client and server | runtime |
 | craftingtweaks | minecraft | required | \[1.21,) | client and server | runtime |
 
-Source: craftingtweaks-neoforge-1.21.1-21.1.10.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: craftingtweaks-neoforge-1.21.1-21.1.11.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-46eba471bcec66fc"></a>
 ### Crash Assistant
 
-**[1.11.11](https://www.curseforge.com/projects/1154099/files/8422746)** · client only · [Source](https://www.curseforge.com/projects/1154099) · [Pack entry](../../mods/crash-assistant.pw.toml)
+**[1.11.12](https://www.curseforge.com/projects/1154099/files/8636685)** · client only · [Source](https://www.curseforge.com/projects/1154099) · [Pack entry](../../mods/crash-assistant.pw.toml)
 
 Shows a GUI after Minecraft crashes, immediately showing all affected logs, crash reports, or hs\_err files. Provides a one-click solution to upload them, copy the link, and perform other actions for easier reporting, debugging, and troubleshooting, like analysis log for the most common crash reasons.
 
-Mod IDs and versions: crash\_assistant 1.11.11.
+Mod IDs and versions: crash\_assistant 1.11.12.
 
 **Runtime constraints**
 
@@ -837,7 +843,7 @@ Mod IDs and versions: crash\_assistant 1.11.11.
 | crash\_assistant | neoforge | required | \[20.6,) | client and server | runtime |
 | crash\_assistant | minecraft | required | \[1.20.6, 1.21.4\] | client and server | runtime |
 
-Source: CrashAssistant-neoforge-1.20.6-1.21.4-1.11.11.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: CrashAssistant-neoforge-1.20.6-1.21.4-1.11.12.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-865817802a020cef"></a>
 ### Crash Utilities
@@ -860,13 +866,13 @@ Source: crashutilities-9.0.4.jar · META-INF/neoforge.mods.toml. Exact descripto
 <a id="mod-5c55c31c7f9f8444"></a>
 ### CraterLib
 
-**[3.1.2](https://www.curseforge.com/projects/867099/files/8117841)** · client and server · [Source](https://www.curseforge.com/projects/867099) · [Pack entry](../../mods/craterlib.pw.toml)
+**[3.1.3](https://www.curseforge.com/projects/867099/files/8884785)** · client and server · [Source](https://www.curseforge.com/projects/867099) · [Pack entry](../../mods/craterlib.pw.toml)
 
 A library mod used by First Dark Development and HypherionSA Mods
 
 Author links: [https://modrinth.com/mod/craterlib](https://modrinth.com/mod/craterlib)
 
-Mod IDs and versions: craterlib 3.1.2.
+Mod IDs and versions: craterlib 3.1.3.
 
 **Used by:** [Simple Discord Link Bot](s.md#mod-77666bc0f27a57be), [Simple Discord RPC](s.md#mod-77afefd7a385e1aa).
 
@@ -877,7 +883,7 @@ Mod IDs and versions: craterlib 3.1.2.
 | craterlib | neoforge | required | \[21.0.0-beta,) | client and server | runtime |
 | craterlib | minecraft | required | \[1.21,1.21.2) | client and server | runtime |
 
-Source: CraterLib-Neoforge-1.21-3.1.2.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: CraterLib-Neoforge-1.21-3.1.3.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-f6f9ceea72620652"></a>
 ### Create: Some Assembly Required
@@ -911,39 +917,45 @@ Source: someassemblyrequired-5.2.8.jar · META-INF/neoforge.mods.toml. Exact des
 <a id="mod-7e889ea7a670c3b6"></a>
 ### Cultural Delights
 
-**[0.17.8](https://www.curseforge.com/projects/574622/files/8126191)** · client and server · [Source](https://www.curseforge.com/projects/574622) · [Pack entry](../../mods/cultural-delights.pw.toml)
+**[0.19.5](https://www.curseforge.com/projects/574622/files/9259601)** · client and server · [Source](https://www.curseforge.com/projects/574622) · [Pack entry](../../mods/cultural-delights.pw.toml)
 
-A Farmer's Delight addon that adds food systems from around the world.
+A Farmer's Delight addon that adds food systems from around the world
 
-Mod IDs and versions: culturaldelights 0.17.8.
+Mod IDs and versions: culturaldelights 0.19.5.
 
 **Requires:** [Farmer's Delight](f.md#mod-62dd93a2107eac78).
+
+**Optional integrations:** [Supplementaries](s.md#mod-4b803a144f5548d5), [Moonlight Lib](m.md#mod-f3a3b87b30d6d78f), [AppleSkin](a.md#mod-10bedf0017e3a144).
 
 **Dependencies and integrations**
 
 | From | Dependency | Kind | Version range | Side | Found in pack |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| culturaldelights | farmersdelight | required | \[1.2.3,) | client and server | [Farmer's Delight](f.md#mod-62dd93a2107eac78) |
+| culturaldelights | farmersdelight | required | \[1.3.0,) | client and server | [Farmer's Delight](f.md#mod-62dd93a2107eac78) |
+| culturaldelights | supplementaries | optional | \[1.21.1,) | client and server | [Supplementaries](s.md#mod-4b803a144f5548d5) |
+| culturaldelights | moonlight | optional | \[1.21.1-3.6.3,) | client and server | [Moonlight Lib](m.md#mod-f3a3b87b30d6d78f) |
+| culturaldelights | appleskin | optional | \[3.0.0,) | client only | [AppleSkin](a.md#mod-10bedf0017e3a144) |
+| culturaldelights | cookscollection | incompatible | \* | client and server | not indexed |
 
 **Runtime constraints**
 
 | From | Dependency | Kind | Version range | Side | Found in pack |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| culturaldelights | neoforge | required | \[21.1.0,) | client and server | runtime |
-| culturaldelights | minecraft | required | \[1.21.1, 1.22) | client and server | runtime |
+| culturaldelights | neoforge | required | \[21.1.247,) | client and server | runtime |
+| culturaldelights | minecraft | required | \[1.21.1, 1.21.2) | client and server | runtime |
 
-Source: culturaldelights-0.17.8.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: culturaldelights-1.21.1-0.19.5.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-409f0bf4c2d1dc3b"></a>
 ### Cupboard
 
-**[3.9](https://www.curseforge.com/projects/326652/files/8481114)** · client and server · [Source](https://www.curseforge.com/projects/326652) · [Pack entry](../../mods/cupboard.pw.toml)
+**[4.2](https://www.curseforge.com/projects/326652/files/8889050)** · client and server · [Source](https://www.curseforge.com/projects/326652) · [Pack entry](../../mods/cupboard.pw.toml)
 
 Cupboard library for utilities and configs
 
-Mod IDs and versions: cupboard 3.9.
+Mod IDs and versions: cupboard 4.2.
 
-**Used by:** [Biome Music](b.md#mod-5eaf41a8e65a9ca2), [Farsight \[Forge/Neo\]](f.md#mod-c693ce721267a485), [fix GPU memory leak\[Forge/Fabric\]](f.md#mod-decf317f01231323), [Leaky - Item Lag Fix](l.md#mod-e9dad2a82ba19767), [Limited Chunkloading - Chunk cleanup\[Forge/Fabric\]](l.md#mod-6dc0a6fbd65325ae), [Login Protection\[Forge/Fabric\]](l.md#mod-fb45f902c254db03), [Loot Integrations](l.md#mod-de59a4ca2f4b00ef), [Respawning Structures](r.md#mod-a7b0e9af0b30656a), [Structure Essentials](s.md#mod-9b185a7019c9b90b).
+**Used by:** [Biome Music](b.md#mod-5eaf41a8e65a9ca2), [Farsight \[Forge/Neo\]](f.md#mod-c693ce721267a485), [fix GPU memory leak\[Forge/Fabric\]](f.md#mod-decf317f01231323), [Leaky - Item Lag Fix](l.md#mod-e9dad2a82ba19767), [Limited Chunkloading - Chunk cleanup\[Forge/Fabric\]](l.md#mod-6dc0a6fbd65325ae), [Login Protection](l.md#mod-fb45f902c254db03), [Loot Integrations](l.md#mod-de59a4ca2f4b00ef), [Respawning Structures](r.md#mod-a7b0e9af0b30656a), [Structure Essentials](s.md#mod-9b185a7019c9b90b).
 
 **Runtime constraints**
 
@@ -951,7 +963,7 @@ Mod IDs and versions: cupboard 3.9.
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | cupboard | minecraft | required | \[1.21,1.30) | client and server | runtime |
 
-Source: cupboard-1.21.1-3.9.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: cupboard-1.21.1-4.2.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-1887f7ba57ad110d"></a>
 ### Curios API (Forge/NeoForge)
@@ -966,7 +978,7 @@ Mod IDs and versions: curios 9.5.1+1.21.1.
 
 **Used by:** [Charm of Undying (Fabric/Forge/Quilt)](c.md#mod-6aed5df745127873), [Elytra Slot](e.md#mod-340bd7741c779f59), [Iron's Gems 'n Jewelry](i.md#mod-38d83634b0dfaa63), [Iron's Spells 'n Spellbooks](i.md#mod-2b19aaceafe7d5a6), [L\_Ender 's Cataclysm](l.md#mod-ae9c8cbf636ee740), [Umapyoi](u.md#mod-5a78f94efc513cf3).
 
-**Optional dependency of:** [Apotheosis](a.md#mod-32c2e801bf2c8675).
+**Optional dependency of:** [AE2 Import Export Card](a.md#mod-71be75067e878eb5), [Apotheosis](a.md#mod-32c2e801bf2c8675).
 
 **Runtime constraints**
 
@@ -1018,13 +1030,13 @@ Source: customizableelytra-neoforge-2.2.8+1.21.jar · META-INF/neoforge.mods.tom
 <a id="mod-b0bac9d0d21a7467"></a>
 ### Cyclops Core
 
-**[1.29.1](https://www.curseforge.com/projects/232758/files/8515031)** · client and server · [Source](https://www.curseforge.com/projects/232758) · [Pack entry](../../mods/cyclops-core.pw.toml)
+**[1.30.0](https://www.curseforge.com/projects/232758/files/9239356)** · client and server · [Source](https://www.curseforge.com/projects/232758) · [Pack entry](../../mods/cyclops-core.pw.toml)
 
 Coremod for Integrated Dynamics, EvilCraft and others.
 
 Author links: [https://www.curseforge.com/minecraft/mc-mods/cyclops-core](https://www.curseforge.com/minecraft/mc-mods/cyclops-core)
 
-Mod IDs and versions: cyclopscore 1.29.1.
+Mod IDs and versions: cyclopscore 1.30.0.
 
 **Used by:** [Common Capabilities](c.md#mod-1e223a4dd7da3ff4).
 
@@ -1035,4 +1047,4 @@ Mod IDs and versions: cyclopscore 1.29.1.
 | cyclopscore | neoforge | required | \[21.1.2,) | client and server | runtime |
 | cyclopscore | minecraft | required | \[1.21.1,\] | client and server | runtime |
 
-Source: cyclopscore-1.21.1-neoforge-1.29.1-1059.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: cyclopscore-1.21.1-neoforge-1.30.0-1205.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.

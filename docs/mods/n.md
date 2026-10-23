@@ -63,11 +63,11 @@ Source: NeoAuth-1.21.1-1.0.1.jar · META-INF/neoforge.mods.toml. Exact descripto
 <a id="mod-97955292e37ce928"></a>
 ### Neruina - Ticking Entity Fixer
 
-**[3.3.3](https://www.curseforge.com/projects/851046/files/8451084)** · client and server · [Source](https://www.curseforge.com/projects/851046) · [Pack entry](../../mods/neruina.pw.toml)
+**[3.3.5](https://www.curseforge.com/projects/851046/files/9220575)** · client and server · [Source](https://www.curseforge.com/projects/851046) · [Pack entry](../../mods/neruina.pw.toml)
 
 This is a mod that prevents ticking entity and ticking block entity / tile entity crashes from bricking worlds.
 
-Mod IDs and versions: neruina 3.3.3.
+Mod IDs and versions: neruina 3.3.5.
 
 **Requires:** [Configurable](c.md#mod-2b2935b2f63434bf).
 
@@ -84,7 +84,7 @@ Mod IDs and versions: neruina 3.3.3.
 | neruina | neoforge | required | \* | client and server | runtime |
 | neruina | minecraft | required | \[1.21.1,) | client and server | runtime |
 
-Source: neruina-3.3.3+1.21.1-neoforge.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: neruina-3.3.5+1.21.1-neoforge.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-610b5d665fa7a547"></a>
 ### NetherPortalFix
@@ -204,13 +204,13 @@ Source: nolijium-0.5.6.jar · META-INF/neoforge.mods.toml. Exact descriptor bodi
 <a id="mod-31b5c7cfe3892807"></a>
 ### Not Enough Animations
 
-**[1.12.4](https://modrinth.com/project/MPCX6s5C/version/eYNogep3)** · client only · [Source](https://modrinth.com/project/MPCX6s5C) · [Pack entry](../../mods/not-enough-animations.pw.toml)
+**[1.12.6](https://modrinth.com/project/MPCX6s5C/version/VCuMsK45)** · client only · [Source](https://modrinth.com/project/MPCX6s5C) · [Pack entry](../../mods/not-enough-animations.pw.toml)
 
 Adding and improving animations in Third-Person.
 
 Author links: [https://github.com/tr7zw/TRansition](https://github.com/tr7zw/TRansition) · [https://github.com/tr7zw/TRender](https://github.com/tr7zw/TRender) · [https://modrinth.com/mod/not-enough-animations](https://modrinth.com/mod/not-enough-animations)
 
-Mod IDs and versions: notenoughanimations 1.12.4.
+Mod IDs and versions: notenoughanimations 1.12.6.
 
 **Runtime constraints**
 
@@ -223,9 +223,9 @@ Mod IDs and versions: notenoughanimations 1.12.4.
 | trender (bundled) | minecraft | required | \[1.21.1\] | client and server | runtime |
 | trender (bundled) | neoforge | required | \[20.2,) | client and server | runtime |
 
-**Bundled modules:** transition 1.0.21; trender 1.0.15.
+**Bundled modules:** transition 1.0.25; trender 1.0.17.
 
-Source: notenoughanimations-neoforge-1.12.4-mc1.21.1.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: notenoughanimations-neoforge-1.12.6-mc1.21.1.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-99cd0821061bdc3d"></a>
 ### Not Enough Recipe Book \[NERB\]

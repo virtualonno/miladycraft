@@ -47,13 +47,13 @@ Source: illagersweararmor-1.21.1-2.4.0.jar · META-INF/neoforge.mods.toml. Exact
 <a id="mod-272a7f3fd133732d"></a>
 ### ImmediatelyFast
 
-**[1.6.11+1.21.1](https://www.curseforge.com/projects/686911/files/8348515)** · client only · [Source](https://www.curseforge.com/projects/686911) · [Pack entry](../../mods/immediatelyfast.pw.toml)
+**[1.6.15+1.21.1](https://www.curseforge.com/projects/686911/files/9165518)** · client only · [Source](https://www.curseforge.com/projects/686911) · [Pack entry](../../mods/immediatelyfast.pw.toml)
 
 Speed up and optimize immediate mode rendering in Minecraft
 
 Author links: [https://github.com/RaphiMC/ImmediatelyFast](https://github.com/RaphiMC/ImmediatelyFast)
 
-Mod IDs and versions: immediatelyfast 1.6.11+1.21.1.
+Mod IDs and versions: immediatelyfast 1.6.15+1.21.1.
 
 **Runtime constraints**
 
@@ -62,20 +62,30 @@ Mod IDs and versions: immediatelyfast 1.6.11+1.21.1.
 | immediatelyfast | minecraft | required | \[1.21,1.21.1\] | client only | runtime |
 | immediatelyfast | neoforge | required | \[21.0.0,) | client only | runtime |
 
-Source: ImmediatelyFast-NeoForge-1.6.11+1.21.1.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: ImmediatelyFast-NeoForge-1.6.15+1.21.1.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-04da78dc6ccd503d"></a>
 ### Immersive Aircraft
 
-**[1.4.6+1.21.1](https://www.curseforge.com/projects/666014/files/8158291)** · client and server · [Source](https://www.curseforge.com/projects/666014) · [Pack entry](../../mods/immersive-aircraft.pw.toml)
+**[1.7.0+1.21.1](https://www.curseforge.com/projects/666014/files/9224351)** · client and server · [Source](https://www.curseforge.com/projects/666014) · [Pack entry](../../mods/immersive-aircraft.pw.toml)
 
 A bunch of rustic aircraft to travel, transport, and explore!
 
 Author links: [https://www.curseforge.com/minecraft/mc-mods/immersive-aircraft](https://www.curseforge.com/minecraft/mc-mods/immersive-aircraft)
 
-Mod IDs and versions: immersive\_aircraft 1.4.6+1.21.1.
+Mod IDs and versions: immersive\_aircraft 1.7.0+1.21.1.
 
-**Used by:** [Immersive Machinery \[Fabric/Forge\]](i.md#mod-00d38f2866fe38d6).
+**Optional integrations:** controlify (not in this catalogue), controllable (not in this catalogue), midnightcontrols (not in this catalogue).
+
+**Used by:** [Immersive Machinery](i.md#mod-00d38f2866fe38d6).
+
+**Dependencies and integrations**
+
+| From | Dependency | Kind | Version range | Side | Found in pack |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| immersive\_aircraft | controlify | optional | \[2.3.0,) | client only | not indexed |
+| immersive\_aircraft | controllable | optional | \* | client only | not indexed |
+| immersive\_aircraft | midnightcontrols | optional | \* | client only | not indexed |
 
 **Runtime constraints**
 
@@ -84,18 +94,18 @@ Mod IDs and versions: immersive\_aircraft 1.4.6+1.21.1.
 | immersive\_aircraft | minecraft | required | \[1.21.1,) | client and server | runtime |
 | immersive\_aircraft | neoforge | required | \[1,) | client and server | runtime |
 
-Source: immersive\_aircraft-1.4.6+1.21.1-neoforge.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: immersive\_aircraft-neoforge-1.7.0+1.21.1.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-00d38f2866fe38d6"></a>
-### Immersive Machinery \[Fabric/Forge\]
+### Immersive Machinery
 
-**[0.2.0+1.21.1](https://www.curseforge.com/projects/1068736/files/6495135)** · client and server · [Source](https://www.curseforge.com/projects/1068736) · [Pack entry](../../mods/immersive-machinery.pw.toml)
+**[0.2.3+1.21.1](https://www.curseforge.com/projects/1068736/files/9122617)** · client and server · [Source](https://www.curseforge.com/projects/1068736) · [Pack entry](../../mods/immersive-machinery.pw.toml)
 
 A bunch of rustic machinery to transport, mine, and automate things, while staying close to the vanilla style.
 
 Author links: [https://www.curseforge.com/minecraft/mc-mods/immersive-machinery](https://www.curseforge.com/minecraft/mc-mods/immersive-machinery)
 
-Mod IDs and versions: immersive\_machinery 0.2.0+1.21.1.
+Mod IDs and versions: immersive\_machinery 0.2.3+1.21.1.
 
 **Requires:** [Immersive Aircraft](i.md#mod-04da78dc6ccd503d).
 
@@ -112,7 +122,7 @@ Mod IDs and versions: immersive\_machinery 0.2.0+1.21.1.
 | immersive\_machinery | minecraft | required | \[@MINECRAFT\_VERSION@,) | client and server | runtime |
 | immersive\_machinery | neoforge | required | \[1,) | client and server | runtime |
 
-Source: immersive\_machinery-0.2.0+1.21.1-neoforge.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: immersive\_machinery-0.2.3+1.21.1-neoforge.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-d656ef81b67f695c"></a>
 ### Immersive Optimization
@@ -137,13 +147,13 @@ Source: immersive\_optimization-neoforge-1.21.1-0.2.0.jar · META-INF/neoforge.m
 <a id="mod-b902f0e528d3fa54"></a>
 ### Immersive Paintings
 
-**[0.7.8](https://www.curseforge.com/projects/639584/files/8194870)** · client and server · [Source](https://www.curseforge.com/projects/639584) · [Pack entry](../../mods/immersive-paintings.pw.toml)
+**[0.7.9](https://www.curseforge.com/projects/639584/files/8871485)** · client and server · [Source](https://www.curseforge.com/projects/639584) · [Pack entry](../../mods/immersive-paintings.pw.toml)
 
 Use your own paintings!
 
 Author links: [https://conczin.net/](https://conczin.net/)
 
-Mod IDs and versions: immersive\_paintings 0.7.8.
+Mod IDs and versions: immersive\_paintings 0.7.9.
 
 **Requires:** [Fzzy Config](f.md#mod-22255d7f3d4964f7).
 
@@ -160,7 +170,7 @@ Mod IDs and versions: immersive\_paintings 0.7.8.
 | immersive\_paintings | minecraft | required | \[1.21, 1.22) | client and server | runtime |
 | immersive\_paintings | neoforge | required | \[21.1.154,) | client and server | runtime |
 
-Source: immersive\_paintings-neoforge-1.21.1-0.7.8.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: immersive\_paintings-neoforge-1.21.1-0.7.9.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-825ac491b153c106"></a>
 ### Incendium
@@ -274,13 +284,13 @@ Source: inline-neoforge-1.21.1-1.2.2.jar · META-INF/neoforge.mods.toml. Exact d
 <a id="mod-c11dbebd9f4561c2"></a>
 ### Inventory Essentials
 
-**[21.1.17](https://www.curseforge.com/projects/368825/files/8362286)** · client and server · [Source](https://www.curseforge.com/projects/368825) · [Pack entry](../../mods/inventory-essentials.pw.toml)
+**[21.1.20](https://www.curseforge.com/projects/368825/files/9035078)** · client and server · [Source](https://www.curseforge.com/projects/368825) · [Pack entry](../../mods/inventory-essentials.pw.toml)
 
 Basic inventory tweaks. Lightweight and compatible.
 
 Author links: [https://mods.twelveiterations.com/minecraft/inventory-essentials](https://mods.twelveiterations.com/minecraft/inventory-essentials)
 
-Mod IDs and versions: inventoryessentials 21.1.17.
+Mod IDs and versions: inventoryessentials 21.1.20.
 
 **Requires:** [Balm](b.md#mod-495e057479bfe168).
 
@@ -297,7 +307,7 @@ Mod IDs and versions: inventoryessentials 21.1.17.
 | inventoryessentials | neoforge | required | \[21-beta,) | client and server | runtime |
 | inventoryessentials | minecraft | required | \[1.21,) | client and server | runtime |
 
-Source: inventoryessentials-neoforge-1.21.1-21.1.17.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: inventoryessentials-neoforge-1.21.1-21.1.20.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-727014f52652dece"></a>
 ### Iris Shaders
@@ -341,13 +351,13 @@ Source: iris-neoforge-1.8.8+mc1.21.1.jar · META-INF/neoforge.mods.toml. Exact d
 <a id="mod-7fe7a3ce53db6a48"></a>
 ### Iris/Oculus Shader Folder
 
-**[1.4.1-neoforge](https://www.curseforge.com/projects/1351246/files/8512633)** · client and server · [Source](https://www.curseforge.com/projects/1351246) · [Pack entry](../../mods/iris-shader-folder.pw.toml)
+**[1.4.3-neoforge](https://www.curseforge.com/projects/1351246/files/9195489)** · client and server · [Source](https://www.curseforge.com/projects/1351246) · [Pack entry](../../mods/iris-shader-folder.pw.toml)
 
 Hides specified shader packs in Iris shaders menu
 
 Author links: [https://euphoriapatches.com/discord](https://euphoriapatches.com/discord)
 
-Mod IDs and versions: iris\_shader\_folder 1.4.1-neoforge.
+Mod IDs and versions: iris\_shader\_folder 1.4.3-neoforge.
 
 **Requires:** [Iris Shaders](i.md#mod-727014f52652dece).
 
@@ -364,7 +374,7 @@ Mod IDs and versions: iris\_shader\_folder 1.4.1-neoforge.
 | iris\_shader\_folder | neoforge | required | \[21.0,) | client only | runtime |
 | iris\_shader\_folder | minecraft | required | \[1.21.0,) | client only | runtime |
 
-Source: iris\_shader\_folder-1.4.1-neoforge.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: iris\_shader\_folder-1.4.3-neoforge.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-5d4bb1cd6a1ff8b4"></a>
 ### Iron Chests
@@ -446,11 +456,11 @@ Source: irons\_jewelry-1.21.1-2.0.2.jar · META-INF/neoforge.mods.toml. Exact de
 <a id="mod-d425a4b5a78205f3"></a>
 ### Iron's Lib
 
-**[1.21.1-2.1.0](https://modrinth.com/project/9nfaJPtX/version/sQyzhxuH)** · client and server · [Source](https://modrinth.com/project/9nfaJPtX) · [Pack entry](../../mods/irons-lib.pw.toml)
+**[1.21.1-2.2.0](https://modrinth.com/project/9nfaJPtX/version/lUwUKYPl)** · client and server · [Source](https://modrinth.com/project/9nfaJPtX) · [Pack entry](../../mods/irons-lib.pw.toml)
 
 Provides common functionality and content for Iron431's mods.
 
-Mod IDs and versions: irons\_lib 1.21.1-2.1.0.
+Mod IDs and versions: irons\_lib 1.21.1-2.2.0.
 
 **Requires:** [GeckoLib](g.md#mod-8bac30deed02cd8d).
 
@@ -467,10 +477,10 @@ Mod IDs and versions: irons\_lib 1.21.1-2.1.0.
 
 | From | Dependency | Kind | Version range | Side | Found in pack |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| irons\_lib | neoforge | required | \[21.1.200,) | client and server | runtime |
+| irons\_lib | neoforge | required | \[21.1.221,) | client and server | runtime |
 | irons\_lib | minecraft | required | \[1.21.1\] | client and server | runtime |
 
-Source: irons\_lib-1.21.1-2.1.0.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: irons\_lib-1.21.1-2.2.0.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-f98c36cf5304b06b"></a>
 ### Iron's Rpg Tweaks
@@ -493,13 +503,13 @@ Source: irons\_rpg\_tweaks-2.2.3.jar · META-INF/neoforge.mods.toml. Exact descr
 <a id="mod-2b19aaceafe7d5a6"></a>
 ### Iron's Spells 'n Spellbooks
 
-**[1.21.1-3.16.2](https://www.curseforge.com/projects/855414/files/8364935)** · client and server · [Source](https://www.curseforge.com/projects/855414) · [Pack entry](../../mods/irons-spells-n-spellbooks.pw.toml)
+**[1.21.1-3.16.3](https://www.curseforge.com/projects/855414/files/8680204)** · client and server · [Source](https://www.curseforge.com/projects/855414) · [Pack entry](../../mods/irons-spells-n-spellbooks.pw.toml)
 
 A magic mod for Minecraft returning to the classic RPG spellcasting fantasy.
 
 Author links: [https://www.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks](https://www.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks)
 
-Mod IDs and versions: irons\_spellbooks 1.21.1-3.16.2.
+Mod IDs and versions: irons\_spellbooks 1.21.1-3.16.3.
 
 **Requires:** [GeckoLib](g.md#mod-8bac30deed02cd8d), [Emotecraft (Forge) (bundled)](e.md#mod-5ad9fb2c0c9e8727), [playerAnimator](p.md#mod-d5dfd2e3b1e6688c), [Curios API (Forge/NeoForge)](c.md#mod-1887f7ba57ad110d), [Iron's Lib](i.md#mod-d425a4b5a78205f3).
 
@@ -519,18 +529,18 @@ Mod IDs and versions: irons\_spellbooks 1.21.1-3.16.2.
 | irons\_spellbooks | neoforge | required | \[21.0.0-beta,) | client and server | runtime |
 | irons\_spellbooks | minecraft | required | \[1.21.1,1.21.2) | client and server | runtime |
 
-Source: irons\_spellbooks-1.21.1-3.16.2.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: irons\_spellbooks-1.21.1-3.16.3.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-73bc3d42551e4b28"></a>
 ### Ixeris
 
-**[4.6.0+1.21.1-neoforge](https://www.curseforge.com/projects/1285307/files/8513442)** · client only · [Source](https://www.curseforge.com/projects/1285307) · [Pack entry](../../mods/ixeris.pw.toml)
+**[4.6.10+1.21.1-neoforge](https://www.curseforge.com/projects/1285307/files/9254050)** · client only · [Source](https://www.curseforge.com/projects/1285307) · [Pack entry](../../mods/ixeris.pw.toml)
 
 Buffered raw input and threaded event polling
 
 Author links: [https://modrinth.com/mod/ixeris](https://modrinth.com/mod/ixeris)
 
-Mod IDs and versions: ixeris\_dummy 4.6.0+1.21.1-neoforge.
+Mod IDs and versions: ixeris\_dummy 4.6.10+1.21.1-neoforge.
 
 **Runtime constraints**
 
@@ -539,6 +549,6 @@ Mod IDs and versions: ixeris\_dummy 4.6.0+1.21.1-neoforge.
 | ixeris (bundled) | neoforge | required | \* | client and server | runtime |
 | ixeris (bundled) | minecraft | required | \[1.21,1.21.1\] | client and server | runtime |
 
-**Bundled modules:** ixeris 4.6.0+1.21.1-neoforge.
+**Bundled modules:** ixeris 4.6.10+1.21.1-neoforge.
 
-Source: Ixeris-4.6.0+1.21.1-neoforge.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: Ixeris-4.6.10+1.21.1-neoforge.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.

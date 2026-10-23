@@ -5,7 +5,7 @@
 <a id="mod-f549113b28e9d342"></a>
 ### Railcraft Reborn
 
-**[1.2.10](https://www.curseforge.com/projects/901491/files/7393678)** · client and server · [Source](https://www.curseforge.com/projects/901491) · [Pack entry](../../mods/railcraft-reborn.pw.toml)
+**[1.2.13](https://www.curseforge.com/projects/901491/files/9257943)** · client and server · [Source](https://www.curseforge.com/projects/901491) · [Pack entry](../../mods/railcraft-reborn.pw.toml)
 
 Railcraft Reborn is a port of Railcraft for modern versions of Minecraft.
 
@@ -13,7 +13,7 @@ Description: [author page excerpt](https://www.curseforge.com/minecraft/mc-mods/
 
 Author links: [https://www.curseforge.com/minecraft/mc-mods/railcraft-reborn](https://www.curseforge.com/minecraft/mc-mods/railcraft-reborn)
 
-Mod IDs and versions: railcraft 1.2.10.
+Mod IDs and versions: railcraft 1.2.13.
 
 **Optional integrations:** [Just Enough Items (JEI)](j.md#mod-1004006ccdc38261).
 
@@ -30,18 +30,18 @@ Mod IDs and versions: railcraft 1.2.10.
 | railcraft | neoforge | required | \[21.1.50,) | client and server | runtime |
 | railcraft | minecraft | required | \[1.21.1,1.22) | client and server | runtime |
 
-Source: railcraft-reborn-1.21.1-1.2.10.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: railcraft-reborn-1.21.1-1.2.13.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-b774e70b0a7b89c7"></a>
 ### Rechiseled
 
-**[1.2.5](https://www.curseforge.com/projects/558998/files/8301793)** · client and server · [Source](https://www.curseforge.com/projects/558998) · [Pack entry](../../mods/rechiseled.pw.toml)
+**[1.2.6](https://www.curseforge.com/projects/558998/files/8875899)** · client and server · [Source](https://www.curseforge.com/projects/558998) · [Pack entry](../../mods/rechiseled.pw.toml)
 
 Rechiseled allows you to exchange between various decorative blocks!
 
 Author links: [https://www.curseforge.com/minecraft/mc-mods/rechiseled](https://www.curseforge.com/minecraft/mc-mods/rechiseled)
 
-Mod IDs and versions: rechiseled 1.2.5.
+Mod IDs and versions: rechiseled 1.2.6.
 
 **Requires:** [SuperMartijn642's Core Lib](s.md#mod-32c86e0bd103ce27), [SuperMartijn642's Config Lib](s.md#mod-4eb82ac787c5a340), [Fusion (Connected Textures)](f.md#mod-4f1226cf1bfbc5c9).
 
@@ -62,7 +62,7 @@ Mod IDs and versions: rechiseled 1.2.5.
 | rechiseled | neoforge | required | \[21.0.78-beta,) | client and server | runtime |
 | rechiseled | minecraft | required | \[1.21,1.21.2) | client and server | runtime |
 
-Source: rechiseled-1.2.5-neoforge-mc1.21.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: rechiseled-1.2.6-neoforge-mc1.21.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-a08b1998b8da2bab"></a>
 ### Rechiseled: Chipped
@@ -170,11 +170,11 @@ Source: resourcefullib-neoforge-1.21-3.0.12.jar · META-INF/neoforge.mods.toml. 
 <a id="mod-a7b0e9af0b30656a"></a>
 ### Respawning Structures
 
-**[4.2](https://www.curseforge.com/projects/969937/files/8026289)** · client and server · [Source](https://www.curseforge.com/projects/969937) · [Pack entry](../../mods/respawning-structures-forge-fabric.pw.toml)
+**[4.4](https://www.curseforge.com/projects/969937/files/8528892)** · client and server · [Source](https://www.curseforge.com/projects/969937) · [Pack entry](../../mods/respawning-structures-forge-fabric.pw.toml)
 
 respawningstructures allows structures to automatically regenerated after a set timeframe.
 
-Mod IDs and versions: respawningstructures 4.2.
+Mod IDs and versions: respawningstructures 4.4.
 
 **Requires:** [Cupboard](c.md#mod-409f0bf4c2d1dc3b).
 
@@ -190,7 +190,7 @@ Mod IDs and versions: respawningstructures 4.2.
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | respawningstructures | minecraft | required | \[1.21,1.30) | client and server | runtime |
 
-Source: respawningstructures-1.21.1-4.2.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: respawningstructures-1.21.1-4.4.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-5c46dab6ccf062cf"></a>
 ### RFTools Base
@@ -267,13 +267,13 @@ Source: rhino-2101.2.8-build.91.jar · META-INF/neoforge.mods.toml. Exact descri
 <a id="mod-5f0a1367033e94d1"></a>
 ### Rustic Delight
 
-**[1.7.0](https://modrinth.com/project/foa4fGIH/version/pTszhct3)** · client and server · [Source](https://modrinth.com/project/foa4fGIH) · [Pack entry](../../mods/rustic-delight.pw.toml)
+**[1.7.1](https://modrinth.com/project/foa4fGIH/version/sAaG4pSA)** · client and server · [Source](https://modrinth.com/project/foa4fGIH) · [Pack entry](../../mods/rustic-delight.pw.toml)
 
 A rustic add-on for Farmer's Delight that adds Pancakes, Cotton, Coffee, Bell Peppers, fried foods and more!
 
 Author links: [https://github.com/PhantomWing/RusticDelight](https://github.com/PhantomWing/RusticDelight)
 
-Mod IDs and versions: rusticdelight 1.7.0.
+Mod IDs and versions: rusticdelight 1.7.1.
 
 **Requires:** [Farmer's Delight](f.md#mod-62dd93a2107eac78).
 
@@ -293,4 +293,4 @@ Mod IDs and versions: rusticdelight 1.7.0.
 | rusticdelight | neoforge | required | \[21.1.219,) | client and server | runtime |
 | rusticdelight | minecraft | required | \[1.21,1.21.2) | client and server | runtime |
 
-Source: rusticdelight-neoforge-1.21-1.7.0.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: rusticdelight-neoforge-1.21-1.7.1.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.

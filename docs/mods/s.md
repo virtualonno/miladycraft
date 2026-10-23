@@ -25,13 +25,13 @@ Source: saveloottables-neoforge-1.21-1.0.0.0.jar · META-INF/neoforge.mods.toml.
 <a id="mod-ee759f0940950107"></a>
 ### Sawmill
 
-**[1.21-1.7.7](https://www.curseforge.com/projects/964817/files/8279292)** · client and server · [Source](https://www.curseforge.com/projects/964817) · [Pack entry](../../mods/sawmill.pw.toml)
+**[1.21-1.8.1](https://www.curseforge.com/projects/964817/files/8779294)** · client and server · [Source](https://www.curseforge.com/projects/964817) · [Pack entry](../../mods/sawmill.pw.toml)
 
 Simple, Elegant, Universal Sawmill
 
 Author links: [https://www.curseforge.com/minecraft/mc-mods/sawmill](https://www.curseforge.com/minecraft/mc-mods/sawmill)
 
-Mod IDs and versions: sawmill 1.21-1.7.7.
+Mod IDs and versions: sawmill 1.21-1.8.1.
 
 **Requires:** [Moonlight Lib](m.md#mod-f3a3b87b30d6d78f).
 
@@ -39,7 +39,7 @@ Mod IDs and versions: sawmill 1.21-1.7.7.
 
 | From | Dependency | Kind | Version range | Side | Found in pack |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| sawmill | moonlight | required | \[1.21-2.29.17,) | client and server | [Moonlight Lib](m.md#mod-f3a3b87b30d6d78f) |
+| sawmill | moonlight | required | \[1.21.1-3.3.0,) | client and server | [Moonlight Lib](m.md#mod-f3a3b87b30d6d78f) |
 
 **Runtime constraints**
 
@@ -48,18 +48,18 @@ Mod IDs and versions: sawmill 1.21-1.7.7.
 | sawmill | neoforge | required | \* | client and server | runtime |
 | sawmill | minecraft | required | \[1.21.1\] | client and server | runtime |
 
-Source: sawmill-neoforge-1.21-1.7.7.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: sawmill-1.21-1.8.1-neoforge.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-bf170b336cb95cc0"></a>
 ### ScalableLux
 
-**[0.3.0-alpha.0.6+1.21.1](https://www.curseforge.com/projects/1055925/files/8417608)** · client and server · [Source](https://www.curseforge.com/projects/1055925) · [Pack entry](../../mods/scalablelux.pw.toml)
+**[0.3.0-alpha.0.8+1.21.1](https://www.curseforge.com/projects/1055925/files/8662561)** · client and server · [Source](https://www.curseforge.com/projects/1055925) · [Pack entry](../../mods/scalablelux.pw.toml)
 
 Rewrites the light engine to fix lighting performance and lighting errors
 
 Author links: [https://github.com/RelativityMC/ScalableLux](https://github.com/RelativityMC/ScalableLux)
 
-Mod IDs and versions: scalablelux 0.3.0-alpha.0.6+1.21.1.
+Mod IDs and versions: scalablelux 0.3.0-alpha.0.8+1.21.1.
 
 **Runtime constraints**
 
@@ -67,18 +67,18 @@ Mod IDs and versions: scalablelux 0.3.0-alpha.0.6+1.21.1.
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | scalablelux | minecraft | required | \[1.21.1,) | client and server | runtime |
 
-Source: ScalableLux-neoforge-0.3.0-alpha.0.6-all.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: ScalableLux-neoforge-0.3.0-alpha.0.8-all.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-58950b58088abf33"></a>
 ### Scholar
 
-**[1.2.3](https://www.curseforge.com/projects/961802/files/8278034)** · client and server · [Source](https://www.curseforge.com/projects/961802) · [Pack entry](../../mods/scholar.pw.toml)
+**[1.2.10](https://www.curseforge.com/projects/961802/files/9154700)** · client and server · [Source](https://www.curseforge.com/projects/961802) · [Pack entry](../../mods/scholar.pw.toml)
 
 Book improvements: two-page view, easy formatting, lectern editing, colored books, reading animation, QOL-features and more.
 
 Author links: [https://www.curseforge.com/minecraft/mc-mods/scholar](https://www.curseforge.com/minecraft/mc-mods/scholar)
 
-Mod IDs and versions: scholar 1.2.3.
+Mod IDs and versions: scholar 1.2.10.
 
 **Runtime constraints**
 
@@ -87,7 +87,7 @@ Mod IDs and versions: scholar 1.2.3.
 | scholar | neoforge | required | \[21,) | client and server | runtime |
 | scholar | minecraft | required | \[1.21,) | client and server | runtime |
 
-Source: scholar-neoforge-1.21.1-1.2.3.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: scholar-neoforge-1.21.1-1.2.10.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-5680b1c16b1b0611"></a>
 ### Searchables
@@ -114,15 +114,15 @@ Mod IDs and versions: searchables 1.0.2.
 Source: Searchables-neoforge-1.21.1-1.0.2.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-0194e8d652aed458"></a>
-### Server Performance - Smooth Chunk Save\[Forge/Fabric\]
+### Server Performance - Smooth Chunk Save
 
-**[4.1](https://www.curseforge.com/projects/582327/files/6296628)** · client and server · [Source](https://www.curseforge.com/projects/582327) · [Pack entry](../../mods/smooth-chunk-save.pw.toml)
+**[4.4](https://www.curseforge.com/projects/582327/files/9255092)** · client and server · [Source](https://www.curseforge.com/projects/582327) · [Pack entry](../../mods/smooth-chunk-save.pw.toml)
 
 Spreads chunk saves over time smoothly
 
-Mod IDs and versions: smoothchunk 4.1.
+Mod IDs and versions: smoothchunk 4.4.
 
-Source: smoothchunk-1.21-4.1.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: smoothchunk-1.21-4.4.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-195ea27638baa521"></a>
 ### ShatterLib \| OctoLib
@@ -251,11 +251,11 @@ Source: simple\_creative\_menu-1.21.1-1.0.0.jar · META-INF/neoforge.mods.toml. 
 <a id="mod-77666bc0f27a57be"></a>
 ### Simple Discord Link Bot
 
-**[3.4.4](https://www.curseforge.com/projects/541320/files/8437065)** · server only · [Source](https://www.curseforge.com/projects/541320) · [Pack entry](../../mods/simple-discord-link-bot-forge-fabric-spigot.pw.toml)
+**[3.4.5](https://www.curseforge.com/projects/541320/files/8884966)** · server only · [Source](https://www.curseforge.com/projects/541320) · [Pack entry](../../mods/simple-discord-link-bot-forge-fabric-spigot.pw.toml)
 
 A simple Minecraft to Discord Chat bot with Whitelisting
 
-Mod IDs and versions: sdlink 3.4.4.
+Mod IDs and versions: sdlink 3.4.5.
 
 **Requires:** [CraterLib](c.md#mod-5c55c31c7f9f8444).
 
@@ -272,7 +272,7 @@ Mod IDs and versions: sdlink 3.4.4.
 | sdlink | neoforge | required | \[20.4,) | client and server | runtime |
 | sdlink | minecraft | required | \[1.20.4,) | client and server | runtime |
 
-Source: SimpleDiscordLink-Universal-3.4.4.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: SimpleDiscordLink-Universal-3.4.5.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-77afefd7a385e1aa"></a>
 ### Simple Discord RPC
@@ -305,20 +305,33 @@ Source: SimpleRPC-4.1.4.jar · META-INF/neoforge.mods.toml. Exact descriptor bod
 <a id="mod-0774b3f3043176d4"></a>
 ### Simple Music Control
 
-**[1.3.7](https://www.curseforge.com/projects/1185599/files/6742209)** · client and server · [Source](https://www.curseforge.com/projects/1185599) · [Pack entry](../../mods/simple-music-control.pw.toml)
+**[1.5.5](https://www.curseforge.com/projects/1185599/files/9130406)** · client and server · [Source](https://www.curseforge.com/projects/1185599) · [Pack entry](../../mods/simple-music-control.pw.toml)
 
 Reduced delay between music tracks, next track keybind, creative music in survival, stop music on jukebox play
 
-Mod IDs and versions: simple\_music\_control 1.3.7.
+Author links: [https://modrinth.com/mod/simple-music-control](https://modrinth.com/mod/simple-music-control)
+
+Mod IDs and versions: simple\_music\_control 1.5.5.
+
+**Requires:** [Fzzy Config](f.md#mod-22255d7f3d4964f7).
+
+**Optional integrations:** sodium (not in this catalogue).
+
+**Dependencies and integrations**
+
+| From | Dependency | Kind | Version range | Side | Found in pack |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| simple\_music\_control | fzzy\_config | required | \[0.7.6,) | client and server | [Fzzy Config](f.md#mod-22255d7f3d4964f7) |
+| simple\_music\_control | sodium | optional | \[0.8.12,) | client and server | not indexed |
 
 **Runtime constraints**
 
 | From | Dependency | Kind | Version range | Side | Found in pack |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| simple\_music\_control | neoforge | required | \[21.0.0-beta,) | client and server | runtime |
-| simple\_music\_control | minecraft | required | \[1.21,1.21.1\] | client and server | runtime |
+| simple\_music\_control | neoforge | required | \[21,) | client and server | runtime |
+| simple\_music\_control | minecraft | required | \[1.21, 1.21.1\] | client and server | runtime |
 
-Source: simple\_music\_control-1.3.7+1.21.1.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: simple\_music\_control-neoforge-1.5.5+1.21.1.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-c48ea8be461218e8"></a>
 ### Simple Snowy Fix (Forge / Fabric)
@@ -341,13 +354,13 @@ Source: simple\_snowy\_fix-1.21.1-1.21.11-2.2.1-neoforge.jar · META-INF/neoforg
 <a id="mod-e336c745a872cb1e"></a>
 ### Simple Voice Chat
 
-**[1.21.1-2.6.21; 2.6.20](https://www.curseforge.com/projects/416089/files/8464096)** · client and server · [Source](https://www.curseforge.com/projects/416089) · [Pack entry](../../mods/simple-voice-chat.pw.toml)
+**[1.21.1-2.6.24; 2.6.24](https://www.curseforge.com/projects/416089/files/8928478)** · client and server · [Source](https://www.curseforge.com/projects/416089) · [Pack entry](../../mods/simple-voice-chat.pw.toml)
 
 A working voice chat in Minecraft! The Simple Voice Chat API
 
 Author links: [https://modrepo.de/minecraft/voicechat/overview](https://modrepo.de/minecraft/voicechat/overview) · [https://voicechat.modrepo.de/](https://voicechat.modrepo.de/)
 
-Mod IDs and versions: voicechat 1.21.1-2.6.21, voicechat\_api 2.6.20.
+Mod IDs and versions: voicechat 1.21.1-2.6.24, voicechat\_api 2.6.24.
 
 **Optional integrations:** [Cloth Config API (Fabric/Forge/NeoForge)](c.md#mod-54d6ef2c3b5058aa).
 
@@ -364,7 +377,7 @@ Mod IDs and versions: voicechat 1.21.1-2.6.21, voicechat\_api 2.6.20.
 | voicechat | neoforge | required | \[21.0.0-beta,) | client and server | runtime |
 | voicechat | minecraft | required | \[1.21,1.21.1\] | client and server | runtime |
 
-Source: voicechat-neoforge-1.21.1-2.6.21.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: voicechat-neoforge-1.21.1-2.6.24.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-021b109fb7579d50"></a>
 ### Smart Completion
@@ -561,13 +574,13 @@ Source: spark-1.10.124-neoforge.jar · META-INF/neoforge.mods.toml. Exact descri
 <a id="mod-3ac8b62945d3cf18"></a>
 ### Storage Delight (Forge & Neoforge)
 
-**[26.07.01a-1.21-neoforge](https://www.curseforge.com/projects/979761/files/8390991)** · client and server · [Source](https://www.curseforge.com/projects/979761) · [Pack entry](../../mods/storage-delight-forge.pw.toml)
+**[26.09.17-1.21-neoforge](https://www.curseforge.com/projects/979761/files/8908145)** · client and server · [Source](https://www.curseforge.com/projects/979761) · [Pack entry](../../mods/storage-delight-forge.pw.toml)
 
 A mod that adds more storage options to the game.
 
 Author links: [https://github.com/axperty/storagedelight](https://github.com/axperty/storagedelight)
 
-Mod IDs and versions: storagedelight 26.07.01a-1.21-neoforge.
+Mod IDs and versions: storagedelight 26.09.17-1.21-neoforge.
 
 **Runtime constraints**
 
@@ -576,7 +589,7 @@ Mod IDs and versions: storagedelight 26.07.01a-1.21-neoforge.
 | storagedelight | neoforge | required | \[21.0.0-beta,) | client and server | runtime |
 | storagedelight | minecraft | required | \[1.21,1.21.1) | client and server | runtime |
 
-Source: storagedelight-26.07.01a-1.21-neoforge.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: storagedelight-26.09.17-1.21-neoforge.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-d18d01c088623c95"></a>
 ### Storage Labels
@@ -609,11 +622,11 @@ Source: labels-neoforge-1.21-2.1.1.jar · META-INF/neoforge.mods.toml. Exact des
 <a id="mod-9b185a7019c9b90b"></a>
 ### Structure Essentials
 
-**[5.0](https://www.curseforge.com/projects/832882/files/7962596)** · client and server · [Source](https://www.curseforge.com/projects/832882) · [Pack entry](../../mods/structure-essentials-forge-fabric.pw.toml)
+**[5.1](https://www.curseforge.com/projects/832882/files/9278578)** · client and server · [Source](https://www.curseforge.com/projects/832882) · [Pack entry](../../mods/structure-essentials-forge-fabric.pw.toml)
 
 Essential Utilities for structures
 
-Mod IDs and versions: structureessentials 5.0.
+Mod IDs and versions: structureessentials 5.1.
 
 **Requires:** [Cupboard](c.md#mod-409f0bf4c2d1dc3b).
 
@@ -629,7 +642,7 @@ Mod IDs and versions: structureessentials 5.0.
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | structureessentials | minecraft | required | \[1.21,1.30) | client and server | runtime |
 
-Source: structureessentials-1.21.1-5.0.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: structureessentials-1.21.1-5.1.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-494c66b59675844d"></a>
 ### Structure Layout Optimizer
@@ -710,13 +723,13 @@ Source: supermartijn642configlib-1.1.8-neoforge-mc1.21.jar · META-INF/neoforge.
 <a id="mod-32c86e0bd103ce27"></a>
 ### SuperMartijn642's Core Lib
 
-**[1.1.21](https://www.curseforge.com/projects/454372/files/7783425)** · client and server · [Source](https://www.curseforge.com/projects/454372) · [Pack entry](../../mods/supermartijn642s-core-lib.pw.toml)
+**[1.1.25](https://www.curseforge.com/projects/454372/files/9083552)** · client and server · [Source](https://www.curseforge.com/projects/454372) · [Pack entry](../../mods/supermartijn642s-core-lib.pw.toml)
 
 SuperMartijn642's Core Lib adds lots of basic implementations for guis that allow for similar code between Minecraft 1.12, 1.14, 1.15, and 1.16!
 
 Author links: [https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib)
 
-Mod IDs and versions: supermartijn642corelib 1.1.21.
+Mod IDs and versions: supermartijn642corelib 1.1.25.
 
 **Used by:** [Entangled](e.md#mod-53fea4a1e27818f7), [Rechiseled](r.md#mod-b774e70b0a7b89c7).
 
@@ -727,18 +740,18 @@ Mod IDs and versions: supermartijn642corelib 1.1.21.
 | supermartijn642corelib | neoforge | required | \[21.0.102-beta,) | client and server | runtime |
 | supermartijn642corelib | minecraft | required | \[1.21,1.21.2) | client and server | runtime |
 
-Source: supermartijn642corelib-1.1.21-neoforge-mc1.21.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: supermartijn642corelib-1.1.25-neoforge-mc1.21.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-4b803a144f5548d5"></a>
 ### Supplementaries
 
-**[1.21.1-3.8.4](https://www.curseforge.com/projects/412082/files/8501612)** · client and server · [Source](https://www.curseforge.com/projects/412082) · [Pack entry](../../mods/supplementaries.pw.toml)
+**[1.21.1-4.0.2](https://www.curseforge.com/projects/412082/files/9211734)** · client and server · [Source](https://www.curseforge.com/projects/412082) · [Pack entry](../../mods/supplementaries.pw.toml)
 
 Many functional and useful Vanilla+ blocks
 
 Author links: [https://github.com/Bawnorton/MixinSquared](https://github.com/Bawnorton/MixinSquared) · [https://www.curseforge.com/minecraft/mc-mods/supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries)
 
-Mod IDs and versions: supplementaries 1.21.1-3.8.4.
+Mod IDs and versions: supplementaries 1.21.1-4.0.2.
 
 **Requires:** [Moonlight Lib](m.md#mod-f3a3b87b30d6d78f).
 
@@ -746,11 +759,13 @@ Mod IDs and versions: supplementaries 1.21.1-3.8.4.
 
 **Used by:** [Supplementaries Squared](s.md#mod-2d25f4be8d51e631).
 
+**Optional dependency of:** [Cultural Delights](c.md#mod-7e889ea7a670c3b6).
+
 **Dependencies and integrations**
 
 | From | Dependency | Kind | Version range | Side | Found in pack |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| supplementaries | moonlight | required | \[1.21-3.1.0c,\] | client and server | [Moonlight Lib](m.md#mod-f3a3b87b30d6d78f) |
+| supplementaries | moonlight | required | \[1.21.1-3.6.4,\] | client and server | [Moonlight Lib](m.md#mod-f3a3b87b30d6d78f) |
 | supplementaries | create | optional | \[6.0.0,\] | client and server | not indexed |
 | supplementaries | amendments | optional | \[1.21-2.0.0,\] | client and server | [Amendments](a.md#mod-bd590d768da86c55) |
 | supplementaries | farmersdelight | incompatible | \[0,1.3.0) | client and server | [Farmer's Delight](f.md#mod-62dd93a2107eac78) |
@@ -760,14 +775,14 @@ Mod IDs and versions: supplementaries 1.21.1-3.8.4.
 
 | From | Dependency | Kind | Version range | Side | Found in pack |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| supplementaries | neoforge | required | \* | client and server | runtime |
+| supplementaries | neoforge | required | \[21.1.247,\] | client and server | runtime |
 | supplementaries | minecraft | required | 1.21.1 | client and server | runtime |
 | sablecompanion (bundled) | neoforge | required | \[21.1.80,) | client and server | runtime |
 | sablecompanion (bundled) | minecraft | required | \[1.21.1,) | client and server | runtime |
 
-**Bundled modules:** mixinsquared 0.3.3; sablecompanion 1.6.0.
+**Bundled modules:** mixinsquared 0.3.7; sablecompanion 1.6.0.
 
-Source: supplementaries-neoforge-1.21.1-3.8.4.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: supplementaries-1.21.1-4.0.2-neoforge.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-2d25f4be8d51e631"></a>
 ### Supplementaries Squared

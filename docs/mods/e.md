@@ -5,15 +5,20 @@
 <a id="mod-56924ff9fec1f08f"></a>
 ### Ears (+ Snouts/Muzzles, Tails, Horns, Wings, and More)
 
-**[1.4.7](https://www.curseforge.com/projects/412013/files/6166554)** · client and server · [Source](https://www.curseforge.com/projects/412013) · [Pack entry](../../mods/ears.pw.toml)
+**[2.2.1-c](https://www.curseforge.com/projects/412013/files/8853899)** · client and server · [Source](https://www.curseforge.com/projects/412013) · [Pack entry](../../mods/ears.pw.toml)
 
 Faithful fancy fashion features for fuzzy folk.
 
-Author links: [https://ears.unascribed.com/](https://ears.unascribed.com/)
+Mod IDs and versions: ears 2.2.1-c.
 
-Mod IDs and versions: ears 1.4.7.
+**Runtime constraints**
 
-Source: ears-neoforge-1.21-1.4.7.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+| From | Dependency | Kind | Version range | Side | Found in pack |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| ears | neoforge | required | \[21.1,) | client only | runtime |
+| ears | minecraft | required | \[1.21.1,) | client only | runtime |
+
+Source: ears-buzz-neoforge-2.2.1-c.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-6479e4fff86f1785"></a>
 ### Easter's Delight
@@ -46,13 +51,13 @@ Source: eastersdelight-neoforge-1.21.1-1.2.1.jar · META-INF/neoforge.mods.toml.
 <a id="mod-dca9ddade87b7f6f"></a>
 ### Easy Villagers
 
-**[1.21.1-1.1.42](https://www.curseforge.com/projects/400514/files/8066730)** · client and server · [Source](https://www.curseforge.com/projects/400514) · [Pack entry](../../mods/easy-villagers.pw.toml)
+**[1.21.1-1.1.49](https://www.curseforge.com/projects/400514/files/9289481)** · client and server · [Source](https://www.curseforge.com/projects/400514) · [Pack entry](../../mods/easy-villagers.pw.toml)
 
 Easy Villagers
 
 Author links: [https://www.curseforge.com/minecraft/mc-mods/easy-villagers](https://www.curseforge.com/minecraft/mc-mods/easy-villagers)
 
-Mod IDs and versions: easy\_villagers 1.21.1-1.1.42.
+Mod IDs and versions: easy\_villagers 1.21.1-1.1.49.
 
 **Optional integrations:** [Just Enough Items (JEI)](j.md#mod-1004006ccdc38261), theoneprobe (not in this catalogue), [Jade](j.md#mod-85a8511c1c37220b).
 
@@ -71,7 +76,7 @@ Mod IDs and versions: easy\_villagers 1.21.1-1.1.42.
 | easy\_villagers | neoforge | required | \[21.0.161,) | client and server | runtime |
 | easy\_villagers | minecraft | required | \[1.21,1.21.1\] | client and server | runtime |
 
-Source: easy-villagers-neoforge-1.21.1-1.1.42.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: easy-villagers-neoforge-1.21.1-1.1.49.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-bc1303dd8f4c798e"></a>
 ### Effect Timer Plus
@@ -190,13 +195,13 @@ Source: emotecraft-for-MC1.21.1-2.4.12-neoforge.jar · META-INF/neoforge.mods.to
 <a id="mod-de0cb81ab5137f0c"></a>
 ### Enchantment Descriptions
 
-**[21.1.10](https://www.curseforge.com/projects/250419/files/8240827)** · client only · [Source](https://www.curseforge.com/projects/250419) · [Pack entry](../../mods/enchantment-descriptions.pw.toml)
+**[21.1.11](https://www.curseforge.com/projects/250419/files/8693034)** · client only · [Source](https://www.curseforge.com/projects/250419) · [Pack entry](../../mods/enchantment-descriptions.pw.toml)
 
 Adds descriptions of enchantment effects to their descriptions.
 
 Author links: [https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions)
 
-Mod IDs and versions: enchdesc 21.1.10.
+Mod IDs and versions: enchdesc 21.1.11.
 
 **Requires:** [Bookshelf](b.md#mod-d551feaa4ec9fb6a), [Prickle](p.md#mod-8dc2f085fe0f6520).
 
@@ -214,7 +219,7 @@ Mod IDs and versions: enchdesc 21.1.10.
 | enchdesc | neoforge | required | \[21.1.233,) | client and server | runtime |
 | enchdesc | minecraft | required | \[1.21.1, 1.22) | client and server | runtime |
 
-Source: enchdesc-neoforge-1.21.1-21.1.10.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: enchdesc-neoforge-1.21.1-21.1.11.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-256dc915ba75f210"></a>
 ### End's Delight
@@ -245,32 +250,35 @@ Source: ends\_delight-2.6.1+neoforge.1.21.1.jar · META-INF/neoforge.mods.toml. 
 <a id="mod-1be4ddf6cd3e7111"></a>
 ### EnderDrives
 
-**[1.4.4](https://www.curseforge.com/projects/1226739/files/7033446)** · client and server · [Source](https://www.curseforge.com/projects/1226739) · [Pack entry](../../mods/enderdrives.pw.toml)
+**[1.5.23](https://www.curseforge.com/projects/1226739/files/8607939)** · client and server · [Source](https://www.curseforge.com/projects/1226739) · [Pack entry](../../mods/enderdrives.pw.toml)
 
-Adds enderchest like AE2 drives
+Description not declared in the shipped descriptor.
 
-Mod IDs and versions: enderdrives 1.4.4.
+Author links: [https://github.com/sts15/enchantmentsunrestricted](https://github.com/sts15/enchantmentsunrestricted)
+
+Mod IDs and versions: enderdrives 1.5.23.
 
 **Requires:** [Applied Energistics 2](a.md#mod-86db8a3a805756c2).
 
-**Optional integrations:** [Glodium](g.md#mod-10508e7ce800cedf), [ExtendedAE](e.md#mod-0f085295006f76a4).
+**Optional integrations:** [ExtendedAE](e.md#mod-0f085295006f76a4), [FTB Teams (NeoForge)](f.md#mod-dcd05bd3f264bab8), [Just Enough Items (JEI)](j.md#mod-1004006ccdc38261).
 
 **Dependencies and integrations**
 
 | From | Dependency | Kind | Version range | Side | Found in pack |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| enderdrives | ae2 | required | \[19.0.27,) | client and server | [Applied Energistics 2](a.md#mod-86db8a3a805756c2) |
-| enderdrives | glodium | optional | \[1.21-2.0-neoforge,) | client and server | [Glodium](g.md#mod-10508e7ce800cedf) |
+| enderdrives | ae2 | required | \[19.2.12,) | client and server | [Applied Energistics 2](a.md#mod-86db8a3a805756c2) |
 | enderdrives | extendedae | optional | \[1.21-2.0-neoforge,) | client and server | [ExtendedAE](e.md#mod-0f085295006f76a4) |
+| enderdrives | ftbteams | optional | \[2101.1.2,) | client and server | [FTB Teams (NeoForge)](f.md#mod-dcd05bd3f264bab8) |
+| enderdrives | jei | optional | \[19.21.1.248,) | client and server | [Just Enough Items (JEI)](j.md#mod-1004006ccdc38261) |
 
 **Runtime constraints**
 
 | From | Dependency | Kind | Version range | Side | Found in pack |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| enderdrives | neoforge | required | \[21.1.169,) | client and server | runtime |
-| enderdrives | minecraft | required | \[1.21.1, 1.22) | client and server | runtime |
+| enderdrives | minecraft | required | 1.21.1 | client and server | runtime |
+| enderdrives | neoforge | required | \[1,) | client and server | runtime |
 
-Source: enderdrives-neoforge-1.21.1-1.4.4.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: enderdrives-neoforge-1.21.1-1.5.23.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-53fea4a1e27818f7"></a>
 ### Entangled
@@ -330,13 +338,13 @@ Source: etched-5.1.0.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies
 <a id="mod-ae133e9354062141"></a>
 ### Every Compat (Stone Zone)
 
-**[1.21-2.11.17](https://www.curseforge.com/projects/1154622/files/8497586)** · client and server · [Source](https://www.curseforge.com/projects/1154622) · [Pack entry](../../mods/stone-zone.pw.toml)
+**[1.21-2.11.21](https://www.curseforge.com/projects/1154622/files/9274114)** · client and server · [Source](https://www.curseforge.com/projects/1154622) · [Pack entry](../../mods/stone-zone.pw.toml)
 
 Ultimate Stone Compat Mod
 
 Author links: [https://www.curseforge.com/minecraft/mc-mods/stone-zone](https://www.curseforge.com/minecraft/mc-mods/stone-zone)
 
-Mod IDs and versions: stonezone 1.21-2.11.17.
+Mod IDs and versions: stonezone 1.21-2.11.21.
 
 **Requires:** [Moonlight Lib](m.md#mod-f3a3b87b30d6d78f), [Every Compat (Wood Good)](e.md#mod-aa32e57b6ca918d4).
 
@@ -354,18 +362,18 @@ Mod IDs and versions: stonezone 1.21-2.11.17.
 | stonezone | neoforge | required | \[4,) | client and server | runtime |
 | stonezone | minecraft | required | \[1.21.1\] | client only | runtime |
 
-Source: stonezone-1.21-2.11.17-neoforge.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: stonezone-1.21-2.11.21-neoforge.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-aa32e57b6ca918d4"></a>
 ### Every Compat (Wood Good)
 
-**[1.21-2.11.48](https://www.curseforge.com/projects/628539/files/8509008)** · client and server · [Source](https://www.curseforge.com/projects/628539) · [Pack entry](../../mods/every-compat.pw.toml)
+**[1.21-2.11.55](https://www.curseforge.com/projects/628539/files/9263267)** · client and server · [Source](https://www.curseforge.com/projects/628539) · [Pack entry](../../mods/every-compat.pw.toml)
 
 Ultimate Wood Compat Mod
 
 Author links: [https://www.curseforge.com/minecraft/mc-mods/every-compat](https://www.curseforge.com/minecraft/mc-mods/every-compat)
 
-Mod IDs and versions: everycomp 1.21-2.11.48.
+Mod IDs and versions: everycomp 1.21-2.11.55.
 
 **Requires:** [Moonlight Lib](m.md#mod-f3a3b87b30d6d78f).
 
@@ -377,7 +385,7 @@ Mod IDs and versions: everycomp 1.21-2.11.48.
 
 | From | Dependency | Kind | Version range | Side | Found in pack |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| everycomp | moonlight | required | \[1.21.1-3.0.14,) | client and server | [Moonlight Lib](m.md#mod-f3a3b87b30d6d78f) |
+| everycomp | moonlight | required | \[1.21.1-3.1.0,) | client and server | [Moonlight Lib](m.md#mod-f3a3b87b30d6d78f) |
 | everycomp | create | optional | \[1.21.1-6.0.2,) | client and server | not indexed |
 | everycomp | mcwdoors | optional | \[1.1.2,) | client and server | not indexed |
 | everycomp | mcwtrpdoors | optional | \[1.1.4,) | client and server | not indexed |
@@ -391,7 +399,7 @@ Mod IDs and versions: everycomp 1.21-2.11.48.
 | everycomp | neoforge | required | \* | client and server | runtime |
 | everycomp | minecraft | required | \[1.21.1\] | client only | runtime |
 
-Source: everycomp-1.21-2.11.48-neoforge.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: everycomp-1.21-2.11.55-neoforge.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-d97a86ac484dce73"></a>
 ### ExperienceLib
@@ -416,13 +424,13 @@ Source: experiencelib-1.21.1-1.2.1.jar · META-INF/neoforge.mods.toml. Exact des
 <a id="mod-a8607319390da7f5"></a>
 ### Exposure
 
-**[1.9.18](https://www.curseforge.com/projects/871755/files/8223555)** · client and server · [Source](https://www.curseforge.com/projects/871755) · [Pack entry](../../mods/exposure.pw.toml)
+**[1.9.19](https://www.curseforge.com/projects/871755/files/8957000)** · client and server · [Source](https://www.curseforge.com/projects/871755) · [Pack entry](../../mods/exposure.pw.toml)
 
 Camera mod with focus on process and aesthetics.
 
 Author links: [https://www.curseforge.com/minecraft/mc-mods/exposure](https://www.curseforge.com/minecraft/mc-mods/exposure)
 
-Mod IDs and versions: exposure 1.9.18.
+Mod IDs and versions: exposure 1.9.19.
 
 **Optional integrations:** create (not in this catalogue).
 
@@ -441,18 +449,18 @@ Mod IDs and versions: exposure 1.9.18.
 | exposure | neoforge | required | \[21,) | client and server | runtime |
 | exposure | minecraft | required | \[1.21,) | client and server | runtime |
 
-Source: exposure-neoforge-1.21.1-1.9.18.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: exposure-neoforge-1.21.1-1.9.19.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-51083b093f9fb665"></a>
 ### Exposure: Polaroid
 
-**[1.1.5](https://www.curseforge.com/projects/1207005/files/8223623)** · client and server · [Source](https://www.curseforge.com/projects/1207005) · [Pack entry](../../mods/exposure-polaroid.pw.toml)
+**[1.1.6](https://www.curseforge.com/projects/1207005/files/8533496)** · client and server · [Source](https://www.curseforge.com/projects/1207005) · [Pack entry](../../mods/exposure-polaroid.pw.toml)
 
 Addon for Exposure that adds Instant Camera
 
 Author links: [https://www.curseforge.com/minecraft/mc-mods/exposure-polaroid](https://www.curseforge.com/minecraft/mc-mods/exposure-polaroid)
 
-Mod IDs and versions: exposure\_polaroid 1.1.5.
+Mod IDs and versions: exposure\_polaroid 1.1.6.
 
 **Requires:** [Exposure](e.md#mod-a8607319390da7f5).
 
@@ -469,18 +477,18 @@ Mod IDs and versions: exposure\_polaroid 1.1.5.
 | exposure\_polaroid | neoforge | required | \[21,) | client and server | runtime |
 | exposure\_polaroid | minecraft | required | \[1.21,) | client and server | runtime |
 
-Source: exposure\_polaroid-neoforge-1.21.1-1.1.5.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: exposure\_polaroid-neoforge-1.21.1-1.1.6.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-0f085295006f76a4"></a>
 ### ExtendedAE
 
-**[1.21-2.2.35-neoforge](https://www.curseforge.com/projects/892005/files/8511901)** · client and server · [Source](https://www.curseforge.com/projects/892005) · [Pack entry](../../mods/ex-pattern-provider.pw.toml)
+**[1.21-2.2.41-neoforge](https://www.curseforge.com/projects/892005/files/9087065)** · client and server · [Source](https://www.curseforge.com/projects/892005) · [Pack entry](../../mods/ex-pattern-provider.pw.toml)
 
 Add some QoL extended contents for AE2
 
 Author links: [https://github.com/GlodBlock/ExtendedAE](https://github.com/GlodBlock/ExtendedAE)
 
-Mod IDs and versions: extendedae 1.21-2.2.35-neoforge.
+Mod IDs and versions: extendedae 1.21-2.2.41-neoforge.
 
 **Requires:** [Applied Energistics 2](a.md#mod-86db8a3a805756c2), [GuideME](g.md#mod-a17d99fae9e9866b), [Glodium](g.md#mod-10508e7ce800cedf), [ExtendedAE (bundled)](e.md#mod-0f085295006f76a4).
 
@@ -510,16 +518,16 @@ Mod IDs and versions: extendedae 1.21-2.2.35-neoforge.
 
 **Bundled modules:** ae2wtlib\_api 19.2.0.
 
-Source: ExtendedAE-1.21-2.2.35-neoforge.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: ExtendedAE-1.21-2.2.41-neoforge.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-9f87eb92c2afbd2e"></a>
 ### Extreme sound muffler - (Neo)Forge
 
-**[3.56](https://www.curseforge.com/projects/363363/files/7895926)** · client and server · [Source](https://www.curseforge.com/projects/363363) · [Pack entry](../../mods/extreme-sound-muffler.pw.toml)
+**[3.57](https://www.curseforge.com/projects/363363/files/9039351)** · client and server · [Source](https://www.curseforge.com/projects/363363) · [Pack entry](../../mods/extreme-sound-muffler.pw.toml)
 
 This mod allows you to muffle (almost) any sound selectively, allowing you to choose the volume of the sound you want between mute and 90%. This mod also works Clientside only.
 
-Mod IDs and versions: extremesoundmuffler 3.56.
+Mod IDs and versions: extremesoundmuffler 3.57.
 
 **Runtime constraints**
 
@@ -528,4 +536,4 @@ Mod IDs and versions: extremesoundmuffler 3.56.
 | extremesoundmuffler | neoforge | required | \[21.0.143,) | client and server | runtime |
 | extremesoundmuffler | minecraft | required | \[1.21, 1.21.1) | client and server | runtime |
 
-Source: ExtremeSoundMuffler-3.56\_NeoForge-1.21.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: ExtremeSoundMuffler-3.57\_NeoForge-1.21.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.

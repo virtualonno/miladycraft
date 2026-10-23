@@ -192,13 +192,13 @@ Source: DrinkItRefoxed-neoforge-1.21.1-1.0.2.jar · META-INF/neoforge.mods.toml.
 <a id="mod-26102b21f8c69d6e"></a>
 ### Durability Tooltip
 
-**[1.1.6](https://www.curseforge.com/projects/511040/files/6833316)** · client only · [Source](https://www.curseforge.com/projects/511040) · [Pack entry](../../mods/durability-tooltip.pw.toml)
+**[1.2.0](https://www.curseforge.com/projects/511040/files/8830219)** · client only · [Source](https://www.curseforge.com/projects/511040) · [Pack entry](../../mods/durability-tooltip.pw.toml)
 
 Durability Tooltip shows you the durability of an item!
 
 Author links: [https://www.curseforge.com/minecraft/mc-mods/durability-tooltip](https://www.curseforge.com/minecraft/mc-mods/durability-tooltip)
 
-Mod IDs and versions: durabilitytooltip 1.1.6.
+Mod IDs and versions: durabilitytooltip 1.2.0.
 
 **Requires:** [SuperMartijn642's Config Lib](s.md#mod-4eb82ac787c5a340).
 
@@ -213,9 +213,9 @@ Mod IDs and versions: durabilitytooltip 1.1.6.
 | From | Dependency | Kind | Version range | Side | Found in pack |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | durabilitytooltip | neoforge | required | \[21.0.78-beta,) | client and server | runtime |
-| durabilitytooltip | minecraft | required | \[1.21,1.22) | client and server | runtime |
+| durabilitytooltip | minecraft | required | \[1.21,1.21.11) | client and server | runtime |
 
-Source: durabilitytooltip-1.1.6-neoforge-mc1.21.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: durabilitytooltip-1.2.0-neoforge-mc1.21.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-7008f7ad48ccd3c9"></a>
 ### Dyed

@@ -55,11 +55,11 @@ Source: mcjtylib-1.21-9.0.21.jar · META-INF/neoforge.mods.toml. Exact descripto
 <a id="mod-39c82f5c7ac86e1a"></a>
 ### ME Requester
 
-**[1.21.1-1.4.3](https://www.curseforge.com/projects/688367/files/8285803)** · client and server · [Source](https://www.curseforge.com/projects/688367) · [Pack entry](../../mods/merequester.pw.toml)
+**[1.21.1-1.5.0](https://www.curseforge.com/projects/688367/files/8787722)** · client and server · [Source](https://www.curseforge.com/projects/688367) · [Pack entry](../../mods/merequester.pw.toml)
 
 Keep resources in your ME-System in stock.
 
-Mod IDs and versions: merequester 1.21.1-1.4.3.
+Mod IDs and versions: merequester 1.21.1-1.5.0.
 
 **Requires:** [Applied Energistics 2](a.md#mod-86db8a3a805756c2).
 
@@ -79,7 +79,7 @@ Mod IDs and versions: merequester 1.21.1-1.4.3.
 | merequester | neoforge | required | \[21.1.169,) | client and server | runtime |
 | merequester | minecraft | required | \[1.21.1,) | client and server | runtime |
 
-Source: merequester-neoforge-1.21.1-1.4.3.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: merequester-neoforge-1.21.1-1.5.0.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-204c84ffea8ce47f"></a>
 ### Mekanism
@@ -160,45 +160,48 @@ Source: Milady-On-Air-0.1.0-alpha.1-neoforge-1.21.1-universal.jar · META-INF/ne
 <a id="mod-169b4446445d3424"></a>
 ### Misc Tweaks
 
-**[1.3.0](https://www.curseforge.com/projects/1227334/files/7696312)** · client and server · [Source](https://www.curseforge.com/projects/1227334) · [Pack entry](../../mods/misc-tweaks.pw.toml)
+**[1.4.5](https://www.curseforge.com/projects/1227334/files/8962822)** · client and server · [Source](https://www.curseforge.com/projects/1227334) · [Pack entry](../../mods/misc-tweaks.pw.toml)
 
 QoL additions and tweaks
 
 Author links: [https://modrinth.com/mod/misctweaks](https://modrinth.com/mod/misctweaks)
 
-Mod IDs and versions: misctweaks 1.3.0.
+Mod IDs and versions: misctweaks 1.4.5.
 
 **Requires:** [Fzzy Config](f.md#mod-22255d7f3d4964f7).
+
+**Optional integrations:** sodium (not in this catalogue).
 
 **Dependencies and integrations**
 
 | From | Dependency | Kind | Version range | Side | Found in pack |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| misctweaks | fzzy\_config | required | \[0,) | client and server | [Fzzy Config](f.md#mod-22255d7f3d4964f7) |
+| misctweaks | fzzy\_config | required | \[0.7.6,) | client and server | [Fzzy Config](f.md#mod-22255d7f3d4964f7) |
+| misctweaks | sodium | optional | \[0.8.12,) | client and server | not indexed |
 
 **Runtime constraints**
 
 | From | Dependency | Kind | Version range | Side | Found in pack |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| misctweaks | minecraft | required | \[1.21.1\] | client and server | runtime |
-| misctweaks | neoforge | required | \[1,) | client and server | runtime |
-| mixson (bundled) | neoforge | required | \[21,) | client and server | runtime |
-| mixson (bundled) | minecraft | required | \[1.21,1.22) | client and server | runtime |
+| misctweaks | neoforge | required | \[21,) | client and server | runtime |
+| misctweaks | minecraft | required | \[1.21, 1.21.1\] | client and server | runtime |
+| mixson\_backport (bundled) | neoforge | required | \[21.1.249,) | client and server | runtime |
+| mixson\_backport (bundled) | minecraft | required | \[1.21, 1.21.1\] | client and server | runtime |
 
-**Bundled modules:** mixson 1.4.0.
+**Bundled modules:** mixson\_backport 2.2.0.
 
-Source: misctweaks-1.3.0+1.21.1-neoforge.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: misctweaks-neoforge-1.4.5+1.21.1.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-ee8aab15d7f1e1a6"></a>
 ### MmmMmmMmmMmm (Target Dummy)
 
-**[1.21-2.1.0](https://www.curseforge.com/projects/225738/files/8510632)** · client and server · [Source](https://www.curseforge.com/projects/225738) · [Pack entry](../../mods/mmmmmmmmmmmm.pw.toml)
+**[1.21-2.1.2](https://www.curseforge.com/projects/225738/files/8903254)** · client and server · [Source](https://www.curseforge.com/projects/225738) · [Pack entry](../../mods/mmmmmmmmmmmm.pw.toml)
 
 Don't hurt me pls :S
 
 Author links: [https://www.curseforge.com/minecraft/mc-mods/mmmmmmmmmmmm](https://www.curseforge.com/minecraft/mc-mods/mmmmmmmmmmmm)
 
-Mod IDs and versions: dummmmmmy 1.21-2.1.0.
+Mod IDs and versions: dummmmmmy 1.21-2.1.2.
 
 **Requires:** [Moonlight Lib](m.md#mod-f3a3b87b30d6d78f).
 
@@ -215,7 +218,7 @@ Mod IDs and versions: dummmmmmy 1.21-2.1.0.
 | dummmmmmy | neoforge | required | \* | client and server | runtime |
 | dummmmmmy | minecraft | required | \[1.21.1\] | client and server | runtime |
 
-Source: dummmmmmy-neoforge-1.21-2.1.0.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: dummmmmmy-1.21-2.1.2-neoforge.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-710f0a171edb995c"></a>
 ### Model Gap Fix
@@ -233,13 +236,13 @@ Source: modelfix-1.21-1.10.jar · META-INF/neoforge.mods.toml. Exact descriptor 
 <a id="mod-335300a471217627"></a>
 ### ModernFix
 
-**[5.27.20+mc1.21.1](https://www.curseforge.com/projects/790626/files/8459650)** · client and server · [Source](https://www.curseforge.com/projects/790626) · [Pack entry](../../mods/modernfix.pw.toml)
+**[5.27.26+mc1.21.1](https://www.curseforge.com/projects/790626/files/9101836)** · client and server · [Source](https://www.curseforge.com/projects/790626) · [Pack entry](../../mods/modernfix.pw.toml)
 
 Egregious, yet effective performance improvements for modern Minecraft
 
 Author links: [https://modrinth.com/mod/modernfix](https://modrinth.com/mod/modernfix)
 
-Mod IDs and versions: modernfix 5.27.20+mc1.21.1.
+Mod IDs and versions: modernfix 5.27.26+mc1.21.1.
 
 **Optional integrations:** [Just Enough Items (JEI)](j.md#mod-1004006ccdc38261).
 
@@ -256,7 +259,7 @@ Mod IDs and versions: modernfix 5.27.20+mc1.21.1.
 | modernfix | neoforge | required | \[21.0.111-beta,) | client and server | runtime |
 | modernfix | minecraft | required | \[1.21, 1.22) | client and server | runtime |
 
-Source: modernfix-neoforge-5.27.20+mc1.21.1.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: modernfix-neoforge-5.27.26+mc1.21.1.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-551dbf31e5df9d2d"></a>
 ### Monocle
@@ -288,15 +291,17 @@ Source: monocle-0.2.1.ms.jar · META-INF/neoforge.mods.toml. Exact descriptor bo
 <a id="mod-f3a3b87b30d6d78f"></a>
 ### Moonlight Lib
 
-**[1.21.1-3.3.0](https://www.curseforge.com/projects/499980/files/8510630)** · client and server · [Source](https://www.curseforge.com/projects/499980) · [Pack entry](../../mods/selene.pw.toml)
+**[1.21.1-3.7.2](https://www.curseforge.com/projects/499980/files/9122548)** · client and server · [Source](https://www.curseforge.com/projects/499980) · [Pack entry](../../mods/selene.pw.toml)
 
 A small library with many cool unique features, from dynamic asset generation to dynamic villager schedules, data driven trades and Map Markers, simple multi loader utilities and more
 
 Author links: [https://github.com/MehVahdJukaar/codecui](https://github.com/MehVahdJukaar/codecui) · [https://www.curseforge.com/minecraft/mc-mods/selene](https://www.curseforge.com/minecraft/mc-mods/selene)
 
-Mod IDs and versions: moonlight 1.21.1-3.3.0.
+Mod IDs and versions: moonlight 1.21.1-3.7.2.
 
 **Used by:** [Advancement Frames](a.md#mod-89747730f0f03a5e), [Amendments](a.md#mod-bd590d768da86c55), [Every Compat (Wood Good)](e.md#mod-aa32e57b6ca918d4), [Fast Paintings](f.md#mod-85b9efe6b5aab508), [You've Goat to be Kidding Me!](y.md#mod-3e5f514dc482658c), [Heartstone](h.md#mod-a4bc3fc09bb27faa), [Storage Labels](s.md#mod-d18d01c088623c95), [MmmMmmMmmMmm (Target Dummy)](m.md#mod-ee8aab15d7f1e1a6), [Moyai](m.md#mod-162081d5e752266a), [Sawmill](s.md#mod-ee759f0940950107), [Smarter Farmers (farmers replant)](s.md#mod-59506f2f04d42fbe), [Every Compat (Stone Zone)](e.md#mod-ae133e9354062141), [Supplementaries Squared](s.md#mod-2d25f4be8d51e631), [Supplementaries](s.md#mod-4b803a144f5548d5).
+
+**Optional dependency of:** [Cultural Delights](c.md#mod-7e889ea7a670c3b6).
 
 **Runtime constraints**
 
@@ -306,9 +311,9 @@ Mod IDs and versions: moonlight 1.21.1-3.3.0.
 | codecui (bundled) | neoforge | required | \* | client and server | runtime |
 | codecui (bundled) | minecraft | required | \[1.21.1, 1.21.2) | client and server | runtime |
 
-**Bundled modules:** codecui 1.21.1-1.3.6.
+**Bundled modules:** codecui 1.21.1-1.4.7.
 
-Source: moonlight-neoforge-1.21.1-3.3.0.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: moonlight-1.21.1-3.7.2-neoforge.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-7f700241af45263b"></a>
 ### More Dragon Eggs
@@ -447,7 +452,7 @@ Source: MouseTweaks-neoforge-mc1.21-2.26.1.jar · META-INF/neoforge.mods.toml. E
 <a id="mod-162081d5e752266a"></a>
 ### Moyai
 
-**[1.21-2.1.7](https://www.curseforge.com/projects/577252/files/6475137)** · client and server · [Source](https://www.curseforge.com/projects/577252) · [Pack entry](../../mods/moyai.pw.toml)
+**[1.21-2.1.7](https://www.curseforge.com/projects/577252/files/8971491)** · client and server · [Source](https://www.curseforge.com/projects/577252) · [Pack entry](../../mods/moyai.pw.toml)
 
 \*vine boom\* ???
 
@@ -461,14 +466,14 @@ Mod IDs and versions: moyai 1.21-2.1.7.
 
 | From | Dependency | Kind | Version range | Side | Found in pack |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| moyai | moonlight | required | \* | client and server | [Moonlight Lib](m.md#mod-f3a3b87b30d6d78f) |
+| moyai | moonlight | required | \[1.21-3.4.0,) | client and server | [Moonlight Lib](m.md#mod-f3a3b87b30d6d78f) |
 
 **Runtime constraints**
 
 | From | Dependency | Kind | Version range | Side | Found in pack |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| moyai | neoforge | required | \[4,) | client and server | runtime |
-| moyai | minecraft | required | \[1.21,1.22) | client and server | runtime |
+| moyai | neoforge | required | \* | client and server | runtime |
+| moyai | minecraft | required | \[1.21.1\] | client and server | runtime |
 
 Source: moyai-1.21-2.1.7-neoforge.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 

@@ -5,11 +5,11 @@
 <a id="mod-54520732a41ac985"></a>
 ### Bad Horse Fix
 
-**[3.0.1](https://www.curseforge.com/projects/999835/files/6910122)** · client and server · [Source](https://www.curseforge.com/projects/999835) · [Pack entry](../../mods/bad-horse-fix.pw.toml)
+**[4.0.0](https://www.curseforge.com/projects/999835/files/8932239)** · client and server · [Source](https://www.curseforge.com/projects/999835) · [Pack entry](../../mods/bad-horse-fix.pw.toml)
 
 Fixes horse markings appearing above horse armor when using Iris Shaders.
 
-Mod IDs and versions: badhorsefix 3.0.1.
+Mod IDs and versions: badhorsefix 4.0.0.
 
 **Runtime constraints**
 
@@ -18,7 +18,7 @@ Mod IDs and versions: badhorsefix 3.0.1.
 | badhorsefix | neoforge | required | \[21.0,) | client only | runtime |
 | badhorsefix | minecraft | required | \[1.21,) | client only | runtime |
 
-Source: badhorsefix-neoforge-3.0.1.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: badhorsefix-neoforge-4.0.0.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-e65bde5790b4cccb"></a>
 ### Bad Wither No Cookie - Reloaded
@@ -42,13 +42,13 @@ Source: bwncr-neoforge-1.21.1-3.20.4.jar · META-INF/neoforge.mods.toml. Exact d
 <a id="mod-495e057479bfe168"></a>
 ### Balm
 
-**[21.0.63](https://www.curseforge.com/projects/531761/files/8424824)** · client and server · [Source](https://www.curseforge.com/projects/531761) · [Pack entry](../../mods/balm.pw.toml)
+**[21.0.66](https://www.curseforge.com/projects/531761/files/8969738)** · client and server · [Source](https://www.curseforge.com/projects/531761) · [Pack entry](../../mods/balm.pw.toml)
 
 Abstraction Layer (but not really) for Blay's multiplatform mods
 
 Author links: [https://mods.twelveiterations.com/](https://mods.twelveiterations.com/) · [https://mods.twelveiterations.com/mc/kuma](https://mods.twelveiterations.com/mc/kuma)
 
-Mod IDs and versions: balm 21.0.63.
+Mod IDs and versions: balm 21.0.66.
 
 **Used by:** [Client Tweaks](c.md#mod-9311f3ccaa2cc66e), [Cooking for Blockheads](c.md#mod-3215e521f9836d69), [Crafting Slots](c.md#mod-416d0c10c1a617f7), [Crafting Tweaks](c.md#mod-6e2aa927986f25ee), [Inventory Essentials](i.md#mod-c11dbebd9f4561c2), [KleeSlabs](k.md#mod-eea103a7dff06c9f), [NetherPortalFix](n.md#mod-610b5d665fa7a547), [TrashSlot](t.md#mod-9759a30cf9257c91), [Unbreakables](u.md#mod-13a568b4e3eba779), [Waystones](w.md#mod-3d83f6dd61ba7abf).
 
@@ -63,18 +63,18 @@ Mod IDs and versions: balm 21.0.63.
 
 **Bundled modules:** kuma\_api 21.0.8.
 
-Source: balm-neoforge-1.21.1-21.0.63.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: balm-neoforge-1.21.1-21.0.66.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-3139b33db91022ee"></a>
 ### Bank Storage
 
-**[1.6.1+1.21](https://www.curseforge.com/projects/916710/files/6759189)** · client and server · [Source](https://www.curseforge.com/projects/916710) · [Pack entry](../../mods/bank-storage.pw.toml)
+**[1.7.0+1.21](https://www.curseforge.com/projects/916710/files/9111450)** · client and server · [Source](https://www.curseforge.com/projects/916710) · [Pack entry](../../mods/bank-storage.pw.toml)
 
 A portable storage device that can store up to 1,000,000,000 items per slot.
 
 Author links: [https://github.com/Natanaelel/BankStorage](https://github.com/Natanaelel/BankStorage)
 
-Mod IDs and versions: bankstorage 1.6.1+1.21.
+Mod IDs and versions: bankstorage 1.7.0+1.21.
 
 **Runtime constraints**
 
@@ -83,7 +83,7 @@ Mod IDs and versions: bankstorage 1.6.1+1.21.
 | bankstorage | neoforge | required | \[21.1.0,) | client and server | runtime |
 | bankstorage | minecraft | required | \[1.21.1,1.22) | client and server | runtime |
 
-Source: bankstorage-1.6.1+1.21.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: bankstorage-1.7.0+1.21.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-bab120207b6ab888"></a>
 ### Barbeque's Delight \[Forge/NeoForge\]
@@ -233,13 +233,13 @@ Source: biomemusic-1.21.1-4.1.jar · META-INF/neoforge.mods.toml. Exact descript
 <a id="mod-e37a76d016f84126"></a>
 ### Blueprint
 
-**[8.1.1](https://www.curseforge.com/projects/382216/files/8397829)** · client and server · [Source](https://www.curseforge.com/projects/382216) · [Pack entry](../../mods/blueprint.pw.toml)
+**[8.2.0](https://www.curseforge.com/projects/382216/files/8819375)** · client and server · [Source](https://www.curseforge.com/projects/382216) · [Pack entry](../../mods/blueprint.pw.toml)
 
 The library mod used by all Abnormals mods. Adds support for various types of blocks, helps with registering, and adds tons of misc. utils. Also comes with Endimator, an animation library that supports data-driven and coded animations.
 
 Author links: [https://www.teamabnormals.com/mods/blueprint](https://www.teamabnormals.com/mods/blueprint)
 
-Mod IDs and versions: blueprint 8.1.1.
+Mod IDs and versions: blueprint 8.2.0.
 
 **Runtime constraints**
 
@@ -248,7 +248,7 @@ Mod IDs and versions: blueprint 8.1.1.
 | blueprint | minecraft | required | \[1.21.1\] | client and server | runtime |
 | blueprint | neoforge | required | \[21.1.160,) | client and server | runtime |
 
-Source: blueprint-1.21.1-8.1.1.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: blueprint-1.21.1-8.2.0.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-d551feaa4ec9fb6a"></a>
 ### Bookshelf

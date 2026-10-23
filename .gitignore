@@ -11,3 +11,6 @@ packwiz
 /.pack-docs.lock
 __pycache__/
 *.pyc
+
+# Windows Explorer folder metadata
+desktop.ini

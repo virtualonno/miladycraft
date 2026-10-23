@@ -52,13 +52,13 @@ Source: GatewaysToEternity-1.21.1-5.1.0.jar · META-INF/neoforge.mods.toml. Exac
 <a id="mod-8bac30deed02cd8d"></a>
 ### GeckoLib
 
-**[4.9.2](https://www.curseforge.com/projects/388172/files/8350073)** · client and server · [Source](https://www.curseforge.com/projects/388172) · [Pack entry](../../mods/geckolib.pw.toml)
+**[4.9.3](https://www.curseforge.com/projects/388172/files/8893490)** · client and server · [Source](https://www.curseforge.com/projects/388172) · [Pack entry](../../mods/geckolib.pw.toml)
 
 GeckoLib is an animation engine for Minecraft Mods, with support for complex 3D keyframe-based animations, 30+ easings, concurrent animation support, sound and particle keyframes, event keyframes, and more.
 
 Author links: [http://geckolib.com/](http://geckolib.com/)
 
-Mod IDs and versions: geckolib 4.9.2.
+Mod IDs and versions: geckolib 4.9.3.
 
 **Used by:** [Iron's Lib](i.md#mod-d425a4b5a78205f3), [Iron's Spells 'n Spellbooks](i.md#mod-2b19aaceafe7d5a6).
 
@@ -75,7 +75,7 @@ Mod IDs and versions: geckolib 4.9.2.
 | geckolib | neoforge | required | \[21.1.150,) | client and server | runtime |
 | geckolib | minecraft | required | \[1.21,) | client and server | runtime |
 
-Source: geckolib-neoforge-1.21.1-4.9.2.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: geckolib-neoforge-1.21.1-4.9.3.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-bf61e441ae16072b"></a>
 ### Get It Together, Drops!
@@ -110,8 +110,6 @@ Mod IDs and versions: glodium 1.21-2.2-neoforge.
 
 **Used by:** [Applied Flux](a.md#mod-e043048f2342be0f), [ExtendedAE](e.md#mod-0f085295006f76a4).
 
-**Optional dependency of:** [EnderDrives](e.md#mod-1be4ddf6cd3e7111).
-
 **Runtime constraints**
 
 | From | Dependency | Kind | Version range | Side | Found in pack |
@@ -144,13 +142,13 @@ Source: gnetum-3.3.6.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies
 <a id="mod-a17d99fae9e9866b"></a>
 ### GuideME
 
-**[21.1.17](https://www.curseforge.com/projects/1173950/files/8420861)** · client and server · [Source](https://www.curseforge.com/projects/1173950) · [Pack entry](../../mods/guideme.pw.toml)
+**[21.1.20](https://www.curseforge.com/projects/1173950/files/9292538)** · client and server · [Source](https://www.curseforge.com/projects/1173950) · [Pack entry](../../mods/guideme.pw.toml)
 
 GuideME offers the foundation for your mods or modpacks guidebook.
 
 Author links: [https://github.com/AppliedEnergistics/GuideME/](https://github.com/AppliedEnergistics/GuideME/)
 
-Mod IDs and versions: guideme 21.1.17.
+Mod IDs and versions: guideme 21.1.20.
 
 **Used by:** [Applied Energistics 2](a.md#mod-86db8a3a805756c2), [Applied Flux](a.md#mod-e043048f2342be0f), [ExtendedAE](e.md#mod-0f085295006f76a4), [Powah! (Rearchitected)](p.md#mod-d7f703ca25e92d83).
 
@@ -161,4 +159,4 @@ Mod IDs and versions: guideme 21.1.17.
 | guideme | neoforge | required | \[21.1.1,) | client and server | runtime |
 | guideme | minecraft | required | \[1.21.1\] | client and server | runtime |
 
-Source: guideme-21.1.17.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: guideme-21.1.20.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.

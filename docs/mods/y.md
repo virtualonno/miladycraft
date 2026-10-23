@@ -82,15 +82,15 @@ Mod IDs and versions: goated 1.21-1.4.3.
 Source: goated-1.21-1.4.3-neoforge.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-bdbf1de5774703ba"></a>
-### YUNG's API (NeoForge)
+### YUNG's API (NeoForge) \[1.20.4-1.21.1 ONLY\]
 
-**[1.21.1-NeoForge-5.1.6](https://www.curseforge.com/projects/1015100/files/6715463)** · client and server · [Source](https://www.curseforge.com/projects/1015100) · [Pack entry](../../mods/yungs-api-neoforge.pw.toml)
+**[1.21.1-NeoForge-5.1.9](https://www.curseforge.com/projects/1015100/files/8894736)** · client and server · [Source](https://www.curseforge.com/projects/1015100) · [Pack entry](../../mods/yungs-api-neoforge.pw.toml)
 
 API Library for YUNG's minecraft mods.
 
 Author links: [https://www.curseforge.com/minecraft/mc-mods/yungs-api-neoforge](https://www.curseforge.com/minecraft/mc-mods/yungs-api-neoforge)
 
-Mod IDs and versions: yungsapi 1.21.1-NeoForge-5.1.6.
+Mod IDs and versions: yungsapi 1.21.1-NeoForge-5.1.9.
 
 **Used by:** [YUNG's Better Dungeons (NeoForge)](y.md#mod-c1eb400761cc47d1), [YUNG's Better Jungle Temples (NeoForge)](y.md#mod-e36c1a7b5a66218a), [YUNG's Better Mineshafts (NeoForge)](y.md#mod-72b314e21101995d), [YUNG's Better Nether Fortresses (NeoForge)](y.md#mod-b0afc1ef7c9402c8), [YUNG's Better Ocean Monuments (NeoForge)](y.md#mod-55399c4baf9a1fa5), [YUNG's Better Strongholds (NeoForge)](y.md#mod-e8072426c934f41c), [YUNG's Better Witch Huts (NeoForge)](y.md#mod-39c34e000ff817d8), [YUNG's Extras (NeoForge)](y.md#mod-ea840bf08119edbd).
 
@@ -101,7 +101,7 @@ Mod IDs and versions: yungsapi 1.21.1-NeoForge-5.1.6.
 | yungsapi | minecraft | required | \[1.21, 1.22) | client and server | runtime |
 | yungsapi | neoforge | required | \[21.0.0,) | client and server | runtime |
 
-Source: YungsApi-1.21.1-NeoForge-5.1.6.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: YungsApi-1.21.1-NeoForge-5.1.9.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-c1eb400761cc47d1"></a>
 ### YUNG's Better Dungeons (NeoForge)
@@ -114,13 +114,13 @@ Author links: [https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeon
 
 Mod IDs and versions: betterdungeons 1.21.1-NeoForge-5.1.4.
 
-**Requires:** [YUNG's API (NeoForge)](y.md#mod-bdbf1de5774703ba).
+**Requires:** [YUNG's API (NeoForge) \[1.20.4-1.21.1 ONLY\]](y.md#mod-bdbf1de5774703ba).
 
 **Dependencies and integrations**
 
 | From | Dependency | Kind | Version range | Side | Found in pack |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| betterdungeons | yungsapi | required | \[1.21.1-NeoForge-5.1.3,) | client and server | [YUNG's API (NeoForge)](y.md#mod-bdbf1de5774703ba) |
+| betterdungeons | yungsapi | required | \[1.21.1-NeoForge-5.1.3,) | client and server | [YUNG's API (NeoForge) \[1.20.4-1.21.1 ONLY\]](y.md#mod-bdbf1de5774703ba) |
 
 **Runtime constraints**
 
@@ -142,13 +142,13 @@ Author links: [https://www.curseforge.com/minecraft/mc-mods/yungs-better-jungle-
 
 Mod IDs and versions: betterjungletemples 1.21.1-NeoForge-3.1.2.
 
-**Requires:** [YUNG's API (NeoForge)](y.md#mod-bdbf1de5774703ba).
+**Requires:** [YUNG's API (NeoForge) \[1.20.4-1.21.1 ONLY\]](y.md#mod-bdbf1de5774703ba).
 
 **Dependencies and integrations**
 
 | From | Dependency | Kind | Version range | Side | Found in pack |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| betterjungletemples | yungsapi | required | \[1.21.1-NeoForge-5.1.3,) | client and server | [YUNG's API (NeoForge)](y.md#mod-bdbf1de5774703ba) |
+| betterjungletemples | yungsapi | required | \[1.21.1-NeoForge-5.1.3,) | client and server | [YUNG's API (NeoForge) \[1.20.4-1.21.1 ONLY\]](y.md#mod-bdbf1de5774703ba) |
 
 **Runtime constraints**
 
@@ -170,13 +170,13 @@ Author links: [https://www.curseforge.com/minecraft/mc-mods/yungs-better-minesha
 
 Mod IDs and versions: bettermineshafts 1.21.1-NeoForge-5.1.1.
 
-**Requires:** [YUNG's API (NeoForge)](y.md#mod-bdbf1de5774703ba).
+**Requires:** [YUNG's API (NeoForge) \[1.20.4-1.21.1 ONLY\]](y.md#mod-bdbf1de5774703ba).
 
 **Dependencies and integrations**
 
 | From | Dependency | Kind | Version range | Side | Found in pack |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| bettermineshafts | yungsapi | required | \[1.21.1-NeoForge-5.1.2,) | client and server | [YUNG's API (NeoForge)](y.md#mod-bdbf1de5774703ba) |
+| bettermineshafts | yungsapi | required | \[1.21.1-NeoForge-5.1.2,) | client and server | [YUNG's API (NeoForge) \[1.20.4-1.21.1 ONLY\]](y.md#mod-bdbf1de5774703ba) |
 
 **Runtime constraints**
 
@@ -198,13 +198,13 @@ Author links: [https://www.curseforge.com/minecraft/mc-mods/yungs-better-nether-
 
 Mod IDs and versions: betterfortresses 1.21.1-NeoForge-3.1.5.
 
-**Requires:** [YUNG's API (NeoForge)](y.md#mod-bdbf1de5774703ba).
+**Requires:** [YUNG's API (NeoForge) \[1.20.4-1.21.1 ONLY\]](y.md#mod-bdbf1de5774703ba).
 
 **Dependencies and integrations**
 
 | From | Dependency | Kind | Version range | Side | Found in pack |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| betterfortresses | yungsapi | required | \[1.21.1-NeoForge-5.1.4,) | client and server | [YUNG's API (NeoForge)](y.md#mod-bdbf1de5774703ba) |
+| betterfortresses | yungsapi | required | \[1.21.1-NeoForge-5.1.4,) | client and server | [YUNG's API (NeoForge) \[1.20.4-1.21.1 ONLY\]](y.md#mod-bdbf1de5774703ba) |
 
 **Runtime constraints**
 
@@ -226,13 +226,13 @@ Author links: [https://www.curseforge.com/minecraft/mc-mods/yungs-better-ocean-m
 
 Mod IDs and versions: betteroceanmonuments 1.21.1-NeoForge-4.1.2.
 
-**Requires:** [YUNG's API (NeoForge)](y.md#mod-bdbf1de5774703ba).
+**Requires:** [YUNG's API (NeoForge) \[1.20.4-1.21.1 ONLY\]](y.md#mod-bdbf1de5774703ba).
 
 **Dependencies and integrations**
 
 | From | Dependency | Kind | Version range | Side | Found in pack |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| betteroceanmonuments | yungsapi | required | \[1.21.1-NeoForge-5.1.3,) | client and server | [YUNG's API (NeoForge)](y.md#mod-bdbf1de5774703ba) |
+| betteroceanmonuments | yungsapi | required | \[1.21.1-NeoForge-5.1.3,) | client and server | [YUNG's API (NeoForge) \[1.20.4-1.21.1 ONLY\]](y.md#mod-bdbf1de5774703ba) |
 
 **Runtime constraints**
 
@@ -254,13 +254,13 @@ Author links: [https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongh
 
 Mod IDs and versions: betterstrongholds 1.21.1-NeoForge-5.1.3.
 
-**Requires:** [YUNG's API (NeoForge)](y.md#mod-bdbf1de5774703ba).
+**Requires:** [YUNG's API (NeoForge) \[1.20.4-1.21.1 ONLY\]](y.md#mod-bdbf1de5774703ba).
 
 **Dependencies and integrations**
 
 | From | Dependency | Kind | Version range | Side | Found in pack |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| betterstrongholds | yungsapi | required | \[1.21.1-NeoForge-5.1.4,) | client and server | [YUNG's API (NeoForge)](y.md#mod-bdbf1de5774703ba) |
+| betterstrongholds | yungsapi | required | \[1.21.1-NeoForge-5.1.4,) | client and server | [YUNG's API (NeoForge) \[1.20.4-1.21.1 ONLY\]](y.md#mod-bdbf1de5774703ba) |
 
 **Runtime constraints**
 
@@ -282,13 +282,13 @@ Author links: [https://www.curseforge.com/minecraft/mc-mods/yungs-better-witch-h
 
 Mod IDs and versions: betterwitchhuts 1.21.1-NeoForge-4.1.1.
 
-**Requires:** [YUNG's API (NeoForge)](y.md#mod-bdbf1de5774703ba).
+**Requires:** [YUNG's API (NeoForge) \[1.20.4-1.21.1 ONLY\]](y.md#mod-bdbf1de5774703ba).
 
 **Dependencies and integrations**
 
 | From | Dependency | Kind | Version range | Side | Found in pack |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| betterwitchhuts | yungsapi | required | \[1.21.1-NeoForge-5.1.2,) | client and server | [YUNG's API (NeoForge)](y.md#mod-bdbf1de5774703ba) |
+| betterwitchhuts | yungsapi | required | \[1.21.1-NeoForge-5.1.2,) | client and server | [YUNG's API (NeoForge) \[1.20.4-1.21.1 ONLY\]](y.md#mod-bdbf1de5774703ba) |
 
 **Runtime constraints**
 
@@ -310,13 +310,13 @@ Author links: [https://www.curseforge.com/minecraft/mc-mods/yungs-extras-neoforg
 
 Mod IDs and versions: yungsextras 1.21.1-NeoForge-5.1.1.
 
-**Requires:** [YUNG's API (NeoForge)](y.md#mod-bdbf1de5774703ba).
+**Requires:** [YUNG's API (NeoForge) \[1.20.4-1.21.1 ONLY\]](y.md#mod-bdbf1de5774703ba).
 
 **Dependencies and integrations**
 
 | From | Dependency | Kind | Version range | Side | Found in pack |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| yungsextras | yungsapi | required | \[1.21.1-NeoForge-5.1.2,) | client and server | [YUNG's API (NeoForge)](y.md#mod-bdbf1de5774703ba) |
+| yungsextras | yungsapi | required | \[1.21.1-NeoForge-5.1.2,) | client and server | [YUNG's API (NeoForge) \[1.20.4-1.21.1 ONLY\]](y.md#mod-bdbf1de5774703ba) |
 
 **Runtime constraints**
 

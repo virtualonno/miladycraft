@@ -91,11 +91,11 @@ Source: obsidianboat-neo-21.1.2+mc1.21.1.jar · META-INF/neoforge.mods.toml. Exa
 <a id="mod-b81677e4badd41ee"></a>
 ### Tide 2
 
-**[2.1](https://www.curseforge.com/projects/884685/files/8295525)** · client and server · [Source](https://www.curseforge.com/projects/884685) · [Pack entry](../../mods/tide.pw.toml)
+**[2.1.1](https://www.curseforge.com/projects/884685/files/8570111)** · client and server · [Source](https://www.curseforge.com/projects/884685) · [Pack entry](../../mods/tide.pw.toml)
 
 Expands the fishing system and adds 100+ new fish.
 
-Mod IDs and versions: tide 2.1.
+Mod IDs and versions: tide 2.1.1.
 
 **Requires:** [Cloth Config API (Fabric/Forge/NeoForge)](c.md#mod-54d6ef2c3b5058aa).
 
@@ -112,7 +112,7 @@ Mod IDs and versions: tide 2.1.
 | tide | neoforge | required | \[21,) | client and server | runtime |
 | tide | minecraft | required | 1.21.1 | client and server | runtime |
 
-Source: tide-neoforge-1.21.1-2.1.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: tide-neoforge-1.21.1-2.1.1.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-68804658aae1674e"></a>
 ### Tip of the Loom
@@ -175,11 +175,11 @@ Source: tipsmod-neoforge-1.21.1-21.1.3.jar · META-INF/neoforge.mods.toml. Exact
 <a id="mod-c3e707d696de0880"></a>
 ### Titanium
 
-**[4.0.45](https://www.curseforge.com/projects/287342/files/8426819)** · client and server · [Source](https://www.curseforge.com/projects/287342) · [Pack entry](../../mods/titanium.pw.toml)
+**[4.0.51](https://www.curseforge.com/projects/287342/files/9129904)** · client and server · [Source](https://www.curseforge.com/projects/287342) · [Pack entry](../../mods/titanium.pw.toml)
 
 A Lib
 
-Mod IDs and versions: titanium 4.0.45.
+Mod IDs and versions: titanium 4.0.51.
 
 **Used by:** [Functional Storage](f.md#mod-d340f36488053f79), [Industrial Foregoing Souls](i.md#mod-48ea09a983eb6319), [Industrial Foregoing](i.md#mod-dc7cdcd2116fe081).
 
@@ -189,7 +189,7 @@ Mod IDs and versions: titanium 4.0.45.
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | titanium | neoforge | required | \[21.0,) | client and server | runtime |
 
-Source: titanium-1.21-4.0.45.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: titanium-1.21-4.0.51.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-de8256fbad748d7e"></a>
 ### TNTUtils
@@ -253,20 +253,20 @@ Source: toofast-1.21.0-0.4.3.6.jar · META-INF/neoforge.mods.toml. Exact descrip
 <a id="mod-dc6277d9fee879b2"></a>
 ### Torchmaster
 
-**[21.1.9](https://www.curseforge.com/projects/254268/files/7197218)** · client and server · [Source](https://www.curseforge.com/projects/254268) · [Pack entry](../../mods/torchmaster.pw.toml)
+**[21.1.13](https://www.curseforge.com/projects/254268/files/8949981)** · client and server · [Source](https://www.curseforge.com/projects/254268) · [Pack entry](../../mods/torchmaster.pw.toml)
 
 Special lamp and torch which prevents mob spawning.
 
-Mod IDs and versions: torchmaster 21.1.9.
+Mod IDs and versions: torchmaster 21.1.13.
 
 **Runtime constraints**
 
 | From | Dependency | Kind | Version range | Side | Found in pack |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | torchmaster | neoforge | required | \[21.1.41,) | client and server | runtime |
-| torchmaster | minecraft | required | \[1.21.1, 1.22) | client and server | runtime |
+| torchmaster | minecraft | required | \[1.21.1\] | client and server | runtime |
 
-Source: torchmaster-neoforge-1.21.1-21.1.9.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: torchmaster-neoforge-1.21.1-21.1.13.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-99321ad49da1b481"></a>
 ### Touhou Little Maid
@@ -299,13 +299,13 @@ Source: touhoulittlemaid-1.5.3-neoforge+mc1.21.1.jar · META-INF/neoforge.mods.t
 <a id="mod-d3893eb1395e1a98"></a>
 ### Trade Cycling
 
-**[1.21.1-1.0.18](https://www.curseforge.com/projects/570431/files/6497876)** · client and server · [Source](https://www.curseforge.com/projects/570431) · [Pack entry](../../mods/trade-cycling.pw.toml)
+**[1.21.1-1.0.23](https://www.curseforge.com/projects/570431/files/9155549)** · client and server · [Source](https://www.curseforge.com/projects/570431) · [Pack entry](../../mods/trade-cycling.pw.toml)
 
 The trade cycling functionality from Easy Villagers.
 
 Author links: [https://www.curseforge.com/minecraft/mc-mods/trade-cycling](https://www.curseforge.com/minecraft/mc-mods/trade-cycling)
 
-Mod IDs and versions: trade\_cycling 1.21.1-1.0.18.
+Mod IDs and versions: trade\_cycling 1.21.1-1.0.23.
 
 **Runtime constraints**
 
@@ -314,7 +314,7 @@ Mod IDs and versions: trade\_cycling 1.21.1-1.0.18.
 | trade\_cycling | neoforge | required | \[21.0.0-beta,) | client and server | runtime |
 | trade\_cycling | minecraft | required | \[1.21,1.21.1\] | client and server | runtime |
 
-Source: trade-cycling-neoforge-1.21.1-1.0.18.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: trade-cycling-neoforge-1.21.1-1.0.23.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-1d735548513da38d"></a>
 ### Transmog
@@ -414,17 +414,19 @@ Source: trofers-neoforge-8.0.1.jar · META-INF/neoforge.mods.toml. Exact descrip
 <a id="mod-2fca037dc6b6bcf9"></a>
 ### TslatEntityStatus (TES)
 
-**[1.8.3](https://www.curseforge.com/projects/830420/files/7115952)** · client and server · [Source](https://www.curseforge.com/projects/830420) · [Pack entry](../../mods/tslatentitystatus-tes.pw.toml)
+**[1.8.5](https://www.curseforge.com/projects/830420/files/8987787)** · client and server · [Source](https://www.curseforge.com/projects/830420) · [Pack entry](../../mods/tslatentitystatus-tes.pw.toml)
 
 View entity health and other statuses. Make smacking things fun again!
 
-Mod IDs and versions: tslatentitystatus 1.8.3.
+Author links: [https://www.curseforge.com/minecraft/mc-mods/tslatentitystatus-tes](https://www.curseforge.com/minecraft/mc-mods/tslatentitystatus-tes)
+
+Mod IDs and versions: tslatentitystatus 1.8.5.
 
 **Runtime constraints**
 
 | From | Dependency | Kind | Version range | Side | Found in pack |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| tslatentitystatus | neoforge | required | \[21.1.0,) | client and server | runtime |
+| tslatentitystatus | neoforge | required | \[21.1.200,) | client and server | runtime |
 | tslatentitystatus | minecraft | required | \[1.21,) | client and server | runtime |
 
-Source: TES-neoforge-1.21.1-1.8.3.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: tslatentitystatus-neoforge-1.21.1-1.8.5.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.

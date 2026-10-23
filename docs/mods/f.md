@@ -5,11 +5,11 @@
 <a id="mod-c0e875d8d3fa9eb1"></a>
 ### Falling Leaves (NeoForge/Forge)
 
-**[2.5.1](https://www.curseforge.com/projects/463155/files/6240977)** · client only · [Source](https://www.curseforge.com/projects/463155) · [Pack entry](../../mods/falling-leaves-forge.pw.toml)
+**[1.21.1-2.6.0](https://www.curseforge.com/projects/463155/files/9225531)** · client only · [Source](https://www.curseforge.com/projects/463155) · [Pack entry](../../mods/falling-leaves-forge.pw.toml)
 
 How the gentle wind beckons through the leaves as autumn colors fall, dancing in a swirl of golden memories: the loveliest lies of all.
 
-Mod IDs and versions: fallingleaves 2.5.1.
+Mod IDs and versions: fallingleaves 1.21.1-2.6.0.
 
 **Runtime constraints**
 
@@ -18,18 +18,18 @@ Mod IDs and versions: fallingleaves 2.5.1.
 | fallingleaves | neoforge | required | \[21.1.80,) | client only | runtime |
 | fallingleaves | minecraft | required | \[1.21.1,1.21.2) | client only | runtime |
 
-Source: fallingleaves-1.21.1-2.5.1.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: fallingleaves-1.21.1-2.6.0.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-62dd93a2107eac78"></a>
 ### Farmer's Delight
 
-**[1.3.2](https://modrinth.com/project/R2OftAxM/version/GbNuOZ4S)** · client and server · [Source](https://modrinth.com/project/R2OftAxM) · [Pack entry](../../mods/farmers-delight.pw.toml)
+**[1.3.4](https://modrinth.com/project/R2OftAxM/version/XTVZDOol)** · client and server · [Source](https://modrinth.com/project/R2OftAxM) · [Pack entry](../../mods/farmers-delight.pw.toml)
 
 A cozy farming and cooking expansion for Minecraft!
 
 Author links: [https://github.com/vectorwing/FarmersDelight](https://github.com/vectorwing/FarmersDelight)
 
-Mod IDs and versions: farmersdelight 1.3.2.
+Mod IDs and versions: farmersdelight 1.3.4.
 
 **Optional integrations:** crafttweaker (not in this catalogue).
 
@@ -50,16 +50,16 @@ Mod IDs and versions: farmersdelight 1.3.2.
 | farmersdelight | neoforge | required | \[21.1.219,) | client and server | runtime |
 | farmersdelight | minecraft | required | \[1.21.1\] | client and server | runtime |
 
-Source: FarmersDelight-1.21.1-1.3.2.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: FarmersDelight-1.21.1-1.3.4.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-c693ce721267a485"></a>
 ### Farsight \[Forge/Neo\]
 
-**[5.1](https://www.curseforge.com/projects/495693/files/8192566)** · client and server · [Source](https://www.curseforge.com/projects/495693) · [Pack entry](../../mods/farsight.pw.toml)
+**[5.5](https://www.curseforge.com/projects/495693/files/8874976)** · client and server · [Source](https://www.curseforge.com/projects/495693) · [Pack entry](../../mods/farsight.pw.toml)
 
 Simple efficient mod to yield higher view distances on client side, regardless of serverside settings
 
-Mod IDs and versions: farsight\_view 5.1.
+Mod IDs and versions: farsight\_view 5.5.
 
 **Requires:** [Cupboard](c.md#mod-409f0bf4c2d1dc3b).
 
@@ -76,18 +76,18 @@ Mod IDs and versions: farsight\_view 5.1.
 | farsight\_view | neoforge | required | \[20,) | client and server | runtime |
 | farsight\_view | minecraft | required | \[1.21,1.30) | client and server | runtime |
 
-Source: farsight-1.21.1-5.1.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: farsight-1.21.1-5.5.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-a75cb8f8313f67f3"></a>
 ### Fast IP Ping
 
-**[1.0.11](https://www.curseforge.com/projects/904356/files/7936390)** · client only · [Source](https://www.curseforge.com/projects/904356) · [Pack entry](../../mods/fast-ip-ping.pw.toml)
+**[1.0.12](https://www.curseforge.com/projects/904356/files/8905303)** · client only · [Source](https://www.curseforge.com/projects/904356) · [Pack entry](../../mods/fast-ip-ping.pw.toml)
 
 Yeet the laggy reversed DNS lookup for literal IP server addresses
 
 Author links: [https://github.com/Fallen-Breath/fast-ip-ping](https://github.com/Fallen-Breath/fast-ip-ping)
 
-Mod IDs and versions: fastipping 1.0.11.
+Mod IDs and versions: fastipping 1.0.12.
 
 **Runtime constraints**
 
@@ -95,18 +95,18 @@ Mod IDs and versions: fastipping 1.0.11.
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | fastipping | minecraft | required | \[1.21, 1.21.1\] | client only | runtime |
 
-Source: fast-ip-ping-v1.0.11-mc1.21.1-neoforge.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: fast-ip-ping-v1.0.12-mc1.21.1-neoforge.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-85b9efe6b5aab508"></a>
 ### Fast Paintings
 
-**[1.21-1.3.0](https://www.curseforge.com/projects/883287/files/7305762)** · client and server · [Source](https://www.curseforge.com/projects/883287) · [Pack entry](../../mods/fast-paintings.pw.toml)
+**[1.21-1.3.1](https://www.curseforge.com/projects/883287/files/8975088)** · client and server · [Source](https://www.curseforge.com/projects/883287) · [Pack entry](../../mods/fast-paintings.pw.toml)
 
 Makes paintings way faster by turning them into blocks! Also allows customizing their model
 
 Author links: [https://www.curseforge.com/minecraft/mc-mods/fast-paintings](https://www.curseforge.com/minecraft/mc-mods/fast-paintings)
 
-Mod IDs and versions: fastpaintings 1.21-1.3.0.
+Mod IDs and versions: fastpaintings 1.21-1.3.1.
 
 **Requires:** [Moonlight Lib](m.md#mod-f3a3b87b30d6d78f).
 
@@ -120,10 +120,10 @@ Mod IDs and versions: fastpaintings 1.21-1.3.0.
 
 | From | Dependency | Kind | Version range | Side | Found in pack |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| fastpaintings | neoforge | required | \[4,) | client and server | runtime |
-| fastpaintings | minecraft | required | \[1.21,1.22) | client and server | runtime |
+| fastpaintings | neoforge | required | \* | client and server | runtime |
+| fastpaintings | minecraft | required | \[1.21.1\] | client and server | runtime |
 
-Source: fastpaintings-1.21-1.3.0-neoforge.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: fastpaintings-1.21-1.3.1-neoforge.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-c7b84304520375ec"></a>
 ### FastSuite
@@ -283,13 +283,13 @@ Source: formations-1.0.4-neoforge-mc1.21.jar · META-INF/neoforge.mods.toml. Exa
 <a id="mod-b4411735292f11d1"></a>
 ### Formations Nether
 
-**[1.0.5+a](https://www.curseforge.com/projects/918840/files/8451735)** · client and server · [Source](https://www.curseforge.com/projects/918840) · [Pack entry](../../mods/formations-nether.pw.toml)
+**[1.0.5+b](https://www.curseforge.com/projects/918840/files/8858626)** · client and server · [Source](https://www.curseforge.com/projects/918840) · [Pack entry](../../mods/formations-nether.pw.toml)
 
 Formations Nether adds plenty of new structures to the nether!
 
 Author links: [https://legacy.curseforge.com/minecraft/mc-mods/formations-nether](https://legacy.curseforge.com/minecraft/mc-mods/formations-nether)
 
-Mod IDs and versions: formationsnether 1.0.5+a.
+Mod IDs and versions: formationsnether 1.0.5+b.
 
 **Requires:** [Formations (Structure Library)](f.md#mod-d0939c4124bae7c4).
 
@@ -305,18 +305,18 @@ Mod IDs and versions: formationsnether 1.0.5+a.
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | formationsnether | minecraft | required | \>=1.21 | client and server | runtime |
 
-Source: formationsnether-1.0.5a-mc1.21+.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: formationsnether-1.0.5b-mc1.21+.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-8f7cc61a7303d389"></a>
 ### Formations Overworld
 
-**[1.0.5+a](https://www.curseforge.com/projects/915324/files/8457252)** · client and server · [Source](https://www.curseforge.com/projects/915324) · [Pack entry](../../mods/formations-overworld.pw.toml)
+**[1.0.5+c](https://www.curseforge.com/projects/915324/files/8897484)** · client and server · [Source](https://www.curseforge.com/projects/915324) · [Pack entry](../../mods/formations-overworld.pw.toml)
 
 Formations Overworld adds plenty of new structures to the overworld!
 
 Author links: [https://legacy.curseforge.com/minecraft/mc-mods/formations-overworld](https://legacy.curseforge.com/minecraft/mc-mods/formations-overworld)
 
-Mod IDs and versions: formationsoverworld 1.0.5+a.
+Mod IDs and versions: formationsoverworld 1.0.5+c.
 
 **Requires:** [Formations (Structure Library)](f.md#mod-d0939c4124bae7c4).
 
@@ -332,18 +332,18 @@ Mod IDs and versions: formationsoverworld 1.0.5+a.
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | formationsoverworld | minecraft | required | \>=1.21 | client and server | runtime |
 
-Source: formationsoverworld-1.0.5a-mc1.21+.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: formationsoverworld-1.0.5c-mc1.21+.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-5579653fb727d7c9"></a>
 ### FramedBlocks
 
-**[10.6.1](https://www.curseforge.com/projects/441647/files/8349218)** · client and server · [Source](https://www.curseforge.com/projects/441647) · [Pack entry](../../mods/framedblocks.pw.toml)
+**[10.6.3](https://www.curseforge.com/projects/441647/files/9137677)** · client and server · [Source](https://www.curseforge.com/projects/441647) · [Pack entry](../../mods/framedblocks.pw.toml)
 
 Fancy building blocks
 
 Author links: [https://www.curseforge.com/minecraft/mc-mods/framedblocks](https://www.curseforge.com/minecraft/mc-mods/framedblocks)
 
-Mod IDs and versions: framedblocks 10.6.1.
+Mod IDs and versions: framedblocks 10.6.3.
 
 **Optional integrations:** [Athena](a.md#mod-3e9f570d9ccec11e), [AtlasViewer](a.md#mod-2d9f7c73827f354c), buildinggadgets (not in this catalogue), create (not in this catalogue), diagonalblocks (not in this catalogue), emi (not in this catalogue), [Just Enough Items (JEI)](j.md#mod-1004006ccdc38261), rei (not in this catalogue), [Amendments](a.md#mod-bd590d768da86c55), [Applied Energistics 2](a.md#mod-86db8a3a805756c2), [Searchables](s.md#mod-5680b1c16b1b0611), additionalplacements (not in this catalogue).
 
@@ -357,7 +357,7 @@ Mod IDs and versions: framedblocks 10.6.1.
 | framedblocks | create | optional | \[6.0.2,) | client and server | not indexed |
 | framedblocks | diagonalblocks | optional | \[21.1.0,) | client and server | not indexed |
 | framedblocks | emi | optional | \[1.1.22,) | client and server | not indexed |
-| framedblocks | jei | optional | \[19.21.0.247,) | client and server | [Just Enough Items (JEI)](j.md#mod-1004006ccdc38261) |
+| framedblocks | jei | optional | \[19.32.0.358,) | client and server | [Just Enough Items (JEI)](j.md#mod-1004006ccdc38261) |
 | framedblocks | rei | optional | \[16.0.744,) | client and server | not indexed |
 | framedblocks | amendments | optional | \[1.21-1.2.24,) | client and server | [Amendments](a.md#mod-bd590d768da86c55) |
 | framedblocks | ae2 | optional | \[19.0.19-beta,) | client and server | [Applied Energistics 2](a.md#mod-86db8a3a805756c2) |
@@ -369,9 +369,9 @@ Mod IDs and versions: framedblocks 10.6.1.
 | From | Dependency | Kind | Version range | Side | Found in pack |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | framedblocks | neoforge | required | \[21.1.205,) | client and server | runtime |
-| framedblocks | minecraft | required | \[1.21,) | client and server | runtime |
+| framedblocks | minecraft | required | \[1.21.1,1.21.2) | client and server | runtime |
 
-Source: FramedBlocks-10.6.1.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: FramedBlocks-10.6.3.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-c4b2f6fcc346a545"></a>
 ### Framework
@@ -400,11 +400,11 @@ Source: framework-neoforge-1.21.1-0.13.11.jar · META-INF/neoforge.mods.toml. Ex
 <a id="mod-0a04288befe8cffd"></a>
 ### FTB Chunks (NeoForge)
 
-**[2101.1.21](https://www.curseforge.com/projects/314906/files/8520252)** · client and server · [Source](https://www.curseforge.com/projects/314906) · [Pack entry](../../mods/ftb-chunks-forge.pw.toml)
+**[2101.1.22](https://www.curseforge.com/projects/314906/files/8791113)** · client and server · [Source](https://www.curseforge.com/projects/314906) · [Pack entry](../../mods/ftb-chunks-forge.pw.toml)
 
 Claim chunks to protect your base from griefers!
 
-Mod IDs and versions: ftbchunks 2101.1.21.
+Mod IDs and versions: ftbchunks 2101.1.22.
 
 **Requires:** [Architectury API](a.md#mod-4cfd8b50282756a6), [FTB Library (NeoForge)](f.md#mod-93aa9bf9b2685b99), [FTB Teams (NeoForge)](f.md#mod-dcd05bd3f264bab8).
 
@@ -428,7 +428,7 @@ Mod IDs and versions: ftbchunks 2101.1.21.
 | ftbchunks | neoforge | required | \[21.1.0,) | client and server | runtime |
 | ftbchunks | minecraft | required | \[1.21.1,) | client and server | runtime |
 
-Source: ftb-chunks-neoforge-2101.1.21.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: ftb-chunks-neoforge-2101.1.22.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-c2eae9cf2ba6e795"></a>
 ### FTB Essentials (Forge & Fabric)
@@ -524,11 +524,11 @@ Source: ftb-library-neoforge-2101.1.34.jar · META-INF/neoforge.mods.toml. Exact
 <a id="mod-54cc90efd0350c46"></a>
 ### FTB Quests (NeoForge)
 
-**[2101.1.28](https://www.curseforge.com/projects/289412/files/8520042)** · client and server · [Source](https://www.curseforge.com/projects/289412) · [Pack entry](../../mods/ftb-quests-forge.pw.toml)
+**[2101.1.29](https://www.curseforge.com/projects/289412/files/8534556)** · client and server · [Source](https://www.curseforge.com/projects/289412) · [Pack entry](../../mods/ftb-quests-forge.pw.toml)
 
 Lets you easily create and play with quests
 
-Mod IDs and versions: ftbquests 2101.1.28.
+Mod IDs and versions: ftbquests 2101.1.29.
 
 **Requires:** [Architectury API](a.md#mod-4cfd8b50282756a6), [FTB Library (NeoForge)](f.md#mod-93aa9bf9b2685b99), [FTB Teams (NeoForge)](f.md#mod-dcd05bd3f264bab8).
 
@@ -554,16 +554,16 @@ Mod IDs and versions: ftbquests 2101.1.28.
 | ftbquests | neoforge | required | \[21.1.0,) | client and server | runtime |
 | ftbquests | minecraft | required | \[1.21.1,) | client and server | runtime |
 
-Source: ftb-quests-neoforge-2101.1.28.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: ftb-quests-neoforge-2101.1.29.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-c2e3e8de75f4ba3f"></a>
 ### FTB Ranks (NeoForge)
 
-**[2101.1.4](https://www.curseforge.com/projects/314905/files/8519426)** · client and server · [Source](https://www.curseforge.com/projects/314905) · [Pack entry](../../mods/ftb-ranks-forge.pw.toml)
+**[2101.1.5](https://www.curseforge.com/projects/314905/files/8878560)** · client and server · [Source](https://www.curseforge.com/projects/314905) · [Pack entry](../../mods/ftb-ranks-forge.pw.toml)
 
 A simple mod that lets you create ranks for players, similar to Discord roles, and manage permissions for them
 
-Mod IDs and versions: ftbranks 2101.1.4.
+Mod IDs and versions: ftbranks 2101.1.5.
 
 **Requires:** [Architectury API](a.md#mod-4cfd8b50282756a6), [FTB Library (NeoForge)](f.md#mod-93aa9bf9b2685b99).
 
@@ -583,20 +583,22 @@ Mod IDs and versions: ftbranks 2101.1.4.
 | ftbranks | neoforge | required | \[21.1.0,) | client and server | runtime |
 | ftbranks | minecraft | required | \[1.21.1,) | client and server | runtime |
 
-Source: ftb-ranks-neoforge-2101.1.4.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: ftb-ranks-neoforge-2101.1.5.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-dcd05bd3f264bab8"></a>
 ### FTB Teams (NeoForge)
 
-**[2101.1.10](https://www.curseforge.com/projects/404468/files/7878281)** · client and server · [Source](https://www.curseforge.com/projects/404468) · [Pack entry](../../mods/ftb-teams-forge.pw.toml)
+**[2101.1.11](https://www.curseforge.com/projects/404468/files/8724782)** · client and server · [Source](https://www.curseforge.com/projects/404468) · [Pack entry](../../mods/ftb-teams-forge.pw.toml)
 
 FTB Teams adds ability to create your own teams that can be used for quests etc.
 
-Mod IDs and versions: ftbteams 2101.1.10.
+Mod IDs and versions: ftbteams 2101.1.11.
 
 **Requires:** [Architectury API](a.md#mod-4cfd8b50282756a6), [FTB Library (NeoForge)](f.md#mod-93aa9bf9b2685b99).
 
 **Used by:** [FTB Chunks (NeoForge)](f.md#mod-0a04288befe8cffd), [FTB Quests (NeoForge)](f.md#mod-54cc90efd0350c46).
+
+**Optional dependency of:** [EnderDrives](e.md#mod-1be4ddf6cd3e7111).
 
 **Dependencies and integrations**
 
@@ -612,7 +614,7 @@ Mod IDs and versions: ftbteams 2101.1.10.
 | ftbteams | neoforge | required | \[21.1.0,) | client and server | runtime |
 | ftbteams | minecraft | required | \[1.21.1,) | client and server | runtime |
 
-Source: ftb-teams-neoforge-2101.1.10.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: ftb-teams-neoforge-2101.1.11.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-63a04740c701445e"></a>
 ### FTB XMod Compat
@@ -684,13 +686,13 @@ Source: functionalstorage-1.21.1-1.5.8.jar · META-INF/neoforge.mods.toml. Exact
 <a id="mod-4f1226cf1bfbc5c9"></a>
 ### Fusion (Connected Textures)
 
-**[1.3.9](https://www.curseforge.com/projects/854949/files/8479774)** · client and server · [Source](https://www.curseforge.com/projects/854949) · [Pack entry](../../mods/fusion-connected-textures.pw.toml)
+**[1.3.16](https://www.curseforge.com/projects/854949/files/9070353)** · client and server · [Source](https://www.curseforge.com/projects/854949) · [Pack entry](../../mods/fusion-connected-textures.pw.toml)
 
 Fusion allows resource packs to use additional texture and model types such as connected textures!
 
 Author links: [https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures](https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures)
 
-Mod IDs and versions: fusion 1.3.9.
+Mod IDs and versions: fusion 1.3.16.
 
 **Used by:** [Rechiseled](r.md#mod-b774e70b0a7b89c7).
 
@@ -701,20 +703,20 @@ Mod IDs and versions: fusion 1.3.9.
 | fusion | neoforge | required | \[21.0.78-beta,) | client and server | runtime |
 | fusion | minecraft | required | \[1.21,1.21.2) | client and server | runtime |
 
-Source: fusion-1.3.9-neoforge-mc1.21.1.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: fusion-1.3.16-neoforge-mc1.21.1.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-22255d7f3d4964f7"></a>
 ### Fzzy Config
 
-**[0.7.6+1.21+neoforge](https://www.curseforge.com/projects/1005914/files/7568897)** · client and server · [Source](https://www.curseforge.com/projects/1005914) · [Pack entry](../../mods/fzzy-config.pw.toml)
+**[0.7.7+1.21+neoforge](https://www.curseforge.com/projects/1005914/files/8883390)** · client and server · [Source](https://www.curseforge.com/projects/1005914) · [Pack entry](../../mods/fzzy-config.pw.toml)
 
 Configuration engine with automatic GUI generation, client-server syncing, powerful validation and error handling, and much more.
 
-Mod IDs and versions: fzzy\_config 0.7.6+1.21+neoforge.
+Mod IDs and versions: fzzy\_config 0.7.7+1.21+neoforge.
 
 **Requires:** [Kotlin for Forge (bundled)](k.md#mod-4fa3a40ab0884ca8).
 
-**Used by:** [Immersive Paintings](i.md#mod-b902f0e528d3fa54), [Misc Tweaks](m.md#mod-169b4446445d3424).
+**Used by:** [Immersive Paintings](i.md#mod-b902f0e528d3fa54), [Misc Tweaks](m.md#mod-169b4446445d3424), [Simple Music Control](s.md#mod-0774b3f3043176d4).
 
 **Dependencies and integrations**
 
@@ -729,4 +731,4 @@ Mod IDs and versions: fzzy\_config 0.7.6+1.21+neoforge.
 | fzzy\_config | neoforge | required | \[21.0.0-beta,) | client and server | runtime |
 | fzzy\_config | minecraft | required | \[1.21,) | client and server | runtime |
 
-Source: fzzy\_config-0.7.6+1.21+neoforge.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: fzzy\_config-0.7.7+1.21+neoforge.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.

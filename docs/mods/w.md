@@ -5,13 +5,13 @@
 <a id="mod-3d83f6dd61ba7abf"></a>
 ### Waystones
 
-**[21.1.38](https://www.curseforge.com/projects/245755/files/8498220)** · client and server · [Source](https://www.curseforge.com/projects/245755) · [Pack entry](../../mods/waystones.pw.toml)
+**[21.1.46](https://www.curseforge.com/projects/245755/files/8969751)** · client and server · [Source](https://www.curseforge.com/projects/245755) · [Pack entry](../../mods/waystones.pw.toml)
 
 Teleport back to activated waystones. For Survival, Adventure or Servers.
 
 Author links: [https://mods.twelveiterations.com/minecraft/waystones](https://mods.twelveiterations.com/minecraft/waystones)
 
-Mod IDs and versions: waystones 21.1.38.
+Mod IDs and versions: waystones 21.1.46.
 
 **Requires:** [Balm](b.md#mod-495e057479bfe168).
 
@@ -30,7 +30,7 @@ Mod IDs and versions: waystones 21.1.38.
 | waystones | neoforge | required | \[21-beta,) | client and server | runtime |
 | waystones | minecraft | required | \[1.21,) | client and server | runtime |
 
-Source: waystones-neoforge-1.21.1-21.1.38.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: waystones-neoforge-1.21.1-21.1.46.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-8c7d69f4619d7c59"></a>
 ### What The Bucket
