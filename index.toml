@@ -81,8 +81,16 @@ file = "config/irons_rpg_tweaks-server.toml"
 hash = "cf4a4f27154d6dd7297a5003a8cc2b6f04014b102faa3ad8969a750cc8807e86"
 
 [[files]]
+file = "config/limitedchunks.json"
+hash = "d688dce7bef8d02e84542346ad57f5dd7dc69f24f752600738b298c7e8f6512b"
+
+[[files]]
 file = "config/lmft.json"
 hash = "2a2ee19297afe3fc512f5cbe639349847f3e7a74616f282d24a179a17f4559ed"
+
+[[files]]
+file = "config/moonedit-server.toml"
+hash = "54dee9523140b07158a88d6a62064323c46b4d143dd82e1a19f113da8db39b2b"
 
 [[files]]
 file = "config/neruina.json"
@@ -1483,6 +1491,11 @@ metafile = true
 [[files]]
 file = "mods/monocle.pw.toml"
 hash = "ba39542bb01ef9aba6f237050f9c38835907e2012b5458b7334e5e846c9aef95"
+metafile = true
+
+[[files]]
+file = "mods/moonedit.pw.toml"
+hash = "1b67bc570a970b7ae36d60aa482cb69d577f08335f604dad855ebad3b98597d3"
 metafile = true
 
 [[files]]

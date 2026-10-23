@@ -4,6 +4,26 @@
 
 Release records preserve exact pack inputs. Recording a release does not assert that it has been deployed or published. Earlier unrecorded updates have not been reconstructed.
 
+## 1.6.0-alpha-2026-10-23-4 · 2026-10-23
+
+Pack 1.6.0-alpha · [Recorded mod catalogue](modlist/1.6.0-alpha-2026-10-23-4.md) · [Snapshot](../changelogs/snapshots/1.6.0-alpha-2026-10-23-4.json)
+
+Adds moonedit 0.1.0-alpha.1, the lab's server-side building and terrain editor, to the SMP and DEV servers. It is for server operators only and changes nothing for players: clients do not download it and need no update for it.
+
+- Operators type sentences after `/mo` (select, fill, swap, copy, paste, move, stack, undo and more); edits run in the background while the server keeps ticking. WorldEdit stays installed for now.
+- Builds saved with `/mo save as <name>` on one server can be loaded with `/mo load <name>` on the other, so operators can move builds from the SMP to DEV.
+- Limited Chunkloading no longer expires the chunk tickets moonedit and vanilla `/forceload` use; with no player near, those chunks were unloaded moments after loading, which broke large edits and forceloaded chunks.
+
+### Added
+
+- [moonedit](https://github.com/virtualonno/miladycraft/releases/download/moonedit-0.1.0-alpha.1/moonedit-neoforge-1.21.1-0.1.0-alpha.1.jar): [0.1.0-alpha.1](https://github.com/virtualonno/miladycraft/releases/download/moonedit-0.1.0-alpha.1/moonedit-neoforge-1.21.1-0.1.0-alpha.1.jar).
+
+### Configuration and other pack files
+
+- Added: config/limitedchunks.json.
+- Added: config/moonedit-server.toml.
+
+
 ## 1.6.0-alpha-2026-10-23-3 · 2026-10-23
 
 Pack 1.6.0-alpha · [Recorded mod catalogue](modlist/1.6.0-alpha-2026-10-23-3.md) · [Snapshot](../changelogs/snapshots/1.6.0-alpha-2026-10-23-3.json)

@@ -288,6 +288,24 @@ Mod IDs and versions: monocle\_locator 0.2.1.ms.
 
 Source: monocle-0.2.1.ms.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
+<a id="mod-268599eacbc0d97e"></a>
+### moonedit
+
+**[0.1.0-alpha.1](https://github.com/virtualonno/miladycraft/releases/download/moonedit-0.1.0-alpha.1/moonedit-neoforge-1.21.1-0.1.0-alpha.1.jar)** · server only · [Source](https://github.com/virtualonno/miladycraft/releases/download/moonedit-0.1.0-alpha.1/moonedit-neoforge-1.21.1-0.1.0-alpha.1.jar) · [Pack entry](../../mods/moonedit.pw.toml)
+
+Fast building and terrain editing for server operators.
+
+Mod IDs and versions: moonedit 0.1.0-alpha.1.
+
+**Runtime constraints**
+
+| From | Dependency | Kind | Version range | Side | Found in pack |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| moonedit | neoforge | required | \[21.1.244,21.2) | client and server | runtime |
+| moonedit | minecraft | required | \[1.21.1,1.21.2) | client and server | runtime |
+
+Source: moonedit-neoforge-1.21.1-0.1.0-alpha.1.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+
 <a id="mod-f3a3b87b30d6d78f"></a>
 ### Moonlight Lib
 

@@ -1,0 +1,10 @@
+{
+  "date": "2026-10-23",
+  "id": "1.6.0-alpha-2026-10-23-4",
+  "notes": "Adds moonedit 0.1.0-alpha.1, the lab's server-side building and terrain editor, to the SMP and DEV servers. It is for server operators only and changes nothing for players: clients do not download it and need no update for it.\n\n- Operators type sentences after `/mo` (select, fill, swap, copy, paste, move, stack, undo and more); edits run in the background while the server keeps ticking. WorldEdit stays installed for now.\n- Builds saved with `/mo save as <name>` on one server can be loaded with `/mo load <name>` on the other, so operators can move builds from the SMP to DEV.\n- Limited Chunkloading no longer expires the chunk tickets moonedit and vanilla `/forceload` use; with no player near, those chunks were unloaded moments after loading, which broke large edits and forceloaded chunks.",
+  "previous": "1.6.0-alpha-2026-10-23-3",
+  "schema": "smoothstone.pack_release.v1",
+  "sequence": 5,
+  "snapshot": "changelogs/snapshots/1.6.0-alpha-2026-10-23-4.json",
+  "snapshot_sha256": "9369d5c140de8083f40583364d98474967c82373b670ba50cb2d2f3d5b671712"
+}

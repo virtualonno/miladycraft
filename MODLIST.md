@@ -2,7 +2,7 @@
 
 Pack **1.6.0-alpha** · minecraft **1.21.1** · neoforge **21.1.264**
 
-361 mods. Choose a name below to see its description and dependencies. [Changelog](changelogs/CHANGELOG.md) · [PDF](docs/MODLIST.pdf) · [Source metadata](docs/catalogue.json)
+362 mods. Choose a name below to see its description and dependencies. [Changelog](changelogs/CHANGELOG.md) · [PDF](docs/MODLIST.pdf) · [Source metadata](docs/catalogue.json)
 
 ## Index
 
@@ -231,6 +231,7 @@ Pack **1.6.0-alpha** · minecraft **1.21.1** · neoforge **21.1.264**
 | [Model Gap Fix](docs/mods/m.md#mod-710f0a171edb995c) · [page](https://www.curseforge.com/projects/676136) | [1.21-1.10](https://www.curseforge.com/projects/676136/files/5591286) | client only | Removes small gaps in item and block models |
 | [ModernFix](docs/mods/m.md#mod-335300a471217627) · [page](https://www.curseforge.com/projects/790626) | [5.27.26+mc1.21.1](https://www.curseforge.com/projects/790626/files/9101836) | client and server | Egregious, yet effective performance improvements for modern Minecraft |
 | [Monocle](docs/mods/m.md#mod-551dbf31e5df9d2d) · [page](https://www.curseforge.com/projects/1007288) | [0.2.1.ms](https://www.curseforge.com/projects/1007288/files/6558728) | client only | Locator for Monocle |
+| [moonedit](docs/mods/m.md#mod-268599eacbc0d97e) · [page](https://github.com/virtualonno/miladycraft/releases/download/moonedit-0.1.0-alpha.1/moonedit-neoforge-1.21.1-0.1.0-alpha.1.jar) | [0.1.0-alpha.1](https://github.com/virtualonno/miladycraft/releases/download/moonedit-0.1.0-alpha.1/moonedit-neoforge-1.21.1-0.1.0-alpha.1.jar) | server only | Fast building and terrain editing for server operators. |
 | [Moonlight Lib](docs/mods/m.md#mod-f3a3b87b30d6d78f) · [page](https://www.curseforge.com/projects/499980) | [1.21.1-3.7.2](https://www.curseforge.com/projects/499980/files/9122548) | client and server | A small library with many cool unique features, from dynamic asset generation to dynamic villager schedules, data driven trades and Map Markers, simple multi loader… |
 | [More Dragon Eggs](docs/mods/m.md#mod-7f700241af45263b) · [page](https://www.curseforge.com/projects/358700) | [5.0](https://www.curseforge.com/projects/358700/files/5746086) | client and server | This mod makes it so a dragon egg spawns every time the dragon dies. |
 | [More Functional Storage](docs/mods/m.md#mod-0822ce542daf0127) · [page](https://www.curseforge.com/projects/1166695) | [1.2.3](https://www.curseforge.com/projects/1166695/files/7090881) | client and server | Addon for Functional Storage that adds more upgrades |
