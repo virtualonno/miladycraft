@@ -21,9 +21,10 @@ not a TeX toolchain or renderer.
    filenames; it cannot infer what a script change means for players.
 4. Record a new release, build the PDF, and run the offline check. Choose a
    unique release ID even when `pack.toml` retains the same alpha version.
-5. Commit the complete candidate. Follow the established materialize, server
-   smoke, activation and publication flow. Documentation does not replace
-   gameplay verification or prove that a release is deployed.
+5. Commit the complete candidate and push it. The servers install their branch
+   with packwiz when they restart, as players do when they launch: DEV's
+   `miladycraft-dev` first, then `master` for the SMP. Documentation does not
+   replace gameplay verification or prove that a release is deployed.
 
 From this repository root:
 
@@ -95,9 +96,8 @@ git -C operations/miladycraft/pack worktree add ../pack-dev miladycraft-dev   # 
   --packwiz operations/miladycraft/pack/packwiz.exe --apply
 ```
 
-Re-derive after every change to this pack, so the variant follows it. Prove a
-derived variant like any release (materialize, smoke, deploy) before pushing
-its branch. Promoting a trial mod moves its file from the overlay to `mods/`.
+Re-derive after every change to this pack, so the variant follows it, and push
+its branch before the SMP's: DEV starts a change first. Promoting a trial mod moves its file from the overlay to `mods/`.
 The `miladycraft-dev` variant is the pack of the DEV server (the SMP runs this
 pack) and installs from
 `https://raw.githubusercontent.com/virtualonno/miladycraft/miladycraft-dev/pack.toml`.
