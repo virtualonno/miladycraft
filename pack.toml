@@ -1,11 +1,11 @@
 name = "Miladycraft Dev"
-version = "1.6.0-alpha+dev.220b519"
+version = "1.6.0-alpha+dev.390720d"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b83d57c6bd633835794661d4fde3840cb8d2954fbe19e030ae9f189af1419e99"
+hash = "4651dadbbb8ed47e4ec23089ebe74cf712c3506697df4920effca8699602cf75"
 
 [versions]
 minecraft = "1.21.1"
