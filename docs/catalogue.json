@@ -25091,6 +25091,7 @@
       "kubejs/data/tntutils/tags/block/explosion_whitelist.json": "78f1d22e64ecc404fd986cbabae6525e4ef028f89bb29f57cbc614f7f2df6cc6",
       "kubejs/data/tntutils/tags/entity_type/explosion_whitelist.json": "9ab9d2868bd6537a90ab362986f98975c48cd74ae0485932bcac617ba3278101",
       "kubejs/data/tntutils/tags/item/explosion_whitelist.json": "78f1d22e64ecc404fd986cbabae6525e4ef028f89bb29f57cbc614f7f2df6cc6",
+      "kubejs/data/umapyoi/curios/entities/umapyoi_curios.json": "6e66b1810854d01226e0d158b239bd050ada89605eb172c4eaaa93f7e3ae7578",
       "kubejs/data/umapyoi/loot_table/complex_skills.json": "dfeac67abce982906c5e18d859c55a479190d297f390ffba256c57ae3661dbe5",
       "kubejs/data/umapyoi/loot_table/simple_skills.json": "df45a95ea803b1ddd1d354d3464e73ddd49fc64d6fc47356c500e18755282ee5",
       "kubejs/server_scripts/hideItems.js": "5f5dbfd4cfe2d7cea9dbd38da777bee365e0590640e397f4955424efdffce09e",
@@ -25470,7 +25471,7 @@
       "resourcepacks/when-dungeons-arise-loot-tweaks.pw.toml": "69224f25c19c3fce9c58323d98df97e7c12f47448ea35ff27bd802cd3cf7e249",
       "shaderpacks/complementary-reimagined.pw.toml": "fe2fb19ba4d0fec45626237b701d857ac3c7c961efd5b4b7ccfff6cd512872f8"
     },
-    "pack_sha256": "ee15c4f702a372791ade94b307ea6e5fd838a950ab2a8dacc5fc82066ccb2482"
+    "pack_sha256": "ca3cd867bfff19be8c66ae1d048e70a94f1d1f3f70a2a4fc2bed244e87ee6d0e"
   },
   "pack": {
     "name": "Miladycraft",

@@ -1,0 +1,10 @@
+{
+  "date": "2026-10-26",
+  "id": "1.6.0-alpha-2026-10-26-3",
+  "notes": "Removes Umapyoi's apparel (uma_suit) Curios slot. Curios lets any generic\ncurio item into it, and a wireless crafting terminal left there disconnected\nits owner whenever they opened their inventory. Items in that slot return to\ntheir owner's inventory on their next login, or drop at their feet when the\ninventory is full. Umapyoi outfits no longer render on the player; the soul\nslot is unchanged. The change is server data: clients need not update.",
+  "previous": "1.6.0-alpha-2026-10-26-2",
+  "schema": "smoothstone.pack_release.v1",
+  "sequence": 10,
+  "snapshot": "changelogs/snapshots/1.6.0-alpha-2026-10-26-3.json",
+  "snapshot_sha256": "480ed6bb321d5b1b5e0a09e823a06e9a843febc68738522ee2b059a602902e8a"
+}

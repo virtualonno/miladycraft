@@ -4,6 +4,22 @@
 
 Release records preserve exact pack inputs. Recording a release does not assert that it has been deployed or published. Earlier unrecorded updates have not been reconstructed.
 
+## 1.6.0-alpha-2026-10-26-3 · 2026-10-26
+
+Pack 1.6.0-alpha · [Recorded mod catalogue](modlist/1.6.0-alpha-2026-10-26-3.md) · [Snapshot](../changelogs/snapshots/1.6.0-alpha-2026-10-26-3.json)
+
+Removes Umapyoi's apparel (uma_suit) Curios slot. Curios lets any generic
+curio item into it, and a wireless crafting terminal left there disconnected
+its owner whenever they opened their inventory. Items in that slot return to
+their owner's inventory on their next login, or drop at their feet when the
+inventory is full. Umapyoi outfits no longer render on the player; the soul
+slot is unchanged. The change is server data: clients need not update.
+
+### Configuration and other pack files
+
+- Added: kubejs/data/umapyoi/curios/entities/umapyoi\_curios.json.
+
+
 ## 1.6.0-alpha-2026-10-26-2 · 2026-10-26
 
 Pack 1.6.0-alpha · [Recorded mod catalogue](modlist/1.6.0-alpha-2026-10-26-2.md) · [Snapshot](../changelogs/snapshots/1.6.0-alpha-2026-10-26-2.json)
