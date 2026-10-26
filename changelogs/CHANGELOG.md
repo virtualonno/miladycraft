@@ -4,6 +4,21 @@
 
 Release records preserve exact pack inputs. Recording a release does not assert that it has been deployed or published. Earlier unrecorded updates have not been reconstructed.
 
+## 1.6.0-alpha-2026-10-26-2 · 2026-10-26
+
+Pack 1.6.0-alpha · [Recorded mod catalogue](modlist/1.6.0-alpha-2026-10-26-2.md) · [Snapshot](../changelogs/snapshots/1.6.0-alpha-2026-10-26-2.json)
+
+Updates moonedit, the operators' building and terrain editor, to 0.1.0-alpha.4:
+its options become flags that every clipboard command shares (skip, drain,
+swap and rotate on copy, paste, save and load alike), copies trim to their
+content, saving over an existing archive asks first, and two further code
+reviews' fixes land. moonedit runs on the server only; clients are unchanged.
+
+### Updated
+
+- [moonedit](https://github.com/virtualonno/miladycraft/releases/download/moonedit-0.1.0-alpha.4/moonedit-neoforge-1.21.1-0.1.0-alpha.4.jar): [0.1.0-alpha.3](https://github.com/virtualonno/miladycraft/releases/download/moonedit-0.1.0-alpha.3/moonedit-neoforge-1.21.1-0.1.0-alpha.3.jar) → [0.1.0-alpha.4](https://github.com/virtualonno/miladycraft/releases/download/moonedit-0.1.0-alpha.4/moonedit-neoforge-1.21.1-0.1.0-alpha.4.jar); filename: moonedit-neoforge-1.21.1-0.1.0-alpha.3.jar → moonedit-neoforge-1.21.1-0.1.0-alpha.4.jar.
+
+
 ## 1.6.0-alpha-2026-10-26 · 2026-10-26
 
 Pack 1.6.0-alpha · [Recorded mod catalogue](modlist/1.6.0-alpha-2026-10-26.md) · [Snapshot](../changelogs/snapshots/1.6.0-alpha-2026-10-26.json)

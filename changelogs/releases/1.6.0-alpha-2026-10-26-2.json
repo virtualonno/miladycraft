@@ -1,0 +1,10 @@
+{
+  "date": "2026-10-26",
+  "id": "1.6.0-alpha-2026-10-26-2",
+  "notes": "Updates moonedit, the operators' building and terrain editor, to 0.1.0-alpha.4:\nits options become flags that every clipboard command shares (skip, drain,\nswap and rotate on copy, paste, save and load alike), copies trim to their\ncontent, saving over an existing archive asks first, and two further code\nreviews' fixes land. moonedit runs on the server only; clients are unchanged.",
+  "previous": "1.6.0-alpha-2026-10-26",
+  "schema": "smoothstone.pack_release.v1",
+  "sequence": 9,
+  "snapshot": "changelogs/snapshots/1.6.0-alpha-2026-10-26-2.json",
+  "snapshot_sha256": "4d659ebc857dd7487d39e6a44d8ba58faf21b2d3d127796958a954dfdf0a3460"
+}
