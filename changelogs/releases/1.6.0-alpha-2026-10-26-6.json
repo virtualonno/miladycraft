@@ -1,0 +1,10 @@
+{
+  "date": "2026-10-26",
+  "id": "1.6.0-alpha-2026-10-26-6",
+  "notes": "Updates moonedit, the operators' building and terrain editor, to 0.1.0-alpha.6.\nIts commands now compose: sentences joined with `;`, or typed while an earlier\none is still running, run one after another, so a copy, paste or edit is done\nbefore the next sentence starts. Places take nudges (`/mo paste #t at here\ndown 1`), every clipboard command takes the same steps including the new\n`-shift`, and pastes, moves and stacks select what they placed.\n\nOperators: optional places are now written after `at`\n(`select sphere 12 at target`), and `count` takes `-where`\n(`count -where stone`). A brush bound with one of the retired forms says so\nand needs binding again.\n\nmoonedit's panel no longer opens on Z: every moonedit key, the panel included,\nstarts unbound, and the pack no longer sets one. Operators who want the panel,\nundo, redo or the display switches on a key bind them under Controls,\nmoonedit. Nothing changes for players, and moonedit still works on the server\nfor operators whose client lacks it.",
+  "previous": "1.6.0-alpha-2026-10-26-5",
+  "schema": "smoothstone.pack_release.v1",
+  "sequence": 13,
+  "snapshot": "changelogs/snapshots/1.6.0-alpha-2026-10-26-6.json",
+  "snapshot_sha256": "3eddb092e64ee20eb50565b41e823a038c2a18689fae6e898cbdd7ae1892f3d1"
+}

@@ -4,6 +4,38 @@
 
 Release records preserve exact pack inputs. Recording a release does not assert that it has been deployed or published. Earlier unrecorded updates have not been reconstructed.
 
+## 1.6.0-alpha-2026-10-26-6 · 2026-10-26
+
+Pack 1.6.0-alpha · [Recorded mod catalogue](modlist/1.6.0-alpha-2026-10-26-6.md) · [Snapshot](../changelogs/snapshots/1.6.0-alpha-2026-10-26-6.json)
+
+Updates moonedit, the operators' building and terrain editor, to 0.1.0-alpha.6.
+Its commands now compose: sentences joined with `;`, or typed while an earlier
+one is still running, run one after another, so a copy, paste or edit is done
+before the next sentence starts. Places take nudges (`/mo paste #t at here
+down 1`), every clipboard command takes the same steps including the new
+`-shift`, and pastes, moves and stacks select what they placed.
+
+Operators: optional places are now written after `at`
+(`select sphere 12 at target`), and `count` takes `-where`
+(`count -where stone`). A brush bound with one of the retired forms says so
+and needs binding again.
+
+moonedit's panel no longer opens on Z: every moonedit key, the panel included,
+starts unbound, and the pack no longer sets one. Operators who want the panel,
+undo, redo or the display switches on a key bind them under Controls,
+moonedit. Nothing changes for players, and moonedit still works on the server
+for operators whose client lacks it.
+
+### Updated
+
+- [moonedit](https://github.com/virtualonno/miladycraft/releases/download/moonedit-0.1.0-alpha.6/moonedit-neoforge-1.21.1-0.1.0-alpha.6.jar): [0.1.0-alpha.5](https://github.com/virtualonno/miladycraft/releases/download/moonedit-0.1.0-alpha.5/moonedit-neoforge-1.21.1-0.1.0-alpha.5.jar) → [0.1.0-alpha.6](https://github.com/virtualonno/miladycraft/releases/download/moonedit-0.1.0-alpha.6/moonedit-neoforge-1.21.1-0.1.0-alpha.6.jar); filename: moonedit-neoforge-1.21.1-0.1.0-alpha.5.jar → moonedit-neoforge-1.21.1-0.1.0-alpha.6.jar.
+
+### Configuration and other pack files
+
+- Changed: config/default\_files/options.txt.
+- Changed: options.txt.
+
+
 ## 1.6.0-alpha-2026-10-26-5 · 2026-10-26
 
 Pack 1.6.0-alpha · [Recorded mod catalogue](modlist/1.6.0-alpha-2026-10-26-5.md) · [Snapshot](../changelogs/snapshots/1.6.0-alpha-2026-10-26-5.json)
