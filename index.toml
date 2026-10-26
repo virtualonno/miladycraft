@@ -1500,7 +1500,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonedit.pw.toml"
-hash = "3c5485522672a009677a0ffecefc4134bb8314493941b13a2762b06ff8ee9585"
+hash = "bfa15aeb7310408a3bf9cdb31c2438e3a427aaafe324266a4f1c225fc86f993e"
 metafile = true
 
 [[files]]

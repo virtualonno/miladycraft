@@ -1,8 +1,8 @@
 name = "moonedit"
-filename = "moonedit-neoforge-1.21.1-0.1.0-alpha.3.jar"
+filename = "moonedit-neoforge-1.21.1-0.1.0-alpha.4.jar"
 side = "server"
 
 [download]
-url = "https://github.com/virtualonno/miladycraft/releases/download/moonedit-0.1.0-alpha.3/moonedit-neoforge-1.21.1-0.1.0-alpha.3.jar"
+url = "https://github.com/virtualonno/miladycraft/releases/download/moonedit-0.1.0-alpha.4/moonedit-neoforge-1.21.1-0.1.0-alpha.4.jar"
 hash-format = "sha512"
-hash = "ccc651edd71b480b3aeb08425de850e9476c25275da0a8a1513c9017eb0bb41fe2291b59a280be3140dfe85eb7fe0d54878fbfca87e0a2dc2f993cd89dcf58f4"
+hash = "de80fd4f32b251528b1c2c0467c6aca68a25089aeffb0a5b6f02e15ed85d01029d3ca10e0983c9ca01506a1fff86ad7b7266b575a26919cc1a04a8b5daa6e37d"
