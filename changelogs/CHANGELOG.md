@@ -4,6 +4,21 @@
 
 Release records preserve exact pack inputs. Recording a release does not assert that it has been deployed or published. Earlier unrecorded updates have not been reconstructed.
 
+## 1.6.0-alpha-2026-10-26 · 2026-10-26
+
+Pack 1.6.0-alpha · [Recorded mod catalogue](modlist/1.6.0-alpha-2026-10-26.md) · [Snapshot](../changelogs/snapshots/1.6.0-alpha-2026-10-26.json)
+
+Fixes the client crash on startup that every install updated since 2026-10-23
+hit. Amendments 2.2 needs Polytone 5's API, but Polytone was held at 3.10.3, so
+Amendments failed to load and FTB Quests then crashed on the loading screen.
+Polytone moves to 5.3.1 and is no longer held back. Clients only need to
+update; servers are unchanged.
+
+### Updated
+
+- [Polytone](https://www.curseforge.com/projects/958094): [1.21-3.10.3](https://www.curseforge.com/projects/958094/files/8517029) → [1.21-5.3.1](https://www.curseforge.com/projects/958094/files/9325272); pinned: True → False; filename: polytone-neoforge-1.21-3.10.3.jar → polytone-1.21-5.3.1-neoforge.jar.
+
+
 ## 1.6.0-alpha-2026-10-23-6 · 2026-10-23
 
 Pack 1.6.0-alpha · [Recorded mod catalogue](modlist/1.6.0-alpha-2026-10-23-6.md) · [Snapshot](../changelogs/snapshots/1.6.0-alpha-2026-10-23-6.json)

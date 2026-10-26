@@ -212,21 +212,22 @@ Source: polyeng-0.4.1.jar · META-INF/neoforge.mods.toml. Exact descriptor bodie
 <a id="mod-c521240f27374fa2"></a>
 ### Polytone
 
-**[1.21-3.10.3](https://www.curseforge.com/projects/958094/files/8517029)** · client only · [Source](https://www.curseforge.com/projects/958094) · [Pack entry](../../mods/polytone.pw.toml)
+**[1.21-5.3.1](https://www.curseforge.com/projects/958094/files/9325272)** · client only · [Source](https://www.curseforge.com/projects/958094) · [Pack entry](../../mods/polytone.pw.toml)
 
 Your Resource Packs Best Friend
 
 Author links: [https://github.com/MehVahdJukaar/codecui](https://github.com/MehVahdJukaar/codecui) · [https://www.curseforge.com/minecraft/mc-mods/polytone](https://www.curseforge.com/minecraft/mc-mods/polytone)
 
-Mod IDs and versions: polytone 1.21-3.10.3.
+Mod IDs and versions: polytone 1.21-5.3.1.
 
-**Optional integrations:** nautilus\_studio (not in this catalogue).
+**Optional integrations:** nautilus\_studio (not in this catalogue), veil (not in this catalogue).
 
 **Dependencies and integrations**
 
 | From | Dependency | Kind | Version range | Side | Found in pack |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| polytone | nautilus\_studio | optional | \[1.21.1-1.4.1,) | client only | not indexed |
+| polytone | nautilus\_studio | optional | \[1.21.1-1.8.2,) | client only | not indexed |
+| polytone | veil | optional | \[4.0.0,) | client only | not indexed |
 
 **Runtime constraints**
 
@@ -237,9 +238,9 @@ Mod IDs and versions: polytone 1.21-3.10.3.
 | codecui (bundled) | neoforge | required | \* | client and server | runtime |
 | codecui (bundled) | minecraft | required | \[1.21.1, 1.21.2) | client and server | runtime |
 
-**Bundled modules:** codecui 1.21.1-1.3.6.
+**Bundled modules:** codecui 1.21.1-1.4.5.
 
-Source: polytone-neoforge-1.21-3.10.3.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: polytone-1.21-5.3.1-neoforge.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-c717d6698f8fcee8"></a>
 ### Portfolio

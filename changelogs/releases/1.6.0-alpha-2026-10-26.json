@@ -1,0 +1,10 @@
+{
+  "date": "2026-10-26",
+  "id": "1.6.0-alpha-2026-10-26",
+  "notes": "Fixes the client crash on startup that every install updated since 2026-10-23\nhit. Amendments 2.2 needs Polytone 5's API, but Polytone was held at 3.10.3, so\nAmendments failed to load and FTB Quests then crashed on the loading screen.\nPolytone moves to 5.3.1 and is no longer held back. Clients only need to\nupdate; servers are unchanged.",
+  "previous": "1.6.0-alpha-2026-10-23-6",
+  "schema": "smoothstone.pack_release.v1",
+  "sequence": 8,
+  "snapshot": "changelogs/snapshots/1.6.0-alpha-2026-10-26.json",
+  "snapshot_sha256": "d882c3c32fcf9ebe7f1b8e1198813d58f0239a16943ba768e9e10457700f5a1a"
+}

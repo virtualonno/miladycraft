@@ -18492,35 +18492,35 @@
     },
     {
       "download": {
-        "hash": "29118e4c62beb57954aa4afa064f8315369eeeb4",
+        "hash": "50b990a4d6aba3c0faa318ef08c85516c8058a5d",
         "hash-format": "sha1",
         "mode": "metadata:curseforge"
       },
       "evidence": [
         {
-          "body": "Manifest-Version: 1.0\r\nSpecification-Title: Polytone\r\nSpecification-Version: 1.21-3.10.3\r\nImplementation-Title: Polytone\r\nImplementation-Version: 1.21-3.10.3\r\nImplementation-Timestamp: 2026-07-27T01:41:30.738548753\r\n\r\n",
+          "body": "Manifest-Version: 1.0\r\nSpecification-Title: Polytone\r\nSpecification-Version: 1.21-5.3.1\r\nImplementation-Title: Polytone\r\nImplementation-Version: 1.21-5.3.1\r\nImplementation-Timestamp: 2026-10-25T19:30:09.250947071\r\n\r\n",
           "path": "META-INF/MANIFEST.MF",
-          "sha256": "fdbe28930f485cec583929baca1020a0afca10e661fd524a57e7b665618b923c"
+          "sha256": "32559d7b3654f6660e3316364101ed7be9bd4f2d3b3a7a31df673fe3bd36cd90"
         },
         {
-          "body": "modLoader = \"javafml\"\nloaderVersion = \"*\"\n\nlicense = \"Supplementaries Team License v.1.5\"\nissueTrackerURL = \"https://github.com/MehVahdJukaar/polytone/issues\"\n\n[[mixins]]\n    config = \"polytone.mixins.json\"\n[[mixins]]\n    config = \"polytone-common.mixins.json\"\n\n[[mods]]\n    modId = \"polytone\"\n    version = \"1.21-3.10.3\"\n    displayName = \"Polytone\"\n    logoFile = \"icon.png\"\n    authors = \"MehVahdJukaar\"\n    credits = \"MehVahdJukaar, Murao.kun, gayaslily, Plantkillable\"\n    description = '''Your Resource Packs Best Friend'''\n    modUrl = \"https://www.curseforge.com/minecraft/mc-mods/polytone\"\n    itemIcon = \"minecraft:brush\"\n\n[[dependencies.polytone]]\n    modId = \"neoforge\"\n    type = \"required\"\n    versionRange = \"*\"\n    ordering = \"NONE\"\n    side = \"CLIENT\"\n\n[[dependencies.polytone]]\n    modId = \"minecraft\"\n    type = \"required\"\n    versionRange = \"[1.21.1]\"\n    ordering = \"NONE\"\n    side = \"CLIENT\"\n\n[[dependencies.polytone]]\n    modId = \"nautilus_studio\"\n    type = \"optional\"\n    versionRange = \"[1.21.1-1.4.1,)\"\n    ordering = \"NONE\"\n    side = \"CLIENT\"\n",
+          "body": "modLoader = \"javafml\"\nloaderVersion = \"*\"\n\nlicense = \"Supplementaries Team License v.1.5\"\nissueTrackerURL = \"https://github.com/MehVahdJukaar/polytone/issues\"\n\n[[mixins]]\n    config = \"polytone.mixins.json\"\n[[mixins]]\n    config = \"polytone-common.mixins.json\"\n\n[[mods]]\n    modId = \"polytone\"\n    version = \"1.21-5.3.1\"\n    displayName = \"Polytone\"\n    logoFile = \"icon.png\"\n    authors = \"MehVahdJukaar\"\n    credits = \"MehVahdJukaar, Murao.kun, gayaslily, Plantkillable\"\n    description = '''Your Resource Packs Best Friend'''\n    modUrl = \"https://www.curseforge.com/minecraft/mc-mods/polytone\"\n    itemIcon = \"minecraft:brush\"\n\n[[dependencies.polytone]]\n    modId = \"neoforge\"\n    type = \"required\"\n    versionRange = \"*\"\n    ordering = \"NONE\"\n    side = \"CLIENT\"\n\n[[dependencies.polytone]]\n    modId = \"minecraft\"\n    type = \"required\"\n    versionRange = \"[1.21.1]\"\n    ordering = \"NONE\"\n    side = \"CLIENT\"\n\n[[dependencies.polytone]]\n    modId = \"nautilus_studio\"\n    type = \"optional\"\n    versionRange = \"[1.21.1-1.8.2,)\"\n    ordering = \"NONE\"\n    side = \"CLIENT\"\n\n[[dependencies.polytone]]\n    modId = \"veil\"\n    type = \"optional\"\n    versionRange = \"[4.0.0,)\"\n    ordering = \"NONE\"\n    side = \"CLIENT\"\n",
           "path": "META-INF/neoforge.mods.toml",
-          "sha256": "cf66113e065d90329ae156a189158d48f1326142b38beac073ab0e23d19182b8"
+          "sha256": "9bb212476dcd8ad56f9107f58b5d1598d3f32959135c45c55872ecd11f510331"
         },
         {
-          "body": "{\n  \"jars\": [\n    {\n      \"identifier\": {\n        \"group\": \"net.mehvahdjukaar\",\n        \"artifact\": \"codecui-neoforge\"\n      },\n      \"version\": {\n        \"range\": \"[1.21.1-1.3.6,)\",\n        \"artifactVersion\": \"1.21.1-1.3.6\"\n      },\n      \"path\": \"META-INF/jarjar/codecui-neoforge-1.21.1-1.3.6.jar\",\n      \"isObfuscated\": false\n    },\n    {\n      \"identifier\": {\n        \"group\": \"net.objecthunter\",\n        \"artifact\": \"exp4j\"\n      },\n      \"version\": {\n        \"range\": \"[0.4.8,)\",\n        \"artifactVersion\": \"0.4.8\"\n      },\n      \"path\": \"META-INF/jarjar/exp4j-0.4.8.jar\",\n      \"isObfuscated\": false\n    },\n    {\n      \"identifier\": {\n        \"group\": \"org.mvel\",\n        \"artifact\": \"mvel2\"\n      },\n      \"version\": {\n        \"range\": \"[2.5.2.Final,)\",\n        \"artifactVersion\": \"2.5.2.Final\"\n      },\n      \"path\": \"META-INF/jarjar/mvel2-2.5.2.Final.jar\",\n      \"isObfuscated\": false\n    }\n  ]\n}\n",
+          "body": "{\n  \"jars\": [\n    {\n      \"identifier\": {\n        \"group\": \"hollowpoint\",\n        \"artifact\": \"nexp\"\n      },\n      \"version\": {\n        \"range\": \"[1.2.0,)\",\n        \"artifactVersion\": \"1.2.1\"\n      },\n      \"path\": \"META-INF/jarjar/nexp-1.2.1.jar\",\n      \"isObfuscated\": false\n    },\n    {\n      \"identifier\": {\n        \"group\": \"net.mehvahdjukaar\",\n        \"artifact\": \"codecui-neoforge\"\n      },\n      \"version\": {\n        \"range\": \"[1.21.1-1.4.5,)\",\n        \"artifactVersion\": \"1.21.1-1.4.5\"\n      },\n      \"path\": \"META-INF/jarjar/codecui-neoforge-1.21.1-1.4.5.jar\",\n      \"isObfuscated\": false\n    },\n    {\n      \"identifier\": {\n        \"group\": \"net.objecthunter\",\n        \"artifact\": \"exp4j\"\n      },\n      \"version\": {\n        \"range\": \"[0.4.8,)\",\n        \"artifactVersion\": \"0.4.8\"\n      },\n      \"path\": \"META-INF/jarjar/exp4j-0.4.8.jar\",\n      \"isObfuscated\": false\n    }\n  ]\n}\n",
           "path": "META-INF/jarjar/metadata.json",
-          "sha256": "38afadcf8ce3895dc3053ccb9d2ae96b6c8ebc6fe78b9135b18d2c438e5722e9"
+          "sha256": "cb03139039e58014771663e3e4942a4772051604910aac632064a3d119811546"
         },
         {
           "body": "Manifest-Version: 1.0\r\nStonecutter-Plugin-Version: 0.9.4\r\nStonecutter-Gradle-Version: 9.6.1\r\nStonecutter-Node-Project: 1.21.1-neoforge\r\nStonecutter-Node-Version: 1.21.1\r\n\r\n",
-          "path": "META-INF/jarjar/codecui-neoforge-1.21.1-1.3.6.jar!/META-INF/MANIFEST.MF",
+          "path": "META-INF/jarjar/codecui-neoforge-1.21.1-1.4.5.jar!/META-INF/MANIFEST.MF",
           "sha256": "2b4bbb779af4028b72111c70a0acacf382a40879c1cad83652e87de1493f5814"
         },
         {
-          "body": "\nmodLoader = \"javafml\"\nloaderVersion = \"[1,)\"\n\nlicense = \"MIT\"\nissueTrackerURL = \"https://github.com/MehVahdJukaar/codecui/issues\"\n\n[[mixins]]\n    config = \"codecui.mixins.json\"\n[[mixins]]\n    config = \"codecui-codec.mixins.json\"\n\n[[mods]]\n    modId = \"codecui\"\n    version = \"1.21.1-1.3.6\"\n    displayName = \"CodecUI\"\n    logoFile = \"icon.png\"\n    authors = \"MehVahdJukaar\"\n    credits = \"MehVahdJukaar\"\n    description = '''Declarative schemas and auto-generated editor GUIs for DataFixerUpper codecs'''\n    modUrl = \"https://github.com/MehVahdJukaar/codecui\"\n\n[[dependencies.codecui]]\n    modId = \"neoforge\"\n    type = \"required\"\n    ordering = \"NONE\"\n    side = \"BOTH\"\n\n[[dependencies.codecui]]\n    modId = \"minecraft\"\n    type = \"required\"\n    versionRange = \"[1.21.1, 1.21.2)\"\n    ordering = \"NONE\"\n    side = \"BOTH\"\n",
-          "path": "META-INF/jarjar/codecui-neoforge-1.21.1-1.3.6.jar!/META-INF/neoforge.mods.toml",
-          "sha256": "4f91dd0d072cd8fd365c467cb51c873002827c78344ecb27dfdfe0d19fcf86d2"
+          "body": "\nmodLoader = \"javafml\"\nloaderVersion = \"[1,)\"\n\nlicense = \"MIT\"\nissueTrackerURL = \"https://github.com/MehVahdJukaar/codecui/issues\"\n\n[[mixins]]\n    config = \"codecui.mixins.json\"\n[[mixins]]\n    config = \"codecui-codec.mixins.json\"\n\n[[mods]]\n    modId = \"codecui\"\n    version = \"1.21.1-1.4.5\"\n    displayName = \"CodecUI\"\n    logoFile = \"icon.png\"\n    iconFile = \"icon.png\"\n    authors = \"MehVahdJukaar\"\n    credits = \"MehVahdJukaar\"\n    description = '''Declarative schemas and auto-generated editor GUIs for DataFixerUpper codecs'''\n    modUrl = \"https://github.com/MehVahdJukaar/codecui\"\n\n[[dependencies.codecui]]\n    modId = \"neoforge\"\n    type = \"required\"\n    ordering = \"NONE\"\n    side = \"BOTH\"\n\n[[dependencies.codecui]]\n    modId = \"minecraft\"\n    type = \"required\"\n    versionRange = \"[1.21.1, 1.21.2)\"\n    ordering = \"NONE\"\n    side = \"BOTH\"\n",
+          "path": "META-INF/jarjar/codecui-neoforge-1.21.1-1.4.5.jar!/META-INF/neoforge.mods.toml",
+          "sha256": "d5b2862127390dd62e4ff19440b2b6fd6e1b10680f3db26d2751555ba07c9a50"
         },
         {
           "body": "Manifest-Version: 1.0\r\nArchiver-Version: Plexus Archiver\r\nBuilt-By: ruckus\r\nCreated-By: Apache Maven 3.3.9\r\nBuild-Jdk: 1.8.0_112\r\n\r\n",
@@ -18528,12 +18528,12 @@
           "sha256": "cd6672a57ccb9131d5154dad5aee52f04b4cc0a28d563208942c7a7533fffa21"
         },
         {
-          "body": "Manifest-Version: 1.0\r\nArchiver-Version: Plexus Archiver\r\nCreated-By: Apache Maven Bundle Plugin\r\nBuilt-By: mario\r\nBuild-Jdk: 1.8.0_191\r\nPackage: org.mvel2\r\nMain-Class: org.mvel2.sh.Main\r\nBnd-LastModified: 1706686523880\r\nBundle-Description: MVEL is a powerful expression language for Java-ba\r\n sed applications.        It provides a plethora of features and is su\r\n ited for everything        from the smallest property binding and ext\r\n raction, to full blown scripts.\r\nBundle-DocURL: http://www.jboss.org/\r\nBundle-License: http://www.apache.org/licenses/LICENSE-2.0.txt\r\nBundle-ManifestVersion: 2\r\nBundle-Name: mvel2\r\nBundle-SymbolicName: org.mvel2\r\nBundle-Vendor: JBoss by Red Hat\r\nBundle-Version: 2.5.2.Final\r\nExport-Package: org.mvel2.templates.util.io;uses:=\"org.mvel2.templates\r\n .util,org.mvel2.util\";version=\"2.5.2.Final\",org.mvel2.jsr223;uses:=\"j\r\n avax.script,org.mvel2\";version=\"2.5.2.Final\",org.mvel2.sh.text;versio\r\n n=\"2.5.2.Final\",org.mvel2.templates;uses:=\"org.mvel2.templates.res,or\r\n g.mvel2,org.mvel2.util,org.mvel2.templates.util,org.mvel2.templates.u\r\n til.io,org.mvel2.integration,org.mvel2.integration.impl\";version=\"2.5\r\n .2.Final\",org.mvel2.optimizers.impl.refl;uses:=\"org.mvel2.compiler,or\r\n g.mvel2.optimizers,org.mvel2.optimizers.impl.refl.collection,org.mvel\r\n 2.ast,org.mvel2,org.mvel2.util,org.mvel2.integration,org.mvel2.optimi\r\n zers.impl.refl.nodes\";version=\"2.5.2.Final\",org.mvel2.sh.command.basi\r\n c;uses:=\"org.mvel2.sh,org.mvel2.sh.text,org.mvel2.util,org.mvel2\";ver\r\n sion=\"2.5.2.Final\",org.mvel2;uses:=\"org.mvel2.util,org.mvel2.conversi\r\n on,org.mvel2.compiler,org.mvel2.integration,org.mvel2.integration.imp\r\n l,org.mvel2.optimizers.impl.refl.nodes,org.mvel2.ast,org.mvel2.debug,\r\n org.mvel2.optimizers\";version=\"2.5.2.Final\",org.mvel2.optimizers.impl\r\n .asm;uses:=\"org.mvel2.compiler,org.mvel2.optimizers,org.mvel2.ast,org\r\n .objectweb.asm,org.mvel2,org.mvel2.util,org.mvel2.integration,org.mve\r\n l2.optimizers.impl.refl.nodes\";version=\"2.5.2.Final\",org.mvel2.debug;\r\n uses:=\"org.mvel2,org.mvel2.compiler,org.mvel2.util,org.mvel2.integrat\r\n ion,org.mvel2.ast\";version=\"2.5.2.Final\",org.mvel2.integration.impl;u\r\n ses:=\"org.mvel2,org.mvel2.integration,org.mvel2.ast,org.mvel2.util\";v\r\n ersion=\"2.5.2.Final\",org.mvel2.optimizers.impl.refl.nodes;uses:=\"org.\r\n mvel2.compiler,org.mvel2.integration,org.mvel2,org.mvel2.util,org.mve\r\n l2.ast,org.mvel2.optimizers\";version=\"2.5.2.Final\",org.mvel2.asm;vers\r\n ion=\"2.5.2.Final\",org.mvel2.compiler;uses:=\"org.mvel2,org.mvel2.util,\r\n org.mvel2.integration,org.mvel2.ast,org.mvel2.optimizers,org.mvel2.op\r\n timizers.impl.refl.nodes\";version=\"2.5.2.Final\",org.mvel2.optimizers;\r\n uses:=\"org.mvel2,org.mvel2.compiler,org.mvel2.util,org.mvel2.integrat\r\n ion,org.mvel2.optimizers.impl.asm,org.mvel2.optimizers.impl.refl,org.\r\n mvel2.optimizers.dynamic\";version=\"2.5.2.Final\",org.mvel2.optimizers.\r\n impl.refl.collection;uses:=\"org.mvel2.compiler,org.mvel2.integration,\r\n org.mvel2,org.mvel2.util\";version=\"2.5.2.Final\",org.mvel2.templates.u\r\n til;uses:=\"org.mvel2.util,org.mvel2.templates,org.mvel2.templates.res\r\n \";version=\"2.5.2.Final\",org.mvel2.ast;uses:=\"org.mvel2,org.mvel2.comp\r\n iler,org.mvel2.util,org.mvel2.integration,org.mvel2.optimizers,org.mv\r\n el2.debug,org.mvel2.math,org.mvel2.integration.impl\";version=\"2.5.2.F\r\n inal\",org.mvel2.templates.res;uses:=\"org.mvel2,org.mvel2.integration,\r\n org.mvel2.templates,org.mvel2.templates.util,org.mvel2.util,org.mvel2\r\n .integration.impl\";version=\"2.5.2.Final\",org.mvel2.optimizers.dynamic\r\n ;uses:=\"org.mvel2.compiler,org.mvel2.util,org.mvel2,org.mvel2.optimiz\r\n ers,org.mvel2.integration,org.mvel2.optimizers.impl.asm\";version=\"2.5\r\n .2.Final\",org.mvel2.conversion;uses:=\"org.mvel2,org.mvel2.compiler\";v\r\n ersion=\"2.5.2.Final\",org.mvel2.sh;uses:=\"org.mvel2,org.mvel2.template\r\n s,org.mvel2.sh.command.file,org.mvel2.util,org.mvel2.integration,org.\r\n mvel2.integration.impl,org.mvel2.sh.command.basic\";version=\"2.5.2.Fin\r\n al\",org.mvel2.math;uses:=\"org.mvel2,org.mvel2.compiler,org.mvel2.util\r\n ,org.mvel2.debug\";version=\"2.5.2.Final\",org.mvel2.sh.command.file;use\r\n s:=\"org.mvel2.sh\";version=\"2.5.2.Final\",org.mvel2.util;uses:=\"org.mve\r\n l2,org.mvel2.ast,org.mvel2.integration,org.mvel2.compiler,org.mvel2.i\r\n ntegration.impl,org.mvel2.math\";version=\"2.5.2.Final\",org.mvel2.integ\r\n ration;uses:=\"org.mvel2.ast\";version=\"2.5.2.Final\"\r\nImport-Package: javax.script,org.objectweb.asm;version=\"[9.5,10)\"\r\nTool: Bnd-1.50.0\r\n\r\n",
-          "path": "META-INF/jarjar/mvel2-2.5.2.Final.jar!/META-INF/MANIFEST.MF",
-          "sha256": "6d4145410438a87df8665fc89b7d2151fa54cbb68e73c2d668e107ab79c0349b"
+          "body": "Manifest-Version: 1.0\r\n\r\n",
+          "path": "META-INF/jarjar/nexp-1.2.1.jar!/META-INF/MANIFEST.MF",
+          "sha256": "566ad1a80220026d05099562645ce968ff0e7c36cde22634332605bb34cc3eff"
         }
       ],
-      "filename": "polytone-neoforge-1.21-3.10.3.jar",
+      "filename": "polytone-1.21-5.3.1-neoforge.jar",
       "key": "curseforge:958094",
       "kind": "mod",
       "modules": [
@@ -18557,7 +18557,14 @@
               "id": "nautilus_studio",
               "kind": "optional",
               "ordering": "none",
-              "range": "[1.21.1-1.4.1,)",
+              "range": "[1.21.1-1.8.2,)",
+              "side": "client"
+            },
+            {
+              "id": "veil",
+              "kind": "optional",
+              "ordering": "none",
+              "range": "[4.0.0,)",
               "side": "client"
             }
           ],
@@ -18568,7 +18575,7 @@
           "id": "polytone",
           "issues": "https://github.com/MehVahdJukaar/polytone/issues",
           "name": "Polytone",
-          "version": "1.21-3.10.3"
+          "version": "1.21-5.3.1"
         },
         {
           "dependencies": [
@@ -18588,23 +18595,23 @@
             }
           ],
           "description": "Declarative schemas and auto-generated editor GUIs for DataFixerUpper codecs",
-          "descriptor": "META-INF/jarjar/codecui-neoforge-1.21.1-1.3.6.jar!/META-INF/neoforge.mods.toml",
+          "descriptor": "META-INF/jarjar/codecui-neoforge-1.21.1-1.4.5.jar!/META-INF/neoforge.mods.toml",
           "embedded": true,
           "homepage": "https://github.com/MehVahdJukaar/codecui",
           "id": "codecui",
           "issues": "https://github.com/MehVahdJukaar/codecui/issues",
           "name": "CodecUI",
-          "version": "1.21.1-1.3.6"
+          "version": "1.21.1-1.4.5"
         }
       ],
       "name": "Polytone",
       "optional": {},
       "page": "https://www.curseforge.com/projects/958094",
       "path": "mods/polytone.pw.toml",
-      "pinned": true,
-      "provider_version": "8517029",
-      "release": "https://www.curseforge.com/projects/958094/files/8517029",
-      "sha256": "c8f473b45b907dfe106382eaab55c43cd98aad099177b0ef7926e7776c533d69",
+      "pinned": false,
+      "provider_version": "9325272",
+      "release": "https://www.curseforge.com/projects/958094/files/9325272",
+      "sha256": "d6ed9877312a7e8c6872e39f825e4e127b6f394d6cc95116df570a7058852d07",
       "side": "client"
     },
     {
@@ -25359,7 +25366,7 @@
       "mods/plushie-mod.pw.toml": "3c51672c9db76906594697cf35d3bda369b39ce9968758b3be5146eec8f0bdef",
       "mods/polymorph.pw.toml": "330067c1064988285f75c5eabbaddeef694cdd417e20a0cac9fe3b80142e652c",
       "mods/polymorphic-energistics.pw.toml": "330eae6dd751b70d4761f5fb556bc476f693549f3eb42ff7f441e1cd5bfe3cfb",
-      "mods/polytone.pw.toml": "5e523f703dc492920e5705ea8abd95d3765b1a4d2ac35b475f632b632af4a5ff",
+      "mods/polytone.pw.toml": "1acf5ec0d6f0c99b5abf52cec8cb4d7cfa1a53bc07fca1147b9b54a0746376f7",
       "mods/portfolio.pw.toml": "eb2a0f15f8a971a2ab210593f47027f7905dea17aacc86487422fcfa00712e42",
       "mods/powah-rearchitected.pw.toml": "a6f8726db6be3d6efc3a3561166db9d30d48dc2feef5e5d7e0ecbff86b3a2f82",
       "mods/prickle.pw.toml": "eab2f56ff9135b3b7253ea5a73deae2f887e2876f5f0432936044a6e926937b4",
@@ -25463,7 +25470,7 @@
       "resourcepacks/when-dungeons-arise-loot-tweaks.pw.toml": "69224f25c19c3fce9c58323d98df97e7c12f47448ea35ff27bd802cd3cf7e249",
       "shaderpacks/complementary-reimagined.pw.toml": "fe2fb19ba4d0fec45626237b701d857ac3c7c961efd5b4b7ccfff6cd512872f8"
     },
-    "pack_sha256": "5666a9b643a00e69dda0162bb741b27b190510dac815585dcf47661e37b5abab"
+    "pack_sha256": "a9bc9b1e8d75b96a2931bce24db611a0cded20e8e8683205f92da584854d4092"
   },
   "pack": {
     "name": "Miladycraft",
