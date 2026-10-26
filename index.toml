@@ -42,7 +42,7 @@ hash = "b6ab909e14be013593ec9978b05041e69c6bd7fec1136b97e34613040eca021a"
 
 [[files]]
 file = "config/default_files/options.txt"
-hash = "c62a5d3969381b07c065f545a0e9b2d6c3c60bed84b99950e0ad6cb98f3a5d3c"
+hash = "2d1ecd0d9812f258a8475fb2a5a024e0ba7af33ccc914681262fb2c27b6bd7ec"
 
 [[files]]
 file = "config/desiredservers/desiredservers.json"
@@ -1500,7 +1500,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonedit.pw.toml"
-hash = "f1334c580ff1005f09cbbd9f86ddb530b29615c720f57ebf8888d1c16b759da2"
+hash = "9ee11e25ca395d2b0c8b9ecf7bb8f181e3feaa055cb7db45ed7683b1b4ef7e70"
 metafile = true
 
 [[files]]
@@ -2175,7 +2175,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "623f6526292c621f705fce3199ddd8870448f2d433625aeb30ead49319362a7c"
+hash = "2fd4ce0ae7afdd6ff64d35ac4ff2e8ce44b121bba8fb48888c06a9c3ac8ab972"
 preserve = true
 
 [[files]]
