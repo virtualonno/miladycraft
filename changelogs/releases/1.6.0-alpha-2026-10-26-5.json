@@ -1,0 +1,10 @@
+{
+  "date": "2026-10-26",
+  "id": "1.6.0-alpha-2026-10-26-5",
+  "notes": "Updates moonedit, the operators' building and terrain editor, to 0.1.0-alpha.5\nand ships it to clients as well as servers. Operators get outlines of their\nselection and brush in the world, a status corner and a panel on Z for writing\nand running sentences, along with new terrain brushes. Players who are not\noperators see nothing new; the client part only acts for them on a server\nthat lets them use moonedit.",
+  "previous": "1.6.0-alpha-2026-10-26-4",
+  "schema": "smoothstone.pack_release.v1",
+  "sequence": 12,
+  "snapshot": "changelogs/snapshots/1.6.0-alpha-2026-10-26-5.json",
+  "snapshot_sha256": "83161c3cad44dc5302076672a0181b9916c45a048edf3345c737a2e57ec97579"
+}
