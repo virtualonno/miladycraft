@@ -1,0 +1,10 @@
+{
+  "date": "2026-10-26",
+  "id": "1.6.0-alpha-2026-10-26-4",
+  "notes": "Restores Umapyoi's apparel (uma_suit) Curios slot, so Umapyoi outfits render\non players again. The previous release removed it while investigating a\nplayer's disconnects, which turned out to come from a client mod the player\nhad added themselves, not from the slot. Outfits handed back to inventories\nwhile the slot was gone can be equipped again. The change is server data:\nclients need not update.",
+  "previous": "1.6.0-alpha-2026-10-26-3",
+  "schema": "smoothstone.pack_release.v1",
+  "sequence": 11,
+  "snapshot": "changelogs/snapshots/1.6.0-alpha-2026-10-26-4.json",
+  "snapshot_sha256": "4d659ebc857dd7487d39e6a44d8ba58faf21b2d3d127796958a954dfdf0a3460"
+}

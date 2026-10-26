@@ -326,10 +326,6 @@ file = "kubejs/data/tntutils/tags/item/explosion_whitelist.json"
 hash = "78f1d22e64ecc404fd986cbabae6525e4ef028f89bb29f57cbc614f7f2df6cc6"
 
 [[files]]
-file = "kubejs/data/umapyoi/curios/entities/umapyoi_curios.json"
-hash = "6e66b1810854d01226e0d158b239bd050ada89605eb172c4eaaa93f7e3ae7578"
-
-[[files]]
 file = "kubejs/data/umapyoi/loot_table/complex_skills.json"
 hash = "dfeac67abce982906c5e18d859c55a479190d297f390ffba256c57ae3661dbe5"
 

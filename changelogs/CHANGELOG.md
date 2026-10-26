@@ -4,6 +4,22 @@
 
 Release records preserve exact pack inputs. Recording a release does not assert that it has been deployed or published. Earlier unrecorded updates have not been reconstructed.
 
+## 1.6.0-alpha-2026-10-26-4 · 2026-10-26
+
+Pack 1.6.0-alpha · [Recorded mod catalogue](modlist/1.6.0-alpha-2026-10-26-4.md) · [Snapshot](../changelogs/snapshots/1.6.0-alpha-2026-10-26-4.json)
+
+Restores Umapyoi's apparel (uma_suit) Curios slot, so Umapyoi outfits render
+on players again. The previous release removed it while investigating a
+player's disconnects, which turned out to come from a client mod the player
+had added themselves, not from the slot. Outfits handed back to inventories
+while the slot was gone can be equipped again. The change is server data:
+clients need not update.
+
+### Configuration and other pack files
+
+- Removed: kubejs/data/umapyoi/curios/entities/umapyoi\_curios.json.
+
+
 ## 1.6.0-alpha-2026-10-26-3 · 2026-10-26
 
 Pack 1.6.0-alpha · [Recorded mod catalogue](modlist/1.6.0-alpha-2026-10-26-3.md) · [Snapshot](../changelogs/snapshots/1.6.0-alpha-2026-10-26-3.json)
