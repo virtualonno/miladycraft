@@ -186,6 +186,14 @@ file = "kubejs/assets/compactmachines/lang/en_us.json"
 hash = "958ea73f2a35dfef2e830be28703d82ab160f3f2d4ed072752227c021718a476"
 
 [[files]]
+file = "kubejs/data/apotheosis/gear_sets/cultist.json"
+hash = "21b11674b18c3fb0d8292095cf7c12bca82ef4054ec3f1cd8d1e0222d1655629"
+
+[[files]]
+file = "kubejs/data/apotheosis/gear_sets/various/cultist.json"
+hash = "21b11674b18c3fb0d8292095cf7c12bca82ef4054ec3f1cd8d1e0222d1655629"
+
+[[files]]
 file = "kubejs/data/beautify/loot_table/blocks/acacia_trellis.json"
 hash = "5a296a60bdfc82b70f25c758b304882f664bfe5484a8944e9cf47cbf2d114816"
 
@@ -262,6 +270,18 @@ file = "kubejs/data/compactmachines/recipe/new_machine_small.json"
 hash = "fb5e5b0a93eae9ed84e50c4b7d2fd985d2222055665ef187ea7b102c2382fcc2"
 
 [[files]]
+file = "kubejs/data/dungeons_arise/advancement/find_fishing_hut.json"
+hash = "21b11674b18c3fb0d8292095cf7c12bca82ef4054ec3f1cd8d1e0222d1655629"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/advancement/find_thornborn_towers.json"
+hash = "21b11674b18c3fb0d8292095cf7c12bca82ef4054ec3f1cd8d1e0222d1655629"
+
+[[files]]
+file = "kubejs/data/extendedae/loot_table/blocks/ex_emc_interface.json"
+hash = "21b11674b18c3fb0d8292095cf7c12bca82ef4054ec3f1cd8d1e0222d1655629"
+
+[[files]]
 file = "kubejs/data/ftbchunks/tags/block/edit_whitelist.json"
 hash = "ad4af8fda0ccb065ad27f1feb91495c71502a9eddac20dc2bb3968213d3febef"
 
@@ -284,6 +304,14 @@ hash = "a37e7db10b3fdaf12f962544a93eab0d0e5d67af47eb3f626dbc243ff4b3b842"
 [[files]]
 file = "kubejs/data/ftbchunks/tags/item/right_click_whitelist.json"
 hash = "0e69a7d8aed88d7b888df80aa3c25c28d05c373ea559efb668b4925a0aa00a41"
+
+[[files]]
+file = "kubejs/data/industrialforegoing/curios/entities/entities.json"
+hash = "e133cb3438c5a30ea4961bcee328efe55514140394524415819bcd46c972b395"
+
+[[files]]
+file = "kubejs/data/irons_jewelry/loot_table/generate_jewelry_test_materials.json"
+hash = "21b11674b18c3fb0d8292095cf7c12bca82ef4054ec3f1cd8d1e0222d1655629"
 
 [[files]]
 file = "kubejs/data/irons_spellbooks/tags/block/pocket_dimension_prevent_placement.json"
@@ -314,6 +342,10 @@ file = "kubejs/data/minecraft/recipe/rabbit_stew_from_red_mushroom.json"
 hash = "5afb432609f373b8c8decad0ddeb76dcb26bc4cc55bf21fe6e4cf547849ee6fc"
 
 [[files]]
+file = "kubejs/data/sfm/loot_table/blocks/buffer.json"
+hash = "21b11674b18c3fb0d8292095cf7c12bca82ef4054ec3f1cd8d1e0222d1655629"
+
+[[files]]
 file = "kubejs/data/tntutils/tags/block/explosion_whitelist.json"
 hash = "78f1d22e64ecc404fd986cbabae6525e4ef028f89bb29f57cbc614f7f2df6cc6"
 
@@ -326,6 +358,10 @@ file = "kubejs/data/tntutils/tags/item/explosion_whitelist.json"
 hash = "78f1d22e64ecc404fd986cbabae6525e4ef028f89bb29f57cbc614f7f2df6cc6"
 
 [[files]]
+file = "kubejs/data/touhou_little_maid/curios/entities/curios.json"
+hash = "be92ff9aa70d6e37663f12cd96f24ae3bcb95096e3b7686c2b7aa58562f1455c"
+
+[[files]]
 file = "kubejs/server_scripts/hideItems.js"
 hash = "5f5dbfd4cfe2d7cea9dbd38da777bee365e0590640e397f4955424efdffce09e"
 
@@ -334,12 +370,16 @@ file = "kubejs/server_scripts/mekanism-radiation-disabled.js"
 hash = "c2d6d5eb4c8bfc257455c7e9bb5d2cee72fc3bf234acbb2b534053657c1c3419"
 
 [[files]]
+file = "kubejs/server_scripts/missing-tag-references.js"
+hash = "94223c1e9d5caa38ea7dd4c96dab2c92948801d56f73623a87324b61c84c1ca9"
+
+[[files]]
 file = "kubejs/server_scripts/protected-event-zones.js"
 hash = "8b01f94310ea13991bd6b8885307bafd68fe3967aadd4a9c88e03cbc34d21b0b"
 
 [[files]]
 file = "kubejs/server_scripts/removedRecipes.js"
-hash = "ce097351d71d9cd7127d168a76bc198a43b8928fadf325f69645f232ee03e9b2"
+hash = "09b5612cd54083339edfb59d24a89f0bf4e98f1f99c781ab768cedbfd970f580"
 
 [[files]]
 file = "kubejs/server_scripts/serverStartup.js"
@@ -2159,6 +2199,10 @@ metafile = true
 file = "mods/zume.pw.toml"
 hash = "145943325d3b47d7fb916835d8530645e3f5806c72f68f9d75183493b2c68425"
 metafile = true
+
+[[files]]
+file = "moonlight-global-datapacks/miladycraft-hidden-mod-data/pack.mcmeta"
+hash = "adf0212b75213199ebbda4b9ca0dcd8b8dd730d2ae57a9e4a0f5620b62d81c2e"
 
 [[files]]
 file = "options.txt"
