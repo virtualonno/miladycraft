@@ -1,0 +1,14 @@
+{
+  "pack": {
+    "pack_format": 48,
+    "description": "Miladycraft: hides sample data that mods ship for content that does not exist"
+  },
+  "filter": {
+    "block": [
+      {
+        "namespace": "blueprint",
+        "path": "data_maps/dimension/modded_biome_slice_sizes\\.json"
+      }
+    ]
+  }
+}

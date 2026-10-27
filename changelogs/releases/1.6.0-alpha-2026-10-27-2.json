@@ -1,0 +1,10 @@
+{
+  "date": "2026-10-27",
+  "id": "1.6.0-alpha-2026-10-27-2",
+  "notes": "Clears the data errors the server logged at every start. Mods shipped recipes,\nloot tables, tags, advancements, Curios slots and sample entries for things\nthis pack does not have; they never loaded, and now they are switched off or\ntrimmed instead of failing. Nothing changes in play: the tall Chipped doors\nfrom Dramatic Doors could never be crafted, the cultist gear sets from Iron's\nApothic Invaders never loaded, and the trimmed tags and Curios slots keep every\nentry that exists.\n\nA small datapack in `moonlight-global-datapacks/` hides Blueprint's sample\ndata map entry; Moonlight loads it for every world.",
+  "previous": "1.6.0-alpha-2026-10-27-1",
+  "schema": "smoothstone.pack_release.v1",
+  "sequence": 15,
+  "snapshot": "changelogs/snapshots/1.6.0-alpha-2026-10-27-2.json",
+  "snapshot_sha256": "b2d4b837eeee9c0803a4a679d08cb6c907970fd3a055c092057925e4ca66c065"
+}

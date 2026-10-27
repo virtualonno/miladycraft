@@ -4,6 +4,37 @@
 
 Release records preserve exact pack inputs. Recording a release does not assert that it has been deployed or published. Earlier unrecorded updates have not been reconstructed.
 
+## 1.6.0-alpha-2026-10-27-2 · 2026-10-27
+
+Pack 1.6.0-alpha · [Recorded mod catalogue](modlist/1.6.0-alpha-2026-10-27-2.md) · [Snapshot](../changelogs/snapshots/1.6.0-alpha-2026-10-27-2.json)
+
+Clears the data errors the server logged at every start. Mods shipped recipes,
+loot tables, tags, advancements, Curios slots and sample entries for things
+this pack does not have; they never loaded, and now they are switched off or
+trimmed instead of failing. Nothing changes in play: the tall Chipped doors
+from Dramatic Doors could never be crafted, the cultist gear sets from Iron's
+Apothic Invaders never loaded, and the trimmed tags and Curios slots keep every
+entry that exists.
+
+A small datapack in `moonlight-global-datapacks/` hides Blueprint's sample
+data map entry; Moonlight loads it for every world.
+
+### Configuration and other pack files
+
+- Added: kubejs/data/apotheosis/gear\_sets/cultist.json.
+- Added: kubejs/data/apotheosis/gear\_sets/various/cultist.json.
+- Added: kubejs/data/dungeons\_arise/advancement/find\_fishing\_hut.json.
+- Added: kubejs/data/dungeons\_arise/advancement/find\_thornborn\_towers.json.
+- Added: kubejs/data/extendedae/loot\_table/blocks/ex\_emc\_interface.json.
+- Added: kubejs/data/industrialforegoing/curios/entities/entities.json.
+- Added: kubejs/data/irons\_jewelry/loot\_table/generate\_jewelry\_test\_materials.json.
+- Added: kubejs/data/sfm/loot\_table/blocks/buffer.json.
+- Added: kubejs/data/touhou\_little\_maid/curios/entities/curios.json.
+- Added: kubejs/server\_scripts/missing-tag-references.js.
+- Changed: kubejs/server\_scripts/removedRecipes.js.
+- Added: moonlight-global-datapacks/miladycraft-hidden-mod-data/pack.mcmeta.
+
+
 ## 1.6.0-alpha-2026-10-27-1 · 2026-10-27
 
 Pack 1.6.0-alpha · [Recorded mod catalogue](modlist/1.6.0-alpha-2026-10-27-1.md) · [Snapshot](../changelogs/snapshots/1.6.0-alpha-2026-10-27-1.json)
