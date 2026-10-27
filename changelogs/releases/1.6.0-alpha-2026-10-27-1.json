@@ -1,0 +1,10 @@
+{
+  "date": "2026-10-27",
+  "id": "1.6.0-alpha-2026-10-27-1",
+  "notes": "Removes Umapyoi. On the server, its race tickets reached for a client-only\nclass every time anything asked for their name, which failed and wrote an\nerror line each time: the SMP logged over 14 million of them in a day,\nwork the server thread spent on nothing.\n\nPlayers: Umapyoi's items, blocks, outfits and its soul and apparel slots are\ngone. Anything else kept in those two slots goes back to its owner the next\ntime they log in. Relaunch the launcher to pick up the change.",
+  "previous": "1.6.0-alpha-2026-10-26-6",
+  "schema": "smoothstone.pack_release.v1",
+  "sequence": 14,
+  "snapshot": "changelogs/snapshots/1.6.0-alpha-2026-10-27-1.json",
+  "snapshot_sha256": "90832832cd82f2e52232c1de095bded8e90a9ccbdecad8c7d42b575169e9a096"
+}

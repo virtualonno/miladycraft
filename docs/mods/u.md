@@ -2,33 +2,6 @@
 
 [Catalogue index](../../MODLIST.md) · [Captured metadata](../catalogue.json)
 
-<a id="mod-5a78f94efc513cf3"></a>
-### Umapyoi
-
-**[1.4.12-1.21.1](https://www.curseforge.com/projects/776121/files/8082282)** · client and server · [Source](https://www.curseforge.com/projects/776121) · [Pack entry](../../mods/umapyoi.pw.toml)
-
-(On your marks Get set… Go!) Ooooooooooh (horsey-buds!) Oooooooh (horsey-hop! horsey-hop!) Horsey horsey meowsy meowsy 3 2 1 Fight!!
-
-Mod IDs and versions: umapyoi 1.4.12-1.21.1.
-
-**Requires:** [Mysterious Mountain Lib](m.md#mod-497edc9d10c9ee94), [Curios API (Forge/NeoForge)](c.md#mod-1887f7ba57ad110d).
-
-**Dependencies and integrations**
-
-| From | Dependency | Kind | Version range | Side | Found in pack |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| umapyoi | mysterious\_mountain\_lib | required | \[1.2.14-1.21.1,) | client and server | [Mysterious Mountain Lib](m.md#mod-497edc9d10c9ee94) |
-| umapyoi | curios | required | \[9.0.5+1.21,) | client and server | [Curios API (Forge/NeoForge)](c.md#mod-1887f7ba57ad110d) |
-
-**Runtime constraints**
-
-| From | Dependency | Kind | Version range | Side | Found in pack |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| umapyoi | neoforge | required | \[21.1.0,) | client and server | runtime |
-| umapyoi | minecraft | required | \[1.21.1,1.22) | client and server | runtime |
-
-Source: umapyoi-1.4.12-1.21.1.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
-
 <a id="mod-13a568b4e3eba779"></a>
 ### Unbreakables
 

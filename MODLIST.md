@@ -2,7 +2,7 @@
 
 Pack **1.6.0-alpha** · minecraft **1.21.1** · neoforge **21.1.264**
 
-362 mods. Choose a name below to see its description and dependencies. [Changelog](changelogs/CHANGELOG.md) · [PDF](docs/MODLIST.pdf) · [Source metadata](docs/catalogue.json)
+361 mods. Choose a name below to see its description and dependencies. [Changelog](changelogs/CHANGELOG.md) · [PDF](docs/MODLIST.pdf) · [Source metadata](docs/catalogue.json)
 
 ## Index
 
@@ -344,7 +344,6 @@ Pack **1.6.0-alpha** · minecraft **1.21.1** · neoforge **21.1.264**
 | [Trenzalore](docs/mods/t.md#mod-9fdc932971916c8f) · [page](https://www.curseforge.com/projects/870210) | [6.1.1](https://www.curseforge.com/projects/870210/files/5623160) | client and server | This mod adds a few small helpers to provide compatibility with Forge / Fabric. |
 | [Trofers](docs/mods/t.md#mod-4af566364777a018) · [page](https://www.curseforge.com/projects/482265) | [8.0.1](https://www.curseforge.com/projects/482265/files/7163548) | client and server | Adds trophies that can be customized through data packs |
 | [TslatEntityStatus (TES)](docs/mods/t.md#mod-2fca037dc6b6bcf9) · [page](https://www.curseforge.com/projects/830420) | [1.8.5](https://www.curseforge.com/projects/830420/files/8987787) | client and server | View entity health and other statuses. Make smacking things fun again! |
-| [Umapyoi](docs/mods/u.md#mod-5a78f94efc513cf3) · [page](https://www.curseforge.com/projects/776121) | [1.4.12-1.21.1](https://www.curseforge.com/projects/776121/files/8082282) | client and server | (On your marks Get set… Go!) Ooooooooooh (horsey-buds!) Oooooooh (horsey-hop! horsey-hop!) Horsey horsey meowsy meowsy 3 2 1 Fight!! |
 | [Unbreakables](docs/mods/u.md#mod-13a568b4e3eba779) · [page](https://www.curseforge.com/projects/1190485) | [21.1.15](https://www.curseforge.com/projects/1190485/files/7966173) | client and server | Configure blocks to be unbreakable under certain conditions. Compatible with Waystones. |
 | [Underground Bunkers](docs/mods/u.md#mod-4c749775ed5e248a) · [page](https://www.curseforge.com/projects/961418) | [1.0.4](https://www.curseforge.com/projects/961418/files/5625449) | client and server | Randomly generated bunkers hidden underground... |
 | [\[UNOFFICIAL\] TaCZ NeoForge Port](docs/mods/u.md#mod-92f700791a316f89) · [page](https://www.curseforge.com/projects/1353462) | [1.1.8-hotfix-r7](https://www.curseforge.com/projects/1353462/files/9027337) | client and server | Unofficial port of Timeless and Classics Zero to 1.21.1 NeoForge |

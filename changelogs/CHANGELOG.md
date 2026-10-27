@@ -4,6 +4,29 @@
 
 Release records preserve exact pack inputs. Recording a release does not assert that it has been deployed or published. Earlier unrecorded updates have not been reconstructed.
 
+## 1.6.0-alpha-2026-10-27-1 · 2026-10-27
+
+Pack 1.6.0-alpha · [Recorded mod catalogue](modlist/1.6.0-alpha-2026-10-27-1.md) · [Snapshot](../changelogs/snapshots/1.6.0-alpha-2026-10-27-1.json)
+
+Removes Umapyoi. On the server, its race tickets reached for a client-only
+class every time anything asked for their name, which failed and wrote an
+error line each time: the SMP logged over 14 million of them in a day,
+work the server thread spent on nothing.
+
+Players: Umapyoi's items, blocks, outfits and its soul and apparel slots are
+gone. Anything else kept in those two slots goes back to its owner the next
+time they log in. Relaunch the launcher to pick up the change.
+
+### Removed
+
+- [Umapyoi](https://www.curseforge.com/projects/776121): [1.4.12-1.21.1](https://www.curseforge.com/projects/776121/files/8082282).
+
+### Configuration and other pack files
+
+- Removed: kubejs/data/umapyoi/loot\_table/complex\_skills.json.
+- Removed: kubejs/data/umapyoi/loot\_table/simple\_skills.json.
+
+
 ## 1.6.0-alpha-2026-10-26-6 · 2026-10-26
 
 Pack 1.6.0-alpha · [Recorded mod catalogue](modlist/1.6.0-alpha-2026-10-26-6.md) · [Snapshot](../changelogs/snapshots/1.6.0-alpha-2026-10-26-6.json)

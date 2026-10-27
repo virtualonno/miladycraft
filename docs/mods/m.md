@@ -552,8 +552,6 @@ This is the library for Syameimaru Zheng's most of mods.
 
 Mod IDs and versions: mysterious\_mountain\_lib 1.2.15-1.21.1.
 
-**Used by:** [Umapyoi](u.md#mod-5a78f94efc513cf3).
-
 **Runtime constraints**
 
 | From | Dependency | Kind | Version range | Side | Found in pack |

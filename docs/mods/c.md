@@ -976,7 +976,7 @@ Author links: [https://github.com/TheIllusiveC4/Curios](https://github.com/TheIl
 
 Mod IDs and versions: curios 9.5.1+1.21.1.
 
-**Used by:** [Charm of Undying (Fabric/Forge/Quilt)](c.md#mod-6aed5df745127873), [Elytra Slot](e.md#mod-340bd7741c779f59), [Iron's Gems 'n Jewelry](i.md#mod-38d83634b0dfaa63), [Iron's Spells 'n Spellbooks](i.md#mod-2b19aaceafe7d5a6), [L\_Ender 's Cataclysm](l.md#mod-ae9c8cbf636ee740), [Umapyoi](u.md#mod-5a78f94efc513cf3).
+**Used by:** [Charm of Undying (Fabric/Forge/Quilt)](c.md#mod-6aed5df745127873), [Elytra Slot](e.md#mod-340bd7741c779f59), [Iron's Gems 'n Jewelry](i.md#mod-38d83634b0dfaa63), [Iron's Spells 'n Spellbooks](i.md#mod-2b19aaceafe7d5a6), [L\_Ender 's Cataclysm](l.md#mod-ae9c8cbf636ee740).
 
 **Optional dependency of:** [AE2 Import Export Card](a.md#mod-71be75067e878eb5), [Apotheosis](a.md#mod-32c2e801bf2c8675).
 
