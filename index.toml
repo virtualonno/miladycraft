@@ -326,14 +326,6 @@ file = "kubejs/data/tntutils/tags/item/explosion_whitelist.json"
 hash = "78f1d22e64ecc404fd986cbabae6525e4ef028f89bb29f57cbc614f7f2df6cc6"
 
 [[files]]
-file = "kubejs/data/umapyoi/loot_table/complex_skills.json"
-hash = "dfeac67abce982906c5e18d859c55a479190d297f390ffba256c57ae3661dbe5"
-
-[[files]]
-file = "kubejs/data/umapyoi/loot_table/simple_skills.json"
-hash = "df45a95ea803b1ddd1d354d3464e73ddd49fc64d6fc47356c500e18755282ee5"
-
-[[files]]
 file = "kubejs/server_scripts/hideItems.js"
 hash = "5f5dbfd4cfe2d7cea9dbd38da777bee365e0590640e397f4955424efdffce09e"
 
@@ -2051,11 +2043,6 @@ metafile = true
 [[files]]
 file = "mods/tslatentitystatus-tes.pw.toml"
 hash = "36a125c4a5ec811a4bee8f6dde7ff7c2b8f4bdd4e82409a4eccf22cd9165840b"
-metafile = true
-
-[[files]]
-file = "mods/umapyoi.pw.toml"
-hash = "31357f6bce408e6cc5f3e17241bde8711e39e676f1e1d87646e23291edad0168"
 metafile = true
 
 [[files]]
