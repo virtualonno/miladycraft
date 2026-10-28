@@ -1,0 +1,10 @@
+{
+  "date": "2026-10-28",
+  "id": "1.6.0-alpha-2026-10-28-1",
+  "notes": "Adds System Milady 0.1.0-alpha.1 on the server only; players install nothing and nothing changes in play. It keeps a tick ledger and a long-term performance record of the server, and runs its thirteen optimizations in shadow mode: vanilla's results are used while each fast path is checked against them, so operators can switch them on once they have agreed with vanilla on this pack.",
+  "previous": "1.6.0-alpha-2026-10-27-2",
+  "schema": "smoothstone.pack_release.v1",
+  "sequence": 16,
+  "snapshot": "changelogs/snapshots/1.6.0-alpha-2026-10-28-1.json",
+  "snapshot_sha256": "e5223e29125bce2c407e48680a2d5c9fe3533153088ebef4e1cacef91ce72375"
+}

@@ -4,6 +4,17 @@
 
 Release records preserve exact pack inputs. Recording a release does not assert that it has been deployed or published. Earlier unrecorded updates have not been reconstructed.
 
+## 1.6.0-alpha-2026-10-28-1 · 2026-10-28
+
+Pack 1.6.0-alpha · [Recorded mod catalogue](modlist/1.6.0-alpha-2026-10-28-1.md) · [Snapshot](../changelogs/snapshots/1.6.0-alpha-2026-10-28-1.json)
+
+Adds System Milady 0.1.0-alpha.1 on the server only; players install nothing and nothing changes in play. It keeps a tick ledger and a long-term performance record of the server, and runs its thirteen optimizations in shadow mode: vanilla's results are used while each fast path is checked against them, so operators can switch them on once they have agreed with vanilla on this pack.
+
+### Added
+
+- [System Milady](https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.1/system_milady-neoforge-1.21.1-0.1.0-alpha.1.jar): [0.1.0-alpha.1](https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.1/system_milady-neoforge-1.21.1-0.1.0-alpha.1.jar).
+
+
 ## 1.6.0-alpha-2026-10-27-2 · 2026-10-27
 
 Pack 1.6.0-alpha · [Recorded mod catalogue](modlist/1.6.0-alpha-2026-10-27-2.md) · [Snapshot](../changelogs/snapshots/1.6.0-alpha-2026-10-27-2.json)

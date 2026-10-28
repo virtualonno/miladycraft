@@ -812,3 +812,21 @@ Mod IDs and versions: suppsquared 1.21-1.2.18.
 | suppsquared | minecraft | required | \[1.21.1\] | client and server | runtime |
 
 Source: suppsquared-neoforge-1.21-1.2.18.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+
+<a id="mod-b31336618d3e276c"></a>
+### System Milady
+
+**[0.1.0-alpha.1](https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.1/system_milady-neoforge-1.21.1-0.1.0-alpha.1.jar)** · server only · [Source](https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.1/system_milady-neoforge-1.21.1-0.1.0-alpha.1.jar) · [Pack entry](../../mods/system-milady.pw.toml)
+
+Scaling runtime for heavily modded NeoForge servers.
+
+Mod IDs and versions: system\_milady 0.1.0-alpha.1.
+
+**Runtime constraints**
+
+| From | Dependency | Kind | Version range | Side | Found in pack |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| system\_milady | neoforge | required | \[21.1.264,21.2) | server only | runtime |
+| system\_milady | minecraft | required | \[1.21.1,1.21.2) | server only | runtime |
+
+Source: system\_milady-neoforge-1.21.1-0.1.0-alpha.1.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
