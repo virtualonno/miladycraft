@@ -1,0 +1,10 @@
+{
+  "date": "2026-10-29",
+  "id": "1.6.0-alpha-2026-10-29-1",
+  "notes": "Updates System Milady to 0.1.0-alpha.2 on the server only; players install nothing and nothing changes in play. Its performance record now says why the server is slow: what each tick over 50 ms spent its time on, and how many block-entity ticks changed nothing. It also reports collector pauses apart from concurrent collection, and charges time wrapped by other mods to the code that ran. Every optimization still runs in shadow mode.",
+  "previous": "1.6.0-alpha-2026-10-28-1",
+  "schema": "smoothstone.pack_release.v1",
+  "sequence": 17,
+  "snapshot": "changelogs/snapshots/1.6.0-alpha-2026-10-29-1.json",
+  "snapshot_sha256": "f616721dc0d9fc898dadd948d95cd68b589ecae014ae53d91bed49be19adfe57"
+}

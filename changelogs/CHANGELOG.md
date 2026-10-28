@@ -4,6 +4,17 @@
 
 Release records preserve exact pack inputs. Recording a release does not assert that it has been deployed or published. Earlier unrecorded updates have not been reconstructed.
 
+## 1.6.0-alpha-2026-10-29-1 · 2026-10-29
+
+Pack 1.6.0-alpha · [Recorded mod catalogue](modlist/1.6.0-alpha-2026-10-29-1.md) · [Snapshot](../changelogs/snapshots/1.6.0-alpha-2026-10-29-1.json)
+
+Updates System Milady to 0.1.0-alpha.2 on the server only; players install nothing and nothing changes in play. Its performance record now says why the server is slow: what each tick over 50 ms spent its time on, and how many block-entity ticks changed nothing. It also reports collector pauses apart from concurrent collection, and charges time wrapped by other mods to the code that ran. Every optimization still runs in shadow mode.
+
+### Updated
+
+- [System Milady](https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.2/system_milady-neoforge-1.21.1-0.1.0-alpha.2.jar): [0.1.0-alpha.1](https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.1/system_milady-neoforge-1.21.1-0.1.0-alpha.1.jar) → [0.1.0-alpha.2](https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.2/system_milady-neoforge-1.21.1-0.1.0-alpha.2.jar); filename: system\_milady-neoforge-1.21.1-0.1.0-alpha.1.jar → system\_milady-neoforge-1.21.1-0.1.0-alpha.2.jar.
+
+
 ## 1.6.0-alpha-2026-10-28-1 · 2026-10-28
 
 Pack 1.6.0-alpha · [Recorded mod catalogue](modlist/1.6.0-alpha-2026-10-28-1.md) · [Snapshot](../changelogs/snapshots/1.6.0-alpha-2026-10-28-1.json)

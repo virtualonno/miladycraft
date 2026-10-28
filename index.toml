@@ -1992,7 +1992,7 @@ metafile = true
 
 [[files]]
 file = "mods/system-milady.pw.toml"
-hash = "0e8712ea7044a7cd873bf621ec6894c7cb22d9e915ce9b970df4fea5375bd38e"
+hash = "e8a89cfbb44540f3f12aad9149aa53ce7a76ea3adfcd67508c0152891a081618"
 metafile = true
 
 [[files]]
