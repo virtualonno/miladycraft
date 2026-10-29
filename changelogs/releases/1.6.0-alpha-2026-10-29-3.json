@@ -1,0 +1,10 @@
+{
+  "date": "2026-10-29",
+  "id": "1.6.0-alpha-2026-10-29-3",
+  "notes": "Updates System Milady to 0.1.0-alpha.4 on the server only; players install nothing and nothing changes in play. It adds a switch that answers each chunk's ticking questions once instead of once per machine, so bases with tens of thousands of machines and cables cost less before any machine runs. Every optimization still runs in shadow mode.",
+  "previous": "1.6.0-alpha-2026-10-29-2",
+  "schema": "smoothstone.pack_release.v1",
+  "sequence": 19,
+  "snapshot": "changelogs/snapshots/1.6.0-alpha-2026-10-29-3.json",
+  "snapshot_sha256": "970419f008f279838a862794795d9317ba4e46245fd185a5ece54e7c6655d621"
+}

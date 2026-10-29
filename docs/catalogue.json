@@ -22106,9 +22106,9 @@
     },
     {
       "download": {
-        "hash": "98ace89630351a2cd11a800b07277a88091e09e26ed051c15caa69fde9f85498e98f491668152c2dd05faa0542427230fd742ee90aaade33c6f273731efc403c",
+        "hash": "3ebb6bd04e25c0093a00416ad0552298a863420ea0a2ad401ea95e79e6c049df906421e99c148c9f319117a8faf26634ce6057ba4ca9e545ad58b7b7413c9901",
         "hash-format": "sha512",
-        "url": "https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.3/system_milady-neoforge-1.21.1-0.1.0-alpha.3.jar"
+        "url": "https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.4/system_milady-neoforge-1.21.1-0.1.0-alpha.4.jar"
       },
       "evidence": [
         {
@@ -22117,12 +22117,12 @@
           "sha256": "566ad1a80220026d05099562645ce968ff0e7c36cde22634332605bb34cc3eff"
         },
         {
-          "body": "modLoader = \"javafml\"\nloaderVersion = \"[4,)\"\nlicense = \"LGPL-3.0-or-later\"\n\n[[mods]]\nmodId = \"system_milady\"\nversion = \"0.1.0-alpha.3\"\ndisplayName = \"System Milady\"\nauthors = \"virtualonno\"\ndescription = '''Scaling runtime for heavily modded NeoForge servers.'''\n# Server-side only: clients connect without it.\ndisplayTest = \"IGNORE_SERVER_VERSION\"\n\n[[dependencies.system_milady]]\nmodId = \"neoforge\"\ntype = \"required\"\nversionRange = \"[21.1.264,21.2)\"\nordering = \"NONE\"\nside = \"SERVER\"\n\n[[dependencies.system_milady]]\nmodId = \"minecraft\"\ntype = \"required\"\nversionRange = \"[1.21.1,1.21.2)\"\nordering = \"NONE\"\nside = \"SERVER\"\n\n[[mixins]]\nconfig = \"system_milady.mixins.json\"\n",
+          "body": "modLoader = \"javafml\"\nloaderVersion = \"[4,)\"\nlicense = \"LGPL-3.0-or-later\"\n\n[[mods]]\nmodId = \"system_milady\"\nversion = \"0.1.0-alpha.4\"\ndisplayName = \"System Milady\"\nauthors = \"virtualonno\"\ndescription = '''Scaling runtime for heavily modded NeoForge servers.'''\n# Server-side only: clients connect without it.\ndisplayTest = \"IGNORE_SERVER_VERSION\"\n\n[[dependencies.system_milady]]\nmodId = \"neoforge\"\ntype = \"required\"\nversionRange = \"[21.1.264,21.2)\"\nordering = \"NONE\"\nside = \"SERVER\"\n\n[[dependencies.system_milady]]\nmodId = \"minecraft\"\ntype = \"required\"\nversionRange = \"[1.21.1,1.21.2)\"\nordering = \"NONE\"\nside = \"SERVER\"\n\n[[mixins]]\nconfig = \"system_milady.mixins.json\"\n",
           "path": "META-INF/neoforge.mods.toml",
-          "sha256": "25f06866cdb0dcb94b92d6ea910df12804fe82d9b4dd083d3288e252b8c5d094"
+          "sha256": "a997ce957283f049e1182b87c7c80937456b78668d0df4bbeb293ccbea043bc5"
         }
       ],
-      "filename": "system_milady-neoforge-1.21.1-0.1.0-alpha.3.jar",
+      "filename": "system_milady-neoforge-1.21.1-0.1.0-alpha.4.jar",
       "key": "local-mod:system_milady",
       "kind": "mod",
       "modules": [
@@ -22150,17 +22150,17 @@
           "id": "system_milady",
           "issues": "",
           "name": "System Milady",
-          "version": "0.1.0-alpha.3"
+          "version": "0.1.0-alpha.4"
         }
       ],
       "name": "System Milady",
       "optional": {},
-      "page": "https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.3/system_milady-neoforge-1.21.1-0.1.0-alpha.3.jar",
+      "page": "https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.4/system_milady-neoforge-1.21.1-0.1.0-alpha.4.jar",
       "path": "mods/system-milady.pw.toml",
       "pinned": false,
       "provider_version": "",
-      "release": "https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.3/system_milady-neoforge-1.21.1-0.1.0-alpha.3.jar",
-      "sha256": "357db0990115c79c26c0c2106868a4fae52aad23c7e2a9766d0c6b896be1c866",
+      "release": "https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.4/system_milady-neoforge-1.21.1-0.1.0-alpha.4.jar",
+      "sha256": "b4ccaab0cad7377720f4efad8199c9827b700aee40bad292af5781890278e594",
       "side": "server"
     },
     {
@@ -25414,7 +25414,7 @@
       "mods/supermartijn642s-core-lib.pw.toml": "bb48f46b7273421f7b80fb7a1abe1e778b9329bbfb615dca0b9efb61a67297f6",
       "mods/supplementaries-squared.pw.toml": "ccb454443d90a9bbbd60cfb05cf5cc8bc7235b981c89e40dc7796a41277e56b1",
       "mods/supplementaries.pw.toml": "ac16a3b327930527b268695816a0be285bdb0a384480b231c6fd2ccbe87f401f",
-      "mods/system-milady.pw.toml": "a7cc7ca020cfa6e2aed24a64eea765bb750c2f11790017cf13edcd96248cf47d",
+      "mods/system-milady.pw.toml": "21d2b6395fb462e68832a936151288e7c1fb592499d683ea0fd8c15e9c24dfae",
       "mods/tacz-1-21-1.pw.toml": "8c1a3b4ed3e14490c8c8e1cfe7f000d25727290cd1dd26ce41b029c396f4e885",
       "mods/tank-storage.pw.toml": "04bb52ee676beccd4ee7588d208d73013b9f91b455f151a7d82641b02958a413",
       "mods/terralith.pw.toml": "f083c3cdf6aadc3b033e20ba8ccc929d5e1b86a0be50b05dc638d7f76dab5024",
@@ -25465,7 +25465,7 @@
       "resourcepacks/when-dungeons-arise-loot-tweaks.pw.toml": "69224f25c19c3fce9c58323d98df97e7c12f47448ea35ff27bd802cd3cf7e249",
       "shaderpacks/complementary-reimagined.pw.toml": "fe2fb19ba4d0fec45626237b701d857ac3c7c961efd5b4b7ccfff6cd512872f8"
     },
-    "pack_sha256": "24112f2215a969c71adf3a89fab32bf4525135219da56719c2f9954cb22cb239"
+    "pack_sha256": "18581e27925eec1c280866c4124c2329d8b1d35dad7b14b6cf3f485e7d56ae7a"
   },
   "pack": {
     "name": "Miladycraft",
