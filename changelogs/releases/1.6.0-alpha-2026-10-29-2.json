@@ -1,0 +1,10 @@
+{
+  "date": "2026-10-29",
+  "id": "1.6.0-alpha-2026-10-29-2",
+  "notes": "Updates System Milady to 0.1.0-alpha.3 on the server only; players install nothing and nothing changes in play. It adds a switch that keeps chunk sections' fluid counts the way vanilla counts them when a chunk loads, so random ticks stop visiting sections of freshly generated chunks that hold only water, stone and ores, and lava no longer stops spreading fire after nearby water drains. Every optimization still runs in shadow mode.",
+  "previous": "1.6.0-alpha-2026-10-29-1",
+  "schema": "smoothstone.pack_release.v1",
+  "sequence": 18,
+  "snapshot": "changelogs/snapshots/1.6.0-alpha-2026-10-29-2.json",
+  "snapshot_sha256": "3946851c48a3f30c9ef7dfd94bf3b646929d2ec6619c30a1c61456a02edae051"
+}

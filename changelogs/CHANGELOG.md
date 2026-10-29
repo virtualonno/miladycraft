@@ -4,6 +4,17 @@
 
 Release records preserve exact pack inputs. Recording a release does not assert that it has been deployed or published. Earlier unrecorded updates have not been reconstructed.
 
+## 1.6.0-alpha-2026-10-29-2 · 2026-10-29
+
+Pack 1.6.0-alpha · [Recorded mod catalogue](modlist/1.6.0-alpha-2026-10-29-2.md) · [Snapshot](../changelogs/snapshots/1.6.0-alpha-2026-10-29-2.json)
+
+Updates System Milady to 0.1.0-alpha.3 on the server only; players install nothing and nothing changes in play. It adds a switch that keeps chunk sections' fluid counts the way vanilla counts them when a chunk loads, so random ticks stop visiting sections of freshly generated chunks that hold only water, stone and ores, and lava no longer stops spreading fire after nearby water drains. Every optimization still runs in shadow mode.
+
+### Updated
+
+- [System Milady](https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.3/system_milady-neoforge-1.21.1-0.1.0-alpha.3.jar): [0.1.0-alpha.2](https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.2/system_milady-neoforge-1.21.1-0.1.0-alpha.2.jar) → [0.1.0-alpha.3](https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.3/system_milady-neoforge-1.21.1-0.1.0-alpha.3.jar); filename: system\_milady-neoforge-1.21.1-0.1.0-alpha.2.jar → system\_milady-neoforge-1.21.1-0.1.0-alpha.3.jar.
+
+
 ## 1.6.0-alpha-2026-10-29-1 · 2026-10-29
 
 Pack 1.6.0-alpha · [Recorded mod catalogue](modlist/1.6.0-alpha-2026-10-29-1.md) · [Snapshot](../changelogs/snapshots/1.6.0-alpha-2026-10-29-1.json)

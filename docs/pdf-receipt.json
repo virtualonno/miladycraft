@@ -1,10 +1,10 @@
 {
   "builder_sha256": "d787f0e9cef5b39735a30d70bd478a34787dbd8313ee59a17be79186de9bc2ff",
-  "catalogue_sha256": "f616721dc0d9fc898dadd948d95cd68b589ecae014ae53d91bed49be19adfe57",
+  "catalogue_sha256": "3946851c48a3f30c9ef7dfd94bf3b646929d2ec6619c30a1c61456a02edae051",
   "engine": "This is LuaHBTeX, Version 1.22.0 (TeX Live 2025)",
-  "pdf_sha256": "7b9ccba7ceb162fd1dae50241138f5af15daf801d8606931f334165db7b6a858",
+  "pdf_sha256": "171ef66e4b99e4391a591877c5bf11a3edbf76f0b9676cc4db20585fb9ba4f73",
   "renderer_sha256": "05a5d6e14bcf2a5a6dc08c93080d1822e6680b74c32b2fa51c8987b596f9a887",
   "schema": "smoothstone.pack_pdf.v1",
-  "source_sha256": "373aadd87cd0c53af9fdb6127702b9c321a4015216066430f33c9dc3956c37a3",
+  "source_sha256": "55b29cc396e744e57bb999a715e15d230bfcacf7e552743e12679a3349a3b19a",
   "template_sha256": "c806af39728c63a714c6ec2d89d82e6eb4e94233081e7317a7ef0d4d9c441a43"
 }
