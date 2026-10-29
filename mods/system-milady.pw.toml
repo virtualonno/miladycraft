@@ -1,8 +1,8 @@
 name = "System Milady"
-filename = "system_milady-neoforge-1.21.1-0.1.0-alpha.3.jar"
+filename = "system_milady-neoforge-1.21.1-0.1.0-alpha.4.jar"
 side = "server"
 
 [download]
-url = "https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.3/system_milady-neoforge-1.21.1-0.1.0-alpha.3.jar"
+url = "https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.4/system_milady-neoforge-1.21.1-0.1.0-alpha.4.jar"
 hash-format = "sha512"
-hash = "98ace89630351a2cd11a800b07277a88091e09e26ed051c15caa69fde9f85498e98f491668152c2dd05faa0542427230fd742ee90aaade33c6f273731efc403c"
+hash = "3ebb6bd04e25c0093a00416ad0552298a863420ea0a2ad401ea95e79e6c049df906421e99c148c9f319117a8faf26634ce6057ba4ca9e545ad58b7b7413c9901"
