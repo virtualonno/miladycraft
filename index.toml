@@ -93,10 +93,6 @@ file = "config/leaky.json"
 hash = "df726601760050bacdf944089da31d8494e7fe485582d02ba22a81f0c37a60c8"
 
 [[files]]
-file = "config/limitedchunks.json"
-hash = "d688dce7bef8d02e84542346ad57f5dd7dc69f24f752600738b298c7e8f6512b"
-
-[[files]]
 file = "config/lmft.json"
 hash = "2a2ee19297afe3fc512f5cbe639349847f3e7a74616f282d24a179a17f4559ed"
 
@@ -1469,11 +1465,6 @@ hash = "175d4fdceb928c2bcc12b7a05a7666adf7b58db4b75ea18f25ff9309ec970781"
 metafile = true
 
 [[files]]
-file = "mods/limited-chunkloading.pw.toml"
-hash = "fb88337b7840e3c06138a63aca65fbaedf6bb8aaca6fd91bc8154d3c27db7846"
-metafile = true
-
-[[files]]
 file = "mods/lionfish-api.pw.toml"
 hash = "c27c2b642deba3609c6e5741ee6360cb8d760e5bf5b2595fd4fa01c01dc5f074"
 metafile = true
@@ -2015,7 +2006,7 @@ metafile = true
 
 [[files]]
 file = "mods/system-milady.pw.toml"
-hash = "1704f86f01e63f0fd9e8a6659687d2bb4334d60f92f7099ae9a6662869deea33"
+hash = "f7bdc597cb5efc32feb362397eef692cc8571ca9fcc892e73855f50cf79f9bcb"
 metafile = true
 
 [[files]]
