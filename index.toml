@@ -37,6 +37,10 @@ file = "config/clienttweaks-common.toml"
 hash = "b1f146dbb9a17a47d1be154c5c26cf6c2396cba5f97790a8f557d300d92210e7"
 
 [[files]]
+file = "config/cupboard.json"
+hash = "82507d9ec4ac684154ecfc10792b6c9fca4e71f185116ef0a4b3bcee47683b14"
+
+[[files]]
 file = "config/default_files/customfov.txt"
 hash = "b6ab909e14be013593ec9978b05041e69c6bd7fec1136b97e34613040eca021a"
 
@@ -55,6 +59,10 @@ hash = "920191d903b1263555833cd5ccb25a202cbee7d0ddafa84e2bd26ca09bb2a0cf"
 [[files]]
 file = "config/effecttimerplus.json"
 hash = "611e26624a5623643476375c8be77c71aac47c55900e646fd1043a2232a61ba7"
+
+[[files]]
+file = "config/farsight.json"
+hash = "b69c35cdf58ef542c3f1785f65d25a79e578e3c806ae2fa81fdd880d247858d2"
 
 [[files]]
 file = "config/foodeffecttooltips-client.toml"
@@ -79,6 +87,10 @@ hash = "041adb840e91f34493844105f50ec8d2843ae452262d62fc9aaf85a4052052ec"
 [[files]]
 file = "config/irons_rpg_tweaks-server.toml"
 hash = "cf4a4f27154d6dd7297a5003a8cc2b6f04014b102faa3ad8969a750cc8807e86"
+
+[[files]]
+file = "config/leaky.json"
+hash = "df726601760050bacdf944089da31d8494e7fe485582d02ba22a81f0c37a60c8"
 
 [[files]]
 file = "config/limitedchunks.json"
@@ -133,6 +145,14 @@ file = "config/simple-rpc/simple-rpc.toml"
 hash = "94c78ed9d21698d153a64fcd004e9b082c3564158b5e884461e13535fff3b5b4"
 
 [[files]]
+file = "config/smoothchunk.json"
+hash = "9d3d19abc7ca774f4e85c769be37b65481f43c8e1aaff51c5c0306af9952add7"
+
+[[files]]
+file = "config/structureessentials.json"
+hash = "6e676d82bde12f7e98a7fdc57adaa5ea8079d4656d7082cfe74442b387169ad4"
+
+[[files]]
 file = "config/tide.toml"
 hash = "d1944096ecc687d34af9e09c13b69d5d644cca9127175a39f0f88f471ee00e66"
 
@@ -184,6 +204,10 @@ preserve = true
 [[files]]
 file = "kubejs/assets/compactmachines/lang/en_us.json"
 hash = "958ea73f2a35dfef2e830be28703d82ab160f3f2d4ed072752227c021718a476"
+
+[[files]]
+file = "kubejs/config/web_server.json"
+hash = "62e7dc15d755bfdb73271fa00bb3223ad04b2cde2fb93f696050e2fe58ad19a8"
 
 [[files]]
 file = "kubejs/data/apotheosis/gear_sets/cultist.json"
@@ -1042,7 +1066,7 @@ metafile = true
 
 [[files]]
 file = "mods/farsight.pw.toml"
-hash = "2fab20b1be9047c2b5344b3c32970456c21bf2106eb7ee99353b3b4fde408cff"
+hash = "ae75d10c50a6aa2742411dd202d07b1bfc8a70081c156336f7f1ad536252214c"
 metafile = true
 
 [[files]]
@@ -1072,7 +1096,7 @@ metafile = true
 
 [[files]]
 file = "mods/fix-gpu-memory-leak.pw.toml"
-hash = "e70c20bf24819da470d25d8cfe9cd07d2fc4ace4de942e7bcd38f7a674a24b6c"
+hash = "69ccc78abd447582c726f2dca72294a59af0c13c8e1ec3ae32b3bacd6469206e"
 metafile = true
 
 [[files]]
