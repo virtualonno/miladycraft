@@ -9013,7 +9013,7 @@
       "provider_version": "8874976",
       "release": "https://www.curseforge.com/projects/495693/files/8874976",
       "sha256": "f6f282836576fbda6075ca3ea57e09f89d30ab8cd90400a2f47f20c73b10e92f",
-      "side": "both"
+      "side": "client"
     },
     {
       "download": {
@@ -9381,7 +9381,7 @@
       "provider_version": "5513549",
       "release": "https://www.curseforge.com/projects/882495/files/5513549",
       "sha256": "4bd0682e26b8d4ba78442ce8d969fc7fa3cac2c21fc600de34a54b2ff7814931",
-      "side": "both"
+      "side": "client"
     },
     {
       "download": {
@@ -25005,17 +25005,20 @@
       "config/bcc-common.toml": "76038f56040f7c9afb0cebe62a5a6673374b4e91a88acde36603e32abdf96ae9",
       "config/betterdays-common.toml": "235351026dadd2d5ea2b058ab6310b1092f6dec7d7226dcdade97d151c6d4256",
       "config/clienttweaks-common.toml": "b1f146dbb9a17a47d1be154c5c26cf6c2396cba5f97790a8f557d300d92210e7",
+      "config/cupboard.json": "82507d9ec4ac684154ecfc10792b6c9fca4e71f185116ef0a4b3bcee47683b14",
       "config/default_files/customfov.txt": "b6ab909e14be013593ec9978b05041e69c6bd7fec1136b97e34613040eca021a",
       "config/default_files/options.txt": "2d1ecd0d9812f258a8475fb2a5a024e0ba7af33ccc914681262fb2c27b6bd7ec",
       "config/desiredservers/desiredservers.json": "3b6f73445eaaed1c6f7709a532658c9fd7acd7566d3737186857f7fe5ceccdb4",
       "config/dokimobs-common.toml": "920191d903b1263555833cd5ccb25a202cbee7d0ddafa84e2bd26ca09bb2a0cf",
       "config/effecttimerplus.json": "611e26624a5623643476375c8be77c71aac47c55900e646fd1043a2232a61ba7",
+      "config/farsight.json": "b69c35cdf58ef542c3f1785f65d25a79e578e3c806ae2fa81fdd880d247858d2",
       "config/foodeffecttooltips-client.toml": "0676cd17337ac3240cafe5c9d1c17d175fcd7dc53ee2e7ea919407d9b5dde6eb",
       "config/ftbchunks-world.snbt": "df97d93407a6babe2efd80d6d5a912b0bc5dbbf8de9ccb08be2880f731c30ec1",
       "config/ftbessentials.snbt": "860d453dcf7a2a0ab296d8a819d31d22ef361b90ebe054991b438d2618aaac1f",
       "config/inline/client-config.toml": "a3ca1cd7feaa30993414670c67645455658a884aad0f653b5ba937c0a4288581",
       "config/inventoryprofilesnext/inventoryprofiles.json": "041adb840e91f34493844105f50ec8d2843ae452262d62fc9aaf85a4052052ec",
       "config/irons_rpg_tweaks-server.toml": "cf4a4f27154d6dd7297a5003a8cc2b6f04014b102faa3ad8969a750cc8807e86",
+      "config/leaky.json": "df726601760050bacdf944089da31d8494e7fe485582d02ba22a81f0c37a60c8",
       "config/limitedchunks.json": "d688dce7bef8d02e84542346ad57f5dd7dc69f24f752600738b298c7e8f6512b",
       "config/lmft.json": "2a2ee19297afe3fc512f5cbe639349847f3e7a74616f282d24a179a17f4559ed",
       "config/moonedit-server.toml": "a6d420af74ea6bbe386433920383ce006e2b81f9175df47ffc1190a1affbcb46",
@@ -25029,6 +25032,8 @@
       "config/sidekick.ini": "f492b177c297ee8a8f1713ad898ec470616b992cbe80d2beecf21fdeeff2f25b",
       "config/simple-rpc/server-entries.toml": "c0f805a22438339d68aacf46339f6f9d47cd9737ab0a6e4c8af3b772f7028849",
       "config/simple-rpc/simple-rpc.toml": "94c78ed9d21698d153a64fcd004e9b082c3564158b5e884461e13535fff3b5b4",
+      "config/smoothchunk.json": "9d3d19abc7ca774f4e85c769be37b65481f43c8e1aaff51c5c0306af9952add7",
+      "config/structureessentials.json": "11866e37fdcd966127a9e6b8f4759d7a0be7cbb49e67cc9e581ca9c7c8f32880",
       "config/tide.toml": "d1944096ecc687d34af9e09c13b69d5d644cca9127175a39f0f88f471ee00e66",
       "config/touhou_little_maid-common.toml": "66784542373a749b4207078906208d3887b59f4dcfac0342757ca72889a5d6db",
       "config/transmog.json": "6c52249c560629b1cc7a5b4247d9e55e7e92f1923fcfcc37b6318b4d472e8355",
@@ -25042,6 +25047,7 @@
       "icon.png": "f95d90f49f6cebec922e36caf63449051a84c6aa414e24e7f90efacc73a199da",
       "knownkeys.txt": "018bba37d909e59719cf7641ba997b24cc28627d6aa7298fd4a528e004e09fcc",
       "kubejs/assets/compactmachines/lang/en_us.json": "958ea73f2a35dfef2e830be28703d82ab160f3f2d4ed072752227c021718a476",
+      "kubejs/config/web_server.json": "62e7dc15d755bfdb73271fa00bb3223ad04b2cde2fb93f696050e2fe58ad19a8",
       "kubejs/data/apotheosis/gear_sets/cultist.json": "21b11674b18c3fb0d8292095cf7c12bca82ef4054ec3f1cd8d1e0222d1655629",
       "kubejs/data/apotheosis/gear_sets/various/cultist.json": "21b11674b18c3fb0d8292095cf7c12bca82ef4054ec3f1cd8d1e0222d1655629",
       "kubejs/data/beautify/loot_table/blocks/acacia_trellis.json": "5a296a60bdfc82b70f25c758b304882f664bfe5484a8944e9cf47cbf2d114816",
@@ -25223,13 +25229,13 @@
       "mods/extreme-sound-muffler.pw.toml": "c8dc552aab96bc9ab2fcaa0ae5a240f47ae828c934f8eeb5269cfe642ff8ceb5",
       "mods/falling-leaves-forge.pw.toml": "f5b029566157fcc63dafcaef401b67821269547cb6fc014e4c0e7394796ea94f",
       "mods/farmers-delight.pw.toml": "97347efd9e808841d72fe3599da8a11add8422e97f89ae1c85cdfc0acfa18f96",
-      "mods/farsight.pw.toml": "2fab20b1be9047c2b5344b3c32970456c21bf2106eb7ee99353b3b4fde408cff",
+      "mods/farsight.pw.toml": "ae75d10c50a6aa2742411dd202d07b1bfc8a70081c156336f7f1ad536252214c",
       "mods/fast-ip-ping.pw.toml": "68ea2f7e54a79433290386f97b9eb9bcda4cb0f2e36bc07a3b2ed8342cce65b2",
       "mods/fast-paintings.pw.toml": "fd62d3616c3e5b0bc4d4c4ec890258bda511f5da662064794d92f0e94f6aaa7f",
       "mods/fastsuite.pw.toml": "83e60a73e109258def123fbcab5cf606857f36feca621a4c40c9d7c10b285bca",
       "mods/fastworkbench.pw.toml": "0d13e70b59a7f4623237f6b03e22368235d123030f36f18312fd20a8f7d2e459",
       "mods/ferritecore.pw.toml": "dff824171060c79b327a4880c2f0546c727a041a489ef3af643ec2dcd9cd0c48",
-      "mods/fix-gpu-memory-leak.pw.toml": "e70c20bf24819da470d25d8cfe9cd07d2fc4ace4de942e7bcd38f7a674a24b6c",
+      "mods/fix-gpu-memory-leak.pw.toml": "69ccc78abd447582c726f2dca72294a59af0c13c8e1ec3ae32b3bacd6469206e",
       "mods/flickerfix.pw.toml": "53407b14cb4227c53f9b26e8ce6e164058e349a76f444fce20130fd0d7407f65",
       "mods/food-effect-tooltips-forge.pw.toml": "b6ee52c4a7eaa1ad846c4dcce729db45bfc158fb278b6e0d14620122e93dea6b",
       "mods/formations-nether.pw.toml": "f127d44701d6a94e792d0168e3a899e9f50ae7fa40c0d8abc98a92d8fd5b9cf8",
@@ -25465,7 +25471,7 @@
       "resourcepacks/when-dungeons-arise-loot-tweaks.pw.toml": "69224f25c19c3fce9c58323d98df97e7c12f47448ea35ff27bd802cd3cf7e249",
       "shaderpacks/complementary-reimagined.pw.toml": "fe2fb19ba4d0fec45626237b701d857ac3c7c961efd5b4b7ccfff6cd512872f8"
     },
-    "pack_sha256": "18581e27925eec1c280866c4124c2329d8b1d35dad7b14b6cf3f485e7d56ae7a"
+    "pack_sha256": "df40de7ca01d731aa86d47978677be559a3bfd81c334f04faa7e16ed126577db"
   },
   "pack": {
     "name": "Miladycraft",

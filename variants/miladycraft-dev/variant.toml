@@ -16,3 +16,7 @@ remove = [
     # Whitelist plus online-mode already authenticate; no second password login.
     "mods/neoauth.pw.toml",
 ]
+override = [
+    # DEV restores the registry and random-source checks so faults show at start.
+    "config/structureessentials.json",
+]

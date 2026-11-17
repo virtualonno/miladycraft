@@ -55,7 +55,7 @@ Source: FarmersDelight-1.21.1-1.3.4.jar · META-INF/neoforge.mods.toml. Exact de
 <a id="mod-c693ce721267a485"></a>
 ### Farsight \[Forge/Neo\]
 
-**[5.5](https://www.curseforge.com/projects/495693/files/8874976)** · client and server · [Source](https://www.curseforge.com/projects/495693) · [Pack entry](../../mods/farsight.pw.toml)
+**[5.5](https://www.curseforge.com/projects/495693/files/8874976)** · client only · [Source](https://www.curseforge.com/projects/495693) · [Pack entry](../../mods/farsight.pw.toml)
 
 Simple efficient mod to yield higher view distances on client side, regardless of serverside settings
 
@@ -198,7 +198,7 @@ Source: ferritecore-7.0.3-neoforge.jar · META-INF/neoforge.mods.toml. Exact des
 <a id="mod-decf317f01231323"></a>
 ### fix GPU memory leak\[Forge/Fabric\]
 
-**[1.8](https://www.curseforge.com/projects/882495/files/5513549)** · client and server · [Source](https://www.curseforge.com/projects/882495) · [Pack entry](../../mods/fix-gpu-memory-leak.pw.toml)
+**[1.8](https://www.curseforge.com/projects/882495/files/5513549)** · client only · [Source](https://www.curseforge.com/projects/882495) · [Pack entry](../../mods/fix-gpu-memory-leak.pw.toml)
 
 Fixes some gpu memory leaks
 

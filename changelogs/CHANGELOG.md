@@ -4,6 +4,27 @@
 
 Release records preserve exact pack inputs. Recording a release does not assert that it has been deployed or published. Earlier unrecorded updates have not been reconstructed.
 
+## 1.6.0-alpha-2026-11-17-1 · 2026-11-17
+
+Pack 1.6.0-alpha · [Recorded mod catalogue](modlist/1.6.0-alpha-2026-11-17-1.md) · [Snapshot](../changelogs/snapshots/1.6.0-alpha-2026-11-17-1.json)
+
+Configuration corrections; no mod is added, removed or updated. Farsight no longer stores and replays visited chunks from disk and caps render distance at 32, so clients stop paying its per-tick chunk scan; old farsightpreview folders can be deleted by hand. Farsight and the GPU memory leak fix now install on clients only, since neither has server code. Smooth Chunk Save writes partly generated chunks again, so chunk borders are no longer regenerated after every restart, and saves dirty chunks after 60 s instead of 300 s. Leaky stops throttling item physics and ageing, so dropped items fall, float and despawn as in vanilla; pile detection and removal are unchanged, and large entity crowds no longer log stack traces. Players no longer see internal stack traces when a command fails. Structure searches give up after 5 s instead of 50 s, so a far explorer map or locate may find nothing where it used to stall the server. The KubeJS local web server is off on every client and server. Miladycraft Dev also restores the registry and random-source checks, so such faults stop the server at start there.
+
+### Updated
+
+- [Farsight \[Forge/Neo\]](https://www.curseforge.com/projects/495693): [5.5](https://www.curseforge.com/projects/495693/files/8874976) → [5.5](https://www.curseforge.com/projects/495693/files/8874976); side: both → client.
+- [fix GPU memory leak\[Forge/Fabric\]](https://www.curseforge.com/projects/882495): [1.8](https://www.curseforge.com/projects/882495/files/5513549) → [1.8](https://www.curseforge.com/projects/882495/files/5513549); side: both → client.
+
+### Configuration and other pack files
+
+- Added: config/cupboard.json.
+- Added: config/farsight.json.
+- Added: config/leaky.json.
+- Added: config/smoothchunk.json.
+- Added: config/structureessentials.json.
+- Added: kubejs/config/web\_server.json.
+
+
 ## 1.6.0-alpha-2026-10-29-3 · 2026-10-29
 
 Pack 1.6.0-alpha · [Recorded mod catalogue](modlist/1.6.0-alpha-2026-10-29-3.md) · [Snapshot](../changelogs/snapshots/1.6.0-alpha-2026-10-29-3.json)
