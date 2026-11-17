@@ -1,0 +1,10 @@
+{
+  "date": "2026-11-17",
+  "id": "1.6.0-alpha-2026-11-17-3",
+  "notes": "Updates System Milady to 0.1.0-alpha.6 on the server and removes Limited Chunkloading. Chunk loaders (forceloaded chunks and mods' chunk loaders) are now governed by System Milady's chunk-loader policy instead: a loader runs while its owner is online and for five minutes after, and a loader whose owner is not yet known, which is every loader placed before this update, runs while anyone is online and for five minutes after. Loaders are held aside while they may not run, never deleted, so they come back exactly as they were. Re-placing or re-toggling a loader records its owner. Limited Chunkloading also leaves players' clients.",
+  "previous": "1.6.0-alpha-2026-11-17-2",
+  "schema": "smoothstone.pack_release.v1",
+  "sequence": 22,
+  "snapshot": "changelogs/snapshots/1.6.0-alpha-2026-11-17-3.json",
+  "snapshot_sha256": "4f7e70e07fefad4119b2212eb55a4c4b317090ac5763ba89b326acf840b6a139"
+}

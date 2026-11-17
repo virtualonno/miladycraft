@@ -955,7 +955,7 @@ Cupboard library for utilities and configs
 
 Mod IDs and versions: cupboard 4.2.
 
-**Used by:** [Biome Music](b.md#mod-5eaf41a8e65a9ca2), [Farsight \[Forge/Neo\]](f.md#mod-c693ce721267a485), [fix GPU memory leak\[Forge/Fabric\]](f.md#mod-decf317f01231323), [Leaky - Item Lag Fix](l.md#mod-e9dad2a82ba19767), [Limited Chunkloading - Chunk cleanup\[Forge/Fabric\]](l.md#mod-6dc0a6fbd65325ae), [Login Protection](l.md#mod-fb45f902c254db03), [Loot Integrations](l.md#mod-de59a4ca2f4b00ef), [Respawning Structures](r.md#mod-a7b0e9af0b30656a), [Structure Essentials](s.md#mod-9b185a7019c9b90b).
+**Used by:** [Biome Music](b.md#mod-5eaf41a8e65a9ca2), [Farsight \[Forge/Neo\]](f.md#mod-c693ce721267a485), [fix GPU memory leak\[Forge/Fabric\]](f.md#mod-decf317f01231323), [Leaky - Item Lag Fix](l.md#mod-e9dad2a82ba19767), [Login Protection](l.md#mod-fb45f902c254db03), [Loot Integrations](l.md#mod-de59a4ca2f4b00ef), [Respawning Structures](r.md#mod-a7b0e9af0b30656a), [Structure Essentials](s.md#mod-9b185a7019c9b90b).
 
 **Runtime constraints**
 

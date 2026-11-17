@@ -4,6 +4,25 @@
 
 Release records preserve exact pack inputs. Recording a release does not assert that it has been deployed or published. Earlier unrecorded updates have not been reconstructed.
 
+## 1.6.0-alpha-2026-11-17-3 · 2026-11-17
+
+Pack 1.6.0-alpha · [Recorded mod catalogue](modlist/1.6.0-alpha-2026-11-17-3.md) · [Snapshot](../changelogs/snapshots/1.6.0-alpha-2026-11-17-3.json)
+
+Updates System Milady to 0.1.0-alpha.6 on the server and removes Limited Chunkloading. Chunk loaders (forceloaded chunks and mods' chunk loaders) are now governed by System Milady's chunk-loader policy instead: a loader runs while its owner is online and for five minutes after, and a loader whose owner is not yet known, which is every loader placed before this update, runs while anyone is online and for five minutes after. Loaders are held aside while they may not run, never deleted, so they come back exactly as they were. Re-placing or re-toggling a loader records its owner. Limited Chunkloading also leaves players' clients.
+
+### Removed
+
+- [Limited Chunkloading - Chunk cleanup\[Forge/Fabric\]](https://www.curseforge.com/projects/456640): [4.1](https://www.curseforge.com/projects/456640/files/5571339).
+
+### Updated
+
+- [System Milady](https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.6/system_milady-neoforge-1.21.1-0.1.0-alpha.6.jar): [0.1.0-alpha.5](https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.5/system_milady-neoforge-1.21.1-0.1.0-alpha.5.jar) → [0.1.0-alpha.6](https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.6/system_milady-neoforge-1.21.1-0.1.0-alpha.6.jar); filename: system\_milady-neoforge-1.21.1-0.1.0-alpha.5.jar → system\_milady-neoforge-1.21.1-0.1.0-alpha.6.jar.
+
+### Configuration and other pack files
+
+- Removed: config/limitedchunks.json.
+
+
 ## 1.6.0-alpha-2026-11-17-2 · 2026-11-17
 
 Pack 1.6.0-alpha · [Recorded mod catalogue](modlist/1.6.0-alpha-2026-11-17-2.md) · [Snapshot](../changelogs/snapshots/1.6.0-alpha-2026-11-17-2.json)

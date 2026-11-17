@@ -110,31 +110,6 @@ Mod IDs and versions: dogslie 1.3.0.
 
 Source: LetSleepingDogsLie-1.21-NeoForge-1.3.0.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
-<a id="mod-6dc0a6fbd65325ae"></a>
-### Limited Chunkloading - Chunk cleanup\[Forge/Fabric\]
-
-**[4.1](https://www.curseforge.com/projects/456640/files/5571339)** · client and server · [Source](https://www.curseforge.com/projects/456640) · [Pack entry](../../mods/limited-chunkloading.pw.toml)
-
-Limited chunks mod which unloads chunks a give time after the last visiting player logs off
-
-Mod IDs and versions: limitedchunks 4.1.
-
-**Requires:** [Cupboard](c.md#mod-409f0bf4c2d1dc3b).
-
-**Dependencies and integrations**
-
-| From | Dependency | Kind | Version range | Side | Found in pack |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| limitedchunks | cupboard | required | \[1.21-1.4,) | client and server | [Cupboard](c.md#mod-409f0bf4c2d1dc3b) |
-
-**Runtime constraints**
-
-| From | Dependency | Kind | Version range | Side | Found in pack |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| limitedchunks | minecraft | required | \[1.21,1.30) | client and server | runtime |
-
-Source: limitedchunks-1.21-4.1.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
-
 <a id="mod-a89f653672150b9c"></a>
 ### Lionfish API
 
