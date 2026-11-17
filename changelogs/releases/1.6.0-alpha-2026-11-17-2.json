@@ -1,0 +1,10 @@
+{
+  "date": "2026-11-17",
+  "id": "1.6.0-alpha-2026-11-17-2",
+  "notes": "Updates System Milady to 0.1.0-alpha.5 on the server and moonedit to 0.1.0-alpha.7. System Milady's optimizations, which agreed with vanilla on every check while they ran in shadow, now run on: the pack ships its startup config with every switch on, since a server keeps the modes already in its file. It also adds dimension governance and realms for operators, which change nothing until an operator sets them. moonedit works out block traits on first use instead of at start, so servers and single-player worlds open about 10 s sooner; players' clients update moonedit as usual and edits behave as before.",
+  "previous": "1.6.0-alpha-2026-11-17-1",
+  "schema": "smoothstone.pack_release.v1",
+  "sequence": 21,
+  "snapshot": "changelogs/snapshots/1.6.0-alpha-2026-11-17-2.json",
+  "snapshot_sha256": "e533c3188e06b845449c5953e66f530989783721a5204c69a406780850d520f7"
+}

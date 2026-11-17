@@ -16011,23 +16011,23 @@
     },
     {
       "download": {
-        "hash": "3b6a49fa6c96bd74728e43716014ca121ae69afc19ee81208d3d429ccb15a56579d3093e0cdd70ace99e1da0c6d37a53f9687039c76ea9302e58974ac52c86b5",
+        "hash": "49d5afb95a6e5eabe18eb2bf3827876b2919b58e990dffb73640e691c8ce0ad2542f01f1b5b73e60fa1d73ac8321dd4256a990ab18e64911b63ab88f49dc36b9",
         "hash-format": "sha512",
-        "url": "https://github.com/virtualonno/miladycraft/releases/download/moonedit-0.1.0-alpha.6/moonedit-neoforge-1.21.1-0.1.0-alpha.6.jar"
+        "url": "https://github.com/virtualonno/miladycraft/releases/download/moonedit-0.1.0-alpha.7/moonedit-neoforge-1.21.1-0.1.0-alpha.7.jar"
       },
       "evidence": [
         {
-          "body": "Manifest-Version: 1.0\r\nSpecification-Title: moonedit\r\nSpecification-Vendor: virtualonno\r\nSpecification-Version: 0.1.0-alpha.6\r\nImplementation-Title: moonedit\r\nImplementation-Version: 0.1.0-alpha.6\r\nImplementation-Vendor: virtualonno\r\n\r\n",
+          "body": "Manifest-Version: 1.0\r\nSpecification-Title: moonedit\r\nSpecification-Vendor: virtualonno\r\nSpecification-Version: 0.1.0-alpha.7\r\nImplementation-Title: moonedit\r\nImplementation-Version: 0.1.0-alpha.7\r\nImplementation-Vendor: virtualonno\r\n\r\n",
           "path": "META-INF/MANIFEST.MF",
-          "sha256": "1671396f6b8b1396399b9ad9c40a1b54578b747e9e2072c52df7b59cb5a78d29"
+          "sha256": "e04348a4ba92d1a301cf043b7f0e9037835b04bc55d2827557c0dfecb97d7a11"
         },
         {
-          "body": "modLoader=\"javafml\"\nloaderVersion=\"[4,)\"\nlicense=\"LGPL-3.0-or-later\"\n\n[[mods]]\nmodId=\"moonedit\"\nversion=\"0.1.0-alpha.6\"\ndisplayName=\"moonedit\"\nauthors=\"virtualonno\"\ndisplayTest=\"IGNORE_ALL_VERSION\"\ndescription='''Fast building and terrain editing for server operators.'''\n\n[[dependencies.moonedit]]\nmodId=\"neoforge\"\ntype=\"required\"\nversionRange=\"[21.1.244,21.2)\"\nordering=\"NONE\"\nside=\"BOTH\"\n\n[[dependencies.moonedit]]\nmodId=\"minecraft\"\ntype=\"required\"\nversionRange=\"[1.21.1,1.21.2)\"\nordering=\"NONE\"\nside=\"BOTH\"\n\n",
+          "body": "modLoader=\"javafml\"\nloaderVersion=\"[4,)\"\nlicense=\"LGPL-3.0-or-later\"\n\n[[mods]]\nmodId=\"moonedit\"\nversion=\"0.1.0-alpha.7\"\ndisplayName=\"moonedit\"\nauthors=\"virtualonno\"\ndisplayTest=\"IGNORE_ALL_VERSION\"\ndescription='''Fast building and terrain editing for server operators.'''\n\n[[dependencies.moonedit]]\nmodId=\"neoforge\"\ntype=\"required\"\nversionRange=\"[21.1.244,21.2)\"\nordering=\"NONE\"\nside=\"BOTH\"\n\n[[dependencies.moonedit]]\nmodId=\"minecraft\"\ntype=\"required\"\nversionRange=\"[1.21.1,1.21.2)\"\nordering=\"NONE\"\nside=\"BOTH\"\n\n",
           "path": "META-INF/neoforge.mods.toml",
-          "sha256": "f0d40eee0ad11ff740eb56edbfff5e477979e1188e7fcd45835032db642bac9f"
+          "sha256": "c1d70ab55b931a0fc7c9b6be502fdc45bc6722e40699b3f732d8af1fd1cdcb36"
         }
       ],
-      "filename": "moonedit-neoforge-1.21.1-0.1.0-alpha.6.jar",
+      "filename": "moonedit-neoforge-1.21.1-0.1.0-alpha.7.jar",
       "key": "local-mod:moonedit",
       "kind": "mod",
       "modules": [
@@ -16055,17 +16055,17 @@
           "id": "moonedit",
           "issues": "",
           "name": "moonedit",
-          "version": "0.1.0-alpha.6"
+          "version": "0.1.0-alpha.7"
         }
       ],
       "name": "moonedit",
       "optional": {},
-      "page": "https://github.com/virtualonno/miladycraft/releases/download/moonedit-0.1.0-alpha.6/moonedit-neoforge-1.21.1-0.1.0-alpha.6.jar",
+      "page": "https://github.com/virtualonno/miladycraft/releases/download/moonedit-0.1.0-alpha.7/moonedit-neoforge-1.21.1-0.1.0-alpha.7.jar",
       "path": "mods/moonedit.pw.toml",
       "pinned": false,
       "provider_version": "",
-      "release": "https://github.com/virtualonno/miladycraft/releases/download/moonedit-0.1.0-alpha.6/moonedit-neoforge-1.21.1-0.1.0-alpha.6.jar",
-      "sha256": "4d66fae784e107ceb7b8091c73d46c41f45e1ebfd1b7bedc78c6c84fd24c73a3",
+      "release": "https://github.com/virtualonno/miladycraft/releases/download/moonedit-0.1.0-alpha.7/moonedit-neoforge-1.21.1-0.1.0-alpha.7.jar",
+      "sha256": "c9a607e2227bab2410052494c046a1dd5d9248f9ebd1feb8460d45d0d4a9c747",
       "side": "both"
     },
     {
@@ -22106,9 +22106,9 @@
     },
     {
       "download": {
-        "hash": "3ebb6bd04e25c0093a00416ad0552298a863420ea0a2ad401ea95e79e6c049df906421e99c148c9f319117a8faf26634ce6057ba4ca9e545ad58b7b7413c9901",
+        "hash": "f9a6a979ecbef8317b362c93ad0197e58c5c8de50785a89c6915c7ebf74dd4368d433f8be2c2f0d60d4f97bc37a7bee06b1d91fb85a672432d4bb38ac95733db",
         "hash-format": "sha512",
-        "url": "https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.4/system_milady-neoforge-1.21.1-0.1.0-alpha.4.jar"
+        "url": "https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.5/system_milady-neoforge-1.21.1-0.1.0-alpha.5.jar"
       },
       "evidence": [
         {
@@ -22117,12 +22117,12 @@
           "sha256": "566ad1a80220026d05099562645ce968ff0e7c36cde22634332605bb34cc3eff"
         },
         {
-          "body": "modLoader = \"javafml\"\nloaderVersion = \"[4,)\"\nlicense = \"LGPL-3.0-or-later\"\n\n[[mods]]\nmodId = \"system_milady\"\nversion = \"0.1.0-alpha.4\"\ndisplayName = \"System Milady\"\nauthors = \"virtualonno\"\ndescription = '''Scaling runtime for heavily modded NeoForge servers.'''\n# Server-side only: clients connect without it.\ndisplayTest = \"IGNORE_SERVER_VERSION\"\n\n[[dependencies.system_milady]]\nmodId = \"neoforge\"\ntype = \"required\"\nversionRange = \"[21.1.264,21.2)\"\nordering = \"NONE\"\nside = \"SERVER\"\n\n[[dependencies.system_milady]]\nmodId = \"minecraft\"\ntype = \"required\"\nversionRange = \"[1.21.1,1.21.2)\"\nordering = \"NONE\"\nside = \"SERVER\"\n\n[[mixins]]\nconfig = \"system_milady.mixins.json\"\n",
+          "body": "modLoader = \"javafml\"\nloaderVersion = \"[4,)\"\nlicense = \"LGPL-3.0-or-later\"\n\n[[mods]]\nmodId = \"system_milady\"\nversion = \"0.1.0-alpha.5\"\ndisplayName = \"System Milady\"\nauthors = \"virtualonno\"\ndescription = '''Scaling runtime for heavily modded NeoForge servers.'''\n# Server-side only: clients connect without it.\ndisplayTest = \"IGNORE_SERVER_VERSION\"\n\n[[dependencies.system_milady]]\nmodId = \"neoforge\"\ntype = \"required\"\nversionRange = \"[21.1.264,21.2)\"\nordering = \"NONE\"\nside = \"SERVER\"\n\n[[dependencies.system_milady]]\nmodId = \"minecraft\"\ntype = \"required\"\nversionRange = \"[1.21.1,1.21.2)\"\nordering = \"NONE\"\nside = \"SERVER\"\n\n[[mixins]]\nconfig = \"system_milady.mixins.json\"\n",
           "path": "META-INF/neoforge.mods.toml",
-          "sha256": "a997ce957283f049e1182b87c7c80937456b78668d0df4bbeb293ccbea043bc5"
+          "sha256": "f1ccf19549c7e00c930e422c715be8fc2fc270aba4bb4ce47ecff4a71c3eafb2"
         }
       ],
-      "filename": "system_milady-neoforge-1.21.1-0.1.0-alpha.4.jar",
+      "filename": "system_milady-neoforge-1.21.1-0.1.0-alpha.5.jar",
       "key": "local-mod:system_milady",
       "kind": "mod",
       "modules": [
@@ -22150,17 +22150,17 @@
           "id": "system_milady",
           "issues": "",
           "name": "System Milady",
-          "version": "0.1.0-alpha.4"
+          "version": "0.1.0-alpha.5"
         }
       ],
       "name": "System Milady",
       "optional": {},
-      "page": "https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.4/system_milady-neoforge-1.21.1-0.1.0-alpha.4.jar",
+      "page": "https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.5/system_milady-neoforge-1.21.1-0.1.0-alpha.5.jar",
       "path": "mods/system-milady.pw.toml",
       "pinned": false,
       "provider_version": "",
-      "release": "https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.4/system_milady-neoforge-1.21.1-0.1.0-alpha.4.jar",
-      "sha256": "b4ccaab0cad7377720f4efad8199c9827b700aee40bad292af5781890278e594",
+      "release": "https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.5/system_milady-neoforge-1.21.1-0.1.0-alpha.5.jar",
+      "sha256": "e59b30c79f6b558d643eb5261b541d8c539a1ac1a2bd02e1bb71fdec632c75ea",
       "side": "server"
     },
     {
@@ -25034,6 +25034,7 @@
       "config/simple-rpc/simple-rpc.toml": "94c78ed9d21698d153a64fcd004e9b082c3564158b5e884461e13535fff3b5b4",
       "config/smoothchunk.json": "9d3d19abc7ca774f4e85c769be37b65481f43c8e1aaff51c5c0306af9952add7",
       "config/structureessentials.json": "11866e37fdcd966127a9e6b8f4759d7a0be7cbb49e67cc9e581ca9c7c8f32880",
+      "config/system_milady-startup.toml": "b4b76efc7ab6b7876d3d9b5cc212d9f78b47c07cf30a91b576b2a149633ca24e",
       "config/tide.toml": "d1944096ecc687d34af9e09c13b69d5d644cca9127175a39f0f88f471ee00e66",
       "config/touhou_little_maid-common.toml": "66784542373a749b4207078906208d3887b59f4dcfac0342757ca72889a5d6db",
       "config/transmog.json": "6c52249c560629b1cc7a5b4247d9e55e7e92f1923fcfcc37b6318b4d472e8355",
@@ -25327,7 +25328,7 @@
       "mods/model-gap-fix.pw.toml": "de97e04da7383f948463a2c2dd73884a474a9b20a64591061dd27cd0bc8988c2",
       "mods/modernfix.pw.toml": "45ce987bba32274bfd0b34a592cc185b22a35befbbedd98c49a86093179aa523",
       "mods/monocle.pw.toml": "ba39542bb01ef9aba6f237050f9c38835907e2012b5458b7334e5e846c9aef95",
-      "mods/moonedit.pw.toml": "9ee11e25ca395d2b0c8b9ecf7bb8f181e3feaa055cb7db45ed7683b1b4ef7e70",
+      "mods/moonedit.pw.toml": "a29ba3d2d6a2f329cfbce79d4f706e02f274da2e484ff08ed16cef63b2b60a28",
       "mods/more-dragon-eggs.pw.toml": "6526d0de1fe5acd6a4fa0135b8b7bcd7fc09bd481f85e7f8221db633ff58e676",
       "mods/more-functional-storage.pw.toml": "e46e7ef8abb756425f8316dcdf8294f931b8ff6e823f82b26a83cda78793d0ce",
       "mods/more-red-x-cc-tweaked-compat.pw.toml": "5015a605e131526b60fc305cba3f94aa69f076c5ee681db53a50d94bfb07cda5",
@@ -25420,7 +25421,7 @@
       "mods/supermartijn642s-core-lib.pw.toml": "bb48f46b7273421f7b80fb7a1abe1e778b9329bbfb615dca0b9efb61a67297f6",
       "mods/supplementaries-squared.pw.toml": "ccb454443d90a9bbbd60cfb05cf5cc8bc7235b981c89e40dc7796a41277e56b1",
       "mods/supplementaries.pw.toml": "ac16a3b327930527b268695816a0be285bdb0a384480b231c6fd2ccbe87f401f",
-      "mods/system-milady.pw.toml": "21d2b6395fb462e68832a936151288e7c1fb592499d683ea0fd8c15e9c24dfae",
+      "mods/system-milady.pw.toml": "1704f86f01e63f0fd9e8a6659687d2bb4334d60f92f7099ae9a6662869deea33",
       "mods/tacz-1-21-1.pw.toml": "8c1a3b4ed3e14490c8c8e1cfe7f000d25727290cd1dd26ce41b029c396f4e885",
       "mods/tank-storage.pw.toml": "04bb52ee676beccd4ee7588d208d73013b9f91b455f151a7d82641b02958a413",
       "mods/terralith.pw.toml": "f083c3cdf6aadc3b033e20ba8ccc929d5e1b86a0be50b05dc638d7f76dab5024",
@@ -25471,7 +25472,7 @@
       "resourcepacks/when-dungeons-arise-loot-tweaks.pw.toml": "69224f25c19c3fce9c58323d98df97e7c12f47448ea35ff27bd802cd3cf7e249",
       "shaderpacks/complementary-reimagined.pw.toml": "fe2fb19ba4d0fec45626237b701d857ac3c7c961efd5b4b7ccfff6cd512872f8"
     },
-    "pack_sha256": "df40de7ca01d731aa86d47978677be559a3bfd81c334f04faa7e16ed126577db"
+    "pack_sha256": "60134d4dbb6a10b180f906d37d0f3c12feb80cc93d1e94f7c5ef77babef0138a"
   },
   "pack": {
     "name": "Miladycraft",

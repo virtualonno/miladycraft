@@ -4,6 +4,22 @@
 
 Release records preserve exact pack inputs. Recording a release does not assert that it has been deployed or published. Earlier unrecorded updates have not been reconstructed.
 
+## 1.6.0-alpha-2026-11-17-2 · 2026-11-17
+
+Pack 1.6.0-alpha · [Recorded mod catalogue](modlist/1.6.0-alpha-2026-11-17-2.md) · [Snapshot](../changelogs/snapshots/1.6.0-alpha-2026-11-17-2.json)
+
+Updates System Milady to 0.1.0-alpha.5 on the server and moonedit to 0.1.0-alpha.7. System Milady's optimizations, which agreed with vanilla on every check while they ran in shadow, now run on: the pack ships its startup config with every switch on, since a server keeps the modes already in its file. It also adds dimension governance and realms for operators, which change nothing until an operator sets them. moonedit works out block traits on first use instead of at start, so servers and single-player worlds open about 10 s sooner; players' clients update moonedit as usual and edits behave as before.
+
+### Updated
+
+- [moonedit](https://github.com/virtualonno/miladycraft/releases/download/moonedit-0.1.0-alpha.7/moonedit-neoforge-1.21.1-0.1.0-alpha.7.jar): [0.1.0-alpha.6](https://github.com/virtualonno/miladycraft/releases/download/moonedit-0.1.0-alpha.6/moonedit-neoforge-1.21.1-0.1.0-alpha.6.jar) → [0.1.0-alpha.7](https://github.com/virtualonno/miladycraft/releases/download/moonedit-0.1.0-alpha.7/moonedit-neoforge-1.21.1-0.1.0-alpha.7.jar); filename: moonedit-neoforge-1.21.1-0.1.0-alpha.6.jar → moonedit-neoforge-1.21.1-0.1.0-alpha.7.jar.
+- [System Milady](https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.5/system_milady-neoforge-1.21.1-0.1.0-alpha.5.jar): [0.1.0-alpha.4](https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.4/system_milady-neoforge-1.21.1-0.1.0-alpha.4.jar) → [0.1.0-alpha.5](https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.5/system_milady-neoforge-1.21.1-0.1.0-alpha.5.jar); filename: system\_milady-neoforge-1.21.1-0.1.0-alpha.4.jar → system\_milady-neoforge-1.21.1-0.1.0-alpha.5.jar.
+
+### Configuration and other pack files
+
+- Added: config/system\_milady-startup.toml.
+
+
 ## 1.6.0-alpha-2026-11-17-1 · 2026-11-17
 
 Pack 1.6.0-alpha · [Recorded mod catalogue](modlist/1.6.0-alpha-2026-11-17-1.md) · [Snapshot](../changelogs/snapshots/1.6.0-alpha-2026-11-17-1.json)
