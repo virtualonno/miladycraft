@@ -4,6 +4,17 @@
 
 Release records preserve exact pack inputs. Recording a release does not assert that it has been deployed or published. Earlier unrecorded updates have not been reconstructed.
 
+## Unreleased
+
+### Configuration and other pack files
+
+- Added: config/fml.toml.
+- Changed: config/neruina.json.
+- Added: config/simplebackups-common.toml.
+- Added: config/tide.json5.
+- Added: observable\_announce.
+
+
 ## 1.6.0-alpha-2026-11-17-5 · 2026-11-17
 
 Pack 1.6.0-alpha · [Recorded mod catalogue](modlist/1.6.0-alpha-2026-11-17-5.md) · [Snapshot](../changelogs/snapshots/1.6.0-alpha-2026-11-17-5.json)
