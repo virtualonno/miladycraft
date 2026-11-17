@@ -4,6 +4,17 @@
 
 Release records preserve exact pack inputs. Recording a release does not assert that it has been deployed or published. Earlier unrecorded updates have not been reconstructed.
 
+## 1.6.0-alpha-2026-11-17-4 · 2026-11-17
+
+Pack 1.6.0-alpha · [Recorded mod catalogue](modlist/1.6.0-alpha-2026-11-17-4.md) · [Snapshot](../changelogs/snapshots/1.6.0-alpha-2026-11-17-4.json)
+
+Updates System Milady to 0.1.0-alpha.7 on the server; players install nothing and nothing changes in play. Operators can declare extra dimensions, such as an event venue, that the server creates at start. System Milady also starts measuring Mekanism's logistical transporters, the most expensive machines on the SMP, through bindings that report what each part of a transporter's work costs; a binding that would change behaviour (remembering an idle transporter's source scan, moving Compact Machines' room saves off the server thread) only checks itself against the real result for now.
+
+### Updated
+
+- [System Milady](https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.7/system_milady-neoforge-1.21.1-0.1.0-alpha.7.jar): [0.1.0-alpha.6](https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.6/system_milady-neoforge-1.21.1-0.1.0-alpha.6.jar) → [0.1.0-alpha.7](https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.7/system_milady-neoforge-1.21.1-0.1.0-alpha.7.jar); filename: system\_milady-neoforge-1.21.1-0.1.0-alpha.6.jar → system\_milady-neoforge-1.21.1-0.1.0-alpha.7.jar.
+
+
 ## 1.6.0-alpha-2026-11-17-3 · 2026-11-17
 
 Pack 1.6.0-alpha · [Recorded mod catalogue](modlist/1.6.0-alpha-2026-11-17-3.md) · [Snapshot](../changelogs/snapshots/1.6.0-alpha-2026-11-17-3.json)

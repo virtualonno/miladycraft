@@ -1,0 +1,10 @@
+{
+  "date": "2026-11-17",
+  "id": "1.6.0-alpha-2026-11-17-4",
+  "notes": "Updates System Milady to 0.1.0-alpha.7 on the server; players install nothing and nothing changes in play. Operators can declare extra dimensions, such as an event venue, that the server creates at start. System Milady also starts measuring Mekanism's logistical transporters, the most expensive machines on the SMP, through bindings that report what each part of a transporter's work costs; a binding that would change behaviour (remembering an idle transporter's source scan, moving Compact Machines' room saves off the server thread) only checks itself against the real result for now.",
+  "previous": "1.6.0-alpha-2026-11-17-3",
+  "schema": "smoothstone.pack_release.v1",
+  "sequence": 23,
+  "snapshot": "changelogs/snapshots/1.6.0-alpha-2026-11-17-4.json",
+  "snapshot_sha256": "0334dcc58b4756d226cdd1a4a93ea49d8ca9572d45081317aaacf28b1c5ba8a4"
+}

@@ -22047,9 +22047,9 @@
     },
     {
       "download": {
-        "hash": "3fe258e21006111a154ef888918e62b55dafac9ae0400f3de3b905f95a05ddad0095feb3bba90e46e0cf37edad0bb30246e847779f41d8520fd771873293e444",
+        "hash": "9722a41d60be6a15d312202c3ae31794f45fb3cc8f491755687cbacf149e329dda9b8893a8bf7ee2e2fdd9420b19814a85d0d60086f4f6a1d6a53c0310ac626c",
         "hash-format": "sha512",
-        "url": "https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.6/system_milady-neoforge-1.21.1-0.1.0-alpha.6.jar"
+        "url": "https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.7/system_milady-neoforge-1.21.1-0.1.0-alpha.7.jar"
       },
       "evidence": [
         {
@@ -22058,12 +22058,22 @@
           "sha256": "566ad1a80220026d05099562645ce968ff0e7c36cde22634332605bb34cc3eff"
         },
         {
-          "body": "modLoader = \"javafml\"\nloaderVersion = \"[4,)\"\nlicense = \"LGPL-3.0-or-later\"\n\n[[mods]]\nmodId = \"system_milady\"\nversion = \"0.1.0-alpha.6\"\ndisplayName = \"System Milady\"\nauthors = \"virtualonno\"\ndescription = '''Scaling runtime for heavily modded NeoForge servers.'''\n# Server-side only: clients connect without it.\ndisplayTest = \"IGNORE_SERVER_VERSION\"\n\n[[dependencies.system_milady]]\nmodId = \"neoforge\"\ntype = \"required\"\nversionRange = \"[21.1.264,21.2)\"\nordering = \"NONE\"\nside = \"SERVER\"\n\n[[dependencies.system_milady]]\nmodId = \"minecraft\"\ntype = \"required\"\nversionRange = \"[1.21.1,1.21.2)\"\nordering = \"NONE\"\nside = \"SERVER\"\n\n[[mixins]]\nconfig = \"system_milady.mixins.json\"\n",
+          "body": "modLoader = \"javafml\"\nloaderVersion = \"[4,)\"\nlicense = \"LGPL-3.0-or-later\"\n\n[[mods]]\nmodId = \"system_milady\"\nversion = \"0.1.0-alpha.7\"\ndisplayName = \"System Milady\"\nauthors = \"virtualonno\"\ndescription = '''Scaling runtime for heavily modded NeoForge servers.'''\n# Server-side only: clients connect without it.\ndisplayTest = \"IGNORE_SERVER_VERSION\"\n\n[[dependencies.system_milady]]\nmodId = \"neoforge\"\ntype = \"required\"\nversionRange = \"[21.1.264,21.2)\"\nordering = \"NONE\"\nside = \"SERVER\"\n\n[[dependencies.system_milady]]\nmodId = \"minecraft\"\ntype = \"required\"\nversionRange = \"[1.21.1,1.21.2)\"\nordering = \"NONE\"\nside = \"SERVER\"\n\n[[mixins]]\nconfig = \"system_milady.mixins.json\"\n",
           "path": "META-INF/neoforge.mods.toml",
-          "sha256": "78333a0b27cdeb0fe0a0614d54d65e6f7310f90de2b356ea4b31f9dfe614e94b"
+          "sha256": "8a2bc127b4d80fed9a23a70c1883263ee4aa5a5bc7b805f936b1881818a3961e"
+        },
+        {
+          "body": "{\"jars\":[{\"identifier\":{\"group\":\"dev.virtualonno.systemmilady\",\"artifact\":\"system-milady-weave\"},\"version\":{\"range\":\"[0.1.0-alpha.7,)\",\"artifactVersion\":\"0.1.0-alpha.7\"},\"path\":\"META-INF/jarjar/system_milady_weave-neoforge-1.21.1-0.1.0-alpha.7.jar\",\"isObfuscated\":false}]}\n",
+          "path": "META-INF/jarjar/metadata.json",
+          "sha256": "750a24824dab420f437688f1c0a58c96e86237bec5002961bc74e3098e149862"
+        },
+        {
+          "body": "Manifest-Version: 1.0\r\nAutomatic-Module-Name: dev.virtualonno.systemmilady.weave\r\nFMLModType: LIBRARY\r\nImplementation-Version: 0.1.0-alpha.7\r\n\r\n",
+          "path": "META-INF/jarjar/system_milady_weave-neoforge-1.21.1-0.1.0-alpha.7.jar!/META-INF/MANIFEST.MF",
+          "sha256": "6cb6768929b0306edcf647723cc44b7d4aa5f3f0ab1c99d00f41af0f2894ea9c"
         }
       ],
-      "filename": "system_milady-neoforge-1.21.1-0.1.0-alpha.6.jar",
+      "filename": "system_milady-neoforge-1.21.1-0.1.0-alpha.7.jar",
       "key": "local-mod:system_milady",
       "kind": "mod",
       "modules": [
@@ -22091,17 +22101,17 @@
           "id": "system_milady",
           "issues": "",
           "name": "System Milady",
-          "version": "0.1.0-alpha.6"
+          "version": "0.1.0-alpha.7"
         }
       ],
       "name": "System Milady",
       "optional": {},
-      "page": "https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.6/system_milady-neoforge-1.21.1-0.1.0-alpha.6.jar",
+      "page": "https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.7/system_milady-neoforge-1.21.1-0.1.0-alpha.7.jar",
       "path": "mods/system-milady.pw.toml",
       "pinned": false,
       "provider_version": "",
-      "release": "https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.6/system_milady-neoforge-1.21.1-0.1.0-alpha.6.jar",
-      "sha256": "4b9e2b19d4f230c2cc16bd4663e53ffbc44a963a8bcc48fdc8676e0d66a00430",
+      "release": "https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.7/system_milady-neoforge-1.21.1-0.1.0-alpha.7.jar",
+      "sha256": "88f194c4c375f62c592f548ba6dfe4e0a3f6a527393a88c11a2f4d9208d620c8",
       "side": "server"
     },
     {
@@ -25360,7 +25370,7 @@
       "mods/supermartijn642s-core-lib.pw.toml": "bb48f46b7273421f7b80fb7a1abe1e778b9329bbfb615dca0b9efb61a67297f6",
       "mods/supplementaries-squared.pw.toml": "ccb454443d90a9bbbd60cfb05cf5cc8bc7235b981c89e40dc7796a41277e56b1",
       "mods/supplementaries.pw.toml": "ac16a3b327930527b268695816a0be285bdb0a384480b231c6fd2ccbe87f401f",
-      "mods/system-milady.pw.toml": "f7bdc597cb5efc32feb362397eef692cc8571ca9fcc892e73855f50cf79f9bcb",
+      "mods/system-milady.pw.toml": "6abd134b8737f3a187358c471de0617983f6711934eb68b0013f50c18612ecff",
       "mods/tacz-1-21-1.pw.toml": "8c1a3b4ed3e14490c8c8e1cfe7f000d25727290cd1dd26ce41b029c396f4e885",
       "mods/tank-storage.pw.toml": "04bb52ee676beccd4ee7588d208d73013b9f91b455f151a7d82641b02958a413",
       "mods/terralith.pw.toml": "f083c3cdf6aadc3b033e20ba8ccc929d5e1b86a0be50b05dc638d7f76dab5024",
@@ -25411,7 +25421,7 @@
       "resourcepacks/when-dungeons-arise-loot-tweaks.pw.toml": "69224f25c19c3fce9c58323d98df97e7c12f47448ea35ff27bd802cd3cf7e249",
       "shaderpacks/complementary-reimagined.pw.toml": "fe2fb19ba4d0fec45626237b701d857ac3c7c961efd5b4b7ccfff6cd512872f8"
     },
-    "pack_sha256": "def06cb91c18d4269d54d691ff081a27621bfab563d5042100d28c240af9acf0"
+    "pack_sha256": "b62fa5839370516a8fd0f109be73defd44b449bcf39fbff95eeed16df2b4731b"
   },
   "pack": {
     "name": "Miladycraft",
