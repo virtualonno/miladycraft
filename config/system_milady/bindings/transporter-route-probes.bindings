@@ -1,0 +1,83 @@
+# Probes on Mekanism's logistical transporter route: who asks for a route, how often the answer is empty, and
+# what an answer costs. They count calls and time a sample; they change no behaviour. Together with the bundled
+# probe on InventoryNetwork.calculateAcceptors they decide whether remembering an empty route answer would pay.
+# Fingerprints are of the methods as the weaver sees them on the full pack (Mekanism 10.7.19.85).
+
+# A stack in transit that could not go on asks again: calls per tick = stuck stacks x their rate.
+[binding mek.transporter.recalculate]
+class = mekanism.common.content.network.transmitter.LogisticalTransporterBase
+method = recalculate
+descriptor = (ILmekanism/common/content/transporter/TransporterStack;J)Z
+fingerprint = observe
+primitive = probe
+
+# The share of those that are idle stacks reaching the end of their run.
+[binding mek.transporter.idle-find]
+class = mekanism.common.content.transporter.TransporterPathfinder$IdlePath
+method = find
+descriptor = ()Lmekanism/common/content/transporter/TransporterPathfinder$Destination;
+fingerprint = observe
+primitive = probe
+
+# Every route request; its time less the route probe's is path search and sorting.
+[binding mek.transporter.paths]
+class = mekanism.common.content.transporter.TransporterPathfinder
+method = getPaths
+descriptor = (Lmekanism/common/content/network/transmitter/LogisticalTransporterBase;Lmekanism/common/content/transporter/TransporterStack;Lmekanism/common/lib/inventory/TransitRequest;ILjava/util/Map;)Ljava/util/List;
+fingerprint = observe
+primitive = probe
+
+# Called once per acceptor of a non-empty route answer: far fewer calls than route requests means empty answers.
+[binding mek.transporter.path]
+class = mekanism.common.content.transporter.TransporterPathfinder
+method = getPath
+descriptor = (Lmekanism/common/content/network/InventoryNetwork;Lmekanism/common/content/network/InventoryNetwork$AcceptorData;Lmekanism/common/content/network/transmitter/LogisticalTransporterBase;Lmekanism/common/content/transporter/TransporterStack;ILit/unimi/dsi/fastutil/longs/Long2ObjectMap;)Lmekanism/common/content/transporter/TransporterPathfinder$Destination;
+fingerprint = observe
+primitive = probe
+
+# One simulated insert per acceptor side a route request looked at.
+[binding mek.transporter.predicted-insert]
+class = mekanism.common.content.transporter.TransporterManager
+method = getPredictedInsert
+descriptor = (Lnet/minecraft/core/GlobalPos;Lnet/minecraft/core/Direction;Lnet/neoforged/neoforge/items/IItemHandler;Lmekanism/common/lib/inventory/TransitRequest;Ljava/util/Map;)Lmekanism/common/lib/inventory/TransitRequest$TransitResponse;
+fingerprint = observe
+primitive = probe
+
+# Path search: home paths and new routes.
+[binding mek.transporter.path-search]
+class = mekanism.common.content.transporter.TransporterPathfinder$Pathfinder
+method = find
+descriptor = (Lit/unimi/dsi/fastutil/longs/Long2ObjectMap;)Z
+fingerprint = observe
+primitive = probe
+
+# Other mods inserting into a transporter.
+[binding mek.transporter.foreign-insert]
+class = mekanism.common.capabilities.item.CursedTransporterItemHandler
+method = insertItem
+descriptor = (ILnet/minecraft/world/item/ItemStack;Z)Lnet/minecraft/world/item/ItemStack;
+fingerprint = observe
+primitive = probe
+
+# Traffic: how often the set of stacks in flight changes.
+[binding mek.transporter.flowing-add]
+class = mekanism.common.content.transporter.TransporterManager
+method = add
+descriptor = (Lnet/minecraft/world/level/Level;Lmekanism/common/content/transporter/TransporterStack;)V
+fingerprint = observe
+primitive = probe
+
+[binding mek.transporter.flowing-remove]
+class = mekanism.common.content.transporter.TransporterManager
+method = remove
+descriptor = (Lnet/minecraft/world/level/Level;Lmekanism/common/content/transporter/TransporterStack;)V
+fingerprint = observe
+primitive = probe
+
+# How often a network's acceptor set changes.
+[binding mek.transporter.acceptor-update]
+class = mekanism.common.lib.transmitter.acceptor.NetworkAcceptorCache
+method = updateTransmitterOnSide
+descriptor = (Lmekanism/common/content/network/transmitter/Transmitter;Lnet/minecraft/core/Direction;)V
+fingerprint = observe
+primitive = probe

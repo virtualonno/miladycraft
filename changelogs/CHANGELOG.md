@@ -4,6 +4,21 @@
 
 Release records preserve exact pack inputs. Recording a release does not assert that it has been deployed or published. Earlier unrecorded updates have not been reconstructed.
 
+## 1.6.0-alpha-2026-11-17-5 · 2026-11-17
+
+Pack 1.6.0-alpha · [Recorded mod catalogue](modlist/1.6.0-alpha-2026-11-17-5.md) · [Snapshot](../changelogs/snapshots/1.6.0-alpha-2026-11-17-5.json)
+
+Updates System Milady to 0.1.0-alpha.8 on the server; players install nothing and nothing changes in play. Operators can set up every realm setting with a console command. A new configuration file adds measuring probes to Mekanism's logistical transporter route, to find out whether stacks with nowhere to go are what makes transporter bases expensive; the probes only count and time calls.
+
+### Updated
+
+- [System Milady](https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.8/system_milady-neoforge-1.21.1-0.1.0-alpha.8.jar): [0.1.0-alpha.7](https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.7/system_milady-neoforge-1.21.1-0.1.0-alpha.7.jar) → [0.1.0-alpha.8](https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.8/system_milady-neoforge-1.21.1-0.1.0-alpha.8.jar); filename: system\_milady-neoforge-1.21.1-0.1.0-alpha.7.jar → system\_milady-neoforge-1.21.1-0.1.0-alpha.8.jar.
+
+### Configuration and other pack files
+
+- Added: config/system\_milady/bindings/transporter-route-probes.bindings.
+
+
 ## 1.6.0-alpha-2026-11-17-4 · 2026-11-17
 
 Pack 1.6.0-alpha · [Recorded mod catalogue](modlist/1.6.0-alpha-2026-11-17-4.md) · [Snapshot](../changelogs/snapshots/1.6.0-alpha-2026-11-17-4.json)

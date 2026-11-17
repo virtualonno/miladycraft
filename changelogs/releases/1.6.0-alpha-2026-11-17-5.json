@@ -1,0 +1,10 @@
+{
+  "date": "2026-11-17",
+  "id": "1.6.0-alpha-2026-11-17-5",
+  "notes": "Updates System Milady to 0.1.0-alpha.8 on the server; players install nothing and nothing changes in play. Operators can set up every realm setting with a console command. A new configuration file adds measuring probes to Mekanism's logistical transporter route, to find out whether stacks with nowhere to go are what makes transporter bases expensive; the probes only count and time calls.",
+  "previous": "1.6.0-alpha-2026-11-17-4",
+  "schema": "smoothstone.pack_release.v1",
+  "sequence": 24,
+  "snapshot": "changelogs/snapshots/1.6.0-alpha-2026-11-17-5.json",
+  "snapshot_sha256": "f4e8f70bfbd352ddf4cf16b9bfbc18cc23cffbd5055ff05847c8dc04a021b9c7"
+}
