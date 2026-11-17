@@ -153,6 +153,10 @@ file = "config/structureessentials.json"
 hash = "6e676d82bde12f7e98a7fdc57adaa5ea8079d4656d7082cfe74442b387169ad4"
 
 [[files]]
+file = "config/system_milady-startup.toml"
+hash = "b4b76efc7ab6b7876d3d9b5cc212d9f78b47c07cf30a91b576b2a149633ca24e"
+
+[[files]]
 file = "config/tide.toml"
 hash = "d1944096ecc687d34af9e09c13b69d5d644cca9127175a39f0f88f471ee00e66"
 
@@ -1556,7 +1560,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonedit.pw.toml"
-hash = "9ee11e25ca395d2b0c8b9ecf7bb8f181e3feaa055cb7db45ed7683b1b4ef7e70"
+hash = "a29ba3d2d6a2f329cfbce79d4f706e02f274da2e484ff08ed16cef63b2b60a28"
 metafile = true
 
 [[files]]
@@ -2011,7 +2015,7 @@ metafile = true
 
 [[files]]
 file = "mods/system-milady.pw.toml"
-hash = "21d2b6395fb462e68832a936151288e7c1fb592499d683ea0fd8c15e9c24dfae"
+hash = "1704f86f01e63f0fd9e8a6659687d2bb4334d60f92f7099ae9a6662869deea33"
 metafile = true
 
 [[files]]

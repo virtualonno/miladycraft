@@ -1,0 +1,159 @@
+#The tick ledger: always-on accounting of where each server tick goes.
+[ledger]
+	#Record tick phases, dimensions and sampled costs. false restores vanilla behaviour.
+	enabled = true
+	#How many recent ticks the tick-time window keeps (1200 = one minute at 20 TPS).
+	# Default: 1200
+	# Range: 20 ~ 72000
+	windowTicks = 1200
+	#Ticks per reporting interval for dimension, cost and traffic tables.
+	# Default: 200
+	# Range: 20 ~ 72000
+	intervalTicks = 200
+	#Time one block-entity or entity tick in 2^sampleShift (4 = one in 16).
+	# Default: 4
+	# Range: 0 ~ 16
+	sampleShift = 4
+	#Count outbound packets and bytes per packet type on player connections.
+	traffic = true
+	#Each server tick, check one block-entity tick chosen at random for whether it changed anything
+	#observable (its saved data compared before and after, and the writes made during it): the share
+	#proven sleep could save. Costs at most two saves of one block entity per tick.
+	blockEntityCensus = true
+
+#The long-term performance record: the ledger rolled up per minute and per hour, with JVM health,
+#every switch's agreement with vanilla and periodic profiles, kept in <server>/systemmilady/record
+#and read with /systemmilady record. Needs the ledger.
+[record]
+	#Keep the record. false writes nothing.
+	enabled = true
+	#Days of minute rollups kept on disk.
+	# Default: 7
+	# Range: 1 ~ 90
+	minuteDays = 7
+	#Days of hour rollups kept on disk.
+	# Default: 400
+	# Range: 7 ~ 3650
+	hourDays = 400
+	#Minutes between profile windows (JFR execution sampling of the server thread, reduced in-process to
+	#the hottest code and its mods); 0 turns profiles off. Needs --add-modules=jdk.jfr on the JVM.
+	# Default: 15
+	# Range: 0 ~ 1440
+	profileEveryMinutes = 15
+	#Length of each profile window, seconds.
+	# Default: 60
+	# Range: 5 ~ 600
+	profileSeconds = 60
+	#Sampling period inside a profile window, milliseconds.
+	# Default: 20
+	# Range: 10 ~ 1000
+	profilePeriodMillis = 20
+	#Take the server thread's stack every 10 ms while a tick runs past 50 ms, so the record can say what
+	#slow ticks spent their time on. A tick that ends in time costs nothing beyond waking a watcher.
+	slowTickStacks = true
+
+#Optimizations, each exact and verified against vanilla on production worlds, so on by default:
+#off is vanilla; shadow keeps vanilla's results and checks the fast path against them
+#(/systemmilady check); on uses the fast path. Each can change while the server runs
+#(/systemmilady switch <id> <mode>).
+[switches]
+	#Each entity section keeps its entities' boxes packed in one array, in list order, so box queries
+	#(mobs pushing each other, players touching, minecarts, type-filtered lookups) scan the array
+	#instead of reading every stored entity. Results and their order are vanilla's. off: vanilla.
+	#shadow: vanilla scans and every packed box is checked on every scan. on: scans read the packed boxes.
+	#Allowed Values: OFF, SHADOW, ON
+	entityBoxes = "ON"
+	#Entity lookups filtered to a class narrower than Entity (sensors finding nearby living entities or
+	#items, mobs picking up items, mods' class-filtered queries) scan the positions of that class's
+	#entities over the section's packed boxes instead of reading each listed entity. Acts while
+	#entityBoxes is on. Results and their order are vanilla's. off: vanilla. shadow: vanilla walks and
+	#every lookup's positions are compared. on: scans read the packed boxes.
+	#Allowed Values: OFF, SHADOW, ON
+	entityClassLookups = "ON"
+	#Entity-collision queries (every moving mob, item and player, every tick) are answered empty
+	#without visiting entities when no section they would visit holds an entity whose class can be
+	#collided with (boats and shulkers in vanilla). Results are vanilla's. off: vanilla. shadow:
+	#vanilla answers and every shortcut is checked. on: answered directly.
+	#Allowed Values: OFF, SHADOW, ON
+	entityCollisionSkip = "ON"
+	#Entity queries look up only the entity sections their box covers, instead of walking every stored
+	#section that shares a section x coordinate across the whole world and filtering. Sections visited
+	#and their order are vanilla's. off: vanilla. shadow: vanilla walks and every lookup is compared.
+	#on: covered sections only.
+	#Allowed Values: OFF, SHADOW, ON
+	entitySectionRanges = "ON"
+	#Block-collision walks (every move and every grounded entity's supporting-block search) skip reading
+	#the cells around the box that can only collide through a block taller or wider than its cell or a
+	#moving piston, when the cell's chunk section holds no such block. Results are vanilla's. off: vanilla.
+	#shadow: every skipped cell is still read and checked. on: skipped cells are not read.
+	#Allowed Values: OFF, SHADOW, ON
+	blockCollisionShell = "ON"
+	#Brain-driven mobs (villagers, piglins, axolotls, frogs, goats, camels, allays, wardens) scan their
+	#behaviours each tick over a flat cached copy of their behaviour maps in vanilla's order instead of
+	#walking the nested maps. off: vanilla. shadow: vanilla scans and every scan checks the cached
+	#order against the live maps. on: scans use the cache.
+	#Allowed Values: OFF, SHADOW, ON
+	brainFlatBehaviours = "ON"
+	#Look-and-interact behaviours (a villager looking for a player to face) search only the sensed
+	#entities of the type they look for, kept per sensor result, instead of testing every sensed
+	#entity each tick. Results are vanilla's. off: vanilla. shadow: both searches run and every result
+	#is compared. on: typed search.
+	#Allowed Values: OFF, SHADOW, ON
+	brainLookTargets = "ON"
+	#Nearest-entity and nearest-item sensors sort their candidates nearest first with each distance
+	#computed once instead of twice per comparison. Results are vanilla's. off: vanilla. shadow: vanilla
+	#sorts and every keyed order is checked. on: keyed sorts.
+	#Allowed Values: OFF, SHADOW, ON
+	sensorKeyedSort = "ON"
+	#Mob targeting tests (tempting, looking at, avoiding and attacking) reject a target beyond the
+	#test's range before running its selector, which vanilla runs first (tempting animals test every
+	#player's held items every tick). Results are vanilla's while no mod raises entity visibility
+	#above vanilla's maximum; one that does turns this off for the run. off: vanilla. shadow: vanilla
+	#answers and every rejection is checked. on: rejected directly.
+	#Allowed Values: OFF, SHADOW, ON
+	targetingRangeFirst = "ON"
+	#Point-of-interest searches (villagers looking for job sites, beds and meeting points, golems,
+	#raids, portals) skip chunk columns whose sections are all loaded and hold no POI, instead of
+	#streaming over every section. Results are vanilla's; columns not yet loaded go through vanilla.
+	#off: vanilla. shadow: vanilla answers and every skipped column is checked. on: skipped columns
+	#are answered directly.
+	#Allowed Values: OFF, SHADOW, ON
+	poiEmptyColumns = "ON"
+	#Section fluid counts kept the way vanilla recounts them on load: only fluids that random-tick. Vanilla's
+	#counts from generation and edits include water, which never random-ticks, so random ticks visit water-only
+	#sections for nothing, and can drift below lava that does. off: vanilla. shadow: vanilla counts; every
+	#position drawn in a section the exact count leaves out is checked. on: block writes count as the recount does.
+	#Allowed Values: OFF, SHADOW, ON
+	randomTickSections = "ON"
+	#Block-entity tickers ask whether their chunk may tick once per chunk instead of once per block entity:
+	#the answers are kept on the chunk and recomputed whenever a ticket level, chunk status or entity-load
+	#status changes. off: vanilla. shadow: vanilla answers and every cached answer is compared. on: cached
+	#answers are used.
+	#Allowed Values: OFF, SHADOW, ON
+	tickerDispatch = "ON"
+	#Entity tracking bookkeeping: each tracked entity keeps a bitset of the players that see it, so
+	#re-checking visibility on every movement packet no longer probes a hash set per entity. Visibility
+	#results are vanilla's. off: vanilla. shadow: vanilla decides and every disagreement is counted.
+	#on: the bitset decides.
+	#Allowed Values: OFF, SHADOW, ON
+	trackingSeenBits = "ON"
+	#The tracker's range for an entity without passengers is its scaled base range, returned without
+	#streaming its (empty) passenger list on every movement check. Results are vanilla's. off: vanilla.
+	#shadow: vanilla computes the range and every plain range is checked. on: plain range returned.
+	#Allowed Values: OFF, SHADOW, ON
+	trackingPlainRange = "ON"
+	#While vanilla holds a connection's flush for the tick, keep its server-thread sends in a per-connection
+	#queue and hand them to the connection's event loop as one task when the flush resumes, instead of one
+	#cross-thread task per packet. Packets, their order and the flush are vanilla's. off and shadow:
+	#vanilla (staging changes no result, so there is nothing to compare). on: staged, and every tick checks
+	#that no connection was left holding staged sends.
+	#Allowed Values: OFF, SHADOW, ON
+	connectionStaging = "ON"
+
+#Operator policies: player-visible behaviour, vanilla by default.
+[policy]
+	#What another entity's push on a player sends to its viewers. broadcast: vanilla, motion and position
+	#at once. local: the push stays server-side and viewers follow the player's usual two-tick position
+	#updates; in a dense crowd this removed a third of outbound bytes.
+	#Allowed Values: BROADCAST, LOCAL
+	playerPushMotion = "BROADCAST"
