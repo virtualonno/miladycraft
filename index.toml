@@ -173,6 +173,10 @@ file = "config/system_milady/launch.properties"
 hash = "993c1e7888c4a543cce4843a9b76006eadd7c5fb66bab165e5387ae977d38b15"
 
 [[files]]
+file = "config/system_milady_crowd-startup.toml"
+hash = "718fe387f5788d43af0fbee12891179e8d02ca3faa227081bf605132dcef181a"
+
+[[files]]
 file = "config/tide.json5"
 hash = "8ebf3c5deb11b6007c18733fe96ddcbfd96c9abf352b42bdf4eb82543089091e"
 
