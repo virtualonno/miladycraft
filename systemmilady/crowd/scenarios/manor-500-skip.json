@@ -1,0 +1,10 @@
+{
+  "description": "Manor crowd: 500 converging, tracking unchanged-pair skip on",
+  "where": {"realm": "manor", "radius": 24},
+  "steps": [{"players": 500, "joinsPerTick": 5, "settle": "40s", "hold": "160s"}],
+  "behaviour": "converge",
+  "arms": [{"name": "skip-on", "switches": {"trackingUnchangedSkip": "on"}}],
+  "stop": {"meanTickMs": 400, "window": "30s", "tickMs": 10000, "heapPercent": 90, "realPlayers": "stop"},
+  "maxDuration": "20m",
+  "seed": 1
+}

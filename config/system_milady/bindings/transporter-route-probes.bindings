@@ -38,16 +38,6 @@ descriptor = (Lmekanism/common/content/network/InventoryNetwork;Lmekanism/common
 fingerprint = d3d8d4dd74d9aa5e
 primitive = probe
 
-# One simulated insert per acceptor side a route request looked at.
-[binding mek.transporter.predicted-insert]
-class = mekanism.common.content.transporter.TransporterManager
-method = getPredictedInsert
-descriptor = (Lnet/minecraft/core/GlobalPos;Lnet/minecraft/core/Direction;Lnet/neoforged/neoforge/items/IItemHandler;Lmekanism/common/lib/inventory/TransitRequest;Ljava/util/Map;)Lmekanism/common/lib/inventory/TransitRequest$TransitResponse;
-fingerprint = 64103fcb28fbda4d
-primitive = probe
-param.site = arg0
-param.site.class = arg2
-
 # Path search: home paths and new routes.
 [binding mek.transporter.path-search]
 class = mekanism.common.content.transporter.TransporterPathfinder$Pathfinder
