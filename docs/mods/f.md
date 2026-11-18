@@ -33,7 +33,7 @@ Mod IDs and versions: farmersdelight 1.3.4.
 
 **Optional integrations:** crafttweaker (not in this catalogue).
 
-**Used by:** [Autochef's Delight](a.md#mod-3d31cd3de7c06ada), [Barbeque's Delight \[Forge/NeoForge\]](b.md#mod-bab120207b6ab888), [Crabber's Delight](c.md#mod-50d778441546ee2a), [Cultural Delights](c.md#mod-7e889ea7a670c3b6), [Easter's Delight](e.md#mod-6479e4fff86f1785), [End's Delight](e.md#mod-256dc915ba75f210), [Rustic Delight](r.md#mod-5f0a1367033e94d1).
+**Used by:** [Autochef's Delight](a.md#mod-3d31cd3de7c06ada), [Barbeque's Delight \[Forge/NeoForge\]](b.md#mod-bab120207b6ab888), [Cultural Delights](c.md#mod-7e889ea7a670c3b6), [Easter's Delight](e.md#mod-6479e4fff86f1785), [End's Delight](e.md#mod-256dc915ba75f210), [Rustic Delight](r.md#mod-5f0a1367033e94d1).
 
 **Optional dependency of:** [Create: Some Assembly Required](c.md#mod-f6f9ceea72620652).
 

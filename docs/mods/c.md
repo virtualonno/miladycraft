@@ -457,7 +457,7 @@ Author links: [https://www.curseforge.com/minecraft/mc-mods/cloth-config-forge/]
 
 Mod IDs and versions: cloth\_config 15.0.140.
 
-**Used by:** [Advancements Reloaded](a.md#mod-ee24d63d8bb9e97b), [Axes Are Weapons](a.md#mod-8ae42df0a268dc63), [Inline](i.md#mod-71202556da7fa364), [Powah! (Rearchitected)](p.md#mod-d7f703ca25e92d83), [Tide 2](t.md#mod-b81677e4badd41ee), [Trofers](t.md#mod-4af566364777a018).
+**Used by:** [Advancements Reloaded](a.md#mod-ee24d63d8bb9e97b), [Axes Are Weapons](a.md#mod-8ae42df0a268dc63), [Inline](i.md#mod-71202556da7fa364), [Powah! (Rearchitected)](p.md#mod-d7f703ca25e92d83), [Trofers](t.md#mod-4af566364777a018).
 
 **Optional dependency of:** [Simple Voice Chat](s.md#mod-e336c745a872cb1e).
 
@@ -744,32 +744,6 @@ Mod IDs and versions: cow\_tools 1.0.0.
 | cow\_tools | minecraft | required | \[1.21,) | client and server | runtime |
 
 Source: cow\_tools-1.0.2+1.21.1.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
-
-<a id="mod-50d778441546ee2a"></a>
-### Crabber's Delight
-
-**[1.3.1](https://www.curseforge.com/projects/892827/files/8996449)** · client and server · [Source](https://www.curseforge.com/projects/892827) · [Pack entry](../../mods/crabbers-delight.pw.toml)
-
-A maritime addon for Farmer's Delight!
-
-Mod IDs and versions: crabbersdelight 1.3.1.
-
-**Requires:** [Farmer's Delight](f.md#mod-62dd93a2107eac78).
-
-**Dependencies and integrations**
-
-| From | Dependency | Kind | Version range | Side | Found in pack |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| crabbersdelight | farmersdelight | required | 1.3.0 | client and server | [Farmer's Delight](f.md#mod-62dd93a2107eac78) |
-
-**Runtime constraints**
-
-| From | Dependency | Kind | Version range | Side | Found in pack |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| crabbersdelight | neoforge | required | \[21.1.0,) | client and server | runtime |
-| crabbersdelight | minecraft | required | \[1.21.1, 1.22) | client and server | runtime |
-
-Source: crabbersdelight-1.21.1-1.3.1.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-416d0c10c1a617f7"></a>
 ### Crafting Slots
