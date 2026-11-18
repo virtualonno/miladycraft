@@ -1,0 +1,16 @@
+{
+  "description": "Manor crowd: 300 then 500 converging, advancement and loot switches in shadow then on",
+  "where": {"realm": "manor", "radius": 24},
+  "steps": [
+    {"players": 300, "joinsPerTick": 5, "settle": "30s", "hold": "70s"},
+    {"players": 500, "settle": "30s", "hold": "70s"}
+  ],
+  "behaviour": "converge",
+  "arms": [
+    {"name": "shadow", "switches": {"advancementVisibility": "shadow", "criterionListenerHashes": "shadow", "lootVisitHashes": "shadow"}},
+    {"name": "on", "switches": {"advancementVisibility": "on", "criterionListenerHashes": "on", "lootVisitHashes": "on"}}
+  ],
+  "stop": {"meanTickMs": 400, "window": "30s", "tickMs": 10000, "heapPercent": 90, "realPlayers": "stop"},
+  "maxDuration": "30m",
+  "seed": 1
+}

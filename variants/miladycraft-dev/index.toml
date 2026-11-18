@@ -19,5 +19,9 @@ hash = "a7c6bc0423fe03d5478f3674890d5508c831ee230a6cb508710f83d1898e468e"
 metafile = true
 
 [[files]]
+file = "systemmilady/crowd/scenarios/manor-drill.json"
+hash = "c5db29f88b3da6a47eb17c256045523fe879ec056c2607552500ae1e796a7122"
+
+[[files]]
 file = "variant.toml"
 hash = "0090a05d6a57f8822c62c9a474f54ada2b246ad1a020cdf98a3fac8d96e92069"
