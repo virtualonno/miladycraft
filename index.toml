@@ -65,6 +65,10 @@ file = "config/farsight.json"
 hash = "b69c35cdf58ef542c3f1785f65d25a79e578e3c806ae2fa81fdd880d247858d2"
 
 [[files]]
+file = "config/fml.toml"
+hash = "07c546de707ca14a8e3e0f3ae2de289ba0e52f486af6f627d098ceb044b72173"
+
+[[files]]
 file = "config/foodeffecttooltips-client.toml"
 hash = "0676cd17337ac3240cafe5c9d1c17d175fcd7dc53ee2e7ea919407d9b5dde6eb"
 
@@ -102,7 +106,7 @@ hash = "a6d420af74ea6bbe386433920383ce006e2b81f9175df47ffc1190a1affbcb46"
 
 [[files]]
 file = "config/neruina.json"
-hash = "8074aa23ce3e859a37d547d13986f852ec9f86f29c7c6283cdd5f6e98083483c"
+hash = "e5d4786d307a7b2de37d94893bc3106207cd8012da8222ce91edfd4de45523e6"
 
 [[files]]
 file = "config/oneenoughblock-common.toml"
@@ -141,6 +145,10 @@ file = "config/simple-rpc/simple-rpc.toml"
 hash = "94c78ed9d21698d153a64fcd004e9b082c3564158b5e884461e13535fff3b5b4"
 
 [[files]]
+file = "config/simplebackups-common.toml"
+hash = "b6af8c0adf33584f0e19ec926178ee5d51053ae2014f715716baf9194f6b5bb6"
+
+[[files]]
 file = "config/smoothchunk.json"
 hash = "9d3d19abc7ca774f4e85c769be37b65481f43c8e1aaff51c5c0306af9952add7"
 
@@ -155,6 +163,10 @@ hash = "b4b76efc7ab6b7876d3d9b5cc212d9f78b47c07cf30a91b576b2a149633ca24e"
 [[files]]
 file = "config/system_milady/bindings/transporter-route-probes.bindings"
 hash = "684fe23045e2eb157e8e789ddb93ead2068044f083ab00369a511b5fa841d728"
+
+[[files]]
+file = "config/tide.json5"
+hash = "8ebf3c5deb11b6007c18733fe96ddcbfd96c9abf352b42bdf4eb82543089091e"
 
 [[files]]
 file = "config/tide.toml"
@@ -2236,6 +2248,10 @@ metafile = true
 [[files]]
 file = "moonlight-global-datapacks/miladycraft-hidden-mod-data/pack.mcmeta"
 hash = "adf0212b75213199ebbda4b9ca0dcd8b8dd730d2ae57a9e4a0f5620b62d81c2e"
+
+[[files]]
+file = "observable_announce"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "options.txt"
