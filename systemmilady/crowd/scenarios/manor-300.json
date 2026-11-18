@@ -1,9 +1,0 @@
-{
-  "description": "Manor crowd: 300 converging, switches as shipped",
-  "where": {"realm": "manor", "radius": 24},
-  "steps": [{"players": 300, "joinsPerTick": 5, "settle": "30s", "hold": "80s"}],
-  "behaviour": "converge",
-  "stop": {"meanTickMs": 400, "window": "30s", "tickMs": 10000, "heapPercent": 90, "realPlayers": "stop"},
-  "maxDuration": "15m",
-  "seed": 1
-}

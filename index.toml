@@ -162,7 +162,7 @@ hash = "6e676d82bde12f7e98a7fdc57adaa5ea8079d4656d7082cfe74442b387169ad4"
 
 [[files]]
 file = "config/system_milady-startup.toml"
-hash = "ad6c5c645d500e89c782e7b1af62c2c7370ea010204719f9a47fc4366efb40a5"
+hash = "b4b76efc7ab6b7876d3d9b5cc212d9f78b47c07cf30a91b576b2a149633ca24e"
 
 [[files]]
 file = "config/system_milady/bindings/transporter-route-probes.bindings"
@@ -171,10 +171,6 @@ hash = "48986e4856ad2115f1bb1231e705a739d7b8028b709bb3890f7667548cc5c886"
 [[files]]
 file = "config/system_milady/launch.properties"
 hash = "993c1e7888c4a543cce4843a9b76006eadd7c5fb66bab165e5387ae977d38b15"
-
-[[files]]
-file = "config/system_milady_crowd-startup.toml"
-hash = "718fe387f5788d43af0fbee12891179e8d02ca3faa227081bf605132dcef181a"
 
 [[files]]
 file = "config/touhou_little_maid-common.toml"
@@ -2269,11 +2265,3 @@ metafile = true
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "fe2fb19ba4d0fec45626237b701d857ac3c7c961efd5b4b7ccfff6cd512872f8"
 metafile = true
-
-[[files]]
-file = "systemmilady/crowd/scenarios/manor-300.json"
-hash = "0aecae482adb7a6cb15e05225dc11bfbc89de1151bb4376583d74e42225757eb"
-
-[[files]]
-file = "systemmilady/crowd/scenarios/manor-500-skip.json"
-hash = "c18bde73f6431c7738e3d0ca65f90457d26ae4aff77912d26555fdfcfc297f40"
