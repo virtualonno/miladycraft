@@ -1,6 +1,6 @@
 # Miladycraft · T
 
-[Catalogue index](../1.6.0-alpha-2026-11-18-3.md) · [Captured metadata](../../snapshots/1.6.0-alpha-2026-11-18-3.json)
+[Catalogue index](../1.6.0-alpha-2026-11-18-4.md) · [Captured metadata](../../snapshots/1.6.0-alpha-2026-11-18-4.json)
 
 <a id="mod-d8cd5b13b4a6f483"></a>
 ### Tank Storage
@@ -87,32 +87,6 @@ Mod IDs and versions: obsidianboat 21.1.2.
 | obsidianboat | minecraft | required | \[1.21.1\] | client and server | runtime |
 
 Source: obsidianboat-neo-21.1.2+mc1.21.1.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
-
-<a id="mod-b81677e4badd41ee"></a>
-### Tide 2
-
-**[2.1.1](https://www.curseforge.com/projects/884685/files/8570111)** · client and server · [Source](https://www.curseforge.com/projects/884685) · [Pack entry](../../../mods/tide.pw.toml)
-
-Expands the fishing system and adds 100+ new fish.
-
-Mod IDs and versions: tide 2.1.1.
-
-**Requires:** [Cloth Config API (Fabric/Forge/NeoForge)](c.md#mod-54d6ef2c3b5058aa).
-
-**Dependencies and integrations**
-
-| From | Dependency | Kind | Version range | Side | Found in pack |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| tide | cloth\_config | required | \* | client and server | [Cloth Config API (Fabric/Forge/NeoForge)](c.md#mod-54d6ef2c3b5058aa) |
-
-**Runtime constraints**
-
-| From | Dependency | Kind | Version range | Side | Found in pack |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| tide | neoforge | required | \[21,) | client and server | runtime |
-| tide | minecraft | required | 1.21.1 | client and server | runtime |
-
-Source: tide-neoforge-1.21.1-2.1.1.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-68804658aae1674e"></a>
 ### Tip of the Loom

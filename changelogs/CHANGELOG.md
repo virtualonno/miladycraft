@@ -4,20 +4,37 @@
 
 Release records preserve exact pack inputs. Recording a release does not assert that it has been deployed or published. Earlier unrecorded updates have not been reconstructed.
 
-## 1.6.0-alpha-2026-11-18-3 · 2026-11-18
+## 1.6.0-alpha-2026-11-18-4 · 2026-11-18
 
-Pack 1.6.0-alpha · [Recorded mod catalogue](modlist/1.6.0-alpha-2026-11-18-3.md) · [Snapshot](../changelogs/snapshots/1.6.0-alpha-2026-11-18-3.json)
+Pack 1.6.0-alpha · [Recorded mod catalogue](modlist/1.6.0-alpha-2026-11-18-4.md) · [Snapshot](../changelogs/snapshots/1.6.0-alpha-2026-11-18-4.json)
 
-Faster game start for members, and System Milady 0.1.0-alpha.10 on the server. System Milady now installs on clients as well as servers; on a client it only changes how the game loader starts and does nothing else (no gameplay changes, commands or server features). Its launch modes come from config/system_milady/launch.properties: the module layer is built without Java 21's slow pass (auto: the first start after a mod change runs the normal path and checks the faster one against it, and only a check with no differences lets later starts use the faster path; a difference, or a first faster start that does not finish, keeps the normal path). The Mixin prefilter and launch claim filters ship off. ModernFix now loads block and item models and entity renderers on demand (dynamic_resources and dynamic_entity_renderers), which shortened the resource reload by about 20 seconds in test starts on a four-core machine, with no visual difference found in a compatibility pass. On the server, System Milady adds listener timing and declared dimensions without structures or generated mobs, and checks three exact advancement and loot shortcuts against vanilla in shadow. Nothing to do for players: the launcher installs the update. Report anything that looks or loads wrong.
+System Milady 0.1.0-alpha.11 on the server and on clients, faster game start for members, and Tide and Crabber's Delight removed.
+
+Faster game start: System Milady now installs on clients as well as servers; on a client it only changes how the game loader starts and does nothing else (no gameplay changes, commands or server features). Its launch modes come from config/system_milady/launch.properties: the module layer is built without Java 21's slow pass (auto: the first start after a mod change runs the normal path and checks the faster one against it, and only a check with no differences lets later starts use the faster path; a difference, or a first faster start that does not finish, keeps the normal path). The Mixin prefilter and launch claim filters ship off. ModernFix now loads block and item models and entity renderers on demand (dynamic_resources and dynamic_entity_renderers), which shortened the resource reload by about 20 seconds in test starts on a four-core machine, with no visual difference found in a compatibility pass.
+
+On the server, System Milady adds listener timing, declared dimensions without structures or generated mobs, spawner suspension per dimension, and no chat line when you enter a realm. It checks several exact shortcuts against vanilla in shadow before they are switched on: advancement and loot checks, entity tracking on movement, and repeated Mekanism transporter route requests.
+
+Tide and Crabber's Delight are removed from the pack, on clients and the server. The launcher removes both when it updates the pack; join with the updated pack. Everything these two mods added leaves the world for good: their fish, bait, bobbers, rods, journals, crates, fish displays and calendars; crabs and their claws, clams, shrimp, palm trees and palm wood, coconuts, seashells, wormy dirt, crab traps, tackle boxes, barrels, cabinets, worm bins and all of their food. Palm-wood furniture, signs and doors that other mods made from Crabber's palm wood, and Display Delight's displays of Crabber's foods, go with them. Containers from these mods are erased together with what they hold: Tide crates, tackle boxes, crab traps, worm bins, palm cabinets and fish displays. Vanilla fishing rods, fish and fish buckets stay; they only lose the bobber, hook, line and fish length Tide gave them. Fishing is vanilla fishing again, with Supplementaries' antique ink and Touhou Little Maid's power points still in its loot, and cod, salmon, pufferfish and tropical fish drop their vanilla loot. Coral crafting from coral fragments, bottled notes, and squid tentacles and frog legs from mobs are gone. Cloth Config and Farmer's Delight stay: other mods need them.
+
+Nothing else to do for players: the launcher installs the update. Report anything that looks or loads wrong.
+
+### Removed
+
+- [Crabber's Delight](https://www.curseforge.com/projects/892827): [1.3.1](https://www.curseforge.com/projects/892827/files/8996449).
+- [Tide 2](https://www.curseforge.com/projects/884685): [2.1.1](https://www.curseforge.com/projects/884685/files/8570111).
 
 ### Updated
 
-- [System Milady](https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.10/system_milady-neoforge-1.21.1-0.1.0-alpha.10.jar): [0.1.0-alpha.9](https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.9/system_milady-neoforge-1.21.1-0.1.0-alpha.9.jar) → [0.1.0-alpha.10](https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.10/system_milady-neoforge-1.21.1-0.1.0-alpha.10.jar); side: server → both; filename: system\_milady-neoforge-1.21.1-0.1.0-alpha.9.jar → system\_milady-neoforge-1.21.1-0.1.0-alpha.10.jar.
+- [System Milady](https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.11/system_milady-neoforge-1.21.1-0.1.0-alpha.11.jar): [0.1.0-alpha.9](https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.9/system_milady-neoforge-1.21.1-0.1.0-alpha.9.jar) → [0.1.0-alpha.11](https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.11/system_milady-neoforge-1.21.1-0.1.0-alpha.11.jar); side: server → both; filename: system\_milady-neoforge-1.21.1-0.1.0-alpha.9.jar → system\_milady-neoforge-1.21.1-0.1.0-alpha.11.jar.
 
 ### Configuration and other pack files
 
 - Added: config/modernfix-mixins.properties.
+- Changed: config/system\_milady/bindings/transporter-route-probes.bindings.
 - Added: config/system\_milady/launch.properties.
+- Removed: config/tide.json5.
+- Removed: config/tide.toml.
+- Changed: kubejs/server\_scripts/missing-tag-references.js.
 
 
 ## 1.6.0-alpha-2026-11-18-1 · 2026-11-18

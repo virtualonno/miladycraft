@@ -1,6 +1,6 @@
 # Miladycraft · J
 
-[Catalogue index](../1.6.0-alpha-2026-11-18-3.md) · [Captured metadata](../../snapshots/1.6.0-alpha-2026-11-18-3.json)
+[Catalogue index](../1.6.0-alpha-2026-11-18-4.md) · [Captured metadata](../../snapshots/1.6.0-alpha-2026-11-18-4.json)
 
 <a id="mod-85a8511c1c37220b"></a>
 ### Jade

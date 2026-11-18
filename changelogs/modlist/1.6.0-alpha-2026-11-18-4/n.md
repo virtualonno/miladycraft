@@ -1,6 +1,6 @@
 # Miladycraft · N
 
-[Catalogue index](../1.6.0-alpha-2026-11-18-3.md) · [Captured metadata](../../snapshots/1.6.0-alpha-2026-11-18-3.json)
+[Catalogue index](../1.6.0-alpha-2026-11-18-4.md) · [Captured metadata](../../snapshots/1.6.0-alpha-2026-11-18-4.json)
 
 <a id="mod-370f9a2de0abd767"></a>
 ### NaNny (Fix NaN Health / Absorption)

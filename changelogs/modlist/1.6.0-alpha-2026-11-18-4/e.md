@@ -1,6 +1,6 @@
 # Miladycraft · E
 
-[Catalogue index](../1.6.0-alpha-2026-11-18-3.md) · [Captured metadata](../../snapshots/1.6.0-alpha-2026-11-18-3.json)
+[Catalogue index](../1.6.0-alpha-2026-11-18-4.md) · [Captured metadata](../../snapshots/1.6.0-alpha-2026-11-18-4.json)
 
 <a id="mod-56924ff9fec1f08f"></a>
 ### Ears (+ Snouts/Muzzles, Tails, Horns, Wings, and More)

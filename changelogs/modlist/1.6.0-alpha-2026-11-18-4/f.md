@@ -1,6 +1,6 @@
 # Miladycraft · F
 
-[Catalogue index](../1.6.0-alpha-2026-11-18-3.md) · [Captured metadata](../../snapshots/1.6.0-alpha-2026-11-18-3.json)
+[Catalogue index](../1.6.0-alpha-2026-11-18-4.md) · [Captured metadata](../../snapshots/1.6.0-alpha-2026-11-18-4.json)
 
 <a id="mod-c0e875d8d3fa9eb1"></a>
 ### Falling Leaves (NeoForge/Forge)
@@ -33,7 +33,7 @@ Mod IDs and versions: farmersdelight 1.3.4.
 
 **Optional integrations:** crafttweaker (not in this catalogue).
 
-**Used by:** [Autochef's Delight](a.md#mod-3d31cd3de7c06ada), [Barbeque's Delight \[Forge/NeoForge\]](b.md#mod-bab120207b6ab888), [Crabber's Delight](c.md#mod-50d778441546ee2a), [Cultural Delights](c.md#mod-7e889ea7a670c3b6), [Easter's Delight](e.md#mod-6479e4fff86f1785), [End's Delight](e.md#mod-256dc915ba75f210), [Rustic Delight](r.md#mod-5f0a1367033e94d1).
+**Used by:** [Autochef's Delight](a.md#mod-3d31cd3de7c06ada), [Barbeque's Delight \[Forge/NeoForge\]](b.md#mod-bab120207b6ab888), [Cultural Delights](c.md#mod-7e889ea7a670c3b6), [Easter's Delight](e.md#mod-6479e4fff86f1785), [End's Delight](e.md#mod-256dc915ba75f210), [Rustic Delight](r.md#mod-5f0a1367033e94d1).
 
 **Optional dependency of:** [Create: Some Assembly Required](c.md#mod-f6f9ceea72620652).
 
