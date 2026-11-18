@@ -5,4 +5,4 @@ side = "server"
 [download]
 url = "https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.9/system_milady-neoforge-1.21.1-0.1.0-alpha.9.jar"
 hash-format = "sha512"
-hash = "e2e1f782b3396c8db0142281f7e11bd91a558f2280ae3922c18d7a055d7b11434982973824ae0c8c076199a07b9be34b95df44bc6e11eb47ed3659f966496902"
+hash = "16ec18572f4f1075d5ef6f6a44bb058423e2ab90685eb38a905b4317230bf718bab5ae8d56ea0af8ce8a9be0e6b0e8ec25a6b63ac1f9cea60f5e20b8b7aebf7a"

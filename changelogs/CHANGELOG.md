@@ -4,13 +4,22 @@
 
 Release records preserve exact pack inputs. Recording a release does not assert that it has been deployed or published. Earlier unrecorded updates have not been reconstructed.
 
-## Unreleased
+## 1.6.0-alpha-2026-11-18-1 · 2026-11-18
+
+Pack 1.6.0-alpha · [Recorded mod catalogue](modlist/1.6.0-alpha-2026-11-18-1.md) · [Snapshot](../changelogs/snapshots/1.6.0-alpha-2026-11-18-1.json)
+
+Updates System Milady to 0.1.0-alpha.9 on the server; players install nothing. Operators can give a declared dimension, such as an event venue, real overworld terrain from a world preset, discard a removed one's files, and let players enter a realm without counting as a first join, so starter-kit mods give nothing there. The measuring probes on Mekanism's logistical transporter route now also say which transporter, inventory or position their calls come from; they still only count and time calls. Mod greetings that have a switch are silenced: no NeoForge update notice in chat, Neruina's notices go to operators only, Simple Backups stops announcing backups in chat, Tide no longer hands out its journal on first join, and Observable skips its one-time announcement.
+
+### Updated
+
+- [System Milady](https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.9/system_milady-neoforge-1.21.1-0.1.0-alpha.9.jar): [0.1.0-alpha.8](https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.8/system_milady-neoforge-1.21.1-0.1.0-alpha.8.jar) → [0.1.0-alpha.9](https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.9/system_milady-neoforge-1.21.1-0.1.0-alpha.9.jar); filename: system\_milady-neoforge-1.21.1-0.1.0-alpha.8.jar → system\_milady-neoforge-1.21.1-0.1.0-alpha.9.jar.
 
 ### Configuration and other pack files
 
 - Added: config/fml.toml.
 - Changed: config/neruina.json.
 - Added: config/simplebackups-common.toml.
+- Changed: config/system\_milady/bindings/transporter-route-probes.bindings.
 - Added: config/tide.json5.
 - Added: observable\_announce.
 

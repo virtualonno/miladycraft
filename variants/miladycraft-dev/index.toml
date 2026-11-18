@@ -11,7 +11,7 @@ metafile = true
 
 [[files]]
 file = "mods/system-milady-crowd.pw.toml"
-hash = "36061d46b0e2b38f19f37f6a9f865106855abf8e6b228a53325f28163db8deb3"
+hash = "3c320cd6c78c05ae4184d8749a1151d3884aa18809c3e792be7c23908d346dd2"
 metafile = true
 
 [[files]]

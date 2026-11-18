@@ -1,0 +1,10 @@
+{
+  "date": "2026-11-18",
+  "id": "1.6.0-alpha-2026-11-18-1",
+  "notes": "Updates System Milady to 0.1.0-alpha.9 on the server; players install nothing. Operators can give a declared dimension, such as an event venue, real overworld terrain from a world preset, discard a removed one's files, and let players enter a realm without counting as a first join, so starter-kit mods give nothing there. The measuring probes on Mekanism's logistical transporter route now also say which transporter, inventory or position their calls come from; they still only count and time calls. Mod greetings that have a switch are silenced: no NeoForge update notice in chat, Neruina's notices go to operators only, Simple Backups stops announcing backups in chat, Tide no longer hands out its journal on first join, and Observable skips its one-time announcement.",
+  "previous": "1.6.0-alpha-2026-11-17-5",
+  "schema": "smoothstone.pack_release.v1",
+  "sequence": 25,
+  "snapshot": "changelogs/snapshots/1.6.0-alpha-2026-11-18-1.json",
+  "snapshot_sha256": "85710b16ef21e73f04943d6cc8936514ab98075ddc220cd3471895c5f30bf7a1"
+}
