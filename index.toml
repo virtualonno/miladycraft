@@ -101,6 +101,10 @@ file = "config/lmft.json"
 hash = "2a2ee19297afe3fc512f5cbe639349847f3e7a74616f282d24a179a17f4559ed"
 
 [[files]]
+file = "config/modernfix-mixins.properties"
+hash = "e7cb0c8fcccf4373eabcf71519ab51b64da7894355a0a07408c004284506c1f8"
+
+[[files]]
 file = "config/moonedit-server.toml"
 hash = "a6d420af74ea6bbe386433920383ce006e2b81f9175df47ffc1190a1affbcb46"
 
@@ -163,6 +167,10 @@ hash = "b4b76efc7ab6b7876d3d9b5cc212d9f78b47c07cf30a91b576b2a149633ca24e"
 [[files]]
 file = "config/system_milady/bindings/transporter-route-probes.bindings"
 hash = "a4ecb55bad7e31635766d761a324e62717ef80ae4e1090be5e8f0bf054abc545"
+
+[[files]]
+file = "config/system_milady/launch.properties"
+hash = "993c1e7888c4a543cce4843a9b76006eadd7c5fb66bab165e5387ae977d38b15"
 
 [[files]]
 file = "config/tide.json5"
@@ -2022,12 +2030,12 @@ metafile = true
 
 [[files]]
 file = "mods/system-milady-crowd.pw.toml"
-hash = "3c320cd6c78c05ae4184d8749a1151d3884aa18809c3e792be7c23908d346dd2"
+hash = "a7c6bc0423fe03d5478f3674890d5508c831ee230a6cb508710f83d1898e468e"
 metafile = true
 
 [[files]]
 file = "mods/system-milady.pw.toml"
-hash = "2b8e15d8bb1f9c9dcbfc0f7b08ce79d99cec1f7a1956e7911269c6a6302ded65"
+hash = "6ea02cb2044672c4494f539d5c03c0fbd15e8a395b0db3fed5018afdcc04642a"
 metafile = true
 
 [[files]]
