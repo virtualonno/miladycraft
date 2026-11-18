@@ -173,10 +173,6 @@ file = "config/system_milady/launch.properties"
 hash = "993c1e7888c4a543cce4843a9b76006eadd7c5fb66bab165e5387ae977d38b15"
 
 [[files]]
-file = "config/system_milady_crowd-startup.toml"
-hash = "718fe387f5788d43af0fbee12891179e8d02ca3faa227081bf605132dcef181a"
-
-[[files]]
 file = "config/tide.json5"
 hash = "8ebf3c5deb11b6007c18733fe96ddcbfd96c9abf352b42bdf4eb82543089091e"
 
@@ -2287,7 +2283,3 @@ metafile = true
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "fe2fb19ba4d0fec45626237b701d857ac3c7c961efd5b4b7ccfff6cd512872f8"
 metafile = true
-
-[[files]]
-file = "systemmilady/crowd/scenarios/manor-drill.json"
-hash = "c5db29f88b3da6a47eb17c256045523fe879ec056c2607552500ae1e796a7122"
