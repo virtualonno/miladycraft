@@ -1,6 +1,6 @@
 # Miladycraft · T
 
-[Catalogue index](../1.6.0-alpha-2026-11-18-member-launch.md) · [Captured metadata](../../snapshots/1.6.0-alpha-2026-11-18-member-launch.json)
+[Catalogue index](../1.6.0-alpha-2026-11-18-3.md) · [Captured metadata](../../snapshots/1.6.0-alpha-2026-11-18-3.json)
 
 <a id="mod-d8cd5b13b4a6f483"></a>
 ### Tank Storage

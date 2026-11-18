@@ -22047,7 +22047,7 @@
     },
     {
       "download": {
-        "hash": "126ca090b05651147edc451c14a204d73878d2ea44c1175abca590c945c4df266ef17379c7dbddae54c9cbd2d6dde6693af1be7169b6c9f03c33eb969f42e564",
+        "hash": "9d7adce37adb19b372b51a66c3dd0c2ca9c507b2e007f35a0f4520c7907eac9b38969faf88cddccaaf4c1ac5aea73ef0a87a1245755674a0acd5a48550724b14",
         "hash-format": "sha512",
         "url": "https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.10/system_milady-neoforge-1.21.1-0.1.0-alpha.10.jar"
       },
@@ -22111,7 +22111,7 @@
       "pinned": false,
       "provider_version": "",
       "release": "https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.10/system_milady-neoforge-1.21.1-0.1.0-alpha.10.jar",
-      "sha256": "552c26795d7b2488810e1d046b2c1865462b6fe06803ea86cc8dff0cab8cf885",
+      "sha256": "abe2e536cdc8f9fdf4af5203eef2b90d8beda5ac0101925ff0de7f7a54280fe1",
       "side": "both"
     },
     {
@@ -24989,7 +24989,7 @@
       "config/structureessentials.json": "11866e37fdcd966127a9e6b8f4759d7a0be7cbb49e67cc9e581ca9c7c8f32880",
       "config/system_milady-startup.toml": "b4b76efc7ab6b7876d3d9b5cc212d9f78b47c07cf30a91b576b2a149633ca24e",
       "config/system_milady/bindings/transporter-route-probes.bindings": "a4ecb55bad7e31635766d761a324e62717ef80ae4e1090be5e8f0bf054abc545",
-      "config/system_milady/launch.properties": "2f4afa9f80da0b4ba24a4bad574c47f5be0a9cf014f4d734fee6ecc17494e7e1",
+      "config/system_milady/launch.properties": "993c1e7888c4a543cce4843a9b76006eadd7c5fb66bab165e5387ae977d38b15",
       "config/tide.json5": "8ebf3c5deb11b6007c18733fe96ddcbfd96c9abf352b42bdf4eb82543089091e",
       "config/tide.toml": "d1944096ecc687d34af9e09c13b69d5d644cca9127175a39f0f88f471ee00e66",
       "config/touhou_little_maid-common.toml": "66784542373a749b4207078906208d3887b59f4dcfac0342757ca72889a5d6db",
@@ -25376,7 +25376,7 @@
       "mods/supermartijn642s-core-lib.pw.toml": "bb48f46b7273421f7b80fb7a1abe1e778b9329bbfb615dca0b9efb61a67297f6",
       "mods/supplementaries-squared.pw.toml": "ccb454443d90a9bbbd60cfb05cf5cc8bc7235b981c89e40dc7796a41277e56b1",
       "mods/supplementaries.pw.toml": "ac16a3b327930527b268695816a0be285bdb0a384480b231c6fd2ccbe87f401f",
-      "mods/system-milady.pw.toml": "f469c4cc37bb2a3430e125d8d010f10836a52408a6c2015a243640c345c9b51f",
+      "mods/system-milady.pw.toml": "6ea02cb2044672c4494f539d5c03c0fbd15e8a395b0db3fed5018afdcc04642a",
       "mods/tacz-1-21-1.pw.toml": "8c1a3b4ed3e14490c8c8e1cfe7f000d25727290cd1dd26ce41b029c396f4e885",
       "mods/tank-storage.pw.toml": "04bb52ee676beccd4ee7588d208d73013b9f91b455f151a7d82641b02958a413",
       "mods/terralith.pw.toml": "f083c3cdf6aadc3b033e20ba8ccc929d5e1b86a0be50b05dc638d7f76dab5024",
@@ -25428,7 +25428,7 @@
       "resourcepacks/when-dungeons-arise-loot-tweaks.pw.toml": "69224f25c19c3fce9c58323d98df97e7c12f47448ea35ff27bd802cd3cf7e249",
       "shaderpacks/complementary-reimagined.pw.toml": "fe2fb19ba4d0fec45626237b701d857ac3c7c961efd5b4b7ccfff6cd512872f8"
     },
-    "pack_sha256": "a23ccac2b4d834ceb9cf8fe787ff666d44327aec53165479f50e9c4488083812"
+    "pack_sha256": "6fb5b821a00fc8c698fb34cbfa42b2d1e29f5312f4bfd4abe433adc398745149"
   },
   "pack": {
     "name": "Miladycraft",

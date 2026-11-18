@@ -4,11 +4,11 @@
 
 Release records preserve exact pack inputs. Recording a release does not assert that it has been deployed or published. Earlier unrecorded updates have not been reconstructed.
 
-## 1.6.0-alpha-2026-11-18-member-launch · 2026-11-18
+## 1.6.0-alpha-2026-11-18-3 · 2026-11-18
 
-Pack 1.6.0-alpha · [Recorded mod catalogue](modlist/1.6.0-alpha-2026-11-18-member-launch.md) · [Snapshot](../changelogs/snapshots/1.6.0-alpha-2026-11-18-member-launch.json)
+Pack 1.6.0-alpha · [Recorded mod catalogue](modlist/1.6.0-alpha-2026-11-18-3.md) · [Snapshot](../changelogs/snapshots/1.6.0-alpha-2026-11-18-3.json)
 
-Faster game start for members. System Milady 0.1.0-alpha.10 now installs on clients as well as servers; on a client it only changes how the game loader starts and does nothing else (no gameplay changes, commands or server features). Its launch modes come from config/system_milady/launch.properties: the module layer is built without Java 21's slow pass, and classes no mixin targets skip Mixin. Both run in auto mode: the first start after a mod change runs the normal path and checks the faster one against it, and only a check with no differences lets later starts use the faster path; a difference, or a first faster start that does not finish, keeps the normal path. ModernFix now loads block and item models and entity renderers on demand (dynamic_resources and dynamic_entity_renderers), which shortened the resource reload by about 20 seconds in test starts on a four-core machine, with no visual difference found in a compatibility pass. Nothing to do for players: the launcher installs the update. Report anything that looks or loads wrong.
+Faster game start for members, and System Milady 0.1.0-alpha.10 on the server. System Milady now installs on clients as well as servers; on a client it only changes how the game loader starts and does nothing else (no gameplay changes, commands or server features). Its launch modes come from config/system_milady/launch.properties: the module layer is built without Java 21's slow pass (auto: the first start after a mod change runs the normal path and checks the faster one against it, and only a check with no differences lets later starts use the faster path; a difference, or a first faster start that does not finish, keeps the normal path). The Mixin prefilter and launch claim filters ship off. ModernFix now loads block and item models and entity renderers on demand (dynamic_resources and dynamic_entity_renderers), which shortened the resource reload by about 20 seconds in test starts on a four-core machine, with no visual difference found in a compatibility pass. On the server, System Milady adds listener timing and declared dimensions without structures or generated mobs, and checks three exact advancement and loot shortcuts against vanilla in shadow. Nothing to do for players: the launcher installs the update. Report anything that looks or loads wrong.
 
 ### Updated
 

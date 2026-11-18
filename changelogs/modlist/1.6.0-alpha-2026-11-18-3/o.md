@@ -1,6 +1,6 @@
 # Miladycraft · O
 
-[Catalogue index](../1.6.0-alpha-2026-11-18-member-launch.md) · [Captured metadata](../../snapshots/1.6.0-alpha-2026-11-18-member-launch.json)
+[Catalogue index](../1.6.0-alpha-2026-11-18-3.md) · [Captured metadata](../../snapshots/1.6.0-alpha-2026-11-18-3.json)
 
 <a id="mod-8784cf2865f5e784"></a>
 ### Observable

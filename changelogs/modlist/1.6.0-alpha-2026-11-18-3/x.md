@@ -1,6 +1,6 @@
 # Miladycraft · X
 
-[Catalogue index](../1.6.0-alpha-2026-11-18-member-launch.md) · [Captured metadata](../../snapshots/1.6.0-alpha-2026-11-18-member-launch.json)
+[Catalogue index](../1.6.0-alpha-2026-11-18-3.md) · [Captured metadata](../../snapshots/1.6.0-alpha-2026-11-18-3.json)
 
 <a id="mod-72f1cc5e1cef0dcc"></a>
 ### XNet

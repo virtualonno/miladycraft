@@ -1,6 +1,6 @@
 # Miladycraft · F
 
-[Catalogue index](../1.6.0-alpha-2026-11-18-member-launch.md) · [Captured metadata](../../snapshots/1.6.0-alpha-2026-11-18-member-launch.json)
+[Catalogue index](../1.6.0-alpha-2026-11-18-3.md) · [Captured metadata](../../snapshots/1.6.0-alpha-2026-11-18-3.json)
 
 <a id="mod-c0e875d8d3fa9eb1"></a>
 ### Falling Leaves (NeoForge/Forge)
