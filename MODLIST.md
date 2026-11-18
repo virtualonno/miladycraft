@@ -2,7 +2,7 @@
 
 Pack **1.6.0-alpha** · minecraft **1.21.1** · neoforge **21.1.264**
 
-361 mods. Choose a name below to see its description and dependencies. [Changelog](changelogs/CHANGELOG.md) · [PDF](docs/MODLIST.pdf) · [Source metadata](docs/catalogue.json)
+359 mods. Choose a name below to see its description and dependencies. [Changelog](changelogs/CHANGELOG.md) · [PDF](docs/MODLIST.pdf) · [Source metadata](docs/catalogue.json)
 
 ## Index
 
@@ -90,7 +90,6 @@ Pack **1.6.0-alpha** · minecraft **1.21.1** · neoforge **21.1.264**
 | [Controlling](docs/mods/c.md#mod-9bb7ecdc91b98cd4) · [page](https://www.curseforge.com/projects/250398) | [19.0.5](https://www.curseforge.com/projects/250398/files/6368976) | client only | Adds the ability to search for keybinds using their name in the KeyBinding menu, this allows players to easily find a key binding in the menu. |
 | [Cooking for Blockheads](docs/mods/c.md#mod-3215e521f9836d69) · [page](https://www.curseforge.com/projects/231484) | [21.1.24](https://www.curseforge.com/projects/231484/files/8404453) | client and server | Adds a cooking book and multiblock kitchens that only shows recipes you can make with what you currently have in your inventory. |
 | [Cow Tools](docs/mods/c.md#mod-4a509d19f67ff586) · [page](https://www.curseforge.com/projects/1084137) | [1.0.0](https://www.curseforge.com/projects/1084137/files/5657797) | client and server | See https://en.wikipedia.org/wiki/Cow\_tools for more details. |
-| [Crabber's Delight](docs/mods/c.md#mod-50d778441546ee2a) · [page](https://www.curseforge.com/projects/892827) | [1.3.1](https://www.curseforge.com/projects/892827/files/8996449) | client and server | A maritime addon for Farmer's Delight! |
 | [Crafting Slots](docs/mods/c.md#mod-416d0c10c1a617f7) · [page](https://www.curseforge.com/projects/237581) | [21.1.2](https://www.curseforge.com/projects/237581/files/6200331) | client and server | Adds an inventory crafting table and a normal portable one. |
 | [Crafting Tweaks](docs/mods/c.md#mod-6e2aa927986f25ee) · [page](https://www.curseforge.com/projects/233071) | [21.1.11](https://www.curseforge.com/projects/233071/files/8697050) | client and server | Allows you to rotate, balance or clear the crafting matrix by the press of a button, in any (supported) crafting window. |
 | [Crash Assistant](docs/mods/c.md#mod-46eba471bcec66fc) · [page](https://www.curseforge.com/projects/1154099) | [1.11.12](https://www.curseforge.com/projects/1154099/files/8636685) | client only | Shows a GUI after Minecraft crashes, immediately showing all affected logs, crash reports, or hs\_err files. Provides a one-click solution to upload them, copy the… |
@@ -329,7 +328,6 @@ Pack **1.6.0-alpha** · minecraft **1.21.1** · neoforge **21.1.264**
 | [Terralith](docs/mods/t.md#mod-7c4cdea037b1d0c3) · [page](https://www.curseforge.com/projects/513688) | [2.6.2](https://www.curseforge.com/projects/513688/files/8222737) | client and server | Explore almost 100 new biomes consisting of both realism and light fantasy, using just Vanilla blocks. Complete with several immersive structures to compliment the… |
 | [The Block Box](docs/mods/t.md#mod-0508d4097409bf5a) · [page](https://www.curseforge.com/projects/1199971) | [0.1.3](https://www.curseforge.com/projects/1199971/files/8089815) | client and server | A collection of building blocks, furniture and decorations! |
 | [TheObsidianBoat](docs/mods/t.md#mod-640073c781d257d7) · [page](https://www.curseforge.com/projects/510648) | [21.1.2](https://www.curseforge.com/projects/510648/files/6120652) | client and server | Adds an Obsidian Boat that works on lava |
-| [Tide 2](docs/mods/t.md#mod-b81677e4badd41ee) · [page](https://www.curseforge.com/projects/884685) | [2.1.1](https://www.curseforge.com/projects/884685/files/8570111) | client and server | Expands the fishing system and adds 100+ new fish. |
 | [Tip of the Loom](docs/mods/t.md#mod-68804658aae1674e) · [page](https://www.curseforge.com/projects/1123591) | [21.1.3](https://www.curseforge.com/projects/1123591/files/5824141) | client and server | Adds tooltips to banner pattern buttons in the loom. |
 | [Tips](docs/mods/t.md#mod-68f6e45eb9c84310) · [page](https://www.curseforge.com/projects/306549) | [21.1.3](https://www.curseforge.com/projects/306549/files/7126358) | client only | Adds useful tips to various loading screens in game. |
 | [Titanium](docs/mods/t.md#mod-c3e707d696de0880) · [page](https://www.curseforge.com/projects/287342) | [4.0.51](https://www.curseforge.com/projects/287342/files/9129904) | client and server | A Lib |

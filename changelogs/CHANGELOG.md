@@ -4,6 +4,24 @@
 
 Release records preserve exact pack inputs. Recording a release does not assert that it has been deployed or published. Earlier unrecorded updates have not been reconstructed.
 
+## 1.6.0-alpha-2026-11-18-2 · 2026-11-18
+
+Pack 1.6.0-alpha · [Recorded mod catalogue](modlist/1.6.0-alpha-2026-11-18-2.md) · [Snapshot](../changelogs/snapshots/1.6.0-alpha-2026-11-18-2.json)
+
+Removes Tide and Crabber's Delight from the pack, on clients and the server. The launcher removes both when it updates the pack; join with the updated pack. Everything these two mods added leaves the world for good: their fish, bait, bobbers, rods, journals, crates, fish displays and calendars; crabs and their claws, clams, shrimp, palm trees and palm wood, coconuts, seashells, wormy dirt, crab traps, tackle boxes, barrels, cabinets, worm bins and all of their food. Palm-wood furniture, signs and doors that other mods made from Crabber's palm wood, and Display Delight's displays of Crabber's foods, go with them. Containers from these mods are erased with what they hold, so take your things out of Tide crates, tackle boxes, crab traps, worm bins, palm cabinets and fish displays before the update lands. Vanilla fishing rods, fish and fish buckets stay; they only lose the bobber, hook, line and fish length Tide gave them. Fishing is vanilla fishing again, with Supplementaries' antique ink and Touhou Little Maid's power points still in its loot, and cod, salmon, pufferfish and tropical fish drop their vanilla loot. Coral crafting from coral fragments, bottled notes, and squid tentacles and frog legs from mobs are gone. Cloth Config and Farmer's Delight stay: other mods need them.
+
+### Removed
+
+- [Crabber's Delight](https://www.curseforge.com/projects/892827): [1.3.1](https://www.curseforge.com/projects/892827/files/8996449).
+- [Tide 2](https://www.curseforge.com/projects/884685): [2.1.1](https://www.curseforge.com/projects/884685/files/8570111).
+
+### Configuration and other pack files
+
+- Removed: config/tide.json5.
+- Removed: config/tide.toml.
+- Changed: kubejs/server\_scripts/missing-tag-references.js.
+
+
 ## 1.6.0-alpha-2026-11-18-1 · 2026-11-18
 
 Pack 1.6.0-alpha · [Recorded mod catalogue](modlist/1.6.0-alpha-2026-11-18-1.md) · [Snapshot](../changelogs/snapshots/1.6.0-alpha-2026-11-18-1.json)

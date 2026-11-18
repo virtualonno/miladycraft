@@ -5950,72 +5950,6 @@
     },
     {
       "download": {
-        "hash": "28a459c17e69ce83e7b1f9dd3e22ee4ca62d1248",
-        "hash-format": "sha1",
-        "mode": "metadata:curseforge"
-      },
-      "evidence": [
-        {
-          "body": "Manifest-Version: 1.0\r\n\r\n",
-          "path": "META-INF/MANIFEST.MF",
-          "sha256": "566ad1a80220026d05099562645ce968ff0e7c36cde22634332605bb34cc3eff"
-        },
-        {
-          "body": "\nmodLoader=\"javafml\"\nloaderVersion=\"[4,)\"\nlicense=\"MIT License\"\n\n[[mods]]\nmodId=\"crabbersdelight\"\nversion=\"1.3.1\"\ndisplayName=\"Crabber's Delight\"\nlogoFile=\"logo.png\"\nauthors=\"AlabasterLeking\"\ndescription='''A maritime addon for Farmer's Delight!'''\n\n[[mixins]]\nconfig = \"crabbersdelight.mixins.json\"\n\n[[dependencies.crabbersdelight]]\nmodId=\"neoforge\"\ntype=\"required\"\nversionRange=\"[21.1.0,)\"\nordering=\"NONE\"\nside=\"BOTH\"\n\n[[dependencies.crabbersdelight]]\nmodId=\"minecraft\"\ntype=\"required\"\nversionRange=\"[1.21.1, 1.22)\"\nordering=\"NONE\"\nside=\"BOTH\"\n\n[[dependencies.crabbersdelight]]\nmodId=\"farmersdelight\"\ntype=\"required\"\nversionRange=\"1.3.0\"\nordering=\"NONE\"\nside=\"BOTH\"",
-          "path": "META-INF/neoforge.mods.toml",
-          "sha256": "f91ada811edbafdfe3e73958cd9f6921ef43882acd833f187bff077cf19b06a5"
-        }
-      ],
-      "filename": "crabbersdelight-1.21.1-1.3.1.jar",
-      "key": "curseforge:892827",
-      "kind": "mod",
-      "modules": [
-        {
-          "dependencies": [
-            {
-              "id": "neoforge",
-              "kind": "required",
-              "ordering": "none",
-              "range": "[21.1.0,)",
-              "side": "both"
-            },
-            {
-              "id": "minecraft",
-              "kind": "required",
-              "ordering": "none",
-              "range": "[1.21.1, 1.22)",
-              "side": "both"
-            },
-            {
-              "id": "farmersdelight",
-              "kind": "required",
-              "ordering": "none",
-              "range": "1.3.0",
-              "side": "both"
-            }
-          ],
-          "description": "A maritime addon for Farmer's Delight!",
-          "descriptor": "META-INF/neoforge.mods.toml",
-          "embedded": false,
-          "homepage": "",
-          "id": "crabbersdelight",
-          "issues": "",
-          "name": "Crabber's Delight",
-          "version": "1.3.1"
-        }
-      ],
-      "name": "Crabber's Delight",
-      "optional": {},
-      "page": "https://www.curseforge.com/projects/892827",
-      "path": "mods/crabbers-delight.pw.toml",
-      "pinned": false,
-      "provider_version": "8996449",
-      "release": "https://www.curseforge.com/projects/892827/files/8996449",
-      "sha256": "a1c9757de071485af01768fbb45bd5e94d5f89d6d48d26a432706d952d555ed8",
-      "side": "both"
-    },
-    {
-      "download": {
         "hash": "ddac596dfbff2cb8b4848fdd096a8fedf00d692d",
         "hash-format": "sha1",
         "mode": "metadata:curseforge"
@@ -22480,72 +22414,6 @@
     },
     {
       "download": {
-        "hash": "6916fb787c0c3da859166b57a9aaac287d7ed144",
-        "hash-format": "sha1",
-        "mode": "metadata:curseforge"
-      },
-      "evidence": [
-        {
-          "body": "Manifest-Version: 1.0\r\n\r\n",
-          "path": "META-INF/MANIFEST.MF",
-          "sha256": "566ad1a80220026d05099562645ce968ff0e7c36cde22634332605bb34cc3eff"
-        },
-        {
-          "body": "license = \"MPL-2.0\"\r\nmodLoader = \"javafml\"\r\nloaderVersion = \"[2,)\"\r\nissueTrackerURL = \"https://github.com/Lightning-64/Tide-2/issues\"\r\n\r\n\t[[dependencies.tide]]\r\n\t\tversionRange = \"[21,)\"\r\n\t\tside = \"BOTH\"\r\n\t\tordering = \"NONE\"\r\n\t\ttype = \"required\"\r\n\t\tmodId = \"neoforge\"\r\n\t[[dependencies.tide]]\r\n\t\tversionRange = \"1.21.1\"\r\n\t\tside = \"BOTH\"\r\n\t\tordering = \"NONE\"\r\n\t\ttype = \"required\"\r\n\t\tmodId = \"minecraft\"\r\n\t[[dependencies.tide]]\r\n\t\tside = \"BOTH\"\r\n\t\tordering = \"NONE\"\r\n\t\ttype = \"required\"\r\n\t\tmodId = \"cloth_config\"\r\n\r\n[[mods]]\r\n\tlogoFile = \"tide.png\"\r\n\tdisplayName = \"Tide\"\r\n\tdescription = \"Expands the fishing system and adds 100+ new fish.\"\r\n\tversion = \"2.1.1\"\r\n\tmodId = \"tide\"\r\n\tauthors = \"Lightning64\"\r\n\r\n[[mixins]]\r\n\tconfig = \"tide.mixins.json\"\r\n[[mixins]]\r\n\tconfig = \"tide-neoforge.mixins.json\"\r\n\r\n[[accessTransformers]]\r\n\tfile = \"accesstransformers/1.21.1.cfg\"\r\n",
-          "path": "META-INF/neoforge.mods.toml",
-          "sha256": "88b70934b56065c841a0e9475f5c1d754b25a018ae460ce112b9e99c0c98237f"
-        }
-      ],
-      "filename": "tide-neoforge-1.21.1-2.1.1.jar",
-      "key": "curseforge:884685",
-      "kind": "mod",
-      "modules": [
-        {
-          "dependencies": [
-            {
-              "id": "neoforge",
-              "kind": "required",
-              "ordering": "none",
-              "range": "[21,)",
-              "side": "both"
-            },
-            {
-              "id": "minecraft",
-              "kind": "required",
-              "ordering": "none",
-              "range": "1.21.1",
-              "side": "both"
-            },
-            {
-              "id": "cloth_config",
-              "kind": "required",
-              "ordering": "none",
-              "range": "*",
-              "side": "both"
-            }
-          ],
-          "description": "Expands the fishing system and adds 100+ new fish.",
-          "descriptor": "META-INF/neoforge.mods.toml",
-          "embedded": false,
-          "homepage": "",
-          "id": "tide",
-          "issues": "https://github.com/Lightning-64/Tide-2/issues",
-          "name": "Tide",
-          "version": "2.1.1"
-        }
-      ],
-      "name": "Tide 2",
-      "optional": {},
-      "page": "https://www.curseforge.com/projects/884685",
-      "path": "mods/tide.pw.toml",
-      "pinned": false,
-      "provider_version": "8570111",
-      "release": "https://www.curseforge.com/projects/884685/files/8570111",
-      "sha256": "f7c4592c593901cf14de8fc24e9252fd1a959e6559964ce128bc8e2c8660c8ca",
-      "side": "both"
-    },
-    {
-      "download": {
         "hash": "beac5ac8f142f5f01f1e3387af65888678036827",
         "hash-format": "sha1",
         "mode": "metadata:curseforge"
@@ -24988,8 +24856,6 @@
       "config/structureessentials.json": "11866e37fdcd966127a9e6b8f4759d7a0be7cbb49e67cc9e581ca9c7c8f32880",
       "config/system_milady-startup.toml": "b4b76efc7ab6b7876d3d9b5cc212d9f78b47c07cf30a91b576b2a149633ca24e",
       "config/system_milady/bindings/transporter-route-probes.bindings": "a4ecb55bad7e31635766d761a324e62717ef80ae4e1090be5e8f0bf054abc545",
-      "config/tide.json5": "8ebf3c5deb11b6007c18733fe96ddcbfd96c9abf352b42bdf4eb82543089091e",
-      "config/tide.toml": "d1944096ecc687d34af9e09c13b69d5d644cca9127175a39f0f88f471ee00e66",
       "config/touhou_little_maid-common.toml": "66784542373a749b4207078906208d3887b59f4dcfac0342757ca72889a5d6db",
       "config/transmog.json": "6c52249c560629b1cc7a5b4247d9e55e7e92f1923fcfcc37b6318b4d472e8355",
       "config/tslatentitystatus-client.toml": "982fb084d463bb00a7cc8094815d0d9466a54c94f5795fca53664b540e39ca07",
@@ -25049,7 +24915,7 @@
       "kubejs/data/touhou_little_maid/curios/entities/curios.json": "be92ff9aa70d6e37663f12cd96f24ae3bcb95096e3b7686c2b7aa58562f1455c",
       "kubejs/server_scripts/hideItems.js": "5f5dbfd4cfe2d7cea9dbd38da777bee365e0590640e397f4955424efdffce09e",
       "kubejs/server_scripts/mekanism-radiation-disabled.js": "c2d6d5eb4c8bfc257455c7e9bb5d2cee72fc3bf234acbb2b534053657c1c3419",
-      "kubejs/server_scripts/missing-tag-references.js": "94223c1e9d5caa38ea7dd4c96dab2c92948801d56f73623a87324b61c84c1ca9",
+      "kubejs/server_scripts/missing-tag-references.js": "f75807cf3fb5761e570c84903d89d53c0792d92c72314f4f4000bafa01ad8f3f",
       "kubejs/server_scripts/protected-event-zones.js": "8b01f94310ea13991bd6b8885307bafd68fe3967aadd4a9c88e03cbc34d21b0b",
       "kubejs/server_scripts/removedRecipes.js": "09b5612cd54083339edfb59d24a89f0bf4e98f1f99c781ab768cedbfd970f580",
       "kubejs/server_scripts/serverStartup.js": "762d45bdbcd6154a65a1db5d054646ffa907a371840a40b137dcb093ab169bf3",
@@ -25141,7 +25007,6 @@
       "mods/controlling.pw.toml": "616036c38fafbcaf00c0720d947ec39f571d885a014f0c81b5eeeb4193784e0e",
       "mods/cooking-for-blockheads.pw.toml": "6dc9e6eb0dd13df1244bf6e7272f5648221142b65be00713f5e9dc76ea223730",
       "mods/cow-tools.pw.toml": "e2abcbfe17bd5a673cbc507d15cb394a71eae201b43b438a6a93c47432942b57",
-      "mods/crabbers-delight.pw.toml": "855115953ba5367522242f9548235b93c347a6ca6a0ab0737e7df233027b138d",
       "mods/crafting-slots.pw.toml": "4571236b804843956280d52cd6d04aa0325b018759ab6dea36f1a65daf641dfa",
       "mods/crafting-tweaks.pw.toml": "9942062b933fc042f551ff9539c81ca37ef8e97eec7d35f7800805a9d285b956",
       "mods/crash-assistant.pw.toml": "8cb7ed61c9d40c9f60a3c7d360f7fba1e3902a75127a6377ce2f0733825982d0",
@@ -25380,7 +25245,6 @@
       "mods/terralith.pw.toml": "f083c3cdf6aadc3b033e20ba8ccc929d5e1b86a0be50b05dc638d7f76dab5024",
       "mods/the-block-box.pw.toml": "dd4c534f1bbaa22bf8f0ee3d1e24b43b355561148d423f05e4a47211abf77335",
       "mods/theobsidianboat.pw.toml": "9980ad99eadf8fe8688c25c8846185cc5fd5bb5ff61516f0f0b932818773574e",
-      "mods/tide.pw.toml": "38215b59c30354df6625e5ea9750be05481ca34dde2f16bb404b5f15c94d6b96",
       "mods/tip-of-the-loom.pw.toml": "f20f3d9ff7e12296b5517395aba9425af4c81ed3f8ded2a9037e938709417788",
       "mods/tips.pw.toml": "bac3e7345e231fed332269d78d4259eb3ae194217a330707961f67c1e7ce0670",
       "mods/titanium.pw.toml": "3a38b581421787f8f5e6c59c07347fa1b0abe25943c8adc437bcb26a641e042e",
@@ -25426,7 +25290,7 @@
       "resourcepacks/when-dungeons-arise-loot-tweaks.pw.toml": "69224f25c19c3fce9c58323d98df97e7c12f47448ea35ff27bd802cd3cf7e249",
       "shaderpacks/complementary-reimagined.pw.toml": "fe2fb19ba4d0fec45626237b701d857ac3c7c961efd5b4b7ccfff6cd512872f8"
     },
-    "pack_sha256": "8c1f8b0c0a450f869e75f4deca9b31f91bb5dd87b64a1889b43ed4fa12b1a0a1"
+    "pack_sha256": "9490f6f1b8afcf379e13cbe19c62f1b3536d68307918e5be678d28495eac1c62"
   },
   "pack": {
     "name": "Miladycraft",

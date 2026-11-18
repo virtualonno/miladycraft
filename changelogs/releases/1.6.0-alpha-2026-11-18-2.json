@@ -1,0 +1,10 @@
+{
+  "date": "2026-11-18",
+  "id": "1.6.0-alpha-2026-11-18-2",
+  "notes": "Removes Tide and Crabber's Delight from the pack, on clients and the server. The launcher removes both when it updates the pack; join with the updated pack. Everything these two mods added leaves the world for good: their fish, bait, bobbers, rods, journals, crates, fish displays and calendars; crabs and their claws, clams, shrimp, palm trees and palm wood, coconuts, seashells, wormy dirt, crab traps, tackle boxes, barrels, cabinets, worm bins and all of their food. Palm-wood furniture, signs and doors that other mods made from Crabber's palm wood, and Display Delight's displays of Crabber's foods, go with them. Containers from these mods are erased with what they hold, so take your things out of Tide crates, tackle boxes, crab traps, worm bins, palm cabinets and fish displays before the update lands. Vanilla fishing rods, fish and fish buckets stay; they only lose the bobber, hook, line and fish length Tide gave them. Fishing is vanilla fishing again, with Supplementaries' antique ink and Touhou Little Maid's power points still in its loot, and cod, salmon, pufferfish and tropical fish drop their vanilla loot. Coral crafting from coral fragments, bottled notes, and squid tentacles and frog legs from mobs are gone. Cloth Config and Farmer's Delight stay: other mods need them.",
+  "previous": "1.6.0-alpha-2026-11-18-1",
+  "schema": "smoothstone.pack_release.v1",
+  "sequence": 26,
+  "snapshot": "changelogs/snapshots/1.6.0-alpha-2026-11-18-2.json",
+  "snapshot_sha256": "79eb1ba6d655dd5ad9cfd8c46fa0ea93a135d96d284def5453f44342013dbd39"
+}
