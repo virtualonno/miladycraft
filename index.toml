@@ -162,7 +162,7 @@ hash = "6e676d82bde12f7e98a7fdc57adaa5ea8079d4656d7082cfe74442b387169ad4"
 
 [[files]]
 file = "config/system_milady-startup.toml"
-hash = "b4b76efc7ab6b7876d3d9b5cc212d9f78b47c07cf30a91b576b2a149633ca24e"
+hash = "ad6c5c645d500e89c782e7b1af62c2c7370ea010204719f9a47fc4366efb40a5"
 
 [[files]]
 file = "config/system_milady/bindings/transporter-route-probes.bindings"

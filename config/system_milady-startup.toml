@@ -156,4 +156,4 @@
 	#at once. local: the push stays server-side and viewers follow the player's usual two-tick position
 	#updates; in a dense crowd this removed a third of outbound bytes.
 	#Allowed Values: BROADCAST, LOCAL
-	playerPushMotion = "BROADCAST"
+	playerPushMotion = "LOCAL"
