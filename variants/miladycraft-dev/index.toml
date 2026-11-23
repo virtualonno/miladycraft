@@ -18,13 +18,12 @@ file = "mods/miladyvoice-neoforge-1.21.1-0.1.0-alpha.1.jar"
 hash = "3f2e86bda49bc9ca31f7a0ed46deea9ac338e4e0e2a80bff8564edd297d830c5"
 
 [[files]]
-file = "mods/system-milady-crowd.pw.toml"
-hash = "2bd5b2067307b1c97ffe44bac7c6712fe19e2748239ec4aec437de4e13dc6185"
-metafile = true
-
-[[files]]
 file = "mods/system_milady-neoforge-1.21.1-0.1.0-alpha.14.jar"
 hash = "4b96342af99cff1407493b90956ac002c8490e69088b35ed4466240082d44eeb"
+
+[[files]]
+file = "mods/system_milady_crowd-neoforge-1.21.1-0.1.0-alpha.14.jar"
+hash = "cf6e27de8b59e11b3f3019ed3b72550aeb73a326f69574918728dda9b0334040"
 
 [[files]]
 file = "variant.toml"
