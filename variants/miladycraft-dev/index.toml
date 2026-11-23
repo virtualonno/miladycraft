@@ -19,5 +19,9 @@ hash = "68de2949668f0a22a66ae3fae804b6344de72a9b99c9cd78b1c3bd999c8f0186"
 metafile = true
 
 [[files]]
+file = "systemmilady/crowd/scenarios/alpha12-ballroom-500.json"
+hash = "298aca18b2e1df9a31ebca302e627c956f660fbece6a8e775edd5faf96a2ece7"
+
+[[files]]
 file = "variant.toml"
 hash = "0090a05d6a57f8822c62c9a474f54ada2b246ad1a020cdf98a3fac8d96e92069"
