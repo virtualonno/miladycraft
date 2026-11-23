@@ -438,10 +438,6 @@ file = "local/ftbchunks/client-config.snbt"
 hash = "d41ad6ba994ee5a5407ba5fa3e4ecb30965a392f6cdf3b5f2559a51321ea67ff"
 
 [[files]]
-file = "mods/Milady-On-Air-0.1.0-alpha.1-neoforge-1.21.1-universal.jar"
-hash = "79c8c96a83626147588edeea44fdecddaa5a76d346f3cbe417699586a3fb7d06"
-
-[[files]]
 file = "mods/accelerated-decay.pw.toml"
 hash = "0c31f109b6c4dca94a153fbdd827bbd5f96149fd5c7863ba0ba41fcab801afe0"
 metafile = true
@@ -1512,6 +1508,14 @@ hash = "490c62f126037c9258c345e3f2a1c523f004179c7026072d9301391f9c5ecf75"
 metafile = true
 
 [[files]]
+file = "mods/milady_on_air-neoforge-1.21.1-0.1.0-alpha.2.jar"
+hash = "fa3cb88fe5a39ae86a47e10e226ca9d8146118480b6a3caaa7d7f33d99b41f0c"
+
+[[files]]
+file = "mods/miladyvoice-neoforge-1.21.1-0.1.0-alpha.1.jar"
+hash = "3f2e86bda49bc9ca31f7a0ed46deea9ac338e4e0e2a80bff8564edd297d830c5"
+
+[[files]]
 file = "mods/misc-tweaks.pw.toml"
 hash = "4775390496a852f1bb9829e52166ec81c4c9cff8f753ee9eafb24bc1cb090a4f"
 metafile = true
@@ -1992,9 +1996,8 @@ hash = "2bd5b2067307b1c97ffe44bac7c6712fe19e2748239ec4aec437de4e13dc6185"
 metafile = true
 
 [[files]]
-file = "mods/system-milady.pw.toml"
-hash = "9279aeef2f78e337a42b85d73aac3302e5ee6ba1500fa09be4b8af09205770c1"
-metafile = true
+file = "mods/system_milady-neoforge-1.21.1-0.1.0-alpha.14.jar"
+hash = "4b96342af99cff1407493b90956ac002c8490e69088b35ed4466240082d44eeb"
 
 [[files]]
 file = "mods/tacz-1-21-1.pw.toml"
