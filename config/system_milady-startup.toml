@@ -149,6 +149,28 @@
 	#that no connection was left holding staged sends.
 	#Allowed Values: OFF, SHADOW, ON
 	connectionStaging = "ON"
+	#Allowed Values: OFF, SHADOW, ON
+	trackingUnchangedSkip = "SHADOW"
+	#Allowed Values: OFF, SHADOW, ON
+	broadcastRecords = "OFF"
+	#Allowed Values: OFF, SHADOW, ON
+	crowdFrame = "ON"
+	#Allowed Values: OFF, SHADOW, ON
+	sharedChunkPayloads = "SHADOW"
+	#Allowed Values: OFF, SHADOW, ON
+	indexedRecipeLookup = "SHADOW"
+	#Allowed Values: OFF, SHADOW, ON
+	pacedChunkSave = "ON"
+	#Allowed Values: OFF, SHADOW, ON
+	pacedPlayerSave = "ON"
+	#Allowed Values: OFF, SHADOW, ON
+	advancementVisibility = "ON"
+	#Allowed Values: OFF, SHADOW, ON
+	criterionListenerHashes = "ON"
+	#Allowed Values: OFF, SHADOW, ON
+	lootVisitHashes = "ON"
+	#Allowed Values: OFF, SHADOW, ON
+	realmIsolation = "OFF"
 
 #Operator policies: player-visible behaviour, vanilla by default.
 [policy]
@@ -157,3 +179,7 @@
 	#updates; in a dense crowd this removed a third of outbound bytes.
 	#Allowed Values: BROADCAST, LOCAL
 	playerPushMotion = "BROADCAST"
+	#Seconds a client may go without answering a keep-alive before disconnect while heartbeats still fire every 15s.
+	# Default: 15
+	# Range: 15 ~ 600
+	keepAliveTimeoutSeconds = 120
