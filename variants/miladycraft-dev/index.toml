@@ -5,10 +5,6 @@ file = "config/structureessentials.json"
 hash = "6e676d82bde12f7e98a7fdc57adaa5ea8079d4656d7082cfe74442b387169ad4"
 
 [[files]]
-file = "config/system_milady_crowd-startup.toml"
-hash = "718fe387f5788d43af0fbee12891179e8d02ca3faa227081bf605132dcef181a"
-
-[[files]]
 file = "mods/architects-palette.pw.toml"
 hash = "ffa80ab737db677474192e7f09f6b1daff0276e2e15c375b332feb3015376580"
 metafile = true
@@ -17,10 +13,6 @@ metafile = true
 file = "mods/system-milady-crowd.pw.toml"
 hash = "2bd5b2067307b1c97ffe44bac7c6712fe19e2748239ec4aec437de4e13dc6185"
 metafile = true
-
-[[files]]
-file = "systemmilady/crowd/scenarios/alpha12-ballroom-500.json"
-hash = "298aca18b2e1df9a31ebca302e627c956f660fbece6a8e775edd5faf96a2ece7"
 
 [[files]]
 file = "variant.toml"
