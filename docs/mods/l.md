@@ -230,34 +230,6 @@ Mod IDs and versions: lootintegrations 4.7.
 
 Source: lootintegrations-1.21.1-4.7.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
-<a id="mod-fbfd074deb1e5d32"></a>
-### LootJS: KubeJS Addon
-
-**[1.21.1-3.4.3](https://www.curseforge.com/projects/570630/files/6867813)** · client and server · [Source](https://www.curseforge.com/projects/570630) · [Pack entry](../../mods/lootjs.pw.toml)
-
-Modify loot through KubeJS.
-
-Mod IDs and versions: lootjs 1.21.1-3.4.3.
-
-**Optional integrations:** [KubeJS](k.md#mod-05beac9d9a25c4dc).
-
-**Optional dependency of:** [Advanced Loot Info (ALI)](a.md#mod-21b855d6d58be6d6).
-
-**Dependencies and integrations**
-
-| From | Dependency | Kind | Version range | Side | Found in pack |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| lootjs | kubejs | optional | \[2101.7.0-build.131,) | client and server | [KubeJS](k.md#mod-05beac9d9a25c4dc) |
-
-**Runtime constraints**
-
-| From | Dependency | Kind | Version range | Side | Found in pack |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| lootjs | neoforge | required | \[21.1.93,) | client and server | runtime |
-| lootjs | minecraft | required | \[1.21.1,) | client and server | runtime |
-
-Source: lootjs-neoforge-1.21.1-3.4.3.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
-
 <a id="mod-3f7504709a5ed83c"></a>
 ### Lootr (Forge & NeoForge)
 

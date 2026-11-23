@@ -124,26 +124,6 @@ Mod IDs and versions: immersive\_machinery 0.2.3+1.21.1.
 
 Source: immersive\_machinery-0.2.3+1.21.1-neoforge.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
-<a id="mod-d656ef81b67f695c"></a>
-### Immersive Optimization
-
-**[0.2.0](https://www.curseforge.com/projects/1163206/files/8429464)** · client and server · [Source](https://www.curseforge.com/projects/1163206) · [Pack entry](../../mods/immersive-optimization.pw.toml)
-
-A lightweight entity-tick-scheduler for doubling your TPS.
-
-Author links: [https://conczin.net/](https://conczin.net/)
-
-Mod IDs and versions: immersive\_optimization 0.2.0.
-
-**Runtime constraints**
-
-| From | Dependency | Kind | Version range | Side | Found in pack |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| immersive\_optimization | neoforge | required | \[21.1.219,) | client and server | runtime |
-| immersive\_optimization | minecraft | required | \[1.21.1, 1.22) | client and server | runtime |
-
-Source: immersive\_optimization-neoforge-1.21.1-0.2.0.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
-
 <a id="mod-b902f0e528d3fa54"></a>
 ### Immersive Paintings
 

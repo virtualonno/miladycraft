@@ -55,7 +55,7 @@ EMI/JEI/REI plugin for displaying advanced information about loot tables and tra
 
 Mod IDs and versions: ali 1.12.0.
 
-**Optional integrations:** emi (not in this catalogue), [Just Enough Items (JEI)](j.md#mod-1004006ccdc38261), rei (not in this catalogue), [LootJS: KubeJS Addon](l.md#mod-fbfd074deb1e5d32).
+**Optional integrations:** emi (not in this catalogue), [Just Enough Items (JEI)](j.md#mod-1004006ccdc38261), rei (not in this catalogue), lootjs (not in this catalogue).
 
 **Dependencies and integrations**
 
@@ -64,7 +64,7 @@ Mod IDs and versions: ali 1.12.0.
 | ali | emi | optional | \[1.1.0,) | client and server | not indexed |
 | ali | jei | optional | \[19.20.0.242,) | client and server | [Just Enough Items (JEI)](j.md#mod-1004006ccdc38261) |
 | ali | rei | optional | \[16.0.799,) | client and server | not indexed |
-| ali | lootjs | optional | \[1.21.1-3.4.2,) | client and server | [LootJS: KubeJS Addon](l.md#mod-fbfd074deb1e5d32) |
+| ali | lootjs | optional | \[1.21.1-3.4.2,) | client and server | not indexed |
 
 **Runtime constraints**
 

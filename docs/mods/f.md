@@ -125,32 +125,6 @@ Mod IDs and versions: fastpaintings 1.21-1.3.1.
 
 Source: fastpaintings-1.21-1.3.1-neoforge.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
-<a id="mod-c7b84304520375ec"></a>
-### FastSuite
-
-**[6.0.7](https://www.curseforge.com/projects/475117/files/7527945)** · client and server · [Source](https://www.curseforge.com/projects/475117) · [Pack entry](../../mods/fastsuite.pw.toml)
-
-Introduces multithreading to the json recipe system.
-
-Mod IDs and versions: fastsuite 6.0.7.
-
-**Requires:** [Placebo](p.md#mod-4c0e8c68349ee271).
-
-**Dependencies and integrations**
-
-| From | Dependency | Kind | Version range | Side | Found in pack |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| fastsuite | placebo | required | \[9.9.0,) | client and server | [Placebo](p.md#mod-4c0e8c68349ee271) |
-
-**Runtime constraints**
-
-| From | Dependency | Kind | Version range | Side | Found in pack |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| fastsuite | minecraft | required | \[1.21.1,) | client and server | runtime |
-| fastsuite | neoforge | required | \[21.1.187,) | client and server | runtime |
-
-Source: FastSuite-1.21.1-6.0.7.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
-
 <a id="mod-52c41818c1052a83"></a>
 ### FastWorkbench
 

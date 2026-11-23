@@ -49,7 +49,7 @@ Source: JadeAddons-1.21.1-NeoForge-6.1.2.jar · META-INF/neoforge.mods.toml. Exa
 <a id="mod-5f56c304b7493c9e"></a>
 ### Jasione
 
-**[1.0.9+1.21.1-neoforge](https://www.curseforge.com/projects/1595495/files/9036008)** · client and server · [Source](https://www.curseforge.com/projects/1595495) · [Pack entry](../../mods/jasione.pw.toml)
+**[1.0.9+1.21.1-neoforge](https://www.curseforge.com/projects/1595495/files/9036008)** · client only · [Source](https://www.curseforge.com/projects/1595495) · [Pack entry](../../mods/jasione.pw.toml)
 
 Reduce GC pressure by safely eliminating Enum\#values array cloning and memory allocation overhead through bytecode analysis
 

@@ -94,7 +94,7 @@ Mod IDs and versions: mekanism 10.7.19.
 
 **Optional integrations:** [Just Enough Items (JEI)](j.md#mod-1004006ccdc38261).
 
-**Used by:** [Applied Mekanistics](a.md#mod-1c904959ec5d725a), [KubeJS Mekanism](k.md#mod-8ce2eea4ebb51085), [Mekanism Generators](m.md#mod-7e2844b42de91036), [XNet Gases](x.md#mod-cb0e5b7d8f320e07).
+**Used by:** [Applied Mekanistics](a.md#mod-1c904959ec5d725a), [Mekanism Generators](m.md#mod-7e2844b42de91036), [XNet Gases](x.md#mod-cb0e5b7d8f320e07).
 
 **Optional dependency of:** [Advanced Peripherals](a.md#mod-bddf581879a0a8dc), [Applied Flux](a.md#mod-e043048f2342be0f), [Super Factory Manager ( SFM )](s.md#mod-5ac41eed8396df38).
 

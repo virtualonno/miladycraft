@@ -4,6 +4,38 @@
 
 Release records preserve exact pack inputs. Recording a release does not assert that it has been deployed or published. Earlier unrecorded updates have not been reconstructed.
 
+## 1.6.0-alpha-2026-11-23-1 · 2026-11-23
+
+Pack 1.6.0-alpha · [Recorded mod catalogue](modlist/1.6.0-alpha-2026-11-23-1.md) · [Snapshot](../changelogs/snapshots/1.6.0-alpha-2026-11-23-1.json)
+
+System Milady 0.1.0-alpha.13 on the server and clients, superseded performance mods removed, and faster server startup.
+
+System Milady 0.1.0-alpha.13 promotes verified exact server optimizations (advancement visibility, criterion listener hashes, loot visit hashes, broadcast records, zero-copy packet compression, shared chunk payloads, paced chunk and player saves, and Mekanism transporter route prediction), adds datapack function governance and tracing, linear-time client blockstate variant indexing, Simple Voice Chat striped UDP offload, and optional client crowd rendering caps.
+
+Removed five redundant or unused mods superseded by System Milady or unused in pack scripts: Immersive Optimization, Smooth Chunk Save, FastSuite, KubeJS Mekanism, and LootJS. Jasione is now client-only, and a redundant startup reload was removed from KubeJS server startup.
+
+Nothing extra for players to do: the launcher installs the update on next start.
+
+### Removed
+
+- [FastSuite](https://www.curseforge.com/projects/475117): [6.0.7](https://www.curseforge.com/projects/475117/files/7527945).
+- [Immersive Optimization](https://www.curseforge.com/projects/1163206): [0.2.0](https://www.curseforge.com/projects/1163206/files/8429464).
+- [KubeJS Mekanism](https://www.curseforge.com/projects/418651): [2101.1.7-build.18](https://www.curseforge.com/projects/418651/files/7213666).
+- [LootJS: KubeJS Addon](https://www.curseforge.com/projects/570630): [1.21.1-3.4.3](https://www.curseforge.com/projects/570630/files/6867813).
+- [Server Performance - Smooth Chunk Save](https://www.curseforge.com/projects/582327): [4.4](https://www.curseforge.com/projects/582327/files/9255092).
+
+### Updated
+
+- [Jasione](https://www.curseforge.com/projects/1595495): [1.0.9+1.21.1-neoforge](https://www.curseforge.com/projects/1595495/files/9036008) → [1.0.9+1.21.1-neoforge](https://www.curseforge.com/projects/1595495/files/9036008); side: both → client.
+- [System Milady](https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.13/system_milady-neoforge-1.21.1-0.1.0-alpha.13.jar): [0.1.0-alpha.11](https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.11/system_milady-neoforge-1.21.1-0.1.0-alpha.11.jar) → [0.1.0-alpha.13](https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.13/system_milady-neoforge-1.21.1-0.1.0-alpha.13.jar); filename: system\_milady-neoforge-1.21.1-0.1.0-alpha.11.jar → system\_milady-neoforge-1.21.1-0.1.0-alpha.13.jar.
+
+### Configuration and other pack files
+
+- Removed: config/smoothchunk.json.
+- Changed: config/system\_milady-startup.toml.
+- Changed: kubejs/server\_scripts/serverStartup.js.
+
+
 ## 1.6.0-alpha-2026-11-18-4 · 2026-11-18
 
 Pack 1.6.0-alpha · [Recorded mod catalogue](modlist/1.6.0-alpha-2026-11-18-4.md) · [Snapshot](../changelogs/snapshots/1.6.0-alpha-2026-11-18-4.json)

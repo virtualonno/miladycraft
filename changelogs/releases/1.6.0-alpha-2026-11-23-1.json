@@ -1,0 +1,10 @@
+{
+  "date": "2026-11-23",
+  "id": "1.6.0-alpha-2026-11-23-1",
+  "notes": "System Milady 0.1.0-alpha.13 on the server and clients, superseded performance mods removed, and faster server startup.\n\nSystem Milady 0.1.0-alpha.13 promotes verified exact server optimizations (advancement visibility, criterion listener hashes, loot visit hashes, broadcast records, zero-copy packet compression, shared chunk payloads, paced chunk and player saves, and Mekanism transporter route prediction), adds datapack function governance and tracing, linear-time client blockstate variant indexing, Simple Voice Chat striped UDP offload, and optional client crowd rendering caps.\n\nRemoved five redundant or unused mods superseded by System Milady or unused in pack scripts: Immersive Optimization, Smooth Chunk Save, FastSuite, KubeJS Mekanism, and LootJS. Jasione is now client-only, and a redundant startup reload was removed from KubeJS server startup.\n\nNothing extra for players to do: the launcher installs the update on next start.",
+  "previous": "1.6.0-alpha-2026-11-18-4",
+  "schema": "smoothstone.pack_release.v1",
+  "sequence": 27,
+  "snapshot": "changelogs/snapshots/1.6.0-alpha-2026-11-23-1.json",
+  "snapshot_sha256": "a551675096a1e1e523a7812b9f86603a5ff57de99bfe5a75acb1fd257a51186a"
+}

@@ -9069,72 +9069,6 @@
     },
     {
       "download": {
-        "hash": "664e62684311f727f1fac18f0de28e5317874b7e",
-        "hash-format": "sha1",
-        "mode": "metadata:curseforge"
-      },
-      "evidence": [
-        {
-          "body": "Manifest-Version: 1.0\r\nSpecification-Title: FastSuite\r\nSpecification-Vendor: Shadows_of_Fire\r\nSpecification-Version: 6.0.7\r\nImplementation-Title: FastSuite\r\nImplementation-Version: 6.0.7\r\nImplementation-Vendor: Shadows_of_Fire\r\nImplementation-Timestamp: 2026-01-25T19:38:34-0500\r\n\r\n",
-          "path": "META-INF/MANIFEST.MF",
-          "sha256": "e5e21fec2c88467a2893c74c5d42b3fbf1430d82406ddbc58950c6a3a821847d"
-        },
-        {
-          "body": "modLoader=\"javafml\"\n\nloaderVersion=\"[2,)\"\n\nlicense=\"MIT License\"\n\n[[mods]] #mandatory\n\nmodId=\"fastsuite\"\n\nversion=\"6.0.7\"\n\ndisplayName=\"Fast Suite\"\n\nauthors=\"Shadows_of_Fire\"\n\ndescription='''Introduces multithreading to the json recipe system.'''\n\n[[mixins]]\nconfig=\"fastsuite.mixins.json\"\n\n[[dependencies.fastsuite]]\n    modId=\"minecraft\"\n    type=\"required\"\n    versionRange=\"[1.21.1,)\"\n    ordering=\"NONE\"\n    side=\"BOTH\"\n\n[[dependencies.fastsuite]]\n    modId=\"neoforge\"\n    type=\"required\"\n    versionRange=\"[21.1.187,)\"\n    ordering=\"NONE\"\n    side=\"BOTH\"\n\n[[dependencies.fastsuite]]\n    modId=\"placebo\"\n    type=\"required\"\n    versionRange=\"[9.9.0,)\"\n    ordering=\"AFTER\"\n    side=\"BOTH\"\n",
-          "path": "META-INF/neoforge.mods.toml",
-          "sha256": "b189fc7beb07e4f2ee708293f95d1b671da07a7c2e73c6b340a54e958a1f874a"
-        }
-      ],
-      "filename": "FastSuite-1.21.1-6.0.7.jar",
-      "key": "curseforge:475117",
-      "kind": "mod",
-      "modules": [
-        {
-          "dependencies": [
-            {
-              "id": "minecraft",
-              "kind": "required",
-              "ordering": "none",
-              "range": "[1.21.1,)",
-              "side": "both"
-            },
-            {
-              "id": "neoforge",
-              "kind": "required",
-              "ordering": "none",
-              "range": "[21.1.187,)",
-              "side": "both"
-            },
-            {
-              "id": "placebo",
-              "kind": "required",
-              "ordering": "after",
-              "range": "[9.9.0,)",
-              "side": "both"
-            }
-          ],
-          "description": "Introduces multithreading to the json recipe system.",
-          "descriptor": "META-INF/neoforge.mods.toml",
-          "embedded": false,
-          "homepage": "",
-          "id": "fastsuite",
-          "issues": "",
-          "name": "Fast Suite",
-          "version": "6.0.7"
-        }
-      ],
-      "name": "FastSuite",
-      "optional": {},
-      "page": "https://www.curseforge.com/projects/475117",
-      "path": "mods/fastsuite.pw.toml",
-      "pinned": false,
-      "provider_version": "7527945",
-      "release": "https://www.curseforge.com/projects/475117/files/7527945",
-      "sha256": "3e274cd01bdc27dff8e2514213f1c45306c86fe38e4271a4209bc1471de6c70d",
-      "side": "both"
-    },
-    {
-      "download": {
         "hash": "7343b63ded70c0546811c768118d16d3a86418ee",
         "hash-format": "sha1",
         "mode": "metadata:curseforge"
@@ -11887,65 +11821,6 @@
     },
     {
       "download": {
-        "hash": "7e6693dae264f9185b8b12cf99e8407e7e532041",
-        "hash-format": "sha1",
-        "mode": "metadata:curseforge"
-      },
-      "evidence": [
-        {
-          "body": "Manifest-Version: 1.0\r\nSpecification-Title: Immersive Optimization\r\nSpecification-Vendor: Luke100000\r\nSpecification-Version: 0.2.0\r\nImplementation-Title: neoforge\r\nImplementation-Version: 0.2.0\r\nImplementation-Vendor: Luke100000\r\nBuilt-On-Minecraft: 1.21.1\r\n\r\n",
-          "path": "META-INF/MANIFEST.MF",
-          "sha256": "904c8391ad3bf0225c513940e130d480ce2e26d60919de17be1d5ef5fce39d1e"
-        },
-        {
-          "body": "modLoader = \"javafml\" #mandatory\nloaderVersion = \"[4,)\" #mandatory This is typically bumped every Minecraft version by Forge. See https://files.minecraftforge.net/ for a list of versions.\nlicense = \"GPL-3.0\" # Review your options at https://choosealicense.com/.\nissueTrackerURL=\"https://github.com/Luke100000/ImmersiveOptimization/issues\"\n\n[[mixins]]\nconfig = \"immersive_optimization.mixins.json\"\n\n[[mods]] #mandatory\nmodId = \"immersive_optimization\" #mandatory\nversion = \"0.2.0\" #mandatory\ndisplayName = \"Immersive Optimization\" #mandatory\ndisplayURL=\"https://conczin.net/\" #optional (displayed in the mod UI)\nlogoFile = \"icon.png\" #optional (needs to be in the root of your mod jar (root of your 'resources' folder))\ncredits = \"\" #optional\nauthors = \"Luke100000\" #optional\ndescription = '''A lightweight entity-tick-scheduler for doubling your TPS.''' #mandatory (Supports multiline text)\ndisplayTest=\"IGNORE_SERVER_VERSION\"\n\n[[dependencies.immersive_optimization]] #optional\nmodId = \"neoforge\" #mandatory\nmandatory = true #mandatory\nversionRange = \"[21.1.219,)\" #mandatory\nordering = \"NONE\" # The order that this dependency should load in relation to your mod, required to be either 'BEFORE' or 'AFTER' if the dependency is not mandatory\nside = \"BOTH\" # Side this dependency is applied on - 'BOTH', 'CLIENT' or 'SERVER'\n\n[[dependencies.immersive_optimization]]\nmodId = \"minecraft\"\nmandatory = true\nversionRange = \"[1.21.1, 1.22)\"\nordering = \"NONE\"\nside = \"BOTH\"\n",
-          "path": "META-INF/neoforge.mods.toml",
-          "sha256": "1e8226c7bb005ffc4551f500f2ac202a92f49a105834ed34bf4d447792edd797"
-        }
-      ],
-      "filename": "immersive_optimization-neoforge-1.21.1-0.2.0.jar",
-      "key": "curseforge:1163206",
-      "kind": "mod",
-      "modules": [
-        {
-          "dependencies": [
-            {
-              "id": "neoforge",
-              "kind": "required",
-              "ordering": "none",
-              "range": "[21.1.219,)",
-              "side": "both"
-            },
-            {
-              "id": "minecraft",
-              "kind": "required",
-              "ordering": "none",
-              "range": "[1.21.1, 1.22)",
-              "side": "both"
-            }
-          ],
-          "description": "A lightweight entity-tick-scheduler for doubling your TPS.",
-          "descriptor": "META-INF/neoforge.mods.toml",
-          "embedded": false,
-          "homepage": "https://conczin.net/",
-          "id": "immersive_optimization",
-          "issues": "https://github.com/Luke100000/ImmersiveOptimization/issues",
-          "name": "Immersive Optimization",
-          "version": "0.2.0"
-        }
-      ],
-      "name": "Immersive Optimization",
-      "optional": {},
-      "page": "https://www.curseforge.com/projects/1163206",
-      "path": "mods/immersive-optimization.pw.toml",
-      "pinned": false,
-      "provider_version": "8429464",
-      "release": "https://www.curseforge.com/projects/1163206/files/8429464",
-      "sha256": "c30f5f599558f9776fac7f033b1e9774e5d2f9bba3c00e34d2f8b25022344de7",
-      "side": "both"
-    },
-    {
-      "download": {
         "hash": "0386ff2db20edfcafc890760adb96073cd38c1a2",
         "hash-format": "sha1",
         "mode": "metadata:curseforge"
@@ -13415,7 +13290,7 @@
       "provider_version": "9036008",
       "release": "https://www.curseforge.com/projects/1595495/files/9036008",
       "sha256": "ba57efbc8890845303421d72d96a1b88e5a8e00662d420376c9df485fb34917f",
-      "side": "both"
+      "side": "client"
     },
     {
       "download": {
@@ -14044,65 +13919,6 @@
       "provider_version": "8335665",
       "release": "https://www.curseforge.com/projects/351264/files/8335665",
       "sha256": "095aed94f21b4e55895b21ea957750ae3ab829fbcfc6d3c66a3489f5f1128d46",
-      "side": "both"
-    },
-    {
-      "download": {
-        "hash": "4b3bcc7989251d56b9d855068f3a46ff8b172dde",
-        "hash-format": "sha1",
-        "mode": "metadata:curseforge"
-      },
-      "evidence": [
-        {
-          "body": "Manifest-Version: 1.0\r\nSpecification-Title: kubejs_mekanism\r\nSpecification-Vendor: latvian.dev\r\nSpecification-Version: 1\r\nImplementation-Title: KubeJS-Mekanism-1.21.1\r\nImplementation-Version: 2101.1.7-build.18\r\nImplementation-Vendor: latvian.dev\r\nImplementation-Timestamp: 2025-11-12T09:21:50+0000\r\n\r\n",
-          "path": "META-INF/MANIFEST.MF",
-          "sha256": "6d6f4b1f74a45125ab431e3b31e9a710bea47a048ce7f02fa13bbfdcb8fabb20"
-        },
-        {
-          "body": "modLoader = \"javafml\"\nloaderVersion = \"[2,)\"\nissueTrackerURL = \"https://kubejs.com/support?source=kubejs_mekanism&mc=2101&loader=neoforge\"\nlicense = \"MIT\"\n\n[[mods]]\nmodId = \"kubejs_mekanism\"\nversion = \"2101.1.7-build.18\"\ndisplayName = \"KubeJS Mekanism\"\nauthors = \"latvian.dev\"\ndescription = '''\nKubeJS Mekanism integration\n'''\nlogoFile = \"kubejs_mekanism_logo.png\"\nmodUrl = \"https://kubejs.com\"\ndisplayURL = \"https://kubejs.com\"\n\n[[dependencies.kubejs_mekanism]]\nmodId = \"kubejs\"\nmandatory = true\nversionRange = \"[2101.7.2-build.303,)\"\nordering = \"AFTER\"\nside = \"BOTH\"\n\n[[dependencies.kubejs_mekanism]]\nmodId = \"mekanism\"\nmandatory = true\nversionRange = \"[1.21.1-10.7.14.79,)\"\nordering = \"AFTER\"\nside = \"BOTH\"",
-          "path": "META-INF/neoforge.mods.toml",
-          "sha256": "528990b69f75321e50f5f34b3941c05fc3b42146df6df545d75d730ca1c38b7d"
-        }
-      ],
-      "filename": "kubejs-mekanism-neoforge-2101.1.7-build.18.jar",
-      "key": "curseforge:418651",
-      "kind": "mod",
-      "modules": [
-        {
-          "dependencies": [
-            {
-              "id": "kubejs",
-              "kind": "required",
-              "ordering": "after",
-              "range": "[2101.7.2-build.303,)",
-              "side": "both"
-            },
-            {
-              "id": "mekanism",
-              "kind": "required",
-              "ordering": "after",
-              "range": "[1.21.1-10.7.14.79,)",
-              "side": "both"
-            }
-          ],
-          "description": "KubeJS Mekanism integration\n",
-          "descriptor": "META-INF/neoforge.mods.toml",
-          "embedded": false,
-          "homepage": "https://kubejs.com",
-          "id": "kubejs_mekanism",
-          "issues": "https://kubejs.com/support?source=kubejs_mekanism&mc=2101&loader=neoforge",
-          "name": "KubeJS Mekanism",
-          "version": "2101.1.7-build.18"
-        }
-      ],
-      "name": "KubeJS Mekanism",
-      "optional": {},
-      "page": "https://www.curseforge.com/projects/418651",
-      "path": "mods/kubejs-mekanism.pw.toml",
-      "pinned": false,
-      "provider_version": "7213666",
-      "release": "https://www.curseforge.com/projects/418651/files/7213666",
-      "sha256": "dacb4a139b071b9958b0fc8fe8ba74585703886af0970d821bc49247ecbf89ae",
       "side": "both"
     },
     {
@@ -15002,72 +14818,6 @@
       "provider_version": "6640970",
       "release": "https://www.curseforge.com/projects/580689/files/6640970",
       "sha256": "1de9e6352f643f2850dce3e6b7aa8274902798a2243ea9e494fe13aabaa90d2c",
-      "side": "both"
-    },
-    {
-      "download": {
-        "hash": "0351815e16abb96d0fe0a19eb44f92e2fdef32ea",
-        "hash-format": "sha1",
-        "mode": "metadata:curseforge"
-      },
-      "evidence": [
-        {
-          "body": "Manifest-Version: 1.0\r\n\r\n",
-          "path": "META-INF/MANIFEST.MF",
-          "sha256": "566ad1a80220026d05099562645ce968ff0e7c36cde22634332605bb34cc3eff"
-        },
-        {
-          "body": "modLoader = \"javafml\"\nloaderVersion = \"[2,)\"\nissueTrackerURL = \"https://github.com/AlmostReliable/lootjs/issues\"\nlicense = \"GNU Lesser General Public License v3.0\"\n\n[[mods]]\nmodId = \"lootjs\"\nversion = \"1.21.1-3.4.3\"\ndisplayName = \"LootJS\"\nauthors = \"AlmostReliable\"\ndescription = '''Modify loot through KubeJS.'''\n\n[[dependencies.lootjs]]\nmodId = \"neoforge\"\ntype = \"required\"\nversionRange = \"[21.1.93,)\"\nordering = \"NONE\"\nside = \"BOTH\"\n\n[[dependencies.lootjs]]\nmodId = \"minecraft\"\ntype = \"required\"\nversionRange = \"[1.21.1,)\"\nordering = \"NONE\"\nside = \"BOTH\"\n\n[[dependencies.lootjs]]\nmodId = \"kubejs\"\ntype = \"optional\"\nversionRange = \"[2101.7.0-build.131,)\"\nordering = \"NONE\"\nside = \"BOTH\"\n\n[[mixins]]\nconfig = \"lootjs.mixins.json\"\n",
-          "path": "META-INF/neoforge.mods.toml",
-          "sha256": "b67e3817d315e2922e648f55fe6fa486615ad9a39574c4453e80edac5a1c3a00"
-        }
-      ],
-      "filename": "lootjs-neoforge-1.21.1-3.4.3.jar",
-      "key": "curseforge:570630",
-      "kind": "mod",
-      "modules": [
-        {
-          "dependencies": [
-            {
-              "id": "neoforge",
-              "kind": "required",
-              "ordering": "none",
-              "range": "[21.1.93,)",
-              "side": "both"
-            },
-            {
-              "id": "minecraft",
-              "kind": "required",
-              "ordering": "none",
-              "range": "[1.21.1,)",
-              "side": "both"
-            },
-            {
-              "id": "kubejs",
-              "kind": "optional",
-              "ordering": "none",
-              "range": "[2101.7.0-build.131,)",
-              "side": "both"
-            }
-          ],
-          "description": "Modify loot through KubeJS.",
-          "descriptor": "META-INF/neoforge.mods.toml",
-          "embedded": false,
-          "homepage": "",
-          "id": "lootjs",
-          "issues": "https://github.com/AlmostReliable/lootjs/issues",
-          "name": "LootJS",
-          "version": "1.21.1-3.4.3"
-        }
-      ],
-      "name": "LootJS: KubeJS Addon",
-      "optional": {},
-      "page": "https://www.curseforge.com/projects/570630",
-      "path": "mods/lootjs.pw.toml",
-      "pinned": true,
-      "provider_version": "6867813",
-      "release": "https://www.curseforge.com/projects/570630/files/6867813",
-      "sha256": "86b7de5067b29a3a61e9c4f6f4f5f3b101c02c75040042af9c4168a9ea5261b4",
       "side": "both"
     },
     {
@@ -20809,50 +20559,6 @@
     },
     {
       "download": {
-        "hash": "b6c0da613301b9bfa4487bac9743f66c5a9e2711",
-        "hash-format": "sha1",
-        "mode": "metadata:curseforge"
-      },
-      "evidence": [
-        {
-          "body": "Manifest-Version: 1.0\r\n\r\n",
-          "path": "META-INF/MANIFEST.MF",
-          "sha256": "566ad1a80220026d05099562645ce968ff0e7c36cde22634332605bb34cc3eff"
-        },
-        {
-          "body": "# This is an example mods.toml file. It contains the data relating to the loading mods.\n# There are several mandatory fields (#mandatory), and many more that are optional (#optional).\n# The overall format is standard TOML format, v0.5.0.\n# Note that there are a couple of TOML lists in this file.\n# Find more information on toml format here:  https://github.com/toml-lang/toml\n# The name of the mod loader type to load - for regular FML @Mod mods it should be javafml\nmodLoader=\"javafml\" #mandatory\n# A version range to match for said mod loader - for regular FML @Mod it will be the forge version\nloaderVersion = \"[4,500)\" #mandatory\n# The license for you mod. This is mandatory metadata and allows for easier comprehension of your redistributive properties.\n# Review your options at https://choosealicense.com/. All rights reserved is the default copyright stance, and is thus the default here.\nlicense=\"ARR\"\n# A URL to refer people to when problems occur with this mod\n#issueTrackerURL=\"https://change.me.to.your.issue.tracker.example.invalid/\" #optional\n# A list of mods - how many allowed here is determined by the individual mod loader\n[[mods]] #mandatory\n# The modid of the mod\nmodId=\"smoothchunk\" #mandatory\nversion = \"4.4\" #mandatory\n # A display name for the mod\ndisplayName=\"Smoothchunk mod\" #mandatory\n# A URL to query for updates for this mod. See the JSON update specification https://mcforge.readthedocs.io/en/latest/gettingstarted/autoupdate/\n#updateJSONURL=\"https://change.me.example.invalid/updates.json\" #optional\n# A URL for the \"homepage\" for this mod, displayed in the mod UI\n#displayURL=\"https://change.me.to.your.mods.homepage.example.invalid/\" #optional\n# A file name (in the root of the mod JAR) containing a logo for display\n#logoFile=\"examplemod.png\" #optional\n# A text field displayed in the mod UI\n#credits=\"Thanks for this example mod goes to Java\" #optional\n# A text field displayed in the mod UI\nauthors = \"Someaddon\" #optional\n# The description text for the mod (multi line!) (#mandatory)\ndescription='''\nSpreads chunk saves over time smoothly\n'''\n[[dependencies.template]]\n    modId=\"minecraft\"\n    mandatory=true\n# This version range declares a minimum of the current minecraft version up to but not including the next major version\nversionRange = \"[1.21,1.30)\"\n    ordering=\"NONE\"\n    side=\"BOTH\"\n[[dependencies.template]]\n    modId=\"cupboard\"\n    mandatory=true\n# This version range declares a minimum of the current minecraft version up to but not including the next major version\nversionRange = \"[1.21-1.4,)\"\n    ordering=\"NONE\"\n    side=\"BOTH\"\n[[mixins]]\nconfig = \"smoothchunk.mixins.json\"",
-          "path": "META-INF/neoforge.mods.toml",
-          "sha256": "205f8d6d8c16d4073eea51b6116a2f9db4316bec5212947a4133bdec2bac00ae"
-        }
-      ],
-      "filename": "smoothchunk-1.21-4.4.jar",
-      "key": "curseforge:582327",
-      "kind": "mod",
-      "modules": [
-        {
-          "dependencies": [],
-          "description": "Spreads chunk saves over time smoothly\n",
-          "descriptor": "META-INF/neoforge.mods.toml",
-          "embedded": false,
-          "homepage": "",
-          "id": "smoothchunk",
-          "issues": "",
-          "name": "Smoothchunk mod",
-          "version": "4.4"
-        }
-      ],
-      "name": "Server Performance - Smooth Chunk Save",
-      "optional": {},
-      "page": "https://www.curseforge.com/projects/582327",
-      "path": "mods/smooth-chunk-save.pw.toml",
-      "pinned": false,
-      "provider_version": "9255092",
-      "release": "https://www.curseforge.com/projects/582327/files/9255092",
-      "sha256": "b12cb6c8de15e65f749ec6421786fe62e2125b9b55b3c1f707d0400493c0fbad",
-      "side": "both"
-    },
-    {
-      "download": {
         "hash": "5b6a85a2a833c6c6a5337e3fb720dba1a4d073aa",
         "hash-format": "sha1",
         "mode": "metadata:curseforge"
@@ -21981,9 +21687,9 @@
     },
     {
       "download": {
-        "hash": "bfd8264c5ec6ce4ffe5d372a83a61cfcee8470b4621bec54582049ebcaaca2ede79c9ce2dceb2f1f3392e7a58c68386e0ad97f724ca5546cd9fa0de8125d2009",
+        "hash": "9a904cd5465ae3d58cd22088cd94154bfb817da006cd5b2fc5456afbef1d86a56fe8e81f0eafa7ac2f5fe75baf10824e3adfddcdc2e2130337cca3bcf63ea8b7",
         "hash-format": "sha512",
-        "url": "https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.11/system_milady-neoforge-1.21.1-0.1.0-alpha.11.jar"
+        "url": "https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.13/system_milady-neoforge-1.21.1-0.1.0-alpha.13.jar"
       },
       "evidence": [
         {
@@ -21992,22 +21698,22 @@
           "sha256": "566ad1a80220026d05099562645ce968ff0e7c36cde22634332605bb34cc3eff"
         },
         {
-          "body": "modLoader = \"javafml\"\nloaderVersion = \"[4,)\"\nlicense = \"LGPL-3.0-or-later\"\n\n[[mods]]\nmodId = \"system_milady\"\nversion = \"0.1.0-alpha.11\"\ndisplayName = \"System Milady\"\nauthors = \"virtualonno\"\ndescription = '''Scaling runtime for heavily modded NeoForge servers.'''\n# Server-side only: clients connect without it.\ndisplayTest = \"IGNORE_SERVER_VERSION\"\n\n[[dependencies.system_milady]]\nmodId = \"neoforge\"\ntype = \"required\"\nversionRange = \"[21.1.264,21.2)\"\nordering = \"NONE\"\nside = \"SERVER\"\n\n[[dependencies.system_milady]]\nmodId = \"minecraft\"\ntype = \"required\"\nversionRange = \"[1.21.1,1.21.2)\"\nordering = \"NONE\"\nside = \"SERVER\"\n\n[[mixins]]\nconfig = \"system_milady.mixins.json\"\n",
+          "body": "modLoader = \"javafml\"\nloaderVersion = \"[4,)\"\nlicense = \"LGPL-3.0-or-later\"\n\n[[mods]]\nmodId = \"system_milady\"\nversion = \"0.1.0-alpha.13\"\ndisplayName = \"System Milady\"\nauthors = \"virtualonno\"\ndescription = '''Scaling runtime for heavily modded NeoForge servers.'''\n# Server-side only: clients connect without it.\ndisplayTest = \"IGNORE_SERVER_VERSION\"\n\n[[dependencies.system_milady]]\nmodId = \"neoforge\"\ntype = \"required\"\nversionRange = \"[21.1.264,21.2)\"\nordering = \"NONE\"\nside = \"SERVER\"\n\n[[dependencies.system_milady]]\nmodId = \"minecraft\"\ntype = \"required\"\nversionRange = \"[1.21.1,1.21.2)\"\nordering = \"NONE\"\nside = \"SERVER\"\n\n[[mixins]]\nconfig = \"system_milady.mixins.json\"\n",
           "path": "META-INF/neoforge.mods.toml",
-          "sha256": "85e8536b904fe057ef7df84e52e218bc9fbecbba31873da9b19e1006013b7576"
+          "sha256": "c28a0a58dd9e270b5c2cb076d01034a974d4ddabaf23e564e0af819f8ee31aac"
         },
         {
-          "body": "{\"jars\":[{\"identifier\":{\"group\":\"dev.virtualonno.systemmilady\",\"artifact\":\"system-milady-weave\"},\"version\":{\"range\":\"[0.1.0-alpha.11,)\",\"artifactVersion\":\"0.1.0-alpha.11\"},\"path\":\"META-INF/jarjar/system_milady_weave-neoforge-1.21.1-0.1.0-alpha.11.jar\",\"isObfuscated\":false}]}\n",
+          "body": "{\"jars\":[{\"identifier\":{\"group\":\"dev.virtualonno.systemmilady\",\"artifact\":\"system-milady-weave\"},\"version\":{\"range\":\"[0.1.0-alpha.13,)\",\"artifactVersion\":\"0.1.0-alpha.13\"},\"path\":\"META-INF/jarjar/system_milady_weave-neoforge-1.21.1-0.1.0-alpha.13.jar\",\"isObfuscated\":false}]}\n",
           "path": "META-INF/jarjar/metadata.json",
-          "sha256": "f9d65169a3d0fe7b61b6f4619dc4d2baff90760501087341c0f26d0954c603d3"
+          "sha256": "351708e552680cb88f76e4efa5464fc4a920c51b76b591da0b1c0e2c090028b5"
         },
         {
-          "body": "Manifest-Version: 1.0\r\nAutomatic-Module-Name: dev.virtualonno.systemmilady.weave\r\nFMLModType: LIBRARY\r\nImplementation-Version: 0.1.0-alpha.11\r\n\r\n",
-          "path": "META-INF/jarjar/system_milady_weave-neoforge-1.21.1-0.1.0-alpha.11.jar!/META-INF/MANIFEST.MF",
-          "sha256": "8a71daa22681686c4db316743263bd33e1ed9f363aad7c3dce0b330c8b616c5d"
+          "body": "Manifest-Version: 1.0\r\nAutomatic-Module-Name: dev.virtualonno.systemmilady.weave\r\nFMLModType: LIBRARY\r\nImplementation-Version: 0.1.0-alpha.13\r\n\r\n",
+          "path": "META-INF/jarjar/system_milady_weave-neoforge-1.21.1-0.1.0-alpha.13.jar!/META-INF/MANIFEST.MF",
+          "sha256": "ffbc79e494c54adeab0daf04381a382c499de5fdc6717ac17029d6264bdd5aa9"
         }
       ],
-      "filename": "system_milady-neoforge-1.21.1-0.1.0-alpha.11.jar",
+      "filename": "system_milady-neoforge-1.21.1-0.1.0-alpha.13.jar",
       "key": "local-mod:system_milady",
       "kind": "mod",
       "modules": [
@@ -22035,17 +21741,17 @@
           "id": "system_milady",
           "issues": "",
           "name": "System Milady",
-          "version": "0.1.0-alpha.11"
+          "version": "0.1.0-alpha.13"
         }
       ],
       "name": "System Milady",
       "optional": {},
-      "page": "https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.11/system_milady-neoforge-1.21.1-0.1.0-alpha.11.jar",
+      "page": "https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.13/system_milady-neoforge-1.21.1-0.1.0-alpha.13.jar",
       "path": "mods/system-milady.pw.toml",
       "pinned": false,
       "provider_version": "",
-      "release": "https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.11/system_milady-neoforge-1.21.1-0.1.0-alpha.11.jar",
-      "sha256": "a53b9f4f39714c9f63e8f97ccfd00a0721bb440bc72b987880522a045c25c274",
+      "release": "https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.13/system_milady-neoforge-1.21.1-0.1.0-alpha.13.jar",
+      "sha256": "ab9c65e5fd4e8c615c9e3d8597e0085851360bed8c7c13d2dcd5221557815ead",
       "side": "both"
     },
     {
@@ -24853,9 +24559,8 @@
       "config/simple-rpc/server-entries.toml": "c0f805a22438339d68aacf46339f6f9d47cd9737ab0a6e4c8af3b772f7028849",
       "config/simple-rpc/simple-rpc.toml": "94c78ed9d21698d153a64fcd004e9b082c3564158b5e884461e13535fff3b5b4",
       "config/simplebackups-common.toml": "b6af8c0adf33584f0e19ec926178ee5d51053ae2014f715716baf9194f6b5bb6",
-      "config/smoothchunk.json": "9d3d19abc7ca774f4e85c769be37b65481f43c8e1aaff51c5c0306af9952add7",
       "config/structureessentials.json": "11866e37fdcd966127a9e6b8f4759d7a0be7cbb49e67cc9e581ca9c7c8f32880",
-      "config/system_milady-startup.toml": "b4b76efc7ab6b7876d3d9b5cc212d9f78b47c07cf30a91b576b2a149633ca24e",
+      "config/system_milady-startup.toml": "6ddea29dd6de184de037840c76f3751019e50c1afb6b8919c38fe4c74d59f607",
       "config/system_milady/bindings/transporter-route-probes.bindings": "48986e4856ad2115f1bb1231e705a739d7b8028b709bb3890f7667548cc5c886",
       "config/system_milady/launch.properties": "993c1e7888c4a543cce4843a9b76006eadd7c5fb66bab165e5387ae977d38b15",
       "config/touhou_little_maid-common.toml": "66784542373a749b4207078906208d3887b59f4dcfac0342757ca72889a5d6db",
@@ -24920,7 +24625,7 @@
       "kubejs/server_scripts/missing-tag-references.js": "f75807cf3fb5761e570c84903d89d53c0792d92c72314f4f4000bafa01ad8f3f",
       "kubejs/server_scripts/protected-event-zones.js": "8b01f94310ea13991bd6b8885307bafd68fe3967aadd4a9c88e03cbc34d21b0b",
       "kubejs/server_scripts/removedRecipes.js": "09b5612cd54083339edfb59d24a89f0bf4e98f1f99c781ab768cedbfd970f580",
-      "kubejs/server_scripts/serverStartup.js": "762d45bdbcd6154a65a1db5d054646ffa907a371840a40b137dcb093ab169bf3",
+      "kubejs/server_scripts/serverStartup.js": "05663b030253a7c5ed427934a544517edf5ef46bcb5a204648fc71064178233d",
       "kubejs/unused/server_scripts/clearExplosionBlockDamage.js": "cf5da725dc82a9aceedb76016ecf68c0f807468e7ec5fc9795016d887bea8dee",
       "kubejs/unused/server_scripts/invisTrail.js": "cda16c4f612284753e2ba77f80e44bfd480198154e25bd1a60ed47bb217c1cba",
       "kubejs/unused/server_scripts/stripInvisInWater.js": "ce8c1a10301f6649a97795ca16f7e9ecd8db2257db930d1c7104e655e4cf3ddb",
@@ -25054,7 +24759,6 @@
       "mods/farsight.pw.toml": "ae75d10c50a6aa2742411dd202d07b1bfc8a70081c156336f7f1ad536252214c",
       "mods/fast-ip-ping.pw.toml": "68ea2f7e54a79433290386f97b9eb9bcda4cb0f2e36bc07a3b2ed8342cce65b2",
       "mods/fast-paintings.pw.toml": "fd62d3616c3e5b0bc4d4c4ec890258bda511f5da662064794d92f0e94f6aaa7f",
-      "mods/fastsuite.pw.toml": "83e60a73e109258def123fbcab5cf606857f36feca621a4c40c9d7c10b285bca",
       "mods/fastworkbench.pw.toml": "0d13e70b59a7f4623237f6b03e22368235d123030f36f18312fd20a8f7d2e459",
       "mods/ferritecore.pw.toml": "dff824171060c79b327a4880c2f0546c727a041a489ef3af643ec2dcd9cd0c48",
       "mods/fix-gpu-memory-leak.pw.toml": "69ccc78abd447582c726f2dca72294a59af0c13c8e1ec3ae32b3bacd6469206e",
@@ -25094,7 +24798,6 @@
       "mods/immediatelyfast.pw.toml": "87d5822fd5757378e66eb480206d9a5b20d6b26be6700afa8c2b08c5898ab80b",
       "mods/immersive-aircraft.pw.toml": "dbdd8400fee8583932579ff02990442a58a369ac1f0557e3c10262f6552b61be",
       "mods/immersive-machinery.pw.toml": "70379fb7f2c5b3718d45abc9cfc9b1eb297a9ba25d0316559b8f1141fcac1d9c",
-      "mods/immersive-optimization.pw.toml": "60b1e6f49b75808de1b06f685dd1402356a86ed6290af2bf387659b6b5c8556c",
       "mods/immersive-paintings.pw.toml": "33628426bbfebfa8b0d5abf0ccdec9632c877650b9c1be048277c6a59ea3b311",
       "mods/incendium.pw.toml": "5a1604eb3c113c5a540de4768de72660ea652b41730ea318798a24b9f60d88b7",
       "mods/industrial-foregoing-souls.pw.toml": "a997c2462d8501aca9e25e7659cfcafd0736f6ff16bdfc46f0a4020500299328",
@@ -25113,7 +24816,7 @@
       "mods/ixeris.pw.toml": "e8454403dc0195c16a5758f2a65ce2529c87c33fd9ba0e696c0cf037ff87ef8c",
       "mods/jade-addons.pw.toml": "6fb17e32ab3d80cac0fce250a55c6b5314c1330c1689b22f2ed3a84e5263220c",
       "mods/jade.pw.toml": "4b0a995f7cfa19951ba585aa320a1f4ef1a755a38b608adcff2f9ddd156b195b",
-      "mods/jasione.pw.toml": "821a552c635f4251aaafdff5549b7d35351921ae7803566bdb9ff536d82f9f67",
+      "mods/jasione.pw.toml": "3e47b5456de9dd806bb458b02e3f7700c1e49c0af5f04d0ab11f1004c784ebc3",
       "mods/jei.pw.toml": "d0c9e7ecd566284a16fee2f9cfc44bc5b986b0f4d4a2dc38679d8d95f0a63710",
       "mods/jepp.pw.toml": "67525a62684355cafa36d863e289d03a200f59f03f63f61fd18bfcce553419a4",
       "mods/jumpy-boats.pw.toml": "cfbd559d71ee11e13fc927fe82c75c37e2c198b29fb03825fec737882dead9a2",
@@ -25123,7 +24826,6 @@
       "mods/kiwi.pw.toml": "083c9d609335090c7fd62c13c146c0739306f597096e257fbdae6cdbb1917019",
       "mods/kleeslabs.pw.toml": "ae8c2feb4f1731d7ddfcd0be96b5d6483a6cdc6f8afac9a810494fe167f884af",
       "mods/kotlin-for-forge.pw.toml": "1506a3d749a45bc760b3ad57ef1fbb959f0c166b6d1d4955114fd66db7a4855d",
-      "mods/kubejs-mekanism.pw.toml": "d8e177615c38e56e8f712f9144c0f9f50e74adf5fe88c7fb0aa88e33cb1dbcdc",
       "mods/kubejs-tweaks.pw.toml": "f8207cca95fb83e76e544bbfe2af4ed6e00bf30a827022c5c2c9767434d0822a",
       "mods/kubejs.pw.toml": "7ca9c95121266885166af805b30fff18adabdda631f9987bb983e8548e7e638b",
       "mods/labels.pw.toml": "a062ae32ce689240dd304e4e0427145b281d6221e5464282ca629cf5f064746f",
@@ -25136,7 +24838,6 @@
       "mods/lmft.pw.toml": "1b78273918bdbfe66d38f35b6ec2fbaa7e862fb9dca67cc99a725df768365e96",
       "mods/login-protection.pw.toml": "20658323180e3c5a731eb810f2694d53803205dd8f90c162e4c980e7e3b630af",
       "mods/loot-integrations.pw.toml": "543b8a8ff5796648146f3102dea686e806f793052d329d0fa3efee8194d4df52",
-      "mods/lootjs.pw.toml": "f1cc10cbb888e18768183c535a8bef1acd3fbebf42e9bc1529857f7889328b56",
       "mods/lootr.pw.toml": "ff152357ebb175e8e8c58ecda4f9814d398c5668f3311b0ad6a4afcb1dc26d13",
       "mods/max-health-fix.pw.toml": "70db2eec093dadc990fe5862f9c3fe59a0d0de53542872eaccb5dc7f54be5fb1",
       "mods/mcjtylib.pw.toml": "b72d3f3171eb5b38308c3960dfca5716c708f29b0ea8055a589f32528bed6db4",
@@ -25224,7 +24925,6 @@
       "mods/simple-voice-chat.pw.toml": "9e324cddedb5c8a25b577a4fcf23cb27e96ae4cb638b57854fac68dda294c20f",
       "mods/smart-completion.pw.toml": "b8682cb2d147e4bce290259c4a8a0ae992e4d1f4fb92abd83edef46b254a71d2",
       "mods/smarter-farmers-farmers-replant.pw.toml": "36b8d98dbb476927786adb571d8d9df830d16a624be85e8c7f82eafd16e43ede",
-      "mods/smooth-chunk-save.pw.toml": "234a971a73102ad879aae250250ec29a2562b879134380427e9626ae895949b4",
       "mods/snow-under-trees.pw.toml": "47c46327364e22244eddf4e3ce8d0bd88ebf8f561d8511e76b0f0e5aeb8419a4",
       "mods/some-assembly-required.pw.toml": "3ee552df830edc21983af39740f267599437cd98a4e37b071413a598716861a8",
       "mods/sooty-chimneys.pw.toml": "5819325007d6c588d5c62e39dbf71e446abc758ecac276839c8f109f091642a7",
@@ -25241,7 +24941,7 @@
       "mods/supermartijn642s-core-lib.pw.toml": "bb48f46b7273421f7b80fb7a1abe1e778b9329bbfb615dca0b9efb61a67297f6",
       "mods/supplementaries-squared.pw.toml": "ccb454443d90a9bbbd60cfb05cf5cc8bc7235b981c89e40dc7796a41277e56b1",
       "mods/supplementaries.pw.toml": "ac16a3b327930527b268695816a0be285bdb0a384480b231c6fd2ccbe87f401f",
-      "mods/system-milady.pw.toml": "b910f34f3428a81848f0d8472fa9280b545a7f9f7934a82f50df56a9a3280e94",
+      "mods/system-milady.pw.toml": "9279aeef2f78e337a42b85d73aac3302e5ee6ba1500fa09be4b8af09205770c1",
       "mods/tacz-1-21-1.pw.toml": "8c1a3b4ed3e14490c8c8e1cfe7f000d25727290cd1dd26ce41b029c396f4e885",
       "mods/tank-storage.pw.toml": "04bb52ee676beccd4ee7588d208d73013b9f91b455f151a7d82641b02958a413",
       "mods/terralith.pw.toml": "f083c3cdf6aadc3b033e20ba8ccc929d5e1b86a0be50b05dc638d7f76dab5024",
@@ -25292,7 +24992,7 @@
       "resourcepacks/when-dungeons-arise-loot-tweaks.pw.toml": "69224f25c19c3fce9c58323d98df97e7c12f47448ea35ff27bd802cd3cf7e249",
       "shaderpacks/complementary-reimagined.pw.toml": "fe2fb19ba4d0fec45626237b701d857ac3c7c961efd5b4b7ccfff6cd512872f8"
     },
-    "pack_sha256": "3e68962f964fbbcd201d7f88f1e81e745a8ff57e72ad5061c0f0c7f7ebfff285"
+    "pack_sha256": "2d28cb9ae018134728f7d2a3723fdeed7a7b233ad83299ed0a749f88c074cc0a"
   },
   "pack": {
     "name": "Miladycraft",

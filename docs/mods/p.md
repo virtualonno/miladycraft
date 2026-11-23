@@ -71,7 +71,7 @@ Source: PingHUD-4.0.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies 
 
 Mod IDs and versions: placebo 9.9.4.
 
-**Used by:** [Apotheosis](a.md#mod-32c2e801bf2c8675), [Apothic Attributes](a.md#mod-196407a3986b756a), [Apothic Enchanting](a.md#mod-4d17e2a27ed06e2b), [Apothic Spawners](a.md#mod-db3b96df47a8b537), [Click Machine](c.md#mod-d6a9b7934d289c57), [FastSuite](f.md#mod-c7b84304520375ec), [FastWorkbench](f.md#mod-52c41818c1052a83), [Gateways to Eternity](g.md#mod-7034ec20391bd279), [Hostile Neural Networks](h.md#mod-5efdf5722afa4742), [Toast Control](t.md#mod-74f00339ddb8e808).
+**Used by:** [Apotheosis](a.md#mod-32c2e801bf2c8675), [Apothic Attributes](a.md#mod-196407a3986b756a), [Apothic Enchanting](a.md#mod-4d17e2a27ed06e2b), [Apothic Spawners](a.md#mod-db3b96df47a8b537), [Click Machine](c.md#mod-d6a9b7934d289c57), [FastWorkbench](f.md#mod-52c41818c1052a83), [Gateways to Eternity](g.md#mod-7034ec20391bd279), [Hostile Neural Networks](h.md#mod-5efdf5722afa4742), [Toast Control](t.md#mod-74f00339ddb8e808).
 
 **Runtime constraints**
 

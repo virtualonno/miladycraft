@@ -155,9 +155,9 @@ Mod IDs and versions: kubejs 2101.7.2-build.368.
 
 **Optional integrations:** [Just Enough Items (JEI)](j.md#mod-1004006ccdc38261), roughlyenoughitems (not in this catalogue), emi (not in this catalogue), [KubeJS (bundled)](k.md#mod-05beac9d9a25c4dc).
 
-**Used by:** [KubeJS Mekanism](k.md#mod-8ce2eea4ebb51085), [KubeJS Tweaks](k.md#mod-f50841346992fc20).
+**Used by:** [KubeJS Tweaks](k.md#mod-f50841346992fc20).
 
-**Optional dependency of:** [FTB XMod Compat](f.md#mod-63a04740c701445e), [Kaleidoscope Cookery](k.md#mod-0a86acaf742357f1), [LootJS: KubeJS Addon](l.md#mod-fbfd074deb1e5d32), [Touhou Little Maid](t.md#mod-99321ad49da1b481).
+**Optional dependency of:** [FTB XMod Compat](f.md#mod-63a04740c701445e), [Kaleidoscope Cookery](k.md#mod-0a86acaf742357f1), [Touhou Little Maid](t.md#mod-99321ad49da1b481).
 
 **Dependencies and integrations**
 
@@ -179,28 +179,6 @@ Mod IDs and versions: kubejs 2101.7.2-build.368.
 **Bundled modules:** betteradvancedtooltips 2101.1.0-build.1.
 
 Source: kubejs-neoforge-2101.7.2-build.368.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
-
-<a id="mod-8ce2eea4ebb51085"></a>
-### KubeJS Mekanism
-
-**[2101.1.7-build.18](https://www.curseforge.com/projects/418651/files/7213666)** · client and server · [Source](https://www.curseforge.com/projects/418651) · [Pack entry](../../mods/kubejs-mekanism.pw.toml)
-
-KubeJS Mekanism integration
-
-Author links: [https://kubejs.com](https://kubejs.com)
-
-Mod IDs and versions: kubejs\_mekanism 2101.1.7-build.18.
-
-**Requires:** [KubeJS](k.md#mod-05beac9d9a25c4dc), [Mekanism](m.md#mod-204c84ffea8ce47f).
-
-**Dependencies and integrations**
-
-| From | Dependency | Kind | Version range | Side | Found in pack |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| kubejs\_mekanism | kubejs | required | \[2101.7.2-build.303,) | client and server | [KubeJS](k.md#mod-05beac9d9a25c4dc) |
-| kubejs\_mekanism | mekanism | required | \[1.21.1-10.7.14.79,) | client and server | [Mekanism](m.md#mod-204c84ffea8ce47f) |
-
-Source: kubejs-mekanism-neoforge-2101.1.7-build.18.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
 
 <a id="mod-f50841346992fc20"></a>
 ### KubeJS Tweaks
