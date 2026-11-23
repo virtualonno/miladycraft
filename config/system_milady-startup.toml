@@ -152,11 +152,15 @@
 	#Allowed Values: OFF, SHADOW, ON
 	trackingUnchangedSkip = "SHADOW"
 	#Allowed Values: OFF, SHADOW, ON
-	broadcastRecords = "OFF"
+	broadcastRecords = "ON"
 	#Allowed Values: OFF, SHADOW, ON
 	crowdFrame = "ON"
 	#Allowed Values: OFF, SHADOW, ON
-	sharedChunkPayloads = "SHADOW"
+	zeroCopyCompression = "ON"
+	#Allowed Values: OFF, SHADOW, ON
+	sharedChunkPayloads = "ON"
+	#Allowed Values: OFF, SHADOW, ON
+	sharedSyncPackets = "SHADOW"
 	#Allowed Values: OFF, SHADOW, ON
 	indexedRecipeLookup = "SHADOW"
 	#Allowed Values: OFF, SHADOW, ON
@@ -183,3 +187,7 @@
 	# Default: 15
 	# Range: 15 ~ 600
 	keepAliveTimeoutSeconds = 120
+	#Maximum positional entity/player/block broadcast sounds per dimension per tick (0 = vanilla unlimited).
+	# Default: 0
+	# Range: 0 ~ 10000
+	crowdSoundCap = 0
