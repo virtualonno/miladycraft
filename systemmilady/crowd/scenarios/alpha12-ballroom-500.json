@@ -1,0 +1,25 @@
+{
+  "description": "Miladycraft Ball 500-player proof on alpha.12 (300 then 500 converging in manor, general stack)",
+  "where": {"realm": "manor", "radius": 24},
+  "steps": [
+    {"players": 300, "joinsPerTick": 5, "settle": "25s", "hold": "45s"},
+    {"players": 500, "joinsPerTick": 5, "settle": "30s", "hold": "65s"}
+  ],
+  "behaviour": "converge",
+  "arms": [
+    {
+      "name": "alpha12-general",
+      "switches": {
+        "broadcastRecords": "on",
+        "sharedChunkPayloads": "on",
+        "indexedRecipeLookup": "on",
+        "pacedChunkSave": "on",
+        "pacedPlayerSave": "on",
+        "realmIsolation": "off"
+      }
+    }
+  ],
+  "stop": {"meanTickMs": 400, "window": "30s", "tickMs": 10000, "heapPercent": 90, "realPlayers": "stop"},
+  "maxDuration": "20m",
+  "seed": 1
+}
