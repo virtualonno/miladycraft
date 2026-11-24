@@ -805,11 +805,11 @@ Source: suppsquared-neoforge-1.21-1.2.18.jar · META-INF/neoforge.mods.toml. Exa
 <a id="mod-b31336618d3e276c"></a>
 ### System Milady
 
-**[0.1.0-alpha.13](https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.13/system_milady-neoforge-1.21.1-0.1.0-alpha.13.jar)** · client and server · [Source](https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.13/system_milady-neoforge-1.21.1-0.1.0-alpha.13.jar) · [Pack entry](../../mods/system-milady.pw.toml)
+**[0.1.0-alpha.15](https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.15/system_milady-neoforge-1.21.1-0.1.0-alpha.15.jar)** · client and server · [Source](https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.15/system_milady-neoforge-1.21.1-0.1.0-alpha.15.jar) · [Pack entry](../../mods/system-milady.pw.toml)
 
 Scaling runtime for heavily modded NeoForge servers.
 
-Mod IDs and versions: system\_milady 0.1.0-alpha.13.
+Mod IDs and versions: system\_milady 0.1.0-alpha.15.
 
 **Runtime constraints**
 
@@ -818,4 +818,4 @@ Mod IDs and versions: system\_milady 0.1.0-alpha.13.
 | system\_milady | neoforge | required | \[21.1.264,21.2) | server only | runtime |
 | system\_milady | minecraft | required | \[1.21.1,1.21.2) | server only | runtime |
 
-Source: system\_milady-neoforge-1.21.1-0.1.0-alpha.13.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.
+Source: system\_milady-neoforge-1.21.1-0.1.0-alpha.15.jar · META-INF/neoforge.mods.toml. Exact descriptor bodies and SHA-256 identities are retained in the structured snapshot.

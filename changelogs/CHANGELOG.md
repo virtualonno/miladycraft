@@ -4,6 +4,21 @@
 
 Release records preserve exact pack inputs. Recording a release does not assert that it has been deployed or published. Earlier unrecorded updates have not been reconstructed.
 
+## 1.6.0-alpha-2026-11-24-1 · 2026-11-24
+
+Pack 1.6.0-alpha · [Recorded mod catalogue](modlist/1.6.0-alpha-2026-11-24-1.md) · [Snapshot](../changelogs/snapshots/1.6.0-alpha-2026-11-24-1.json)
+
+﻿System Milady 0.1.0-alpha.15 hotfix and adaptive client crowd renderer.
+
+Fixes a re-entrant ConcurrentModificationException in System Milady's paced chunk saver (ChunkSaveQueue.drainTick and drainAll) triggered when saving a chunk caused modded block entities or ChunkDataEvent.Save listeners to mark chunks dirty, which crashed the SMP tick shortly after players joined.
+
+Also promotes System Milady's multi-tier adaptive client crowd renderer (default AUTO, vanilla-exact until dense crowds load nearby) and removes redundant scratch buffer allocation in SharedSyncPackets.
+
+### Updated
+
+- [System Milady](https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.15/system_milady-neoforge-1.21.1-0.1.0-alpha.15.jar): [0.1.0-alpha.13](https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.13/system_milady-neoforge-1.21.1-0.1.0-alpha.13.jar) → [0.1.0-alpha.15](https://github.com/virtualonno/miladycraft/releases/download/system-milady-0.1.0-alpha.15/system_milady-neoforge-1.21.1-0.1.0-alpha.15.jar); filename: system\_milady-neoforge-1.21.1-0.1.0-alpha.13.jar → system\_milady-neoforge-1.21.1-0.1.0-alpha.15.jar.
+
+
 ## 1.6.0-alpha-2026-11-23-1 · 2026-11-23
 
 Pack 1.6.0-alpha · [Recorded mod catalogue](modlist/1.6.0-alpha-2026-11-23-1.md) · [Snapshot](../changelogs/snapshots/1.6.0-alpha-2026-11-23-1.json)

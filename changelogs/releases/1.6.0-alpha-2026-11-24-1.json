@@ -1,0 +1,10 @@
+{
+  "date": "2026-11-24",
+  "id": "1.6.0-alpha-2026-11-24-1",
+  "notes": "﻿System Milady 0.1.0-alpha.15 hotfix and adaptive client crowd renderer.\n\nFixes a re-entrant ConcurrentModificationException in System Milady's paced chunk saver (ChunkSaveQueue.drainTick and drainAll) triggered when saving a chunk caused modded block entities or ChunkDataEvent.Save listeners to mark chunks dirty, which crashed the SMP tick shortly after players joined.\n\nAlso promotes System Milady's multi-tier adaptive client crowd renderer (default AUTO, vanilla-exact until dense crowds load nearby) and removes redundant scratch buffer allocation in SharedSyncPackets.",
+  "previous": "1.6.0-alpha-2026-11-23-1",
+  "schema": "smoothstone.pack_release.v1",
+  "sequence": 28,
+  "snapshot": "changelogs/snapshots/1.6.0-alpha-2026-11-24-1.json",
+  "snapshot_sha256": "fc8f797090bf4d956bd1cd29a3da984d741616a0fa672fd77250439aad01a692"
+}

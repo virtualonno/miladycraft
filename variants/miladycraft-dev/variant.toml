@@ -15,8 +15,7 @@ remove = [
     "mods/simple-discord-link-bot-forge-fabric-spigot.pw.toml",
     # Whitelist plus online-mode already authenticate; no second password login.
     "mods/neoauth.pw.toml",
-    # DEV trials newer local System Milady and zero-native Milady On-Air before SMP promotion.
-    "mods/system-milady.pw.toml",
+    # DEV trials zero-native Milady On-Air before SMP promotion.
     "mods/Milady-On-Air-0.1.0-alpha.1-neoforge-1.21.1-universal.jar",
 ]
 override = [
