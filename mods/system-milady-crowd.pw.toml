@@ -1,8 +1,8 @@
 name = "System Milady synthetic crowd"
-filename = "system_milady_crowd-neoforge-1.21.1-0.1.0-alpha.15.jar"
+filename = "system_milady_crowd-neoforge-1.21.1-0.1.0-alpha.16.jar"
 side = "server"
 
 [download]
-url = "https://github.com/virtualonno/miladycraft/releases/download/system-milady-crowd-0.1.0-alpha.15/system_milady_crowd-neoforge-1.21.1-0.1.0-alpha.15.jar"
+url = "https://github.com/virtualonno/miladycraft/releases/download/system-milady-crowd-0.1.0-alpha.16/system_milady_crowd-neoforge-1.21.1-0.1.0-alpha.16.jar"
 hash-format = "sha512"
-hash = "d56ece41a6c7fc4c9d112cd4957c34b1816bb8be2391c54c13912f387d4b157defd1fad3f6dbc123e397bc671e6f7e4bdc60388dfbba2a6ef2603589382c4a3e"
+hash = "35432c618b37cc3ee0944c4a17f29703951e36ea6eee4882deb5e940ac80f227041f02cb266381dfbdd7a17e771ecf8e95e7dc4a20cc08a90f87646cae7eb212"

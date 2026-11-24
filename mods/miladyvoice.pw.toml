@@ -1,8 +1,8 @@
 name = "MiladyVoice"
-filename = "miladyvoice-neoforge-1.21.1-0.1.0-alpha.2.jar"
+filename = "miladyvoice-neoforge-1.21.1-0.1.0-alpha.3.jar"
 side = "both"
 
 [download]
-url = "https://github.com/virtualonno/miladycraft/releases/download/miladyvoice-0.1.0-alpha.2/miladyvoice-neoforge-1.21.1-0.1.0-alpha.2.jar"
+url = "https://github.com/virtualonno/miladycraft/releases/download/miladyvoice-0.1.0-alpha.3/miladyvoice-neoforge-1.21.1-0.1.0-alpha.3.jar"
 hash-format = "sha512"
-hash = "f7481e01d5e252a9d463d34483fef8822faf776e985cd2048ae7a8198915ed74bb27f65392d544bb1dd84029d4855245b013667e94654d058526aa418ef39d0a"
+hash = "bcd9ecd1ad122dfa577d4d9871b1695db603ab78f34b7103766902edfa02af7aba7e7a74065d0cf6d1fc03f0152e47a1c628bb885769bcecdb9cee8b81e41818"

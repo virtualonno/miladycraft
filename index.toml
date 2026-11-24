@@ -1509,12 +1509,12 @@ metafile = true
 
 [[files]]
 file = "mods/milady-on-air.pw.toml"
-hash = "496b360c80901201a2e7e9931075b3586cb1c87c4f6b6067adef577719d4fed3"
+hash = "822317c5eefb3d992ce67979c75efda71ef2052dfc750558b5094107cc6432c5"
 metafile = true
 
 [[files]]
 file = "mods/miladyvoice.pw.toml"
-hash = "cf82f01dde2d579ea32fa05b2a59cb83dedfe9c12eba83a11db82d285451ff33"
+hash = "b4800a8c57ea97e8e479c329eb8d0b72209dcf67d7f79a7e8ceee17464a87d94"
 metafile = true
 
 [[files]]
@@ -1994,12 +1994,12 @@ metafile = true
 
 [[files]]
 file = "mods/system-milady-crowd.pw.toml"
-hash = "e2bc5a89b501729e7c912c96c06294ff3932c41da1f753bbbaf8ff23c5e3edd9"
+hash = "302dc6f00d559da1046430b49581aa9250641dca73869e0bbba0f371dde6d511"
 metafile = true
 
 [[files]]
 file = "mods/system-milady.pw.toml"
-hash = "b15f1fc9f4ac4e21ef46b36c1354b178ea665d9ec8135d3b76e1f1ffd2aea652"
+hash = "138c34ffe69f2699d66cf0d278b98e61ef747ae9996c22da243e31f02e4c29d3"
 metafile = true
 
 [[files]]
