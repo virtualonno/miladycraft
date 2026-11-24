@@ -1,8 +1,8 @@
 name = "Milady On-Air"
-filename = "milady_on_air-neoforge-1.21.1-0.1.0-alpha.3.jar"
+filename = "milady_on_air-neoforge-1.21.1-0.1.0-alpha.5.jar"
 side = "both"
 
 [download]
-url = "https://github.com/virtualonno/miladycraft/releases/download/milady-on-air-0.1.0-alpha.3/milady_on_air-neoforge-1.21.1-0.1.0-alpha.3.jar"
+url = "https://github.com/virtualonno/miladycraft/releases/download/milady-on-air-0.1.0-alpha.5/milady_on_air-neoforge-1.21.1-0.1.0-alpha.5.jar"
 hash-format = "sha512"
-hash = "5aec1298e9913cea55f94e9f5f97d1f7dcaf3a417f7b8556df34ac1baeee341cbeec2d6f3921b5beb725cb4035df9761979c1cc6a2da1ba80c12d6895ef1f52f"
+hash = "2c96239f833a76257c60ce1dbf16470af4b9ab91e46b4f6cff3a5ef6ca7184942e3bd2e71769a590dc14ccd4a0282d8cdc7abc8fc890bb108b98e87d10c35a12"
