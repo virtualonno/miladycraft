@@ -1991,12 +1991,14 @@ hash = "ac16a3b327930527b268695816a0be285bdb0a384480b231c6fd2ccbe87f401f"
 metafile = true
 
 [[files]]
-file = "mods/system_milady-neoforge-1.21.1-0.1.0-alpha.14.jar"
-hash = "4b96342af99cff1407493b90956ac002c8490e69088b35ed4466240082d44eeb"
+file = "mods/system-milady-crowd.pw.toml"
+hash = "e2bc5a89b501729e7c912c96c06294ff3932c41da1f753bbbaf8ff23c5e3edd9"
+metafile = true
 
 [[files]]
-file = "mods/system_milady_crowd-neoforge-1.21.1-0.1.0-alpha.14.jar"
-hash = "cf6e27de8b59e11b3f3019ed3b72550aeb73a326f69574918728dda9b0334040"
+file = "mods/system-milady.pw.toml"
+hash = "b15f1fc9f4ac4e21ef46b36c1354b178ea665d9ec8135d3b76e1f1ffd2aea652"
+metafile = true
 
 [[files]]
 file = "mods/tacz-1-21-1.pw.toml"
