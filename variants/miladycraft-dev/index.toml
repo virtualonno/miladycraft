@@ -10,12 +10,14 @@ hash = "ffa80ab737db677474192e7f09f6b1daff0276e2e15c375b332feb3015376580"
 metafile = true
 
 [[files]]
-file = "mods/milady_on_air-neoforge-1.21.1-0.1.0-alpha.2.jar"
-hash = "fa3cb88fe5a39ae86a47e10e226ca9d8146118480b6a3caaa7d7f33d99b41f0c"
+file = "mods/milady-on-air.pw.toml"
+hash = "cb3ebe36bcc85d96403c9d69351dd35a51a4fb60fbf38209b5013454387b96bf"
+metafile = true
 
 [[files]]
-file = "mods/miladyvoice-neoforge-1.21.1-0.1.0-alpha.1.jar"
-hash = "3f2e86bda49bc9ca31f7a0ed46deea9ac338e4e0e2a80bff8564edd297d830c5"
+file = "mods/miladyvoice.pw.toml"
+hash = "cf82f01dde2d579ea32fa05b2a59cb83dedfe9c12eba83a11db82d285451ff33"
+metafile = true
 
 [[files]]
 file = "mods/system-milady-crowd.pw.toml"
