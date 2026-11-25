@@ -1,0 +1,38 @@
+# Use Cloth Config mod for the descriptions.
+# Miladycraft DEV: natural snow accumulation and melting are disabled so snow is
+# curated by hand for the snow theme, while manual snow-on-block placement stays on.
+---
+snowGravity: true
+snowMakingIce: true
+snowAlwaysReplaceable: true
+thinnerBoundingBox: true
+snowNeverMelt: true
+snowSpawnMaxLightLevel: 9
+snowPersistMaxLightLevel: 11
+snowReduceFallDamage: true
+snowStepUpMultiplier: 1.0
+snowStepUpMaxIncrease: 1.0
+sustainGrassIfLayerMoreThanOne: true
+sneakSnowball: true
+fancySnowOnUpperSlab: true
+rightClickToggleFancySnow: true
+mobSpawningMaxLayers: 8
+snow-cover:
+  placeSnowOnBlock: true
+  placeNaturally: false
+  replaceWorldgenFeature: false
+  restoreOriginalBlocks: false
+accumulation:
+  accumulatesDuringSnowfall: false
+  accumulatesDuringSnowstorm: false
+  maxLayers: 0
+  snowAndIceMeltInWarmBiomes: false
+  naturalMelting: false
+  smoothAccumulation: true
+  worldGenSnowAndFreezeEverywhere: false
+integration:
+  accumulationWinterOnly: false
+debug:
+  forceVanillaIceSnowLogic: false
+  preventWorldgenLogSpam: true
+  mobSpawningCommand: false

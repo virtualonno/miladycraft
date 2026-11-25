@@ -1,0 +1,13 @@
+name = "Sweaters"
+filename = "Sweaters-1.21-0.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c616ed2c919bd91677eb30bfc03f0e3531a77a0f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5605744
+project-id = 737472

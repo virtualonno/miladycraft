@@ -1,0 +1,13 @@
+name = "Windswept!"
+filename = "windswept-1.21.1-4.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "24bc8f13c8ff8b34655f9b9bfd918291696da16a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9138856
+project-id = 636321

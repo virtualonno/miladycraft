@@ -153,6 +153,14 @@ file = "config/simplebackups-common.toml"
 hash = "b6af8c0adf33584f0e19ec926178ee5d51053ae2014f715716baf9194f6b5bb6"
 
 [[files]]
+file = "config/snowrealmagic-common.yaml"
+hash = "28fb4b1cf84c6740cc4796e6c66b1cefb23ce1735da9e6917b32ac8d1d8a28b8"
+
+[[files]]
+file = "config/snowundertrees-common.toml"
+hash = "31babd40a473f0894c591d4d5a45a8115de9914dd9a45a899370789aa2027179"
+
+[[files]]
 file = "config/structureessentials.json"
 hash = "6e676d82bde12f7e98a7fdc57adaa5ea8079d4656d7082cfe74442b387169ad4"
 
@@ -655,6 +663,11 @@ metafile = true
 [[files]]
 file = "mods/better-compatibility-checker.pw.toml"
 hash = "55fe1f1a0b72abf4b697b3e0d8f5449e590bb519d26a29e6eeac049161003a34"
+metafile = true
+
+[[files]]
+file = "mods/better-snowy-leaves.pw.toml"
+hash = "1361094e980215d91bafee38975c39b16ff819df36575ae0676b600f38678d6f"
 metafile = true
 
 [[files]]
@@ -1483,6 +1496,16 @@ hash = "ff152357ebb175e8e8c58ecda4f9814d398c5668f3311b0ad6a4afcb1dc26d13"
 metafile = true
 
 [[files]]
+file = "mods/macaws-holidays.pw.toml"
+hash = "8acade436959fe60ecc938e9474eaf07935ac842f86137f5e37c39a50c193cad"
+metafile = true
+
+[[files]]
+file = "mods/mannequins.pw.toml"
+hash = "5a3e6b325dc1e6f91b067e68d0cf257ac997cf257eaaa9bfe58860d2b7a2591a"
+metafile = true
+
+[[files]]
 file = "mods/max-health-fix.pw.toml"
 hash = "70db2eec093dadc990fe5862f9c3fe59a0d0de53542872eaccb5dc7f54be5fb1"
 metafile = true
@@ -1518,6 +1541,11 @@ hash = "b4800a8c57ea97e8e479c329eb8d0b72209dcf67d7f79a7e8ceee17464a87d94"
 metafile = true
 
 [[files]]
+file = "mods/minevegas-casino.pw.toml"
+hash = "c490c91b6b50e2cd4c3bf7496c515e37a5e56eb746bdca36bb862665bed863e3"
+metafile = true
+
+[[files]]
 file = "mods/misc-tweaks.pw.toml"
 hash = "4775390496a852f1bb9829e52166ec81c4c9cff8f753ee9eafb24bc1cb090a4f"
 metafile = true
@@ -1544,7 +1572,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonedit.pw.toml"
-hash = "a29ba3d2d6a2f329cfbce79d4f706e02f274da2e484ff08ed16cef63b2b60a28"
+hash = "48ce1b69b4b4f83de452fe29690a645f40377fd5dfe24a2a70dc7d43d081eb87"
 metafile = true
 
 [[files]]
@@ -1853,6 +1881,16 @@ hash = "6c0fac550bb053ee2728144a28819835823dcc6d04ad7897750431fe55100e53"
 metafile = true
 
 [[files]]
+file = "mods/seasonal-decorations.pw.toml"
+hash = "d7f3948b9a4c964d689d964059e19409e1dcaab05a60c629d60c5e90d5644a7b"
+metafile = true
+
+[[files]]
+file = "mods/seasons-greetings.pw.toml"
+hash = "a6d64aff67216764e24107d0daaed4a094abc9ff2f6d5da60bcdc3cd958846b9"
+metafile = true
+
+[[files]]
 file = "mods/selene.pw.toml"
 hash = "434fbe116618b5b950edcefd05e33f33831b8fa40f47a0970e394f81c3c4c197"
 metafile = true
@@ -1913,8 +1951,18 @@ hash = "36b8d98dbb476927786adb571d8d9df830d16a624be85e8c7f82eafd16e43ede"
 metafile = true
 
 [[files]]
+file = "mods/snow-real-magic.pw.toml"
+hash = "d94cd6666a307178d81546a3cdf5f165d52bd4b1801ba5a232b50d17aa37c698"
+metafile = true
+
+[[files]]
 file = "mods/snow-under-trees.pw.toml"
 hash = "47c46327364e22244eddf4e3ce8d0bd88ebf8f561d8511e76b0f0e5aeb8419a4"
+metafile = true
+
+[[files]]
+file = "mods/snowy-spirit.pw.toml"
+hash = "ae7042e597d3a09c9414c48601d341e31a0d13ce46d2a7396c6931e1d6088ae1"
 metafile = true
 
 [[files]]
@@ -1990,6 +2038,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "ac16a3b327930527b268695816a0be285bdb0a384480b231c6fd2ccbe87f401f"
+metafile = true
+
+[[files]]
+file = "mods/sweaters.pw.toml"
+hash = "5fa2b40df410fde38fde4ac8ce4f5fd77ef3dd0a06b433b385f1a78e4d8473f3"
 metafile = true
 
 [[files]]
@@ -2125,6 +2178,21 @@ metafile = true
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
 hash = "666de5e89e4537b9b758d642952efbd67c25d9d3a88a6ebd481962508851d001"
+metafile = true
+
+[[files]]
+file = "mods/windswept-integration.pw.toml"
+hash = "dea89ff3d2e8aa1e2d6a0c4e2a4d8acc4fa54644e65e8bdff5ab6b7b4048d48f"
+metafile = true
+
+[[files]]
+file = "mods/windsweptmod.pw.toml"
+hash = "1c82d41a1abc2eb5ae0ae74004c0f1af49bcd0a8c73ddf9080d170db142f364e"
+metafile = true
+
+[[files]]
+file = "mods/winterly.pw.toml"
+hash = "34c79089355f9961e53fd7db06f106f03a077ec62605b0d61d0e686ab4c6e289"
 metafile = true
 
 [[files]]

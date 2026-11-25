@@ -1,0 +1,13 @@
+name = "Windswept Integration"
+filename = "windswept_integration-1.21.1-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6710acc36016e660cd893fe630a404c89eff7297"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9155921
+project-id = 1343980
